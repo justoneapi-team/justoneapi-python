@@ -1,520 +1,428 @@
 {
-  "_fetchedAt": "2026-09-08T03:56:02.789791+08:00",
-  "_sourceCheckedAt": "2026-09-08T03:00:21",
+  "_fetchedAt": "2026-09-08T04:00:59.697672+08:00",
+  "_sourceCheckedAt": "2026-09-08T04:00:38",
   "code": 0,
   "message": null,
   "data": {
-    "all_sort_strategies": [],
     "comment_count": 937,
     "comment_count_l1": 795,
     "comments": [
       {
-        "at_users": [],
-        "biz_label": {
-          "group_invite": "unknown",
-          "product_review": false,
-          "rich_text": "unknown"
-        },
-        "collected": false,
-        "comment_type": 0,
-        "content": "唔系应该叫美斯咩",
-        "downvoted": false,
-        "friend_liked_msg": "",
-        "hidden": false,
-        "id": "65bf56d3000000000803f4ec",
-        "like_count": 397,
-        "liked": false,
-        "note_id": "65bf5360000000002c03f684",
-        "score": 0,
-        "share_strategy": 0,
-        "show_tags": [],
-        "show_tags_v2": [],
-        "show_type": "common",
-        "status": 0,
         "sub_comment_count": 37,
-        "sub_comments": [],
-        "time": 1707038419,
-        "track_id": "interaction-service.local",
         "translation_strategy": 10,
+        "downvoted": false,
+        "share_strategy": 0,
+        "id": "65bf56d3000000000803f4ec",
+        "note_id": "65bf5360000000002c03f684",
+        "sub_comments": [],
         "user": {
-          "additional_tags": {},
           "ai_agent": false,
-          "current_user": "false",
-          "images": "https://sns-avatar-qc-ae.rednotecdn.com/avatar/1040g2jo30rmoae6j2g5g5o6poeg08lrqd2p83no?imageView2/2/w/120/format/jpg",
-          "level": {
-            "image": ""
-          },
+          "userid": "a5c7ddac47f1c1d8927d630bf68c0",
           "nickname": "豪",
+          "images": "https://sns-avatar-qc-ae.rednotecdn.com/avatar/1040g2jo30rmoae6j2g5g5o6poeg08lrqd2p83no?imageView2/2/w/120/format/jpg",
           "red_id": "9530496503",
-          "userid": "a5c7ddac47f1c1d8927d630bf68c0"
-        }
-      },
-      {
-        "at_users": [],
-        "biz_label": {
-          "group_invite": "unknown",
-          "product_review": false,
-          "rich_text": "unknown"
-        },
-        "collected": false,
-        "comment_type": 0,
-        "content": "梅西是用自己的职业生涯做了一个错误的决定，",
-        "downvoted": false,
-        "friend_liked_msg": "",
-        "hidden": false,
-        "id": "65c4c1ad000000000803082c",
-        "like_count": 16,
-        "liked": false,
-        "note_id": "65bf5360000000002c03f684",
-        "score": 0,
-        "share_strategy": 0,
-        "show_tags": [],
-        "show_tags_v2": [],
-        "show_type": "common",
-        "status": 0,
-        "sub_comment_count": 3,
-        "sub_comments": [],
-        "time": 1707393453,
-        "track_id": "interaction-service.local",
-        "translation_strategy": 10,
-        "user": {
-          "additional_tags": {},
-          "ai_agent": false,
-          "current_user": "false",
-          "images": "https://sns-avatar-qc-ae.rednotecdn.com/avatar/1040g2jo31nd7raq14u6g4a1kst4quirrpj8b19g?imageView2/2/w/120/format/jpg",
           "level": {
             "image": ""
           },
-          "nickname": "街溜子的一天",
-          "red_id": "264681498",
-          "userid": "a8fdce40947674d583b64644ecab2"
-        }
+          "current_user": "false",
+          "additional_tags": {}
+        },
+        "show_tags": [],
+        "track_id": "interaction-service.local",
+        "collected": false,
+        "score": 0,
+        "status": 0,
+        "time": 1707038419,
+        "show_type": "common",
+        "comment_type": 0,
+        "biz_label": {
+          "rich_text": "unknown",
+          "product_review": false,
+          "group_invite": "unknown"
+        },
+        "at_users": [],
+        "like_count": 397,
+        "friend_liked_msg": "",
+        "show_tags_v2": [],
+        "content": "唔系应该叫美斯咩",
+        "liked": false,
+        "hidden": false
       },
       {
-        "at_users": [],
-        "biz_label": {
-          "group_invite": "unknown",
-          "product_review": false,
-          "rich_text": "unknown"
-        },
-        "collected": false,
-        "comment_type": 0,
+        "show_tags": [],
+        "friend_liked_msg": "",
+        "downvoted": false,
+        "share_strategy": 0,
+        "note_id": "65bf5360000000002c03f684",
         "content": "热脸去贴冷屁股",
-        "downvoted": false,
-        "friend_liked_msg": "",
-        "hidden": false,
-        "id": "65c3402d000000001100b4c5",
-        "like_count": 180,
-        "liked": false,
-        "note_id": "65bf5360000000002c03f684",
-        "score": 0,
-        "share_strategy": 0,
-        "show_tags": [],
-        "show_tags_v2": [],
-        "show_type": "common",
-        "status": 0,
-        "sub_comment_count": 11,
         "sub_comments": [],
-        "time": 1707294765,
-        "track_id": "interaction-service.local",
-        "translation_strategy": 10,
         "user": {
-          "additional_tags": {},
-          "ai_agent": false,
-          "current_user": "false",
+          "nickname": "天子星",
           "images": "https://sns-avatar-qc-ae.rednotecdn.com/avatar/5fe7491b000000000101cdb1.jpg?imageView2/2/w/120/format/jpg",
+          "red_id": "1024061100",
           "level": {
             "image": ""
           },
-          "nickname": "天子星",
-          "red_id": "1024061100",
-          "userid": "a0ef46917cf076ca398ea0b84d96f"
-        }
-      },
-      {
+          "additional_tags": {},
+          "ai_agent": false,
+          "userid": "a0ef46917cf076ca398ea0b84d96f",
+          "current_user": "false"
+        },
+        "id": "65c3402d000000001100b4c5",
         "at_users": [],
+        "track_id": "interaction-service.local",
+        "show_tags_v2": [],
         "biz_label": {
-          "group_invite": "unknown",
           "product_review": false,
+          "group_invite": "unknown",
           "rich_text": "unknown"
         },
+        "translation_strategy": 10,
         "collected": false,
-        "comment_type": 0,
-        "content": "无论发生什么 我永远支持梅西[飞吻R]",
-        "downvoted": false,
-        "friend_liked_msg": "",
-        "hidden": false,
-        "id": "65c367d6000000001003fa1d",
-        "like_count": 15,
         "liked": false,
-        "note_id": "65bf5360000000002c03f684",
         "score": 0,
-        "share_strategy": 0,
-        "show_tags": [],
-        "show_tags_v2": [],
+        "status": 0,
         "show_type": "common",
+        "comment_type": 0,
+        "like_count": 180,
+        "hidden": false,
+        "sub_comment_count": 11,
+        "time": 1707294765
+      },
+      {
+        "score": 0,
+        "status": 0,
+        "user": {
+          "userid": "af1518b68b907422f5fe08e6f827f",
+          "nickname": "Chrissy",
+          "images": "https://sns-avatar-qc-ae.rednotecdn.com/avatar/65479c450d66265ee06a13ce.jpg?imageView2/2/w/120/format/jpg",
+          "red_id": "4908161224",
+          "level": {
+            "image": ""
+          },
+          "additional_tags": {},
+          "ai_agent": false,
+          "current_user": "false"
+        },
+        "show_tags": [],
+        "friend_liked_msg": "",
+        "show_tags_v2": [],
+        "collected": false,
+        "share_strategy": 0,
+        "at_users": [],
+        "sub_comment_count": 2,
+        "track_id": "interaction-service.local",
+        "biz_label": {
+          "product_review": false,
+          "group_invite": "unknown",
+          "rich_text": "unknown"
+        },
+        "translation_strategy": 10,
+        "note_id": "65bf5360000000002c03f684",
+        "content": "唐詩詠，你咁開心,Messy 入咗幾球呀？",
+        "hidden": false,
+        "sub_comments": [],
+        "show_type": "common",
+        "comment_type": 0,
+        "id": "65c10c6e000000001101304f",
+        "like_count": 2,
+        "liked": false,
+        "time": 1707150446,
+        "downvoted": false
+      },
+      {
+        "id": "65bf71a400000000090179e5",
+        "score": 0,
+        "show_tags": [],
+        "show_type": "common",
+        "track_id": "interaction-service.local",
+        "friend_liked_msg": "",
+        "show_tags_v2": [],
+        "collected": false,
+        "note_id": "65bf5360000000002c03f684",
+        "liked": false,
         "status": 0,
         "sub_comment_count": 7,
-        "sub_comments": [],
-        "time": 1707304918,
-        "track_id": "interaction-service.local",
-        "translation_strategy": 10,
+        "time": 1707045284,
         "user": {
           "additional_tags": {},
+          "userid": "adb32b96f3e28c28051e00a9659b8",
+          "nickname": "鄺生",
+          "images": "https://sns-avatar-qc-ae.rednotecdn.com/avatar/5d75932f5f3a8a0001a2f529.jpg?imageView2/2/w/120/format/jpg",
           "ai_agent": false,
           "current_user": "false",
+          "red_id": "986021912",
+          "level": {
+            "image": ""
+          }
+        },
+        "comment_type": 0,
+        "share_strategy": 0,
+        "content": "香港译音应该叫美斯吧",
+        "at_users": [],
+        "hidden": false,
+        "biz_label": {
+          "product_review": false,
+          "group_invite": "unknown",
+          "rich_text": "unknown"
+        },
+        "downvoted": false,
+        "like_count": 48,
+        "sub_comments": [],
+        "translation_strategy": 10
+      },
+      {
+        "time": 1707304918,
+        "show_type": "common",
+        "comment_type": 0,
+        "share_strategy": 0,
+        "show_tags": [],
+        "id": "65c367d6000000001003fa1d",
+        "note_id": "65bf5360000000002c03f684",
+        "content": "无论发生什么 我永远支持梅西[飞吻R]",
+        "at_users": [],
+        "liked": false,
+        "score": 0,
+        "show_tags_v2": [],
+        "like_count": 15,
+        "status": 0,
+        "sub_comments": [],
+        "friend_liked_msg": "",
+        "biz_label": {
+          "product_review": false,
+          "group_invite": "unknown",
+          "rich_text": "unknown"
+        },
+        "translation_strategy": 10,
+        "downvoted": false,
+        "collected": false,
+        "user": {
+          "ai_agent": false,
+          "current_user": "false",
+          "nickname": "不做题家",
+          "userid": "ab7dd9f0d19083d90561e732b2531",
           "images": "https://sns-avatar-qc-ae.rednotecdn.com/avatar/1040g2jo31occgdromml049resmrkdjdn7duv0no?imageView2/2/w/120/format/jpg",
+          "red_id": "941974844",
           "level": {
             "image": ""
           },
-          "nickname": "不做题家",
-          "red_id": "941974844",
-          "userid": "ab7dd9f0d19083d90561e732b2531"
-        }
+          "additional_tags": {}
+        },
+        "hidden": false,
+        "sub_comment_count": 7,
+        "track_id": "interaction-service.local"
       },
       {
-        "at_users": [],
-        "biz_label": {
-          "group_invite": "unknown",
-          "product_review": false,
-          "rich_text": "unknown"
-        },
-        "collected": false,
-        "comment_type": 2,
-        "content": "[飞吻R]",
-        "downvoted": false,
-        "friend_liked_msg": "",
-        "hidden": false,
-        "id": "65c19952000000001003eacb",
-        "like_count": 0,
-        "liked": false,
-        "media_source_type": 0,
         "note_id": "65bf5360000000002c03f684",
-        "pictures": [
-          {
-            "box_h": 160,
-            "box_w": 120,
-            "file_id": "",
-            "height": 1440,
-            "meme_package": {
-              "height": 1080,
-              "image_url": "http://sns-img-qc.xhscdn.com/comment/1040g2h030uqo35005c0g5nv5k28g92dl8r290u8?imageView2/2/h/1080/format/webp",
-              "width": 804
-            },
-            "origin_url": "http://sns-img-qc.xhscdn.com/comment/1040g2h030uqo35005c0g5nv5k28g92dl8r290u8",
-            "url": "http://sns-img-qc.xhscdn.com/comment/1040g2h030uqo35005c0g5nv5k28g92dl8r290u8?imageView2/2/w/360/format/webp",
-            "width": 1072
-          }
-        ],
-        "score": 0,
-        "share_strategy": 0,
-        "show_tags": [],
+        "status": 0,
+        "time": 1707393453,
+        "comment_type": 0,
+        "track_id": "interaction-service.local",
         "show_tags_v2": [],
-        "show_type": "common",
-        "status": 3,
+        "downvoted": false,
+        "score": 0,
+        "user": {
+          "level": {
+            "image": ""
+          },
+          "current_user": "false",
+          "userid": "a8fdce40947674d583b64644ecab2",
+          "additional_tags": {},
+          "ai_agent": false,
+          "nickname": "街溜子的一天",
+          "images": "https://sns-avatar-qc-ae.rednotecdn.com/avatar/1040g2jo31nd7raq14u6g4a1kst4quirrpj8b19g?imageView2/2/w/120/format/jpg",
+          "red_id": "264681498"
+        },
+        "friend_liked_msg": "",
+        "translation_strategy": 10,
+        "collected": false,
+        "share_strategy": 0,
+        "id": "65c4c1ad000000000803082c",
+        "like_count": 16,
         "sub_comment_count": 3,
         "sub_comments": [],
-        "time": 1707186516,
-        "track_id": "interaction-service.local",
-        "translation_strategy": 10,
-        "user": {
-          "additional_tags": {},
-          "ai_agent": false,
-          "current_user": "false",
-          "images": "https://sns-avatar-qc-ae.rednotecdn.com/avatar/1040g2jo31ctn4rhj0u005nv5k28g92dl1o2kt5o?imageView2/2/w/120/format/jpg",
-          "level": {
-            "image": ""
-          },
-          "nickname": "溪里湖鱼鱼缸定制",
-          "red_id": "w170123596",
-          "userid": "a71852dfa33debd081d260962090e"
+        "content": "梅西是用自己的职业生涯做了一个错误的决定，",
+        "at_users": [],
+        "liked": false,
+        "hidden": false,
+        "show_tags": [],
+        "show_type": "common",
+        "biz_label": {
+          "group_invite": "unknown",
+          "rich_text": "unknown",
+          "product_review": false
         }
       },
       {
-        "at_users": [],
-        "biz_label": {
-          "group_invite": "unknown",
-          "product_review": false,
-          "rich_text": "unknown"
-        },
-        "collected": false,
-        "comment_type": 2,
-        "content": "[捂脸R]",
-        "downvoted": false,
-        "friend_liked_msg": "",
-        "hidden": false,
-        "id": "65c5041a00000000080313e3",
-        "like_count": 6,
-        "liked": false,
-        "media_source_type": 0,
-        "note_id": "65bf5360000000002c03f684",
-        "pictures": [
-          {
-            "box_h": 160,
-            "box_w": 120,
-            "file_id": "",
-            "height": 1152,
-            "origin_url": "http://sns-img-qc.xhscdn.com/comment/1040g2h030uu2mc0a5i5g5om95mk0gbqssks92cg",
-            "url": "http://sns-img-qc.xhscdn.com/comment/1040g2h030uu2mc0a5i5g5om95mk0gbqssks92cg?imageView2/2/w/360/format/webp",
-            "width": 720
-          }
-        ],
-        "score": 0,
-        "share_strategy": 0,
-        "show_tags": [],
-        "show_tags_v2": [],
-        "show_type": "common",
-        "status": 0,
-        "sub_comment_count": 2,
-        "sub_comments": [],
-        "time": 1707410459,
-        "track_id": "interaction-service.local",
-        "translation_strategy": 10,
-        "user": {
-          "additional_tags": {},
-          "ai_agent": false,
-          "current_user": "false",
-          "images": "https://sns-avatar-qc-ae.rednotecdn.com/avatar/1040g2jo31m39ghuk52b05om95mk0gbqsmbhvij8?imageView2/2/w/120/format/jpg",
-          "level": {
-            "image": ""
-          },
-          "nickname": "Graypupile",
-          "red_id": "6228839004",
-          "userid": "ab004cca395b9df3f20ace803ed66"
-        }
-      },
-      {
-        "at_users": [],
-        "biz_label": {
-          "group_invite": "unknown",
-          "product_review": false,
-          "rich_text": "unknown"
-        },
-        "collected": false,
-        "comment_type": 0,
-        "content": "15年巴萨中国行，梅西也是没上，转身去日本就上了。他不是第一次干这事，只是有些人忘了，汶川地震的时候C罗带头捐款100万欧元和球衣拍卖所得，梅西却说地震和足球无关，第二年日本地震，他带头捐300万欧元，3月还来杭州之行……[弱R]（看到这个评论就想复制转发，让更多人知道，怪生气的[生气R]）",
-        "downvoted": false,
-        "friend_liked_msg": "",
-        "hidden": false,
-        "id": "65c4f627000000000803040c",
-        "like_count": 60,
-        "liked": false,
-        "note_id": "65bf5360000000002c03f684",
-        "score": 0,
-        "share_strategy": 0,
-        "show_tags": [],
-        "show_tags_v2": [],
-        "show_type": "common",
-        "status": 0,
         "sub_comment_count": 4,
+        "at_users": [],
+        "liked": false,
+        "status": 0,
         "sub_comments": [],
         "time": 1707406888,
-        "track_id": "interaction-service.local",
-        "translation_strategy": 10,
+        "show_type": "common",
+        "friend_liked_msg": "",
+        "biz_label": {
+          "rich_text": "unknown",
+          "product_review": false,
+          "group_invite": "unknown"
+        },
+        "content": "15年巴萨中国行，梅西也是没上，转身去日本就上了。他不是第一次干这事，只是有些人忘了，汶川地震的时候C罗带头捐款100万欧元和球衣拍卖所得，梅西却说地震和足球无关，第二年日本地震，他带头捐300万欧元，3月还来杭州之行……[弱R]（看到这个评论就想复制转发，让更多人知道，怪生气的[生气R]）",
+        "score": 0,
         "user": {
-          "additional_tags": {},
+          "userid": "a089932c911eca764416a13394a31",
+          "red_id": "0905211z",
           "ai_agent": false,
           "current_user": "false",
+          "nickname": "Stint on",
           "images": "https://sns-avatar-qc-ae.rednotecdn.com/avatar/1040g2jo320r91cb7ls5g5o387h4gbut7lvmmhso?imageView2/2/w/120/format/jpg",
           "level": {
             "image": ""
           },
-          "nickname": "Stint on",
-          "red_id": "0905211z",
-          "userid": "a089932c911eca764416a13394a31"
-        }
+          "additional_tags": {}
+        },
+        "comment_type": 0,
+        "track_id": "interaction-service.local",
+        "show_tags_v2": [],
+        "translation_strategy": 10,
+        "downvoted": false,
+        "id": "65c4f627000000000803040c",
+        "note_id": "65bf5360000000002c03f684",
+        "show_tags": [],
+        "collected": false,
+        "share_strategy": 0,
+        "like_count": 60,
+        "hidden": false
       },
       {
-        "at_users": [],
+        "note_id": "65bf5360000000002c03f684",
+        "content": "香港政府为了这个活动还补贴了1500万和赞助100万的场地费，结果梅西没上场，观众很愤怒，政府很恼火。",
+        "time": 1707099692,
+        "user": {
+          "current_user": "false",
+          "images": "https://sns-avatar-qc-ae.rednotecdn.com/avatar/1040g2jo31nappkrl5i004a6obm6ru016fte83s0?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "userid": "a75e5375e0135e174874ee41984e7",
+          "nickname": "SOUTH AFRICA",
+          "red_id": "20220921TR",
+          "level": {
+            "image": ""
+          },
+          "additional_tags": {}
+        },
+        "friend_liked_msg": "",
+        "show_tags_v2": [],
+        "downvoted": false,
+        "share_strategy": 0,
+        "liked": false,
+        "comment_type": 0,
         "biz_label": {
-          "group_invite": "unknown",
           "product_review": false,
+          "group_invite": "unknown",
           "rich_text": "unknown"
         },
-        "collected": false,
-        "comment_type": 0,
-        "content": "香港译音应该叫美斯吧",
-        "downvoted": false,
-        "friend_liked_msg": "",
+        "id": "65c0462c0000000007006ade",
+        "at_users": [],
+        "like_count": 1120,
+        "sub_comment_count": 6,
+        "sub_comments": [],
+        "show_type": "common",
+        "translation_strategy": 10,
         "hidden": false,
-        "id": "65bf71a400000000090179e5",
+        "score": 0,
+        "status": 0,
+        "show_tags": [],
+        "track_id": "interaction-service.local",
+        "collected": false
+      },
+      {
+        "id": "65c496eb000000001100ab45",
+        "at_users": [],
+        "hidden": false,
+        "score": 0,
+        "show_type": "common",
+        "track_id": "interaction-service.local",
+        "friend_liked_msg": "",
+        "share_strategy": 0,
+        "liked": false,
+        "sub_comment_count": 2,
+        "time": 1707382507,
+        "user": {
+          "red_id": "1036087863",
+          "level": {
+            "image": ""
+          },
+          "ai_agent": false,
+          "userid": "aa519db16f699c7c1aa94ec007b40",
+          "nickname": "MingD",
+          "additional_tags": {},
+          "current_user": "false",
+          "images": "https://sns-avatar-qc-ae.rednotecdn.com/avatar/5fbf34ce0000000001005c2c.jpg?imageView2/2/w/120/format/jpg"
+        },
+        "translation_strategy": 10,
+        "downvoted": false,
         "like_count": 48,
-        "liked": false,
-        "note_id": "65bf5360000000002c03f684",
-        "score": 0,
-        "share_strategy": 0,
-        "show_tags": [],
-        "show_tags_v2": [],
-        "show_type": "common",
-        "status": 0,
-        "sub_comment_count": 7,
         "sub_comments": [],
-        "time": 1707045284,
-        "track_id": "interaction-service.local",
-        "translation_strategy": 10,
-        "user": {
-          "additional_tags": {},
-          "ai_agent": false,
-          "current_user": "false",
-          "images": "https://sns-avatar-qc-ae.rednotecdn.com/avatar/5d75932f5f3a8a0001a2f529.jpg?imageView2/2/w/120/format/jpg",
-          "level": {
-            "image": ""
-          },
-          "nickname": "鄺生",
-          "red_id": "986021912",
-          "userid": "adb32b96f3e28c28051e00a9659b8"
+        "show_tags": [],
+        "comment_type": 0,
+        "show_tags_v2": [],
+        "collected": false,
+        "note_id": "65bf5360000000002c03f684",
+        "content": "哈哈哈哈梅桑，故乡的樱花🌸开了..",
+        "status": 0,
+        "biz_label": {
+          "product_review": false,
+          "group_invite": "unknown",
+          "rich_text": "unknown"
         }
       },
       {
-        "at_users": [],
-        "biz_label": {
-          "group_invite": "unknown",
-          "product_review": false,
-          "rich_text": "unknown"
-        },
-        "collected": false,
-        "comment_type": 0,
-        "content": "唐詩詠，你咁開心,Messy 入咗幾球呀？",
-        "downvoted": false,
-        "friend_liked_msg": "",
-        "hidden": false,
-        "id": "65c10c6e000000001101304f",
-        "like_count": 2,
-        "liked": false,
-        "note_id": "65bf5360000000002c03f684",
         "score": 0,
-        "share_strategy": 0,
-        "show_tags": [],
-        "show_tags_v2": [],
-        "show_type": "common",
-        "status": 0,
-        "sub_comment_count": 2,
-        "sub_comments": [],
-        "time": 1707150446,
-        "track_id": "interaction-service.local",
-        "translation_strategy": 10,
-        "user": {
-          "additional_tags": {},
-          "ai_agent": false,
-          "current_user": "false",
-          "images": "https://sns-avatar-qc-ae.rednotecdn.com/avatar/65479c450d66265ee06a13ce.jpg?imageView2/2/w/120/format/jpg",
-          "level": {
-            "image": ""
-          },
-          "nickname": "Chrissy",
-          "red_id": "4908161224",
-          "userid": "af1518b68b907422f5fe08e6f827f"
-        }
-      },
-      {
-        "at_users": [],
-        "biz_label": {
-          "group_invite": "unknown",
-          "product_review": false,
-          "rich_text": "unknown"
-        },
-        "collected": false,
-        "comment_type": 0,
-        "content": "我真的想说都是跟风的吧真正看得懂足球的有几个啊，好多明星网红都在晒，她们真的能看懂足球吗",
-        "downvoted": false,
-        "friend_liked_msg": "",
-        "hidden": false,
-        "id": "65c41ba7000000001003eeb3",
-        "like_count": 6,
-        "liked": false,
-        "note_id": "65bf5360000000002c03f684",
-        "score": 0,
-        "share_strategy": 0,
-        "show_tags": [],
-        "show_tags_v2": [],
-        "show_type": "common",
-        "status": 0,
-        "sub_comment_count": 2,
-        "sub_comments": [],
         "time": 1707350951,
+        "friend_liked_msg": "",
+        "downvoted": false,
+        "id": "65c41ba7000000001003eeb3",
+        "content": "我真的想说都是跟风的吧真正看得懂足球的有几个啊，好多明星网红都在晒，她们真的能看懂足球吗",
+        "at_users": [],
+        "like_count": 6,
+        "status": 0,
+        "show_type": "common",
         "track_id": "interaction-service.local",
-        "translation_strategy": 10,
+        "collected": false,
+        "liked": false,
+        "comment_type": 0,
+        "show_tags_v2": [],
+        "share_strategy": 0,
+        "note_id": "65bf5360000000002c03f684",
+        "hidden": false,
+        "sub_comment_count": 2,
+        "sub_comments": [],
         "user": {
-          "additional_tags": {},
-          "ai_agent": false,
           "current_user": "false",
+          "red_id": "110306829",
+          "userid": "a5c96cf0e400a72c66644618dd060",
+          "nickname": "哦阿卡",
           "images": "https://sns-avatar-qc-ae.rednotecdn.com/avatar/1040g2jo31kpf3ogmj40048uag43cfotbbd6gq68?imageView2/2/w/120/format/jpg",
           "level": {
             "image": ""
           },
-          "nickname": "哦阿卡",
-          "red_id": "110306829",
-          "userid": "a5c96cf0e400a72c66644618dd060"
-        }
+          "additional_tags": {},
+          "ai_agent": false
+        },
+        "show_tags": [],
+        "biz_label": {
+          "product_review": false,
+          "group_invite": "unknown",
+          "rich_text": "unknown"
+        },
+        "translation_strategy": 10
       }
     ],
-    "comments_red2profile": [
-      {
-        "origin_user_id": "",
-        "redid": "9530496503",
-        "status": "no_records",
-        "user_id": "a5c7ddac47f1c1d8927d630bf68c0"
-      },
-      {
-        "origin_user_id": "5a8cc9af11be10326efe4b7b",
-        "redid": "264681498",
-        "status": "ok",
-        "user_id": "a8fdce40947674d583b64644ecab2"
-      },
-      {
-        "origin_user_id": "5fe7491b000000000101cdb1",
-        "redid": "1024061100",
-        "status": "ok",
-        "user_id": "a0ef46917cf076ca398ea0b84d96f"
-      },
-      {
-        "origin_user_id": "59cbb74620e88f043f3ccdb7",
-        "redid": "941974844",
-        "status": "ok",
-        "user_id": "ab7dd9f0d19083d90561e732b2531"
-      },
-      {
-        "origin_user_id": "5fe5a09100000000010089b5",
-        "redid": "w170123596",
-        "status": "ok",
-        "user_id": "a71852dfa33debd081d260962090e"
-      },
-      {
-        "origin_user_id": "62c92da80000000002002f5c",
-        "redid": "6228839004",
-        "status": "ok",
-        "user_id": "ab004cca395b9df3f20ace803ed66"
-      },
-      {
-        "origin_user_id": "60683c49000000000101fba7",
-        "redid": "0905211z",
-        "status": "ok",
-        "user_id": "a089932c911eca764416a13394a31"
-      },
-      {
-        "origin_user_id": "5d710b35000000000100a48d",
-        "redid": "986021912",
-        "status": "ok",
-        "user_id": "adb32b96f3e28c28051e00a9659b8"
-      },
-      {
-        "origin_user_id": "617c979b0000000002020dfd",
-        "redid": "4908161224",
-        "status": "ok",
-        "user_id": "af1518b68b907422f5fe08e6f827f"
-      },
-      {
-        "origin_user_id": "583fc6c75e87e74a2f0de3ab",
-        "redid": "110306829",
-        "status": "ok",
-        "user_id": "a5c96cf0e400a72c66644618dd060"
-      }
-    ],
+    "cursor": "{\"cursor\":\"65c41ba7000000001003eeb3\",\"index\":2,\"pageArea\":\"ALL\"}",
+    "page_context": "",
     "current_sort_strategy": "default",
-    "cursor": "{\"contextId\":\"80ae4c56e4d843c2aee789a1577bbf1e\",\"cursor\":\"65c41ba7000000001003eeb3\",\"index\":2,\"pageArea\":\"ALL\"}",
     "has_more": true,
-    "page_context": "{\"exposed_l1_ids\":\"65bf56d3000000000803f4ec,65c4c1ad000000000803082c,65c3402d000000001100b4c5,65c367d6000000001003fa1d,65c19952000000001003eacb,65c5041a00000000080313e3,65c4f627000000000803040c,65bf71a400000000090179e5,65c10c6e000000001101304f,65c41ba7000000001003eeb3\"}",
-    "page_cursor_token": "{\"contextId\":\"80ae4c56e4d843c2aee789a1577bbf1e\",\"cursor\":\"65c41ba7000000001003eeb3\",\"index\":2,\"pageArea\":\"ALL\"}",
+    "all_sort_strategies": [],
     "user_id": "61e0f15300000000210253a5"
   },
   "recordTime": null

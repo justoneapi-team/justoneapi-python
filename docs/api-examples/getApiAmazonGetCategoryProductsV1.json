@@ -1,10 +1,10 @@
 {
-  "_fetchedAt": "2026-09-08T03:55:10.845666+08:00",
-  "_sourceCheckedAt": "2026-09-08T03:00:00",
+  "_fetchedAt": "2026-09-08T04:00:07.682776+08:00",
+  "_sourceCheckedAt": "2026-09-08T04:00:00",
   "code": 0,
   "message": null,
   "data": {
-    "total_products": 80851,
+    "total_products": 86208,
     "country": "US",
     "domain": "www.amazon.com",
     "products": [
@@ -15,18 +15,19 @@
         "product_original_price": "$249.00",
         "currency": "USD",
         "product_star_rating": "4.4",
-        "product_num_ratings": 14814,
+        "product_num_ratings": 14815,
         "product_url": "https://www.amazon.com/dp/B0FQFB8FMG",
         "product_photo": "https://m.media-amazon.com/images/I/61solmQSSlL._AC_UL960_QL65_.jpg",
         "product_num_offers": 7,
         "product_minimum_offer_price": "$183.44",
-        "is_best_seller": false,
+        "is_best_seller": true,
         "is_amazon_choice": false,
         "is_prime": true,
         "climate_pledge_friendly": false,
         "sales_volume": "10K+ bought in past month",
         "delivery": "Join Prime to get FREE delivery Wed, Sep 9Or Non-members get FREE delivery Sat, Sep 12",
-        "has_variations": false
+        "has_variations": false,
+        "product_badge": "Best Seller"
       },
       {
         "asin": "B07RZ3LSHM",
@@ -35,7 +36,7 @@
         "product_original_price": null,
         "currency": "USD",
         "product_star_rating": "4.3",
-        "product_num_ratings": 10114,
+        "product_num_ratings": 10115,
         "product_url": "https://www.amazon.com/dp/B07RZ3LSHM",
         "product_photo": "https://m.media-amazon.com/images/I/41UPkD0ruML._AC_UL960_QL65_.jpg",
         "product_num_offers": 1,
@@ -55,7 +56,7 @@
         "product_original_price": "$99.00",
         "currency": "USD",
         "product_star_rating": "4.5",
-        "product_num_ratings": 10104,
+        "product_num_ratings": 10105,
         "product_url": "https://www.amazon.com/dp/B0GJTXVN9Z",
         "product_photo": "https://m.media-amazon.com/images/I/611DjYhflAL._AC_UL960_QL65_.jpg",
         "product_num_offers": 5,
@@ -65,7 +66,7 @@
         "is_prime": true,
         "climate_pledge_friendly": false,
         "sales_volume": "10K+ bought in past month",
-        "delivery": "Join Prime to get FREE delivery Today 2 PM - 6 PMOr Non-members get FREE delivery Sat, Sep 12",
+        "delivery": "Join Prime to get FREE delivery Wed, Sep 9Or Non-members get FREE delivery Sat, Sep 12",
         "has_variations": false
       },
       {
@@ -75,7 +76,7 @@
         "product_original_price": "$129.00",
         "currency": "USD",
         "product_star_rating": "4.5",
-        "product_num_ratings": 34416,
+        "product_num_ratings": 34417,
         "product_url": "https://www.amazon.com/dp/B0DGHMNQ5Z",
         "product_photo": "https://m.media-amazon.com/images/I/61iBtxCUabL._AC_UL960_QL65_.jpg",
         "product_num_offers": 6,
@@ -95,7 +96,7 @@
         "product_original_price": null,
         "currency": "USD",
         "product_star_rating": "4.5",
-        "product_num_ratings": 17584,
+        "product_num_ratings": 17585,
         "product_url": "https://www.amazon.com/dp/B0DCH8VDXF",
         "product_photo": "https://m.media-amazon.com/images/I/513OSdW4elL._AC_UL960_QL65_.jpg",
         "product_num_offers": 4,
@@ -105,7 +106,7 @@
         "is_prime": true,
         "climate_pledge_friendly": false,
         "sales_volume": "10K+ bought in past month",
-        "delivery": "Join Prime to get FREE delivery Today 2 PM - 6 PM on eligible ordersOr Non-members get FREE delivery Sat, Sep 12 on $35 of items shipped by Amazon",
+        "delivery": "Join Prime to get FREE delivery Today 5 PM - 10 PM on eligible ordersOr Non-members get FREE delivery Sat, Sep 12 on $35 of items shipped by Amazon",
         "has_variations": false
       },
       {
@@ -117,7 +118,7 @@
         "product_original_price": null,
         "currency": "USD",
         "product_star_rating": "4.8",
-        "product_num_ratings": 228051,
+        "product_num_ratings": 228052,
         "product_url": "https://www.amazon.com/dp/B01FV0F13E",
         "product_photo": "https://m.media-amazon.com/images/I/713VtFDeAyL._AC_UL960_QL65_.jpg",
         "product_num_offers": 1,
@@ -149,7 +150,7 @@
         "is_prime": true,
         "climate_pledge_friendly": true,
         "sales_volume": "100K+ bought in past month",
-        "delivery": "Join Prime to get FREE delivery Today 2 PM - 6 PM on eligible ordersOr Non-members get FREE delivery Sat, Sep 12 on $35 of items shipped by Amazon",
+        "delivery": "Join Prime to get FREE delivery Today 5 PM - 10 PM on eligible ordersOr Non-members get FREE delivery Sat, Sep 12 on $35 of items shipped by Amazon",
         "coupon_text": "Extra 15% off when you subscribe",
         "has_variations": false
       },
@@ -162,7 +163,7 @@
         "product_original_price": null,
         "currency": "USD",
         "product_star_rating": "4.7",
-        "product_num_ratings": 678064,
+        "product_num_ratings": 678063,
         "product_url": "https://www.amazon.com/dp/B00LH3DMUO",
         "product_photo": "https://m.media-amazon.com/images/I/81Apg8B6+0L._AC_UL960_QL65_.jpg",
         "product_num_offers": 1,
@@ -172,7 +173,7 @@
         "is_prime": true,
         "climate_pledge_friendly": true,
         "sales_volume": "100K+ bought in past month",
-        "delivery": "Join Prime to get FREE delivery Today 2 PM - 6 PM on eligible ordersOr Non-members get FREE delivery Sat, Sep 12 on $35 of items shipped by Amazon",
+        "delivery": "Join Prime to get FREE delivery Today 5 PM - 10 PM on eligible ordersOr Non-members get FREE delivery Sat, Sep 12 on $35 of items shipped by Amazon",
         "coupon_text": "Extra 15% off when you subscribe",
         "has_variations": false
       },
@@ -183,7 +184,7 @@
         "product_original_price": "$69.99",
         "currency": "USD",
         "product_star_rating": "4.6",
-        "product_num_ratings": 113810,
+        "product_num_ratings": 113811,
         "product_url": "https://www.amazon.com/dp/B0F7Z4QZTT",
         "product_photo": "https://m.media-amazon.com/images/I/51WtNy0OxLL._AC_UL960_QL65_.jpg",
         "product_num_offers": 1,
@@ -193,7 +194,7 @@
         "is_prime": true,
         "climate_pledge_friendly": true,
         "sales_volume": "10K+ bought in past month",
-        "delivery": "Join Prime to get FREE delivery Today 2 PM - 6 PMOr Non-members get FREE delivery Sat, Sep 12",
+        "delivery": "Join Prime to get FREE delivery Today 5 PM - 10 PMOr Non-members get FREE delivery Sat, Sep 12",
         "has_variations": false,
         "product_badge": "Limited time deal"
       },
@@ -224,7 +225,7 @@
         "product_original_price": "$39.99",
         "currency": "USD",
         "product_star_rating": "4",
-        "product_num_ratings": 4698,
+        "product_num_ratings": 4699,
         "product_url": "https://www.amazon.com/dp/B0DJGDC3BD",
         "product_photo": "https://m.media-amazon.com/images/I/610j-wmxRcL._AC_UL960_QL65_.jpg",
         "product_num_offers": 1,
@@ -255,7 +256,7 @@
         "is_prime": true,
         "climate_pledge_friendly": false,
         "sales_volume": "100K+ bought in past month",
-        "delivery": "Join Prime to get FREE delivery Today 2 PM - 6 PM on eligible ordersOr Non-members get FREE delivery Sat, Sep 12 on $35 of items shipped by Amazon",
+        "delivery": "Join Prime to get FREE delivery Today 5 PM - 10 PM on eligible ordersOr Non-members get FREE delivery Sat, Sep 12 on $35 of items shipped by Amazon",
         "has_variations": true
       },
       {
@@ -277,7 +278,7 @@
         "is_prime": true,
         "climate_pledge_friendly": false,
         "sales_volume": "100K+ bought in past month",
-        "delivery": "Join Prime to get FREE delivery Today 2 PM - 6 PM on eligible ordersOr Non-members get FREE delivery Sat, Sep 12 on $35 of items shipped by Amazon",
+        "delivery": "Join Prime to get FREE delivery Today 5 PM - 10 PM on eligible ordersOr Non-members get FREE delivery Sat, Sep 12 on $35 of items shipped by Amazon",
         "has_variations": false
       },
       {
@@ -287,7 +288,7 @@
         "product_original_price": "$160.00",
         "currency": "USD",
         "product_star_rating": "4.7",
-        "product_num_ratings": 414,
+        "product_num_ratings": 415,
         "product_url": "https://www.amazon.com/dp/B0G8SFR7DH",
         "product_photo": "https://m.media-amazon.com/images/I/71sIVRt+4uL._AC_UL960_QL65_.jpg",
         "product_num_offers": 1,
@@ -317,7 +318,7 @@
         "is_prime": false,
         "climate_pledge_friendly": false,
         "sales_volume": "60K+ bought in past month",
-        "delivery": "FREE delivery Sep 13 - 17Or fastest delivery Sep 13 - 15",
+        "delivery": "FREE delivery Sep 13 - 17Or fastest delivery Sep 13 - 16",
         "has_variations": false
       },
       {
@@ -337,7 +338,7 @@
         "is_prime": true,
         "climate_pledge_friendly": false,
         "sales_volume": "100K+ bought in past month",
-        "delivery": "Join Prime to get FREE delivery Today 2 PM - 6 PM on eligible ordersOr Non-members get FREE delivery Sat, Sep 12 on $35 of items shipped by Amazon",
+        "delivery": "Join Prime to get FREE delivery Today 5 PM - 10 PM on eligible ordersOr Non-members get FREE delivery Sat, Sep 12 on $35 of items shipped by Amazon",
         "has_variations": false
       },
       {
@@ -347,7 +348,7 @@
         "product_original_price": "$49.99",
         "currency": "USD",
         "product_star_rating": "4.1",
-        "product_num_ratings": 15743,
+        "product_num_ratings": 15745,
         "product_url": "https://www.amazon.com/dp/B0C6W3D4RM",
         "product_photo": "https://m.media-amazon.com/images/I/61r3G3vAhBL._AC_UL960_QL65_.jpg",
         "product_num_offers": 1,
@@ -357,7 +358,7 @@
         "is_prime": true,
         "climate_pledge_friendly": true,
         "sales_volume": "10K+ bought in past month",
-        "delivery": "Join Prime to get FREE delivery Today 2 PM - 6 PM on eligible ordersOr Non-members get FREE delivery Sat, Sep 12 on $35 of items shipped by Amazon",
+        "delivery": "Join Prime to get FREE delivery Today 5 PM - 10 PM on eligible ordersOr Non-members get FREE delivery Sat, Sep 12 on $35 of items shipped by Amazon",
         "has_variations": false,
         "product_badge": "Limited time deal"
       },
@@ -408,17 +409,17 @@
         "product_original_price": "$39.99",
         "currency": "USD",
         "product_star_rating": "4.6",
-        "product_num_ratings": 23854,
+        "product_num_ratings": 23855,
         "product_url": "https://www.amazon.com/dp/B0DXXYS4BJ",
         "product_photo": "https://m.media-amazon.com/images/I/71CBWyQfKhL._AC_UL960_QL65_.jpg",
-        "product_num_offers": 25,
+        "product_num_offers": 26,
         "product_minimum_offer_price": "$28.99",
         "is_best_seller": false,
         "is_amazon_choice": false,
         "is_prime": true,
         "climate_pledge_friendly": true,
         "sales_volume": "10K+ bought in past month",
-        "delivery": "Join Prime to get FREE delivery Today 2 PM - 6 PMOr Non-members get FREE delivery Sat, Sep 12 on $35 of items shipped by Amazon",
+        "delivery": "Join Prime to get FREE delivery Today 5 PM - 10 PMOr Non-members get FREE delivery Sat, Sep 12 on $35 of items shipped by Amazon",
         "has_variations": false
       },
       {
@@ -440,7 +441,7 @@
         "is_prime": true,
         "climate_pledge_friendly": false,
         "sales_volume": "100K+ bought in past month",
-        "delivery": "Join Prime to get FREE delivery Today 2 PM - 6 PM on eligible ordersOr Non-members get FREE delivery Sat, Sep 12 on $35 of items shipped by Amazon",
+        "delivery": "Join Prime to get FREE delivery Today 5 PM - 10 PM on eligible ordersOr Non-members get FREE delivery Sat, Sep 12 on $35 of items shipped by Amazon",
         "has_variations": false
       },
       {
@@ -480,7 +481,7 @@
         "is_prime": true,
         "climate_pledge_friendly": true,
         "sales_volume": "10K+ bought in past month",
-        "delivery": "Join Prime to get FREE delivery Today 2 PM - 6 PMOr Non-members get FREE delivery Sat, Sep 12",
+        "delivery": "Join Prime to get FREE delivery Today 5 PM - 10 PMOr Non-members get FREE delivery Sat, Sep 12",
         "has_variations": true,
         "product_badge": "Limited time deal"
       },

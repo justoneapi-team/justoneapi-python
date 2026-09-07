@@ -1,34 +1,34 @@
 {
-  "_fetchedAt": "2026-09-08T03:55:33.395514+08:00",
-  "_sourceCheckedAt": "2026-09-08T03:00:08",
+  "_fetchedAt": "2026-09-08T04:00:30.297356+08:00",
+  "_sourceCheckedAt": "2026-09-08T04:00:12",
   "code": 0,
   "message": null,
   "data": {
     "result": 1,
     "shareInfo": {
       "webShareVerifyData": {
-        "shareUserId": "3534391506",
+        "shareUserId": "3534127083",
         "objectId": "1052294368",
-        "timestamp": 1788807608961,
-        "verifyData": "0217235da45fca2111e8a108b1c026aa"
+        "timestamp": 1788811215321,
+        "verifyData": "c93e90efab05c7f72fad2b359f8ab0c5"
       },
-      "shareId": "19105537721021",
+      "shareId": "19105676631191",
       "groupName": "",
+      "shareType": "3",
       "shareSubTitle": "找我做浮雕：luban8818 找我学习：luban9989",
       "shareTitle": "分享了@叫我壁画师明月 的快手主页，一起来看！",
-      "docId": "3",
-      "shareType": "3"
+      "docId": "3"
     },
-    "host-name": "public-bjmt-c26-kce-node591.idchb1az4.hb1.kwaidc.com",
+    "host-name": "public-bjy-c58-kce-node260.idchb1az2.hb1.kwaidc.com",
     "isLiving": false,
     "userProfile": {
       "userSettingOption": {
         "disable_screenshot_feedback": "0",
         "enable_moment_comment_deny": "0",
-        "show_same_follow_deny": "0",
         "comment_deny": "0",
         "wifi_preupload_deny": "0",
         "message_deny": "0",
+        "show_same_follow_deny": "0",
         "frequent_user_deny": "0",
         "show_story_entrance": "0",
         "acquaintance_deny": "0",
@@ -48,8 +48,8 @@
         "disable_push_my_comments_to_others": "0",
         "not_allow_find_me_by_mobile": "0",
         "not_public_collect": "1",
-        "enable_local_intelligence_album": "1",
         "photo_share_add_watermark": "0",
+        "enable_local_intelligence_album": "1",
         "disable_nearby_online_status": "1",
         "disable_im_online_status": "0",
         "not_recommend_to_qq_friends": "0",
@@ -61,9 +61,8 @@
         "at_me_tab_privacy_setting": 1,
         "follow_fans_list": 0
       },
-      "enableMoment": true,
       "ownerCount": {
-        "fan": 716574,
+        "fan": 716573,
         "magicFace": 0,
         "novelDrama": 0,
         "like": 0,
@@ -75,7 +74,6 @@
         "collect": 0,
         "moment": 0
       },
-      "canGuestShowMomentNews": true,
       "verified": false,
       "profile": {
         "user_sex": "U",
@@ -90,8 +88,8 @@
             "url": "https://p66.a.kwimgs.com/uhead/AB/2023/11/14/21/BMjAyMzExMTQyMTI1MzJfMTA1MjI5NDM2OF8xX2hkMTE5XzUyNA==_s.jpg"
           },
           {
-            "cdn": "p1-pro.a.yximgs.com",
-            "url": "https://p1-pro.a.yximgs.com/uhead/AB/2023/11/14/21/BMjAyMzExMTQyMTI1MzJfMTA1MjI5NDM2OF8xX2hkMTE5XzUyNA==_s.jpg"
+            "cdn": "p5-pro.a.yximgs.com",
+            "url": "https://p5-pro.a.yximgs.com/uhead/AB/2023/11/14/21/BMjAyMzExMTQyMTI1MzJfMTA1MjI5NDM2OF8xX2hkMTE5XzUyNA==_s.jpg"
           }
         ],
         "isFavorited": false,
@@ -101,8 +99,8 @@
             "url": "https://p66.a.kwimgs.com/uhead/AB/2023/11/14/21/BMjAyMzExMTQyMTI1MzJfMTA1MjI5NDM2OF8xX2hkMTE5XzUyNA==_b.jpg"
           },
           {
-            "cdn": "p1-pro.a.yximgs.com",
-            "url": "https://p1-pro.a.yximgs.com/uhead/AB/2023/11/14/21/BMjAyMzExMTQyMTI1MzJfMTA1MjI5NDM2OF8xX2hkMTE5XzUyNA==_b.jpg"
+            "cdn": "p5-pro.a.yximgs.com",
+            "url": "https://p5-pro.a.yximgs.com/uhead/AB/2023/11/14/21/BMjAyMzExMTQyMTI1MzJfMTA1MjI5NDM2OF8xX2hkMTE5XzUyNA==_b.jpg"
           }
         ],
         "user_profile_bg_urls": [
@@ -115,6 +113,8 @@
         "user_text": "找我做浮雕：luban8818\n\n找我学习：luban9989"
       },
       "showPhotoCollectTab": true,
+      "enableMoment": true,
+      "canGuestShowMomentNews": true,
       "isUserBanned": false,
       "isSubscribe": true,
       "isFriend": false,

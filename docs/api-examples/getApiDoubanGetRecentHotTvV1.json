@@ -1,12 +1,12 @@
 {
-  "_fetchedAt": "2026-09-08T03:55:14.988305+08:00",
-  "_sourceCheckedAt": "2026-09-08T03:00:00",
+  "_fetchedAt": "2026-09-08T04:00:11.823134+08:00",
+  "_sourceCheckedAt": "2026-09-08T04:00:00",
   "code": 0,
   "message": null,
   "data": {
     "category": "tv",
     "type": "tv",
-    "total": 189,
+    "total": 188,
     "items": [
       {
         "id": "37501131",
@@ -16,7 +16,7 @@
           "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2934748119.jpg"
         },
         "rating": {
-          "count": 26931,
+          "count": 26982,
           "max": 10,
           "star_count": 4.5,
           "value": 8.7
@@ -54,7 +54,7 @@
           "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2935357611.jpg"
         },
         "rating": {
-          "count": 20070,
+          "count": 20087,
           "max": 10,
           "star_count": 4.5,
           "value": 8.9
@@ -111,7 +111,7 @@
           "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2934718593.jpg"
         },
         "rating": {
-          "count": 93576,
+          "count": 93585,
           "max": 10,
           "star_count": 3.5,
           "value": 7.1
@@ -123,6 +123,25 @@
         "type": "tv"
       },
       {
+        "id": "36314809",
+        "title": "交锋",
+        "pic": {
+          "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2931558074.jpg",
+          "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2931558074.jpg"
+        },
+        "rating": {
+          "count": 0,
+          "max": 10,
+          "star_count": 0,
+          "value": 0
+        },
+        "uri": "douban://douban.com/tv/36314809",
+        "card_subtitle": "2026 / 中国大陆 / 剧情 / 姚晓峰 / 王凯 周依然",
+        "is_new": true,
+        "episodes_info": "更新至6集",
+        "type": "tv"
+      },
+      {
         "id": "36554071",
         "title": "重器",
         "pic": {
@@ -130,7 +149,7 @@
           "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2934828709.jpg"
         },
         "rating": {
-          "count": 34631,
+          "count": 34635,
           "max": 10,
           "star_count": 3.5,
           "value": 7.3
@@ -158,25 +177,6 @@
         "card_subtitle": "2026 / 中国大陆 / 剧情 / 徐兵 / 辛芷蕾 尹昉",
         "is_new": false,
         "episodes_info": "13集全",
-        "type": "tv"
-      },
-      {
-        "id": "36314809",
-        "title": "交锋",
-        "pic": {
-          "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2931558074.jpg",
-          "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2931558074.jpg"
-        },
-        "rating": {
-          "count": 0,
-          "max": 10,
-          "star_count": 0,
-          "value": 0
-        },
-        "uri": "douban://douban.com/tv/36314809",
-        "card_subtitle": "2026 / 中国大陆 / 剧情 / 姚晓峰 / 王凯 周依然",
-        "is_new": true,
-        "episodes_info": "更新至6集",
         "type": "tv"
       },
       {
@@ -213,7 +213,7 @@
         },
         "uri": "douban://douban.com/tv/38407616",
         "card_subtitle": "2026 / 中国大陆 / 剧情 犯罪 / 李昂 / 张一山 李沐宸",
-        "is_new": true,
+        "is_new": false,
         "episodes_info": "26集全",
         "type": "tv"
       },
@@ -232,27 +232,8 @@
         },
         "uri": "douban://douban.com/tv/37172262",
         "card_subtitle": "2026 / 中国大陆 / 剧情 爱情 / 郑世龙 / 魏哲鸣 刘些宁",
-        "is_new": true,
-        "episodes_info": "更新至14集",
-        "type": "tv"
-      },
-      {
-        "id": "37291935",
-        "title": "狂怒追缉 第一季",
-        "pic": {
-          "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2933573106.jpg",
-          "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2933573106.jpg"
-        },
-        "rating": {
-          "count": 7716,
-          "max": 10,
-          "star_count": 4.0,
-          "value": 8.3
-        },
-        "uri": "douban://douban.com/tv/37291935",
-        "card_subtitle": "2026 / 美国 / 惊悚 犯罪 / 布莱恩·柯克 / 埃米·罗森 洛拉·佩蒂克鲁",
         "is_new": false,
-        "episodes_info": "",
+        "episodes_info": "更新至14集",
         "type": "tv"
       },
       {
@@ -263,7 +244,7 @@
           "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2935124143.jpg"
         },
         "rating": {
-          "count": 1394,
+          "count": 1407,
           "max": 10,
           "star_count": 4.0,
           "value": 8.2
@@ -275,22 +256,22 @@
         "type": "tv"
       },
       {
-        "id": "36406417",
-        "title": "师兄太稳健",
+        "id": "37291935",
+        "title": "狂怒追缉 第一季",
         "pic": {
-          "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2934541050.jpg",
-          "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2934541050.jpg"
+          "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2933573106.jpg",
+          "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2933573106.jpg"
         },
         "rating": {
-          "count": 13276,
+          "count": 7719,
           "max": 10,
-          "star_count": 3.0,
-          "value": 5.8
+          "star_count": 4.0,
+          "value": 8.3
         },
-        "uri": "douban://douban.com/tv/36406417",
-        "card_subtitle": "2026 / 中国大陆 / 剧情 奇幻 古装 / 何澍培 / 敖瑞鹏 孙珍妮",
+        "uri": "douban://douban.com/tv/37291935",
+        "card_subtitle": "2026 / 美国 / 惊悚 犯罪 / 布莱恩·柯克 / 埃米·罗森 洛拉·佩蒂克鲁",
         "is_new": false,
-        "episodes_info": "30集全",
+        "episodes_info": "",
         "type": "tv"
       },
       {
@@ -301,7 +282,7 @@
           "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2931739796.jpg"
         },
         "rating": {
-          "count": 88788,
+          "count": 88790,
           "max": 10,
           "star_count": 3.5,
           "value": 6.9
@@ -313,6 +294,25 @@
         "type": "tv"
       },
       {
+        "id": "36406417",
+        "title": "师兄太稳健",
+        "pic": {
+          "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2934541050.jpg",
+          "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2934541050.jpg"
+        },
+        "rating": {
+          "count": 13278,
+          "max": 10,
+          "star_count": 3.0,
+          "value": 5.8
+        },
+        "uri": "douban://douban.com/tv/36406417",
+        "card_subtitle": "2026 / 中国大陆 / 剧情 奇幻 古装 / 何澍培 / 敖瑞鹏 孙珍妮",
+        "is_new": false,
+        "episodes_info": "30集全",
+        "type": "tv"
+      },
+      {
         "id": "26811535",
         "title": "九门",
         "pic": {
@@ -320,7 +320,7 @@
           "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2934488566.jpg"
         },
         "rating": {
-          "count": 44135,
+          "count": 44141,
           "max": 10,
           "star_count": 3.5,
           "value": 6.7
@@ -329,6 +329,44 @@
         "card_subtitle": "2026 / 中国大陆 / 剧情 奇幻 冒险 / 柏杉 / 陈伟霆 陈瑶",
         "is_new": false,
         "episodes_info": "30集全",
+        "type": "tv"
+      },
+      {
+        "id": "36624136",
+        "title": "悬案",
+        "pic": {
+          "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2933759962.jpg",
+          "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2933759962.jpg"
+        },
+        "rating": {
+          "count": 58826,
+          "max": 10,
+          "star_count": 4.0,
+          "value": 7.6
+        },
+        "uri": "douban://douban.com/tv/36624136",
+        "card_subtitle": "2026 / 中国大陆 / 剧情 悬疑 犯罪 / 算 / 王传君 江奇霖",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "tv"
+      },
+      {
+        "id": "37071123",
+        "title": "铁拳教育",
+        "pic": {
+          "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2933103931.jpg",
+          "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2933103931.jpg"
+        },
+        "rating": {
+          "count": 188624,
+          "max": 10,
+          "star_count": 4.5,
+          "value": 8.7
+        },
+        "uri": "douban://douban.com/tv/37071123",
+        "card_subtitle": "2026 / 韩国 / 剧情 动作 / 洪忠灿 / 金武烈 李星民",
+        "is_new": false,
+        "episodes_info": "",
         "type": "tv"
       },
       {
@@ -348,44 +386,6 @@
         "card_subtitle": "2026 / 中国大陆 / 剧情 喜剧 犯罪 / 邢键钧 孙小光 / 段奕宏 余男",
         "is_new": false,
         "episodes_info": "23集全",
-        "type": "tv"
-      },
-      {
-        "id": "36624136",
-        "title": "悬案",
-        "pic": {
-          "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2933759962.jpg",
-          "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2933759962.jpg"
-        },
-        "rating": {
-          "count": 58824,
-          "max": 10,
-          "star_count": 4.0,
-          "value": 7.6
-        },
-        "uri": "douban://douban.com/tv/36624136",
-        "card_subtitle": "2026 / 中国大陆 / 剧情 悬疑 犯罪 / 算 / 王传君 江奇霖",
-        "is_new": false,
-        "episodes_info": "",
-        "type": "tv"
-      },
-      {
-        "id": "36857449",
-        "title": "末日地堡 第三季",
-        "pic": {
-          "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2932942505.jpg",
-          "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2932942505.jpg"
-        },
-        "rating": {
-          "count": 2627,
-          "max": 10,
-          "star_count": 4.0,
-          "value": 8.1
-        },
-        "uri": "douban://douban.com/tv/36857449",
-        "card_subtitle": "2026 / 美国 / 剧情 科幻 悬疑 / 迈克尔·丁纳 / 丽贝卡·弗格森 科曼",
-        "is_new": false,
-        "episodes_info": "",
         "type": "tv"
       }
     ],
