@@ -1,6 +1,6 @@
 {
-  "_fetchedAt": "2026-09-08T06:55:17.973992+08:00",
-  "_sourceCheckedAt": "2026-09-08T06:00:02",
+  "_fetchedAt": "2026-09-08T07:00:15.511815+08:00",
+  "_sourceCheckedAt": "2026-09-08T07:00:02",
   "code": 0,
   "message": null,
   "data": {
@@ -10,10 +10,10 @@
     },
     "credit_score": "100",
     "industry_order_distribution": "[{\"key\":\"1933\",\"rate\":\"0.0455\",\"value\":\"1\"},{\"key\":\"1930\",\"rate\":\"0.9545\",\"value\":\"21\"}]",
-    "industry_vv_distribution": "[{\"key\":\"1933\",\"rate\":\"0.0156\",\"value\":\"1991700\"},{\"key\":\"1930\",\"rate\":\"0.9844\",\"value\":\"125375461\"}]",
+    "industry_vv_distribution": "[{\"key\":\"1930\",\"rate\":\"0.984\",\"value\":\"123638008\"},{\"key\":\"1933\",\"rate\":\"0.016\",\"value\":\"2008381\"}]",
     "max_process_order_cnt": "7",
     "message_reply_rate": "0",
-    "modify_time": "1788802982",
+    "modify_time": "1788820367",
     "new_credit_score": 72,
     "order_cnt": "22",
     "positive_rating_rate": "1",

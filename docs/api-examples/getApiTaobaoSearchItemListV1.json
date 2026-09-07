@@ -1,12 +1,12 @@
 {
-  "_fetchedAt": "2026-09-08T06:55:46.037513+08:00",
-  "_sourceCheckedAt": "2026-09-08T06:00:21",
+  "_fetchedAt": "2026-09-08T07:00:43.480313+08:00",
+  "_sourceCheckedAt": "2026-09-08T07:00:20",
   "code": 0,
   "message": null,
   "data": {
     "code": "SUCCESS",
     "extraMap": {
-      "MtopCostMillis": 72
+      "MtopCostMillis": 153
     },
     "model": {
       "brandList": [
@@ -133,7 +133,7 @@
         {
           "brandId": 147280915,
           "brandName": "Three Squirrels/三只松鼠",
-          "count": 34
+          "count": 36
         },
         {
           "brandId": 266818727,
@@ -191,11 +191,11 @@
           "count": 8
         }
       ],
-      "costMillis": 72,
+      "costMillis": 153,
       "extraMap": {
-        "WorldsearchIP": "33.102.31.131",
-        "WorldsearchName": "worldsearch033102031131.center.na610",
-        "EndpointHost": "33.6.3.14",
+        "WorldsearchIP": "33.44.173.30",
+        "WorldsearchName": "worldsearch033044173030.center.na620",
+        "EndpointHost": "33.5.193.244",
         "sp_status": "OK",
         "Endpoint": "taobao_item",
         "afterSearchCostMillis": 0
@@ -209,7 +209,7 @@
           "discntType": "优惠价",
           "extraMap": {},
           "fahuoDsr": "487",
-          "frontStock": 92697,
+          "frontStock": 92034,
           "fuwuDsr": "486",
           "hasTongkuan": false,
           "hasXiangsi": false,
@@ -274,7 +274,7 @@
           "discntType": "优惠价",
           "extraMap": {},
           "fahuoDsr": "491",
-          "frontStock": 13408,
+          "frontStock": 24169,
           "fuwuDsr": "491",
           "hasTongkuan": false,
           "hasXiangsi": false,
@@ -341,7 +341,7 @@
           "discntType": "天天团购",
           "extraMap": {},
           "fahuoDsr": "487",
-          "frontStock": 441756,
+          "frontStock": 441575,
           "fuwuDsr": "487",
           "hasTongkuan": false,
           "hasXiangsi": false,
@@ -391,7 +391,7 @@
           "discntType": "优惠价",
           "extraMap": {},
           "fahuoDsr": "488",
-          "frontStock": 385842,
+          "frontStock": 383378,
           "fuwuDsr": "487",
           "hasTongkuan": false,
           "hasXiangsi": false,
@@ -454,7 +454,7 @@
           "discntType": "优惠价",
           "extraMap": {},
           "fahuoDsr": "479",
-          "frontStock": 242720,
+          "frontStock": 238418,
           "fuwuDsr": "479",
           "hasTongkuan": false,
           "hasXiangsi": false,
@@ -518,7 +518,7 @@
           "discntType": "优惠价",
           "extraMap": {},
           "fahuoDsr": "484",
-          "frontStock": 7597,
+          "frontStock": 5870,
           "fuwuDsr": "486",
           "hasTongkuan": false,
           "hasXiangsi": false,
@@ -584,7 +584,7 @@
           "discntType": "优惠价",
           "extraMap": {},
           "fahuoDsr": "491",
-          "frontStock": 5662,
+          "frontStock": 3203,
           "fuwuDsr": "491",
           "hasTongkuan": false,
           "hasXiangsi": false,
@@ -639,7 +639,7 @@
           "discntType": "特价秒杀",
           "extraMap": {},
           "fahuoDsr": "491",
-          "frontStock": 2644,
+          "frontStock": 2526,
           "fuwuDsr": "491",
           "hasTongkuan": false,
           "hasXiangsi": false,
@@ -689,7 +689,7 @@
           "discntType": "优惠价",
           "extraMap": {},
           "fahuoDsr": "487",
-          "frontStock": 213743,
+          "frontStock": 211157,
           "fuwuDsr": "486",
           "hasTongkuan": false,
           "hasXiangsi": false,
@@ -756,7 +756,7 @@
           "discntType": "热卖促销",
           "extraMap": {},
           "fahuoDsr": "478",
-          "frontStock": 312751,
+          "frontStock": 315731,
           "fuwuDsr": "476",
           "hasTongkuan": false,
           "hasXiangsi": false,
@@ -805,8 +805,8 @@
         "prevNo": 1,
         "showBegin": 1,
         "showEnd": 3,
-        "totalItems": 182190,
-        "totalPages": 18219
+        "totalItems": 182732,
+        "totalPages": 18274
       },
       "propertyList": [
         {
@@ -815,49 +815,49 @@
           "pname": "省份",
           "valueList": [
             {
-              "count": 1342,
+              "count": 1325,
               "flag": "qp_commend",
               "vid": 52863,
               "vname": "福建省"
             },
             {
-              "count": 767,
+              "count": 756,
               "flag": "qp_commend",
               "vid": 52852,
               "vname": "安徽省"
             },
             {
-              "count": 1264,
+              "count": 1247,
               "flag": "qp_commend",
               "vid": 52860,
               "vname": "浙江省"
             },
             {
-              "count": 938,
+              "count": 936,
               "flag": "qp_commend",
               "vid": 52849,
               "vname": "河南省"
             },
             {
-              "count": 1739,
+              "count": 1728,
               "flag": "qp_commend",
               "vid": 52862,
               "vname": "广东省"
             },
             {
-              "count": 853,
+              "count": 850,
               "flag": "qp_commend",
               "vid": 29423,
               "vname": "上海"
             },
             {
-              "count": 700,
+              "count": 698,
               "flag": "qp_commend",
               "vid": 29400,
               "vname": "北京"
             },
             {
-              "count": 1379,
+              "count": 1353,
               "flag": "qp_commend",
               "vid": 52855,
               "vname": "江苏省"
@@ -869,31 +869,31 @@
               "vname": "云南省"
             },
             {
-              "count": 852,
+              "count": 833,
               "flag": "qp_commend",
               "vid": 52856,
               "vname": "四川省"
             },
             {
-              "count": 1111,
+              "count": 1107,
               "flag": "qp_commend",
               "vid": 52850,
               "vname": "山东省"
             },
             {
-              "count": 367,
+              "count": 365,
               "flag": "qp_commend",
               "vid": 52853,
               "vname": "湖北省"
             },
             {
-              "count": 391,
+              "count": 386,
               "flag": "qp_commend",
               "vid": 3296643,
               "vname": "广西壮族自治区"
             },
             {
-              "count": 497,
+              "count": 491,
               "flag": "qp_commend",
               "vid": 52843,
               "vname": "吉林省"
@@ -911,7 +911,7 @@
               "vname": "天津"
             },
             {
-              "count": 697,
+              "count": 678,
               "flag": "qp_commend",
               "vid": 52854,
               "vname": "湖南省"
@@ -923,13 +923,13 @@
               "vname": "河北省"
             },
             {
-              "count": 500,
+              "count": 499,
               "flag": "qp_commend",
               "vid": 3296646,
               "vname": "新疆维吾尔自治区"
             },
             {
-              "count": 1207,
+              "count": 1204,
               "flag": "qp_commend",
               "vid": 52848,
               "vname": "陕西省"
@@ -942,7 +942,7 @@
           "pname": "糕点种类",
           "valueList": [
             {
-              "count": 111,
+              "count": 112,
               "flag": "qp_commend",
               "vid": 14226637,
               "vname": "蛋黄酥"
@@ -954,7 +954,7 @@
               "vname": "麻花"
             },
             {
-              "count": 47,
+              "count": 48,
               "flag": "qp_commend",
               "vid": 14961484,
               "vname": "肉松饼"
@@ -972,13 +972,13 @@
               "vname": "绿豆糕"
             },
             {
-              "count": 109,
+              "count": 110,
               "flag": "qp_commend",
               "vid": 14192939,
               "vname": "桃酥"
             },
             {
-              "count": 95,
+              "count": 94,
               "flag": "qp_commend",
               "vid": 14771589,
               "vname": "鲜花饼"
@@ -1178,7 +1178,7 @@
           "pname": "口味",
           "valueList": [
             {
-              "count": 301,
+              "count": 300,
               "flag": "qp_commend",
               "vid": 94572,
               "vname": "原味"
@@ -1268,7 +1268,7 @@
               "vname": "咸味"
             },
             {
-              "count": 18,
+              "count": 19,
               "flag": "qp_commend",
               "vid": 24779970,
               "vname": "咸香口味"

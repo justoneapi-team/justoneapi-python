@@ -1,6 +1,6 @@
 {
-  "_fetchedAt": "2026-09-08T06:55:46.351215+08:00",
-  "_sourceCheckedAt": "2026-09-08T06:00:23",
+  "_fetchedAt": "2026-09-08T07:00:43.917333+08:00",
+  "_sourceCheckedAt": "2026-09-08T07:00:23",
   "code": 0,
   "message": null,
   "data": {
@@ -474,8 +474,8 @@
                     "7129736060325594926": {
                       "delivery_min_days": 2,
                       "delivery_max_days": 5,
-                      "delivery_min_time": "1788991225",
-                      "delivery_max_time": "1789250425",
+                      "delivery_min_time": "1788994825",
+                      "delivery_max_time": "1789254025",
                       "delivery_min_bd_days": 2,
                       "delivery_max_bd_days": 5,
                       "cutoff_min_time": 0,
@@ -547,7 +547,7 @@
                       },
                       "logistics_identity": "L2L_3PL_US",
                       "extra_info": {
-                        "4": "{\"edt_metrics\":\"{\\\"base_info\\\":{\\\"time_zone\\\":\\\"America/New_York\\\",\\\"fulfill_solution\\\":2},\\\"algo_out\\\":{\\\"alg_3dd\\\":\\\"0\\\",\\\"edt_algo_out\\\":\\\"2_5\\\",\\\"is_stable\\\":\\\"0\\\",\\\"model_3dd_prob\\\":\\\"0.7365\\\",\\\"model_3dd_threshold\\\":\\\"0.97\\\",\\\"use_stable\\\":\\\"0\\\",\\\"xdd_th_src\\\":\\\"2\\\"},\\\"exp_out\\\":{\\\"algo_edt\\\":\\\"2-5\\\",\\\"exp_edt\\\":\\\"2_5\\\",\\\"before_xdd_flatten\\\":\\\"2_5\\\",\\\"seller_xdd_status\\\":1}}\"}"
+                        "4": "{\"edt_metrics\":\"{\\\"base_info\\\":{\\\"time_zone\\\":\\\"America/New_York\\\",\\\"fulfill_solution\\\":2},\\\"algo_out\\\":{\\\"alg_3dd\\\":\\\"0\\\",\\\"edt_algo_out\\\":\\\"2_5\\\",\\\"is_stable\\\":\\\"0\\\",\\\"model_3dd_prob\\\":\\\"0.7414\\\",\\\"model_3dd_threshold\\\":\\\"0.97\\\",\\\"use_stable\\\":\\\"0\\\",\\\"xdd_th_src\\\":\\\"2\\\"},\\\"exp_out\\\":{\\\"algo_edt\\\":\\\"2-5\\\",\\\"exp_edt\\\":\\\"2_5\\\",\\\"before_xdd_flatten\\\":\\\"2_5\\\",\\\"seller_xdd_status\\\":1}}\"}"
                       }
                     }
                   }
@@ -654,11 +654,11 @@
               "shop_info": {
                 "seller_id": "7496280663785376392",
                 "sold_count": 29104,
-                "on_sell_product_count": 38548,
+                "on_sell_product_count": 38482,
                 "review_count": 3811,
                 "global_seller_id": "7496280663785376392",
                 "global_sold_count": "29104",
-                "followers_count": "128058",
+                "followers_count": "128060",
                 "video_count": "4700",
                 "enable_follow": true,
                 "shop_name": "Stadium Goods",
@@ -680,7 +680,7 @@
                     "width": 1080,
                     "uri": "tos-useast5-i-reeeghz8mm-tx/8b54d63602a34c328bd300c6ba1b6063",
                     "url_list": [
-                      "https://p16-oec-shop-sign.tiktokcdn-us.com/tos-useast5-i-reeeghz8mm-tx/8b54d63602a34c328bd300c6ba1b6063~tplv-reeeghz8mm-image-webp.webp?lk3s=905da467&x-expires=1789423225&x-signature=AZtE2cIsb1NId32pdjqMXsfe%2BtY%3D"
+                      "https://p16-oec-shop-sign.tiktokcdn-us.com/tos-useast5-i-reeeghz8mm-tx/8b54d63602a34c328bd300c6ba1b6063~tplv-reeeghz8mm-image-webp.webp?lk3s=905da467&x-expires=1789426825&x-signature=iZbnk4IsMjKJ0eP7Bl0LQSSLm2M%3D"
                     ]
                   },
                   "shop_background_type": 0

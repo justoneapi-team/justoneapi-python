@@ -1,6 +1,6 @@
 {
-  "_fetchedAt": "2026-09-08T06:55:24.060425+08:00",
-  "_sourceCheckedAt": "2026-09-08T06:00:04",
+  "_fetchedAt": "2026-09-08T07:00:21.606174+08:00",
+  "_sourceCheckedAt": "2026-09-08T07:00:04",
   "code": 0,
   "message": null,
   "data": {
@@ -12,12 +12,11 @@
           "author_level_game": "Lv1",
           "author_level_other": "Lv1",
           "author_status": "1",
-          "author_thin_mid_word_association_index": "{\"清爽\":0.135,\"防晒\":3.299999999999999,\"防水\":0.30000000000000004}",
+          "author_thin_mid_word_association_index": "{\"清爽\":0.003,\"防晒\":0.256,\"防水\":0.256}",
           "author_type": "3",
           "avatar_uri": "https://p3.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-avt-0015_a4391e9fc88a3ed36b0448661f82bc52.jpeg?from=3782654143",
           "avg_search_after_view_rate_30d": "0.0052",
           "brand_boost_vv": "0",
-          "burst_text_rate": "1",
           "city": "",
           "content_theme_labels_180d": "[\"家庭旅行\",\"国内旅行\",\"家庭亲子生活\",\"消费体验\",\"美食趣闻\",\"电竞设备\",\"亲子旅行\",\"海鲜美食\",\"美食探索\",\"海鲜体验\"]",
           "core_user_id": "84990209480",
@@ -159,11 +158,21 @@
               {
                 "end_time": "2145916800",
                 "platform_source": 1,
+                "price": 900000,
+                "price_extra_info": {},
+                "start_time": "1780243200",
+                "task_category": 1,
+                "video_type": 2,
+                "video_type_status": 1
+              },
+              {
+                "end_time": "2145916800",
+                "platform_source": 1,
                 "price": 1500000,
                 "price_extra_info": {},
                 "start_time": "1780243200",
                 "task_category": 1,
-                "video_type": 150,
+                "video_type": 71,
                 "video_type_status": 1
               },
               {
@@ -183,17 +192,7 @@
                 "price_extra_info": {},
                 "start_time": "1780243200",
                 "task_category": 1,
-                "video_type": 71,
-                "video_type_status": 1
-              },
-              {
-                "end_time": "2145916800",
-                "platform_source": 1,
-                "price": 900000,
-                "price_extra_info": {},
-                "start_time": "1780243200",
-                "task_category": 1,
-                "video_type": 2,
+                "video_type": 150,
                 "video_type_status": 1
               }
             ],
@@ -210,12 +209,12 @@
           "author_level_game": "Lv1",
           "author_level_other": "Lv1",
           "author_status": "1",
-          "author_thin_mid_word_association_index": "{\"年轻人\":0.024,\"洁面\":0.11000000000000001,\"清爽\":19.43938334406513,\"玻色因\":0.18000000000000002,\"祛痘\":0.0805,\"绵密\":0.131,\"美白\":0.357,\"聚会\":0.44100000000000006,\"蛋白质\":0.968,\"防晒\":536.5437361643368}",
+          "author_thin_mid_word_association_index": "{\"年轻人\":0.128,\"洁面\":0.168,\"清爽\":18.06133333333324,\"玻色因\":0.09000000000000001,\"祛痘\":0.1065,\"绵密\":0.14150000000000001,\"美白\":0.24600000000000005,\"聚会\":0.54,\"蛋白质\":0.6160000000000001,\"防晒\":537.8026444688389}",
           "author_type": "3",
           "avatar_uri": "https://p26.douyinpic.com/aweme/1080x1080/aweme-avatar/mosaic-legacy_c150001e6de3d8e4e65.jpeg?from=3782654143",
           "avg_search_after_view_rate_30d": "0.0059",
           "brand_boost_vv": "1000000",
-          "burst_text_rate": "0.8333",
+          "burst_text_rate": "0.7143",
           "city": "昆明市",
           "content_theme_labels_180d": "[\"陈翔短剧\",\"搞笑剧情\",\"剧情反转\",\"有趣剧情创作\",\"情感短剧\",\"生活喜剧情节\",\"职场趣闻\",\"意外结局\",\"奇幻剧情\",\"感人短剧\"]",
           "core_user_id": "6556303280",
@@ -363,6 +362,36 @@
               {
                 "end_time": "2145916800",
                 "platform_source": 1,
+                "price": 600000,
+                "price_extra_info": {},
+                "start_time": "1788497329",
+                "task_category": 1,
+                "video_type": 150,
+                "video_type_status": 1
+              },
+              {
+                "end_time": "2145916800",
+                "platform_source": 1,
+                "price": 507920,
+                "price_extra_info": {},
+                "start_time": "1738339200",
+                "task_category": 1,
+                "video_type": 91,
+                "video_type_status": 1
+              },
+              {
+                "end_time": "2145916800",
+                "platform_source": 1,
+                "price": 507920,
+                "price_extra_info": {},
+                "start_time": "1738339200",
+                "task_category": 1,
+                "video_type": 90,
+                "video_type_status": 1
+              },
+              {
+                "end_time": "2145916800",
+                "platform_source": 1,
                 "price": 180000,
                 "price_extra_info": {},
                 "start_time": "1730421694",
@@ -399,36 +428,6 @@
                 "task_category": 1,
                 "video_type": 94,
                 "video_type_status": 1
-              },
-              {
-                "end_time": "2145916800",
-                "platform_source": 1,
-                "price": 600000,
-                "price_extra_info": {},
-                "start_time": "1788497329",
-                "task_category": 1,
-                "video_type": 150,
-                "video_type_status": 1
-              },
-              {
-                "end_time": "2145916800",
-                "platform_source": 1,
-                "price": 507920,
-                "price_extra_info": {},
-                "start_time": "1738339200",
-                "task_category": 1,
-                "video_type": 91,
-                "video_type_status": 1
-              },
-              {
-                "end_time": "2145916800",
-                "platform_source": 1,
-                "price": 507920,
-                "price_extra_info": {},
-                "start_time": "1738339200",
-                "task_category": 1,
-                "video_type": 90,
-                "video_type_status": 1
               }
             ],
             "task_category": 1,
@@ -444,13 +443,13 @@
           "author_level_game": "Lv1",
           "author_level_other": "Lv1",
           "author_status": "1",
-          "author_thin_mid_word_association_index": "{\"服帖\":0.075,\"清爽\":11.382888888888889,\"玻色因\":0.0015,\"绵密\":48.33149999999997,\"美白\":0.08781421744324969,\"胶原成分\":0.072,\"遮瑕\":0.126,\"防晒\":0.6135000000000002,\"防水\":0.084}",
+          "author_thin_mid_word_association_index": "{\"服帖\":0.029400000000000003,\"清爽\":8.17988888888889,\"玻色因\":0.8582164502164501,\"绵密\":35.648749999999986,\"美白\":2.3070753231905727,\"胶原成分\":0.0315,\"遮瑕\":0.063,\"防晒\":0.6315,\"防水\":0.026000000000000006}",
           "author_type": "3",
           "avatar_uri": "https://p11.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-avt-0015_3d41c211a081d48da78b5cfca4db4759.jpeg?from=3782654143",
           "avg_sale_amount_range": "5000-1万",
           "avg_search_after_view_rate_30d": "0.0005",
           "brand_boost_vv": "0",
-          "burst_text_rate": "0.1565",
+          "burst_text_rate": "0.1441",
           "city": "广州市",
           "content_theme_labels_180d": "[\"亲子活动\",\"亲子沟通\",\"搞笑剧情\",\"有趣剧情创作\",\"家庭幽默演绎\",\"孕产经验\",\"亲子旅行\",\"夫妻演绎\",\"香港旅行\",\"国内旅行\"]",
           "core_user_id": "83307044560",
@@ -595,6 +594,26 @@
               {
                 "end_time": "2145916800",
                 "platform_source": 1,
+                "price": 37780,
+                "price_extra_info": {},
+                "start_time": "1733288390",
+                "task_category": 1,
+                "video_type": 151,
+                "video_type_status": 1
+              },
+              {
+                "end_time": "2145916800",
+                "platform_source": 1,
+                "price": 377800,
+                "price_extra_info": {},
+                "start_time": "1758023260",
+                "task_category": 1,
+                "video_type": 150,
+                "video_type_status": 1
+              },
+              {
+                "end_time": "2145916800",
+                "platform_source": 1,
                 "price": 140000,
                 "price_extra_info": {},
                 "start_time": "1669824000",
@@ -620,26 +639,6 @@
                 "start_time": "1735660800",
                 "task_category": 1,
                 "video_type": 71,
-                "video_type_status": 1
-              },
-              {
-                "end_time": "2145916800",
-                "platform_source": 1,
-                "price": 37780,
-                "price_extra_info": {},
-                "start_time": "1733288390",
-                "task_category": 1,
-                "video_type": 151,
-                "video_type_status": 1
-              },
-              {
-                "end_time": "2145916800",
-                "platform_source": 1,
-                "price": 377800,
-                "price_extra_info": {},
-                "start_time": "1758023260",
-                "task_category": 1,
-                "video_type": 150,
                 "video_type_status": 1
               }
             ],
@@ -967,11 +966,11 @@
               {
                 "end_time": "2145916800",
                 "platform_source": 1,
-                "price": 8600,
+                "price": 55100,
                 "price_extra_info": {},
-                "start_time": "1666361627",
+                "start_time": "1782835200",
                 "task_category": 1,
-                "video_type": 91,
+                "video_type": 2,
                 "video_type_status": 1
               },
               {
@@ -987,11 +986,11 @@
               {
                 "end_time": "2145916800",
                 "platform_source": 1,
-                "price": 55100,
+                "price": 8600,
                 "price_extra_info": {},
-                "start_time": "1782835200",
+                "start_time": "1666361627",
                 "task_category": 1,
-                "video_type": 2,
+                "video_type": 91,
                 "video_type_status": 1
               }
             ],
@@ -1009,12 +1008,12 @@
           "author_level_game": "Lv1",
           "author_level_other": "Lv1",
           "author_status": "1",
-          "author_thin_mid_word_association_index": "{\"修容\":349.91998403785453,\"军训\":5.0849277269836115,\"厚度适宜\":0.02,\"定妆\":977.1058289305882,\"成膜速度快\":0.9119999999999999,\"服帖\":257.63657618631754,\"清爽\":2.204437499999998,\"祛痘\":8.985496472774,\"绵密\":0.264,\"美白\":59.90066666666803,\"聚会\":16.967999999999947,\"胶原成分\":0,\"遮瑕\":667.4850526798676,\"防晒\":26.058274350564528,\"防水\":0.8340000000000001}",
+          "author_thin_mid_word_association_index": "{\"修容\":278.71307728193193,\"军训\":0.48550000000000004,\"厚度适宜\":0,\"定妆\":772.2410873265528,\"成膜速度快\":0.855,\"服帖\":229.7218773344594,\"清爽\":2.3145624999999925,\"祛痘\":5.432154056260309,\"绵密\":0.1635,\"美白\":59.76550000000049,\"聚会\":12.971999999999962,\"胶原成分\":0,\"遮瑕\":582.0373174004202,\"防晒\":23.458860412671278,\"防水\":0.6371666666666667}",
           "author_type": "2",
           "avatar_uri": "https://p26.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-avt-0015_b87628a6a656b8ed2db14a95bc5b8a85.jpeg?from=3782654143",
           "avg_search_after_view_rate_30d": "0.0015",
           "brand_boost_vv": "0",
-          "burst_text_rate": "0.1923",
+          "burst_text_rate": "0.16",
           "city": "成都市",
           "content_theme_labels_180d": "[\"创意发型\",\"韩系妆容\",\"清洁技巧\",\"口红测评\",\"清透妆容\",\"卫生用品测评\",\"妆前技巧\",\"创意妆容\",\"高颅顶造型\",\"青春发型\"]",
           "core_user_id": "58015764377",
@@ -1029,7 +1028,7 @@
           "expected_natural_play_num": "2084472",
           "expected_play_num": "2645761",
           "fans_increment_rate_within_15d": "-0.004056882597907785",
-          "fans_increment_within_30d": "19349768.23",
+          "fans_increment_within_30d": "-141935",
           "follower": "15795549",
           "game_type": "",
           "gender": "2",
@@ -1156,6 +1155,46 @@
               {
                 "end_time": "2145916800",
                 "platform_source": 1,
+                "price": 900000,
+                "price_extra_info": {},
+                "start_time": "1787651116",
+                "task_category": 1,
+                "video_type": 150,
+                "video_type_status": 1
+              },
+              {
+                "end_time": "2145916800",
+                "platform_source": 1,
+                "price": 140000,
+                "price_extra_info": {},
+                "start_time": "1788192000",
+                "task_category": 1,
+                "video_type": 151,
+                "video_type_status": 1
+              },
+              {
+                "end_time": "2145916800",
+                "platform_source": 1,
+                "price": 500000,
+                "price_extra_info": {},
+                "start_time": "1722441600",
+                "task_category": 1,
+                "video_type": 90,
+                "video_type_status": 1
+              },
+              {
+                "end_time": "2145916800",
+                "platform_source": 1,
+                "price": 350000,
+                "price_extra_info": {},
+                "start_time": "1722441600",
+                "task_category": 1,
+                "video_type": 91,
+                "video_type_status": 1
+              },
+              {
+                "end_time": "2145916800",
+                "platform_source": 1,
                 "price": 400000,
                 "price_extra_info": {},
                 "start_time": "1788192000",
@@ -1182,46 +1221,6 @@
                 "task_category": 1,
                 "video_type": 2,
                 "video_type_status": 1
-              },
-              {
-                "end_time": "2145916800",
-                "platform_source": 1,
-                "price": 140000,
-                "price_extra_info": {},
-                "start_time": "1788192000",
-                "task_category": 1,
-                "video_type": 151,
-                "video_type_status": 1
-              },
-              {
-                "end_time": "2145916800",
-                "platform_source": 1,
-                "price": 900000,
-                "price_extra_info": {},
-                "start_time": "1787651116",
-                "task_category": 1,
-                "video_type": 150,
-                "video_type_status": 1
-              },
-              {
-                "end_time": "2145916800",
-                "platform_source": 1,
-                "price": 500000,
-                "price_extra_info": {},
-                "start_time": "1722441600",
-                "task_category": 1,
-                "video_type": 90,
-                "video_type_status": 1
-              },
-              {
-                "end_time": "2145916800",
-                "platform_source": 1,
-                "price": 350000,
-                "price_extra_info": {},
-                "start_time": "1722441600",
-                "task_category": 1,
-                "video_type": 91,
-                "video_type_status": 1
               }
             ],
             "task_category": 1,
@@ -1236,7 +1235,7 @@
           "author_level_game": "Lv1",
           "author_level_other": "Lv1",
           "author_status": "1",
-          "author_thin_mid_word_association_index": "{\"清爽\":1.2705000000000002,\"祛痘\":0.09,\"绵密\":4.902,\"聚会\":0.006,\"胶原成分\":0.051000000000000004}",
+          "author_thin_mid_word_association_index": "{\"清爽\":1.4055,\"祛痘\":0.375,\"绵密\":4.872000000000001,\"聚会\":0.24000000000000002,\"胶原成分\":2.1919999999999993}",
           "author_type": "2",
           "avatar_uri": "https://p26.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-avt-0015_50f81f2b261af0eb5a28f26cf4f541a3.jpeg?from=3782654143",
           "avg_search_after_view_rate_30d": "0.003",
@@ -1256,7 +1255,7 @@
           "expected_natural_play_num": "845321",
           "expected_play_num": "2870047",
           "fans_increment_rate_within_15d": "0.0013938718385161867",
-          "fans_increment_within_30d": "6238983.13",
+          "fans_increment_within_30d": "-11403",
           "follower": "14341672",
           "game_type": "",
           "gender": "2",
@@ -1433,7 +1432,7 @@
           "author_level_game": "Lv1",
           "author_level_other": "Lv1",
           "author_status": "1",
-          "author_thin_mid_word_association_index": "{\"大饼轮毂\":0,\"年轻人\":0.19920000000000002,\"远端屏\":0}",
+          "author_thin_mid_word_association_index": "{\"大饼轮毂\":0,\"年轻人\":0.184,\"远端屏\":0}",
           "author_type": "2",
           "avatar_uri": "https://p11.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-avt-0015_8279353b7c04f948a45f435b19b32a72.jpeg?from=3782654143",
           "avg_search_after_view_rate_30d": "0.0113",
@@ -1446,8 +1445,8 @@
           "expected_cpa3_level": "4",
           "expected_natural_play_num": "822468",
           "expected_play_num": "417779",
-          "fans_increment_rate_within_15d": "-0.0015154237286733496",
-          "fans_increment_within_30d": "-45103",
+          "fans_increment_rate_within_15d": "-0.0014486881516172757",
+          "fans_increment_within_30d": "-44239",
           "follower": "13276985",
           "game_type": "",
           "gender": "1",
@@ -1765,6 +1764,16 @@
               {
                 "end_time": "2145916800",
                 "platform_source": 1,
+                "price": 283000,
+                "price_extra_info": {},
+                "start_time": "1775203447",
+                "task_category": 1,
+                "video_type": 150,
+                "video_type_status": 1
+              },
+              {
+                "end_time": "2145916800",
+                "platform_source": 1,
                 "price": 149350,
                 "price_extra_info": {},
                 "start_time": "1693302362",
@@ -1801,16 +1810,6 @@
                 "task_category": 1,
                 "video_type": 2,
                 "video_type_status": 1
-              },
-              {
-                "end_time": "2145916800",
-                "platform_source": 1,
-                "price": 283000,
-                "price_extra_info": {},
-                "start_time": "1775203447",
-                "task_category": 1,
-                "video_type": 150,
-                "video_type_status": 1
               }
             ],
             "task_category": 1,
@@ -1825,7 +1824,7 @@
           "author_level_game": "Lv1",
           "author_level_other": "Lv1",
           "author_status": "1",
-          "author_thin_mid_word_association_index": "{\"健身\":0.0035,\"年轻人\":0,\"美白\":0.6755,\"色修\":1.434}",
+          "author_thin_mid_word_association_index": "{\"健身\":0.021,\"年轻人\":0,\"美白\":3.1413070565190395,\"色修\":2.6665}",
           "author_type": "2",
           "avatar_uri": "https://p11.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-i-0813c001_oce24YtACAIIA2AihQGIMiQfcIAflj2RRLeDE8.jpeg?from=3782654143",
           "avg_sale_amount_range": "10万-50万",
@@ -1847,7 +1846,7 @@
           "expected_natural_play_num": "923816",
           "expected_play_num": "957723",
           "fans_increment_rate_within_15d": "-0.0011344197925286887",
-          "fans_increment_within_30d": "-27246",
+          "fans_increment_within_30d": "5157828.94",
           "follower": "12879921",
           "game_type": "",
           "gender": "1",
@@ -2037,7 +2036,7 @@
           "author_level_game": "Lv1",
           "author_level_other": "Lv1",
           "author_status": "1",
-          "author_thin_mid_word_association_index": "{\"早餐\":0.10200000000000001,\"美白\":0}",
+          "author_thin_mid_word_association_index": "{\"早餐\":0.008,\"美白\":0}",
           "author_type": "3",
           "avatar_uri": "https://p3.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-avt-0015_70d97a3be5fbc6d809776b8d772383c0.jpeg?from=3782654143",
           "city": "香港特别行政区",
@@ -2164,16 +2163,6 @@
               {
                 "end_time": "2145916800",
                 "platform_source": 1,
-                "price": 10000,
-                "price_extra_info": {},
-                "start_time": "1746028800",
-                "task_category": 1,
-                "video_type": 153,
-                "video_type_status": 1
-              },
-              {
-                "end_time": "2145916800",
-                "platform_source": 1,
                 "price": 84000,
                 "price_extra_info": {},
                 "start_time": "1746417175",
@@ -2184,11 +2173,11 @@
               {
                 "end_time": "2145916800",
                 "platform_source": 1,
-                "price": 450000,
+                "price": 10000,
                 "price_extra_info": {},
-                "start_time": "1781080541",
+                "start_time": "1746028800",
                 "task_category": 1,
-                "video_type": 2,
+                "video_type": 153,
                 "video_type_status": 1
               },
               {
@@ -2199,6 +2188,16 @@
                 "start_time": "1781080541",
                 "task_category": 1,
                 "video_type": 71,
+                "video_type_status": 1
+              },
+              {
+                "end_time": "2145916800",
+                "platform_source": 1,
+                "price": 450000,
+                "price_extra_info": {},
+                "start_time": "1781080541",
+                "task_category": 1,
+                "video_type": 2,
                 "video_type_status": 1
               }
             ],
@@ -2215,7 +2214,7 @@
           "author_level_game": "Lv1",
           "author_level_other": "Lv1",
           "author_status": "1",
-          "author_thin_mid_word_association_index": "{\"健身\":0.012,\"酥脆\":0}",
+          "author_thin_mid_word_association_index": "{\"健身\":0.006,\"酥脆\":0}",
           "author_type": "2",
           "avatar_uri": "https://p11.douyinpic.com/aweme/1080x1080/aweme-avatar/mosaic-legacy_312d800055840f8cd90c7.jpeg?from=3782654143",
           "avg_search_after_view_rate_30d": "0.0002",
@@ -2233,7 +2232,7 @@
           "expected_natural_play_num": "1066322",
           "expected_play_num": "996894",
           "fans_increment_rate_within_15d": "0.002317045906712641",
-          "fans_increment_within_30d": "95626",
+          "fans_increment_within_30d": "36743.25",
           "follower": "10935293",
           "game_type": "{\"\\u5c04\\u51fb\": 1.0}",
           "gender": "1",
@@ -2536,36 +2535,6 @@
               {
                 "end_time": "2145916800",
                 "platform_source": 1,
-                "price": 150000,
-                "price_extra_info": {},
-                "start_time": "1727712000",
-                "task_category": 1,
-                "video_type": 2,
-                "video_type_status": 1
-              },
-              {
-                "end_time": "2145916800",
-                "platform_source": 1,
-                "price": 200000,
-                "price_extra_info": {},
-                "start_time": "1727712000",
-                "task_category": 1,
-                "video_type": 71,
-                "video_type_status": 1
-              },
-              {
-                "end_time": "2145916800",
-                "platform_source": 1,
-                "price": 200000,
-                "price_extra_info": {},
-                "start_time": "1784271060",
-                "task_category": 1,
-                "video_type": 150,
-                "video_type_status": 1
-              },
-              {
-                "end_time": "2145916800",
-                "platform_source": 1,
                 "price": 90000,
                 "price_extra_info": {},
                 "start_time": "1679016988",
@@ -2582,6 +2551,36 @@
                 "task_category": 1,
                 "video_type": 91,
                 "video_type_status": 1
+              },
+              {
+                "end_time": "2145916800",
+                "platform_source": 1,
+                "price": 200000,
+                "price_extra_info": {},
+                "start_time": "1727712000",
+                "task_category": 1,
+                "video_type": 71,
+                "video_type_status": 1
+              },
+              {
+                "end_time": "2145916800",
+                "platform_source": 1,
+                "price": 150000,
+                "price_extra_info": {},
+                "start_time": "1727712000",
+                "task_category": 1,
+                "video_type": 2,
+                "video_type_status": 1
+              },
+              {
+                "end_time": "2145916800",
+                "platform_source": 1,
+                "price": 200000,
+                "price_extra_info": {},
+                "start_time": "1784271060",
+                "task_category": 1,
+                "video_type": 150,
+                "video_type_status": 1
               }
             ],
             "task_category": 1,
@@ -2597,7 +2596,7 @@
           "author_level_game": "Lv1",
           "author_level_other": "Lv1",
           "author_status": "1",
-          "author_thin_mid_word_association_index": "{\"年轻人\":0.0006666666666666666,\"服帖\":0.0345,\"清爽\":0.0315,\"绵密\":0.15733333333333335,\"美白\":0.024333333333333335,\"聚会\":0.003,\"胶原成分\":0.001,\"防晒\":0.001}",
+          "author_thin_mid_word_association_index": "{\"年轻人\":0.0006666666666666666,\"服帖\":0,\"清爽\":0.0035,\"绵密\":0.010333333333333333,\"美白\":0.0026666666666666666,\"聚会\":0.003,\"胶原成分\":0,\"防晒\":0.043}",
           "author_type": "2",
           "avatar_uri": "https://p3.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-avt-0015_54b0b7959210555d91f12eaf69e96ebd.jpeg?from=3782654143",
           "avg_search_after_view_rate_30d": "0.0013",
@@ -2615,7 +2614,7 @@
           "expected_natural_play_num": "355294",
           "expected_play_num": "349747",
           "fans_increment_rate_within_15d": "-0.001662126418337363",
-          "fans_increment_within_30d": "-35269",
+          "fans_increment_within_30d": "466.8",
           "follower": "9969007",
           "game_type": "",
           "gender": "2",
@@ -2744,29 +2743,19 @@
                 "platform_source": 1,
                 "price": 168000,
                 "price_extra_info": {},
-                "start_time": "1751299200",
+                "start_time": "1788192000",
                 "task_category": 1,
-                "video_type": 91,
+                "video_type": 71,
                 "video_type_status": 1
               },
               {
                 "end_time": "2145916800",
                 "platform_source": 1,
-                "price": 168000,
-                "price_extra_info": {},
-                "start_time": "1751299200",
-                "task_category": 1,
-                "video_type": 90,
-                "video_type_status": 1
-              },
-              {
-                "end_time": "2145916800",
-                "platform_source": 1,
-                "price": 168000,
+                "price": 108000,
                 "price_extra_info": {},
                 "start_time": "1788192000",
                 "task_category": 1,
-                "video_type": 150,
+                "video_type": 2,
                 "video_type_status": 1
               },
               {
@@ -2786,17 +2775,27 @@
                 "price_extra_info": {},
                 "start_time": "1788192000",
                 "task_category": 1,
-                "video_type": 71,
+                "video_type": 150,
                 "video_type_status": 1
               },
               {
                 "end_time": "2145916800",
                 "platform_source": 1,
-                "price": 108000,
+                "price": 168000,
                 "price_extra_info": {},
-                "start_time": "1788192000",
+                "start_time": "1751299200",
                 "task_category": 1,
-                "video_type": 2,
+                "video_type": 91,
+                "video_type_status": 1
+              },
+              {
+                "end_time": "2145916800",
+                "platform_source": 1,
+                "price": 168000,
+                "price_extra_info": {},
+                "start_time": "1751299200",
+                "task_category": 1,
+                "video_type": 90,
                 "video_type_status": 1
               }
             ],
@@ -2947,21 +2946,21 @@
               {
                 "end_time": "2145916800",
                 "platform_source": 1,
-                "price": 1200000,
-                "price_extra_info": {},
-                "start_time": "1782827757",
-                "task_category": 1,
-                "video_type": 71,
-                "video_type_status": 1
-              },
-              {
-                "end_time": "2145916800",
-                "platform_source": 1,
                 "price": 600000,
                 "price_extra_info": {},
                 "start_time": "1782827757",
                 "task_category": 1,
                 "video_type": 2,
+                "video_type_status": 1
+              },
+              {
+                "end_time": "2145916800",
+                "platform_source": 1,
+                "price": 1200000,
+                "price_extra_info": {},
+                "start_time": "1782827757",
+                "task_category": 1,
+                "video_type": 71,
                 "video_type_status": 1
               },
               {
@@ -2985,7 +2984,7 @@
           "author_level_game": "Lv1",
           "author_level_other": "Lv1",
           "author_status": "1",
-          "author_thin_mid_word_association_index": "{\"清爽\":0.027,\"玻色因\":0.14200000000000002,\"祛痘\":0.004,\"绵密\":0,\"美白\":0.047200000000000006,\"遮瑕\":0.07200000000000001,\"防晒\":0.169}",
+          "author_thin_mid_word_association_index": "{\"清爽\":0.001,\"玻色因\":0.5529999999999999,\"祛痘\":0,\"绵密\":0,\"美白\":0.0018000000000000002,\"胶原成分\":5.658999999999997,\"遮瑕\":0,\"防晒\":0.001}",
           "author_type": "3",
           "avatar_uri": "https://p11.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-avt-0015_6ab01370e94138a794c009106f43cb20.jpeg?from=3782654143",
           "brand_boost_vv": "0",
@@ -3120,23 +3119,10 @@
             "platform_source": 1,
             "price_infos": [
               {
-                "end_time": "2145916800",
                 "platform_source": 1,
-                "price": 90000,
-                "price_extra_info": {},
-                "start_time": "1763721521",
+                "price": 0,
                 "task_category": 1,
-                "video_type": 73,
-                "video_type_status": 1
-              },
-              {
-                "end_time": "2145916800",
-                "platform_source": 1,
-                "price": 360000,
-                "price_extra_info": {},
-                "start_time": "1786799076",
-                "task_category": 1,
-                "video_type": 150,
+                "video_type": 94,
                 "video_type_status": 1
               },
               {
@@ -3160,10 +3146,23 @@
                 "video_type_status": 1
               },
               {
+                "end_time": "2145916800",
                 "platform_source": 1,
-                "price": 0,
+                "price": 90000,
+                "price_extra_info": {},
+                "start_time": "1763721521",
                 "task_category": 1,
-                "video_type": 94,
+                "video_type": 73,
+                "video_type_status": 1
+              },
+              {
+                "end_time": "2145916800",
+                "platform_source": 1,
+                "price": 360000,
+                "price_extra_info": {},
+                "start_time": "1786799076",
+                "task_category": 1,
+                "video_type": 150,
                 "video_type_status": 1
               }
             ],
@@ -3181,7 +3180,7 @@
           "author_level_game": "Lv1",
           "author_level_other": "Lv1",
           "author_status": "1",
-          "author_thin_mid_word_association_index": "{\"年轻人\":0.05733333333333334,\"蛋白质\":0.201}",
+          "author_thin_mid_word_association_index": "{\"年轻人\":0.037666666666666675,\"蛋白质\":0.33000000000000007}",
           "author_type": "3",
           "avatar_uri": "https://p3.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-i-0813_0aee7036e6f341a0b5fef369532eeb0c.jpeg?from=3782654143",
           "avg_search_after_view_rate_30d": "0.0029",
@@ -3324,26 +3323,6 @@
               {
                 "end_time": "2145916800",
                 "platform_source": 1,
-                "price": 1000000,
-                "price_extra_info": {},
-                "start_time": "1743436800",
-                "task_category": 1,
-                "video_type": 91,
-                "video_type_status": 1
-              },
-              {
-                "end_time": "2145916800",
-                "platform_source": 1,
-                "price": 1000000,
-                "price_extra_info": {},
-                "start_time": "1743436800",
-                "task_category": 1,
-                "video_type": 90,
-                "video_type_status": 1
-              },
-              {
-                "end_time": "2145916800",
-                "platform_source": 1,
                 "price": 800000,
                 "price_extra_info": {},
                 "start_time": "1711900800",
@@ -3359,6 +3338,26 @@
                 "start_time": "1711900800",
                 "task_category": 1,
                 "video_type": 2,
+                "video_type_status": 1
+              },
+              {
+                "end_time": "2145916800",
+                "platform_source": 1,
+                "price": 1000000,
+                "price_extra_info": {},
+                "start_time": "1743436800",
+                "task_category": 1,
+                "video_type": 90,
+                "video_type_status": 1
+              },
+              {
+                "end_time": "2145916800",
+                "platform_source": 1,
+                "price": 1000000,
+                "price_extra_info": {},
+                "start_time": "1743436800",
+                "task_category": 1,
+                "video_type": 91,
                 "video_type_status": 1
               }
             ],
@@ -3683,7 +3682,7 @@
                 "price_extra_info": {},
                 "start_time": "1722933908",
                 "task_category": 1,
-                "video_type": 71,
+                "video_type": 2,
                 "video_type_status": 1
               },
               {
@@ -3693,7 +3692,7 @@
                 "price_extra_info": {},
                 "start_time": "1722933908",
                 "task_category": 1,
-                "video_type": 2,
+                "video_type": 71,
                 "video_type_status": 1
               }
             ],
@@ -3881,7 +3880,7 @@
       "is_intent_consistent": true,
       "search_author_count": 0,
       "search_item_count": 0,
-      "search_session_id": "7682903822993866793",
+      "search_session_id": "7682922106237370404",
       "speaker_live_base_dis": []
     },
     "pagination": {
