@@ -1,6 +1,6 @@
 {
-  "_fetchedAt": "2026-09-08T04:55:19.002250+08:00",
-  "_sourceCheckedAt": "2026-09-08T04:00:05",
+  "_fetchedAt": "2026-09-08T05:00:21.257941+08:00",
+  "_sourceCheckedAt": "2026-09-08T05:00:05",
   "code": 0,
   "message": null,
   "data": {
@@ -14,7 +14,7 @@
           "author_status": "1",
           "author_thin_mid_word_association_index": "{\"清爽\":0.135,\"防晒\":3.299999999999999,\"防水\":0.30000000000000004}",
           "author_type": "3",
-          "avatar_uri": "https://p26.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-avt-0015_a4391e9fc88a3ed36b0448661f82bc52.jpeg?from=3782654143",
+          "avatar_uri": "https://p3.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-avt-0015_a4391e9fc88a3ed36b0448661f82bc52.jpeg?from=3782654143",
           "avg_search_after_view_rate_30d": "0.0052",
           "brand_boost_vv": "0",
           "burst_text_rate": "1",
@@ -32,8 +32,8 @@
           "expected_natural_play_num": "3409720",
           "expected_play_num": "5094982",
           "fans_increment_rate_within_15d": "-0.0007836753873010053",
-          "fans_increment_within_30d": "32853590.7",
-          "follower": "64431972",
+          "fans_increment_within_30d": "58901",
+          "follower": "64511205",
           "game_type": "{\"\\u5c04\\u51fb\": 1.0}",
           "gender": "1",
           "grade": "0",
@@ -163,17 +163,7 @@
                 "price_extra_info": {},
                 "start_time": "1780243200",
                 "task_category": 1,
-                "video_type": 71,
-                "video_type_status": 1
-              },
-              {
-                "end_time": "2145916800",
-                "platform_source": 1,
-                "price": 900000,
-                "price_extra_info": {},
-                "start_time": "1780243200",
-                "task_category": 1,
-                "video_type": 2,
+                "video_type": 150,
                 "video_type_status": 1
               },
               {
@@ -193,7 +183,17 @@
                 "price_extra_info": {},
                 "start_time": "1780243200",
                 "task_category": 1,
-                "video_type": 150,
+                "video_type": 71,
+                "video_type_status": 1
+              },
+              {
+                "end_time": "2145916800",
+                "platform_source": 1,
+                "price": 900000,
+                "price_extra_info": {},
+                "start_time": "1780243200",
+                "task_category": 1,
+                "video_type": 2,
                 "video_type_status": 1
               }
             ],
@@ -204,7 +204,7 @@
       },
       {
         "attribute_datas": {
-          "assign_task_price_list": "[224000,350000,502400,502400,628000]",
+          "assign_task_price_list": "[224000,350000,502400,502400,628000,628000]",
           "author_avatar_frame_icon": "20",
           "author_ecom_level": "L5",
           "author_level_game": "Lv1",
@@ -238,7 +238,7 @@
           "grade": "0",
           "id": "6629722292110753806",
           "interact_rate_within_30d": "0.0236",
-          "interaction_median_30d": "252442",
+          "interaction_median_30d": "257080",
           "is_ad_star_cur_high_quality_author": "0",
           "is_black_horse_author": "false",
           "is_cocreate_author": "true",
@@ -295,7 +295,7 @@
           "tags_relation": "{\"剧情搞笑\":[\"剧情\"]}",
           "video_brand_boost": "true",
           "video_brand_boost_vv": "1000000",
-          "vv_median_30d": "12346224.5"
+          "vv_median_30d": "12369912"
         },
         "extra_data": {
           "content_query_from_word": "",
@@ -363,31 +363,11 @@
               {
                 "end_time": "2145916800",
                 "platform_source": 1,
-                "price": 507920,
+                "price": 628000,
                 "price_extra_info": {},
-                "start_time": "1738339200",
+                "start_time": "1787646373",
                 "task_category": 1,
-                "video_type": 91,
-                "video_type_status": 1
-              },
-              {
-                "end_time": "2145916800",
-                "platform_source": 1,
-                "price": 507920,
-                "price_extra_info": {},
-                "start_time": "1738339200",
-                "task_category": 1,
-                "video_type": 90,
-                "video_type_status": 1
-              },
-              {
-                "end_time": "2145916800",
-                "platform_source": 1,
-                "price": 180000,
-                "price_extra_info": {},
-                "start_time": "1730421694",
-                "task_category": 1,
-                "video_type": 73,
+                "video_type": 71,
                 "video_type_status": 1
               },
               {
@@ -413,21 +393,41 @@
               {
                 "end_time": "2145916800",
                 "platform_source": 1,
-                "price": 628000,
-                "price_extra_info": {},
-                "start_time": "1787646373",
-                "task_category": 1,
-                "video_type": 71,
-                "video_type_status": 1
-              },
-              {
-                "end_time": "2145916800",
-                "platform_source": 1,
                 "price": 600000,
                 "price_extra_info": {},
                 "start_time": "1788497329",
                 "task_category": 1,
                 "video_type": 150,
+                "video_type_status": 1
+              },
+              {
+                "end_time": "2145916800",
+                "platform_source": 1,
+                "price": 507920,
+                "price_extra_info": {},
+                "start_time": "1738339200",
+                "task_category": 1,
+                "video_type": 91,
+                "video_type_status": 1
+              },
+              {
+                "end_time": "2145916800",
+                "platform_source": 1,
+                "price": 507920,
+                "price_extra_info": {},
+                "start_time": "1738339200",
+                "task_category": 1,
+                "video_type": 90,
+                "video_type_status": 1
+              },
+              {
+                "end_time": "2145916800",
+                "platform_source": 1,
+                "price": 180000,
+                "price_extra_info": {},
+                "start_time": "1730421694",
+                "task_category": 1,
+                "video_type": 73,
                 "video_type_status": 1
               }
             ],
@@ -475,7 +475,7 @@
           "grade": "0",
           "id": "6611304620004212743",
           "interact_rate_within_30d": "0.0054",
-          "interaction_median_30d": "29598",
+          "interaction_median_30d": "27162",
           "is_ad_star_cur_high_quality_author": "0",
           "is_black_horse_author": "false",
           "is_cocreate_author": "false",
@@ -527,7 +527,7 @@
           "star_qianchuan_high_potential": "0",
           "star_whispers_author": "0",
           "tags_relation": "{\"母婴亲子\":[\"亲子互动\"]}",
-          "vv_median_30d": "3385358"
+          "vv_median_30d": "3019019"
         },
         "extra_data": {
           "content_query_from_word": "",
@@ -595,21 +595,21 @@
               {
                 "end_time": "2145916800",
                 "platform_source": 1,
-                "price": 420000,
-                "price_extra_info": {},
-                "start_time": "1735660800",
-                "task_category": 1,
-                "video_type": 71,
-                "video_type_status": 1
-              },
-              {
-                "end_time": "2145916800",
-                "platform_source": 1,
                 "price": 188900,
                 "price_extra_info": {},
                 "start_time": "1735660800",
                 "task_category": 1,
                 "video_type": 2,
+                "video_type_status": 1
+              },
+              {
+                "end_time": "2145916800",
+                "platform_source": 1,
+                "price": 420000,
+                "price_extra_info": {},
+                "start_time": "1735660800",
+                "task_category": 1,
+                "video_type": 71,
                 "video_type_status": 1
               },
               {
@@ -676,7 +676,7 @@
           "grade": "0",
           "id": "6639142276259905550",
           "interact_rate_within_30d": "0.0859",
-          "interaction_median_30d": "8800566.5",
+          "interaction_median_30d": "8916192",
           "is_ad_star_cur_high_quality_author": "0",
           "is_black_horse_author": "false",
           "is_cocreate_author": "true",
@@ -726,7 +726,7 @@
           "tags_relation": "{\"游戏\":[\"游戏录屏\"]}",
           "video_brand_boost": "true",
           "video_brand_boost_vv": "1000000",
-          "vv_median_30d": "96460127.5"
+          "vv_median_30d": "97701311.5"
         },
         "extra_data": {
           "content_query_from_word": "",
@@ -784,16 +784,6 @@
               {
                 "end_time": "2145916800",
                 "platform_source": 1,
-                "price": 12000,
-                "price_extra_info": {},
-                "start_time": "1669824000",
-                "task_category": 1,
-                "video_type": 91,
-                "video_type_status": 1
-              },
-              {
-                "end_time": "2145916800",
-                "platform_source": 1,
                 "price": 30000,
                 "price_extra_info": {},
                 "start_time": "1669824000",
@@ -804,11 +794,11 @@
               {
                 "end_time": "2145916800",
                 "platform_source": 1,
-                "price": 72300,
+                "price": 12000,
                 "price_extra_info": {},
-                "start_time": "1783441150",
+                "start_time": "1669824000",
                 "task_category": 1,
-                "video_type": 71,
+                "video_type": 91,
                 "video_type_status": 1
               },
               {
@@ -819,6 +809,16 @@
                 "start_time": "1783441150",
                 "task_category": 1,
                 "video_type": 2,
+                "video_type_status": 1
+              },
+              {
+                "end_time": "2145916800",
+                "platform_source": 1,
+                "price": 72300,
+                "price_extra_info": {},
+                "start_time": "1783441150",
+                "task_category": 1,
+                "video_type": 71,
                 "video_type_status": 1
               }
             ],
@@ -859,7 +859,7 @@
           "grade": "0",
           "id": "7099236528932519949",
           "interact_rate_within_30d": "0.0349",
-          "interaction_median_30d": "830993",
+          "interaction_median_30d": "841996",
           "is_ad_star_cur_high_quality_author": "0",
           "is_black_horse_author": "false",
           "is_cocreate_author": "false",
@@ -909,7 +909,7 @@
           "star_qianchuan_high_potential": "0",
           "star_whispers_author": "0",
           "tags_relation": "{\"游戏\":[\"游戏其他\"]}",
-          "vv_median_30d": "26320964"
+          "vv_median_30d": "27217762"
         },
         "extra_data": {
           "content_query_from_word": "",
@@ -967,11 +967,11 @@
               {
                 "end_time": "2145916800",
                 "platform_source": 1,
-                "price": 55100,
+                "price": 8600,
                 "price_extra_info": {},
-                "start_time": "1782835200",
+                "start_time": "1666361627",
                 "task_category": 1,
-                "video_type": 2,
+                "video_type": 91,
                 "video_type_status": 1
               },
               {
@@ -987,11 +987,11 @@
               {
                 "end_time": "2145916800",
                 "platform_source": 1,
-                "price": 8600,
+                "price": 55100,
                 "price_extra_info": {},
-                "start_time": "1666361627",
+                "start_time": "1782835200",
                 "task_category": 1,
-                "video_type": 91,
+                "video_type": 2,
                 "video_type_status": 1
               }
             ],
@@ -1036,7 +1036,7 @@
           "grade": "0",
           "id": "6870160048945889294",
           "interact_rate_within_30d": "0.0295",
-          "interaction_median_30d": "108331",
+          "interaction_median_30d": "114749",
           "is_ad_star_cur_high_quality_author": "0",
           "is_black_horse_author": "false",
           "is_cocreate_author": "true",
@@ -1088,7 +1088,7 @@
           "star_qianchuan_high_potential": "0",
           "star_whispers_author": "0",
           "tags_relation": "{\"时尚\":[\"穿搭\"]}",
-          "vv_median_30d": "5563909"
+          "vv_median_30d": "5599436"
         },
         "extra_data": {
           "content_query_from_word": "",
@@ -1156,6 +1156,46 @@
               {
                 "end_time": "2145916800",
                 "platform_source": 1,
+                "price": 900000,
+                "price_extra_info": {},
+                "start_time": "1787651116",
+                "task_category": 1,
+                "video_type": 150,
+                "video_type_status": 1
+              },
+              {
+                "end_time": "2145916800",
+                "platform_source": 1,
+                "price": 140000,
+                "price_extra_info": {},
+                "start_time": "1788192000",
+                "task_category": 1,
+                "video_type": 151,
+                "video_type_status": 1
+              },
+              {
+                "end_time": "2145916800",
+                "platform_source": 1,
+                "price": 350000,
+                "price_extra_info": {},
+                "start_time": "1722441600",
+                "task_category": 1,
+                "video_type": 91,
+                "video_type_status": 1
+              },
+              {
+                "end_time": "2145916800",
+                "platform_source": 1,
+                "price": 500000,
+                "price_extra_info": {},
+                "start_time": "1722441600",
+                "task_category": 1,
+                "video_type": 90,
+                "video_type_status": 1
+              },
+              {
+                "end_time": "2145916800",
+                "platform_source": 1,
                 "price": 400000,
                 "price_extra_info": {},
                 "start_time": "1788192000",
@@ -1182,46 +1222,6 @@
                 "task_category": 1,
                 "video_type": 2,
                 "video_type_status": 1
-              },
-              {
-                "end_time": "2145916800",
-                "platform_source": 1,
-                "price": 900000,
-                "price_extra_info": {},
-                "start_time": "1787651116",
-                "task_category": 1,
-                "video_type": 150,
-                "video_type_status": 1
-              },
-              {
-                "end_time": "2145916800",
-                "platform_source": 1,
-                "price": 140000,
-                "price_extra_info": {},
-                "start_time": "1788192000",
-                "task_category": 1,
-                "video_type": 151,
-                "video_type_status": 1
-              },
-              {
-                "end_time": "2145916800",
-                "platform_source": 1,
-                "price": 500000,
-                "price_extra_info": {},
-                "start_time": "1722441600",
-                "task_category": 1,
-                "video_type": 90,
-                "video_type_status": 1
-              },
-              {
-                "end_time": "2145916800",
-                "platform_source": 1,
-                "price": 350000,
-                "price_extra_info": {},
-                "start_time": "1722441600",
-                "task_category": 1,
-                "video_type": 91,
-                "video_type_status": 1
               }
             ],
             "task_category": 1,
@@ -1238,7 +1238,7 @@
           "author_status": "1",
           "author_thin_mid_word_association_index": "{\"清爽\":1.2705000000000002,\"祛痘\":0.09,\"绵密\":4.902,\"聚会\":0.006,\"胶原成分\":0.051000000000000004}",
           "author_type": "2",
-          "avatar_uri": "https://p3.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-avt-0015_50f81f2b261af0eb5a28f26cf4f541a3.jpeg?from=3782654143",
+          "avatar_uri": "https://p26.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-avt-0015_50f81f2b261af0eb5a28f26cf4f541a3.jpeg?from=3782654143",
           "avg_search_after_view_rate_30d": "0.003",
           "brand_boost_vv": "0",
           "city": "成都市",
@@ -1257,13 +1257,13 @@
           "expected_play_num": "2870047",
           "fans_increment_rate_within_15d": "0.0013086083641599517",
           "fans_increment_within_30d": "6238983.13",
-          "follower": "14344333",
+          "follower": "14341672",
           "game_type": "",
           "gender": "2",
           "grade": "0",
           "id": "6596679280829136910",
           "interact_rate_within_30d": "0.0371",
-          "interaction_median_30d": "89417",
+          "interaction_median_30d": "90645",
           "is_black_horse_author": "false",
           "is_cocreate_author": "false",
           "is_cpm_project_author": "1",
@@ -1314,7 +1314,7 @@
           "tags_relation": "{\"剧情搞笑\":[\"剧情\"]}",
           "video_brand_boost": "false",
           "video_brand_boost_vv": "0",
-          "vv_median_30d": "2931522"
+          "vv_median_30d": "3003618"
         },
         "extra_data": {
           "content_query_from_word": "",
@@ -1382,11 +1382,11 @@
               {
                 "end_time": "2145916800",
                 "platform_source": 1,
-                "price": 300000,
+                "price": 450000,
                 "price_extra_info": {},
-                "start_time": "1772531565",
+                "start_time": "1725120000",
                 "task_category": 1,
-                "video_type": 2,
+                "video_type": 91,
                 "video_type_status": 1
               },
               {
@@ -1402,21 +1402,21 @@
               {
                 "end_time": "2145916800",
                 "platform_source": 1,
-                "price": 600000,
+                "price": 300000,
                 "price_extra_info": {},
-                "start_time": "1787909225",
+                "start_time": "1772531565",
                 "task_category": 1,
-                "video_type": 150,
+                "video_type": 2,
                 "video_type_status": 1
               },
               {
                 "end_time": "2145916800",
                 "platform_source": 1,
-                "price": 450000,
+                "price": 600000,
                 "price_extra_info": {},
-                "start_time": "1725120000",
+                "start_time": "1787909225",
                 "task_category": 1,
-                "video_type": 91,
+                "video_type": 150,
                 "video_type_status": 1
               }
             ],
@@ -1447,14 +1447,14 @@
           "expected_natural_play_num": "822468",
           "expected_play_num": "417779",
           "fans_increment_rate_within_15d": "-0.0015154237286733496",
-          "fans_increment_within_30d": "-45103",
+          "fans_increment_within_30d": "68",
           "follower": "13276985",
           "game_type": "",
           "gender": "1",
           "grade": "0",
           "id": "6677811883849809933",
           "interact_rate_within_30d": "0.0072",
-          "interaction_median_30d": "13898",
+          "interaction_median_30d": "14015.5",
           "is_black_horse_author": "false",
           "is_cocreate_author": "true",
           "is_cpm_project_author": "0",
@@ -1505,7 +1505,7 @@
           "tags_relation": "{\"汽车\":[\"汽车测评\"]}",
           "video_brand_boost": "false",
           "video_brand_boost_vv": "0",
-          "vv_median_30d": "2682388.5"
+          "vv_median_30d": "2719523.5"
         },
         "extra_data": {
           "content_query_from_word": "",
@@ -1573,16 +1573,6 @@
               {
                 "end_time": "2145916800",
                 "platform_source": 1,
-                "price": 272000,
-                "price_extra_info": {},
-                "start_time": "1787880368",
-                "task_category": 1,
-                "video_type": 150,
-                "video_type_status": 1
-              },
-              {
-                "end_time": "2145916800",
-                "platform_source": 1,
                 "price": 170000,
                 "price_extra_info": {},
                 "start_time": "1788192000",
@@ -1619,6 +1609,16 @@
                 "task_category": 1,
                 "video_type": 2,
                 "video_type_status": 1
+              },
+              {
+                "end_time": "2145916800",
+                "platform_source": 1,
+                "price": 272000,
+                "price_extra_info": {},
+                "start_time": "1787880368",
+                "task_category": 1,
+                "video_type": 150,
+                "video_type_status": 1
               }
             ],
             "task_category": 1,
@@ -1653,7 +1653,7 @@
           "grade": "0",
           "id": "6628050788285415438",
           "interact_rate_within_30d": "0.0307",
-          "interaction_median_30d": "2599",
+          "interaction_median_30d": "3259",
           "is_ad_star_cur_high_quality_author": "0",
           "is_black_horse_author": "false",
           "is_cocreate_author": "false",
@@ -1707,7 +1707,7 @@
           "tags_relation": "{\"舞蹈\":[\"舞蹈\"],\"颜值达人\":[\"美女\"]}",
           "video_brand_boost": "false",
           "video_brand_boost_vv": "0",
-          "vv_median_30d": "144286"
+          "vv_median_30d": "167488"
         },
         "extra_data": {
           "content_query_from_word": "",
@@ -1765,6 +1765,26 @@
               {
                 "end_time": "2145916800",
                 "platform_source": 1,
+                "price": 206500,
+                "price_extra_info": {},
+                "start_time": "1775203447",
+                "task_category": 1,
+                "video_type": 71,
+                "video_type_status": 1
+              },
+              {
+                "end_time": "2145916800",
+                "platform_source": 1,
+                "price": 141500,
+                "price_extra_info": {},
+                "start_time": "1775203447",
+                "task_category": 1,
+                "video_type": 2,
+                "video_type_status": 1
+              },
+              {
+                "end_time": "2145916800",
+                "platform_source": 1,
                 "price": 283000,
                 "price_extra_info": {},
                 "start_time": "1775203447",
@@ -1790,26 +1810,6 @@
                 "start_time": "1717171200",
                 "task_category": 1,
                 "video_type": 91,
-                "video_type_status": 1
-              },
-              {
-                "end_time": "2145916800",
-                "platform_source": 1,
-                "price": 206500,
-                "price_extra_info": {},
-                "start_time": "1775203447",
-                "task_category": 1,
-                "video_type": 71,
-                "video_type_status": 1
-              },
-              {
-                "end_time": "2145916800",
-                "platform_source": 1,
-                "price": 141500,
-                "price_extra_info": {},
-                "start_time": "1775203447",
-                "task_category": 1,
-                "video_type": 2,
                 "video_type_status": 1
               }
             ],
@@ -1847,14 +1847,14 @@
           "expected_natural_play_num": "923816",
           "expected_play_num": "957723",
           "fans_increment_rate_within_15d": "-0.0011440418440280319",
-          "fans_increment_within_30d": "-27780",
+          "fans_increment_within_30d": "5157828.94",
           "follower": "12879921",
           "game_type": "",
           "gender": "1",
           "grade": "0",
           "id": "6999903107467460644",
           "interact_rate_within_30d": "0.0126",
-          "interaction_median_30d": "12546",
+          "interaction_median_30d": "13360.5",
           "is_ad_star_cur_high_quality_author": "0",
           "is_black_horse_author": "false",
           "is_cocreate_author": "true",
@@ -1909,7 +1909,7 @@
           "tags_relation": "{\"艺术文化\":[\"人文科普\"]}",
           "video_brand_boost": "true",
           "video_brand_boost_vv": "1000000",
-          "vv_median_30d": "807230"
+          "vv_median_30d": "815114.5"
         },
         "extra_data": {
           "content_query_from_word": "",
@@ -2164,21 +2164,11 @@
               {
                 "end_time": "2145916800",
                 "platform_source": 1,
-                "price": 500000,
+                "price": 84000,
                 "price_extra_info": {},
-                "start_time": "1781080541",
+                "start_time": "1746417175",
                 "task_category": 1,
-                "video_type": 71,
-                "video_type_status": 1
-              },
-              {
-                "end_time": "2145916800",
-                "platform_source": 1,
-                "price": 450000,
-                "price_extra_info": {},
-                "start_time": "1781080541",
-                "task_category": 1,
-                "video_type": 2,
+                "video_type": 150,
                 "video_type_status": 1
               },
               {
@@ -2194,11 +2184,21 @@
               {
                 "end_time": "2145916800",
                 "platform_source": 1,
-                "price": 84000,
+                "price": 500000,
                 "price_extra_info": {},
-                "start_time": "1746417175",
+                "start_time": "1781080541",
                 "task_category": 1,
-                "video_type": 150,
+                "video_type": 71,
+                "video_type_status": 1
+              },
+              {
+                "end_time": "2145916800",
+                "platform_source": 1,
+                "price": 450000,
+                "price_extra_info": {},
+                "start_time": "1781080541",
+                "task_category": 1,
+                "video_type": 2,
                 "video_type_status": 1
               }
             ],
@@ -2233,14 +2233,14 @@
           "expected_natural_play_num": "1066322",
           "expected_play_num": "996894",
           "fans_increment_rate_within_15d": "0.0023033699730512862",
-          "fans_increment_within_30d": "36743.25",
+          "fans_increment_within_30d": "120721",
           "follower": "10935293",
           "game_type": "{\"\\u5c04\\u51fb\": 1.0}",
           "gender": "1",
           "grade": "0",
           "id": "6629656698040614920",
           "interact_rate_within_30d": "0.0303",
-          "interaction_median_30d": "33328",
+          "interaction_median_30d": "38701",
           "is_ad_star_cur_high_quality_author": "0",
           "is_black_horse_author": "false",
           "is_cocreate_author": "true",
@@ -2292,7 +2292,7 @@
           "tags_relation": "{\"游戏\":[\"游戏录屏\"]}",
           "video_brand_boost": "true",
           "video_brand_boost_vv": "1000000",
-          "vv_median_30d": "1014775"
+          "vv_median_30d": "1077908"
         },
         "extra_data": {
           "content_query_from_word": "",
@@ -2360,21 +2360,11 @@
               {
                 "end_time": "2145916800",
                 "platform_source": 1,
-                "price": 40000,
-                "price_extra_info": {},
-                "start_time": "1664553600",
-                "task_category": 1,
-                "video_type": 91,
-                "video_type_status": 1
-              },
-              {
-                "end_time": "2145916800",
-                "platform_source": 1,
                 "price": 100000,
                 "price_extra_info": {},
-                "start_time": "1664553600",
+                "start_time": "1783173773",
                 "task_category": 1,
-                "video_type": 90,
+                "video_type": 2,
                 "video_type_status": 1
               },
               {
@@ -2390,11 +2380,21 @@
               {
                 "end_time": "2145916800",
                 "platform_source": 1,
+                "price": 40000,
+                "price_extra_info": {},
+                "start_time": "1664553600",
+                "task_category": 1,
+                "video_type": 91,
+                "video_type_status": 1
+              },
+              {
+                "end_time": "2145916800",
+                "platform_source": 1,
                 "price": 100000,
                 "price_extra_info": {},
-                "start_time": "1783173773",
+                "start_time": "1664553600",
                 "task_category": 1,
-                "video_type": 2,
+                "video_type": 90,
                 "video_type_status": 1
               }
             ],
@@ -2424,13 +2424,13 @@
           "expected_play_num": "1704324",
           "fans_increment_rate_within_15d": "0.0012684002506120676",
           "fans_increment_within_30d": "15931",
-          "follower": "9986256",
+          "follower": "9986553",
           "game_type": "",
           "gender": "1",
           "grade": "0",
           "id": "6698864417347469323",
           "interact_rate_within_30d": "0.015",
-          "interaction_median_30d": "20398",
+          "interaction_median_30d": "20526",
           "is_ad_star_cur_high_quality_author": "0",
           "is_black_horse_author": "false",
           "is_cocreate_author": "false",
@@ -2478,7 +2478,7 @@
           "star_qianchuan_high_potential": "0",
           "star_whispers_author": "0",
           "tags_relation": "{\"运动健身\":[\"格斗\"]}",
-          "vv_median_30d": "743909"
+          "vv_median_30d": "764757"
         },
         "extra_data": {
           "content_query_from_word": "",
@@ -2622,7 +2622,7 @@
           "grade": "0",
           "id": "6709684681404579848",
           "interact_rate_within_30d": "0.0168",
-          "interaction_median_30d": "4284",
+          "interaction_median_30d": "4471.5",
           "is_ad_star_cur_high_quality_author": "0",
           "is_black_horse_author": "false",
           "is_cocreate_author": "true",
@@ -2674,7 +2674,7 @@
           "star_qianchuan_high_potential": "0",
           "star_whispers_author": "0",
           "tags_relation": "{\"剧情搞笑\":[\"剧情\"]}",
-          "vv_median_30d": "215734.5"
+          "vv_median_30d": "245292"
         },
         "extra_data": {
           "content_query_from_word": "",
@@ -2744,9 +2744,9 @@
                 "platform_source": 1,
                 "price": 168000,
                 "price_extra_info": {},
-                "start_time": "1751299200",
+                "start_time": "1788192000",
                 "task_category": 1,
-                "video_type": 91,
+                "video_type": 150,
                 "video_type_status": 1
               },
               {
@@ -2757,6 +2757,16 @@
                 "start_time": "1751299200",
                 "task_category": 1,
                 "video_type": 90,
+                "video_type_status": 1
+              },
+              {
+                "end_time": "2145916800",
+                "platform_source": 1,
+                "price": 168000,
+                "price_extra_info": {},
+                "start_time": "1751299200",
+                "task_category": 1,
+                "video_type": 91,
                 "video_type_status": 1
               },
               {
@@ -2788,16 +2798,6 @@
                 "task_category": 1,
                 "video_type": 94,
                 "video_type_status": 1
-              },
-              {
-                "end_time": "2145916800",
-                "platform_source": 1,
-                "price": 168000,
-                "price_extra_info": {},
-                "start_time": "1788192000",
-                "task_category": 1,
-                "video_type": 150,
-                "video_type_status": 1
               }
             ],
             "task_category": 1,
@@ -2814,7 +2814,7 @@
           "author_status": "1",
           "author_thin_mid_word_association_index": "{}",
           "author_type": "3",
-          "avatar_uri": "https://p3.douyinpic.com/aweme/1080x1080/aweme-avatar/mosaic-legacy_3133c0003ef9f02e95d75.jpeg?from=3782654143",
+          "avatar_uri": "https://p26.douyinpic.com/aweme/1080x1080/aweme-avatar/mosaic-legacy_3133c0003ef9f02e95d75.jpeg?from=3782654143",
           "brand_boost_vv": "0",
           "city": "北京",
           "content_theme_labels_180d": "[]",
@@ -2829,7 +2829,7 @@
           "expected_play_num": "3922273",
           "fans_increment_rate_within_15d": "-0.00037326720920110266",
           "fans_increment_within_30d": "-10514",
-          "follower": "9851802",
+          "follower": "9850970",
           "game_type": "",
           "gender": "1",
           "grade": "0",
@@ -2987,7 +2987,7 @@
           "author_status": "1",
           "author_thin_mid_word_association_index": "{\"清爽\":0.027,\"玻色因\":0.14200000000000002,\"祛痘\":0.004,\"绵密\":0,\"美白\":0.047200000000000006,\"遮瑕\":0.07200000000000001,\"防晒\":0.169}",
           "author_type": "3",
-          "avatar_uri": "https://p3.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-avt-0015_6ab01370e94138a794c009106f43cb20.jpeg?from=3782654143",
+          "avatar_uri": "https://p11.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-avt-0015_6ab01370e94138a794c009106f43cb20.jpeg?from=3782654143",
           "brand_boost_vv": "0",
           "city": "",
           "content_theme_labels_180d": "[]",
@@ -3004,13 +3004,13 @@
           "expected_play_num": "560343",
           "fans_increment_rate_within_15d": "0.008289180891797643",
           "fans_increment_within_30d": "17122360.58",
-          "follower": "9300575",
+          "follower": "9298653",
           "game_type": "",
           "gender": "2",
           "grade": "0",
           "id": "6870122370523201543",
           "interact_rate_within_30d": "0.0197",
-          "interaction_median_30d": "7677",
+          "interaction_median_30d": "7679",
           "is_ad_star_cur_high_quality_author": "0",
           "is_black_horse_author": "false",
           "is_cocreate_author": "true",
@@ -3059,7 +3059,7 @@
           "star_qianchuan_high_potential": "0",
           "star_whispers_author": "0",
           "tags_relation": "{\"影视娱乐\":[\"明星资讯\"]}",
-          "vv_median_30d": "197551"
+          "vv_median_30d": "198325"
         },
         "extra_data": {
           "content_query_from_word": "",
@@ -3122,11 +3122,31 @@
               {
                 "end_time": "2145916800",
                 "platform_source": 1,
+                "price": 90000,
+                "price_extra_info": {},
+                "start_time": "1763721521",
+                "task_category": 1,
+                "video_type": 73,
+                "video_type_status": 1
+              },
+              {
+                "end_time": "2145916800",
+                "platform_source": 1,
                 "price": 360000,
                 "price_extra_info": {},
                 "start_time": "1786799076",
                 "task_category": 1,
                 "video_type": 150,
+                "video_type_status": 1
+              },
+              {
+                "end_time": "2145916800",
+                "platform_source": 1,
+                "price": 180000,
+                "price_extra_info": {},
+                "start_time": "1786799076",
+                "task_category": 1,
+                "video_type": 2,
                 "video_type_status": 1
               },
               {
@@ -3144,26 +3164,6 @@
                 "start_time": "1786799076",
                 "task_category": 1,
                 "video_type": 71,
-                "video_type_status": 1
-              },
-              {
-                "end_time": "2145916800",
-                "platform_source": 1,
-                "price": 180000,
-                "price_extra_info": {},
-                "start_time": "1786799076",
-                "task_category": 1,
-                "video_type": 2,
-                "video_type_status": 1
-              },
-              {
-                "end_time": "2145916800",
-                "platform_source": 1,
-                "price": 90000,
-                "price_extra_info": {},
-                "start_time": "1763721521",
-                "task_category": 1,
-                "video_type": 73,
                 "video_type_status": 1
               }
             ],
@@ -3328,7 +3328,7 @@
                 "price_extra_info": {},
                 "start_time": "1743436800",
                 "task_category": 1,
-                "video_type": 90,
+                "video_type": 91,
                 "video_type_status": 1
               },
               {
@@ -3338,17 +3338,7 @@
                 "price_extra_info": {},
                 "start_time": "1743436800",
                 "task_category": 1,
-                "video_type": 91,
-                "video_type_status": 1
-              },
-              {
-                "end_time": "2145916800",
-                "platform_source": 1,
-                "price": 600000,
-                "price_extra_info": {},
-                "start_time": "1711900800",
-                "task_category": 1,
-                "video_type": 2,
+                "video_type": 90,
                 "video_type_status": 1
               },
               {
@@ -3359,6 +3349,16 @@
                 "start_time": "1711900800",
                 "task_category": 1,
                 "video_type": 71,
+                "video_type_status": 1
+              },
+              {
+                "end_time": "2145916800",
+                "platform_source": 1,
+                "price": 600000,
+                "price_extra_info": {},
+                "start_time": "1711900800",
+                "task_category": 1,
+                "video_type": 2,
                 "video_type_status": 1
               }
             ],
@@ -3396,7 +3396,7 @@
           "grade": "0",
           "id": "6765055517124460557",
           "interact_rate_within_30d": "0.0044",
-          "interaction_median_30d": "12431.5",
+          "interaction_median_30d": "12891",
           "is_ad_star_cur_high_quality_author": "0",
           "is_black_horse_author": "false",
           "is_cocreate_author": "true",
@@ -3449,7 +3449,7 @@
           "tags_relation": "{\"剧情搞笑\":[\"剧情\"]}",
           "video_brand_boost": "false",
           "video_brand_boost_vv": "0",
-          "vv_median_30d": "2798343"
+          "vv_median_30d": "2989590"
         },
         "extra_data": {
           "content_query_from_word": "",
@@ -3551,7 +3551,7 @@
                 "price_extra_info": {},
                 "start_time": "1717171200",
                 "task_category": 1,
-                "video_type": 90,
+                "video_type": 91,
                 "video_type_status": 1
               },
               {
@@ -3561,7 +3561,7 @@
                 "price_extra_info": {},
                 "start_time": "1717171200",
                 "task_category": 1,
-                "video_type": 91,
+                "video_type": 90,
                 "video_type_status": 1
               }
             ],
@@ -3683,7 +3683,7 @@
                 "price_extra_info": {},
                 "start_time": "1722933908",
                 "task_category": 1,
-                "video_type": 2,
+                "video_type": 71,
                 "video_type_status": 1
               },
               {
@@ -3693,7 +3693,7 @@
                 "price_extra_info": {},
                 "start_time": "1722933908",
                 "task_category": 1,
-                "video_type": 71,
+                "video_type": 2,
                 "video_type_status": 1
               }
             ],
@@ -3711,7 +3711,7 @@
           "author_status": "1",
           "author_thin_mid_word_association_index": "{}",
           "author_type": "1",
-          "avatar_uri": "https://p11.douyinpic.com/aweme/1080x1080/aweme-avatar/mosaic-legacy_55350013f6c04d25c007.jpeg?from=3782654143",
+          "avatar_uri": "https://p3.douyinpic.com/aweme/1080x1080/aweme-avatar/mosaic-legacy_55350013f6c04d25c007.jpeg?from=3782654143",
           "brand_boost_vv": "209075",
           "city": "广州市",
           "content_theme_labels_180d": "[\"亲子活动\",\"家庭幽默演绎\",\"搞笑剧情\",\"盖饭\",\"自制美食\",\"深夜美食\",\"亲情剧集\"]",
@@ -3723,13 +3723,13 @@
           "expected_play_num": "337459",
           "fans_increment_rate_within_15d": "-0.0016732598003528524",
           "fans_increment_within_30d": "-33454",
-          "follower": "8447111",
+          "follower": "8446517",
           "game_type": "",
           "gender": "2",
           "grade": "0",
           "id": "6596679506684018695",
           "interact_rate_within_30d": "0.0118",
-          "interaction_median_30d": "3615",
+          "interaction_median_30d": "3320",
           "is_black_horse_author": "false",
           "is_cocreate_author": "false",
           "is_cpm_project_author": "0",
@@ -3779,7 +3779,7 @@
           "tags_relation": "{\"母婴亲子\":[\"亲子互动\"]}",
           "video_brand_boost": "true",
           "video_brand_boost_vv": "209075",
-          "vv_median_30d": "201744"
+          "vv_median_30d": "202592.5"
         },
         "extra_data": {
           "content_query_from_word": "",
@@ -3837,6 +3837,16 @@
               {
                 "end_time": "2145916800",
                 "platform_source": 1,
+                "price": 105000,
+                "price_extra_info": {},
+                "start_time": "1698768000",
+                "task_category": 1,
+                "video_type": 91,
+                "video_type_status": 1
+              },
+              {
+                "end_time": "2145916800",
+                "platform_source": 1,
                 "price": 55000,
                 "price_extra_info": {},
                 "start_time": "1782827599",
@@ -3852,16 +3862,6 @@
                 "start_time": "1782827598",
                 "task_category": 1,
                 "video_type": 2,
-                "video_type_status": 1
-              },
-              {
-                "end_time": "2145916800",
-                "platform_source": 1,
-                "price": 105000,
-                "price_extra_info": {},
-                "start_time": "1698768000",
-                "task_category": 1,
-                "video_type": 91,
                 "video_type_status": 1
               }
             ],
@@ -3881,7 +3881,7 @@
       "is_intent_consistent": true,
       "search_author_count": 0,
       "search_item_count": 0,
-      "search_session_id": "7682880603443888147",
+      "search_session_id": "7682895567735259172",
       "speaker_live_base_dis": []
     },
     "pagination": {

@@ -1,6 +1,6 @@
 {
-  "_fetchedAt": "2026-09-08T04:55:37.707170+08:00",
-  "_sourceCheckedAt": "2026-09-08T04:00:21",
+  "_fetchedAt": "2026-09-08T05:00:39.861812+08:00",
+  "_sourceCheckedAt": "2026-09-08T05:00:15",
   "code": 0,
   "message": null,
   "data": {
@@ -30,6 +30,36 @@
           "$ 525"
         ],
         "display_price": 525,
+        "currency": "TWD",
+        "sold_text": null
+      },
+      {
+        "shop_id": 1861961956,
+        "item_id": 46363924149,
+        "display_model_id": 292779756328,
+        "model_selection_logic": 3,
+        "title": "NESCAFE Rich Blend 500g",
+        "image_url": "https://down-tw.img.susercontent.com/file/tw-11134207-820l5-mqyiojlqz4lh95",
+        "image_alt": "NESCAFE Rich Blend 500g",
+        "price_texts": [
+          "$ 465"
+        ],
+        "display_price": 465,
+        "currency": "TWD",
+        "sold_text": null
+      },
+      {
+        "shop_id": 1549801016,
+        "item_id": 47715623890,
+        "display_model_id": 311335106772,
+        "model_selection_logic": 3,
+        "title": "【限時秒殺】星巴克門市專用款 咖啡豆2Kg 美式意式拿鐵阿拉比卡深度烘焙黑咖啡 可磨粉 咖啡豆 咖啡粉 coffee",
+        "image_url": "https://down-tw.img.susercontent.com/file/tw-11134207-820lb-mrljx5x1hu6877",
+        "image_alt": "【限時秒殺】星巴克門市專用款 咖啡豆2Kg 美式意式拿鐵阿拉比卡深度烘焙黑咖啡 可磨粉 咖啡豆 咖啡粉 coffee",
+        "price_texts": [
+          "$ 280"
+        ],
+        "display_price": 280,
         "currency": "TWD",
         "sold_text": null
       },
@@ -65,36 +95,6 @@
         "sold_text": null
       },
       {
-        "shop_id": 42603984,
-        "item_id": 25790346072,
-        "display_model_id": 223692961145,
-        "model_selection_logic": 3,
-        "title": "『 Casa 卡薩 嚴選綜合濾掛式咖啡 9gX100入 (4款 : 藍山/曼巴/巴西/曼特寧) 』",
-        "image_url": "https://down-tw.img.susercontent.com/file/tw-11134207-820l8-mqd0wg23uo0b12",
-        "image_alt": "『 Casa 卡薩 嚴選綜合濾掛式咖啡 9gX100入 (4款 : 藍山/曼巴/巴西/曼特寧) 』",
-        "price_texts": [
-          "$ 868"
-        ],
-        "display_price": 868,
-        "currency": "TWD",
-        "sold_text": null
-      },
-      {
-        "shop_id": 2293056,
-        "item_id": 61949960,
-        "display_model_id": 401112052426,
-        "model_selection_logic": 3,
-        "title": "#悠西將# 日本 原裝 日本上島咖啡 UCC玻璃罐裝即溶咖啡 114咖啡117咖啡114117日本咖啡黑咖啡",
-        "image_url": "https://down-tw.img.susercontent.com/file/tw-11134207-7r98y-lz4xep7fs4j8b7",
-        "image_alt": "#悠西將# 日本 原裝 日本上島咖啡 UCC玻璃罐裝即溶咖啡 114咖啡117咖啡114117日本咖啡黑咖啡",
-        "price_texts": [
-          "$ 155"
-        ],
-        "display_price": 155,
-        "currency": "TWD",
-        "sold_text": null
-      },
-      {
         "shop_id": 6304988,
         "item_id": 17378081376,
         "display_model_id": 211038316018,
@@ -106,66 +106,6 @@
           "$ 789"
         ],
         "display_price": 789,
-        "currency": "TWD",
-        "sold_text": null
-      },
-      {
-        "shop_id": 1750022447,
-        "item_id": 53008362747,
-        "display_model_id": 420742408775,
-        "model_selection_logic": 3,
-        "title": "STARBUCKS ✈️特價 星巴克咖啡豆 1kg 黃金烘焙咖啡豆 早餐綜閤咖啡豆 包裝 深度烘焙咖啡豆 星巴克咖啡粉",
-        "image_url": "https://down-tw.img.susercontent.com/file/tw-11134207-820la-mmrvxdw32804f6",
-        "image_alt": "STARBUCKS ✈️特價 星巴克咖啡豆 1kg 黃金烘焙咖啡豆 早餐綜閤咖啡豆 包裝 深度烘焙咖啡豆 星巴克咖啡粉",
-        "price_texts": [
-          "$ 568"
-        ],
-        "display_price": 568,
-        "currency": "TWD",
-        "sold_text": null
-      },
-      {
-        "shop_id": 301578636,
-        "item_id": 56903002476,
-        "display_model_id": 315290811108,
-        "model_selection_logic": 3,
-        "title": "「現貨」免運好市多Darling親愛的白咖啡三合一30g80入2027/11月",
-        "image_url": "https://down-tw.img.susercontent.com/file/tw-11134207-820lh-mr7e6s239afa5a",
-        "image_alt": "「現貨」免運好市多Darling親愛的白咖啡三合一30g80入2027/11月",
-        "price_texts": [
-          "$ 655"
-        ],
-        "display_price": 655,
-        "currency": "TWD",
-        "sold_text": null
-      },
-      {
-        "shop_id": 1069893564,
-        "item_id": 29461002826,
-        "display_model_id": 300346114706,
-        "model_selection_logic": 3,
-        "title": "越南咖啡 三合一 G7 COFFEE 3in1 16公克x50包 KOPI SUSU VIETNAM 3in1 🔥現貨🔥",
-        "image_url": "https://down-tw.img.susercontent.com/file/tw-11134207-7r992-m02nav1jjmxz81",
-        "image_alt": "越南咖啡 三合一 G7 COFFEE 3in1 16公克x50包 KOPI SUSU VIETNAM 3in1 🔥現貨🔥",
-        "price_texts": [
-          "$ 215"
-        ],
-        "display_price": 215,
-        "currency": "TWD",
-        "sold_text": null
-      },
-      {
-        "shop_id": 26773945,
-        "item_id": 4013077355,
-        "display_model_id": 12358706457,
-        "model_selection_logic": 3,
-        "title": "(超商取貨限5袋)效期2028金車伯朗50包/袋 三合一咖啡 奶茶/曼特寧/藍山/焦糖瑪琪朵/ 曼特寧二合一 /卡布奇諾",
-        "image_url": "https://down-tw.img.susercontent.com/file/tw-11134207-81ztq-mhvbird30vt13f",
-        "image_alt": "(超商取貨限5袋)效期2028金車伯朗50包/袋 三合一咖啡 奶茶/曼特寧/藍山/焦糖瑪琪朵/ 曼特寧二合一 /卡布奇諾",
-        "price_texts": [
-          "$ 175"
-        ],
-        "display_price": 175,
         "currency": "TWD",
         "sold_text": null
       },
@@ -185,62 +125,62 @@
         "sold_text": null
       },
       {
-        "shop_id": 20874871,
-        "item_id": 40319008417,
-        "display_model_id": 243895520317,
+        "shop_id": 26773945,
+        "item_id": 4013077355,
+        "display_model_id": 12358706457,
         "model_selection_logic": 3,
-        "title": "STARBUCKS （臺灣 24H✈️）特價    星巴克咖啡豆 黃金烘焙咖啡豆 早餐綜閤咖啡豆  包裝",
-        "image_url": "https://down-tw.img.susercontent.com/file/sg-11134201-824ha-meny6g8sytxgc7",
-        "image_alt": "STARBUCKS （臺灣 24H✈️）特價    星巴克咖啡豆 黃金烘焙咖啡豆 早餐綜閤咖啡豆  包裝",
+        "title": "(超商取貨限5袋)效期2028金車伯朗50包/袋 三合一咖啡 奶茶/曼特寧/藍山/焦糖瑪琪朵/ 曼特寧二合一 /卡布奇諾",
+        "image_url": "https://down-tw.img.susercontent.com/file/tw-11134207-81ztq-mhvbird30vt13f",
+        "image_alt": "(超商取貨限5袋)效期2028金車伯朗50包/袋 三合一咖啡 奶茶/曼特寧/藍山/焦糖瑪琪朵/ 曼特寧二合一 /卡布奇諾",
         "price_texts": [
-          "$ 555"
+          "$ 175"
         ],
-        "display_price": 555,
+        "display_price": 175,
         "currency": "TWD",
         "sold_text": null
       },
       {
-        "shop_id": 166949596,
-        "item_id": 25458583708,
-        "display_model_id": 436314063077,
+        "shop_id": 3143855,
+        "item_id": 52010036576,
+        "display_model_id": 431457026059,
         "model_selection_logic": 3,
-        "title": "新到貨～星巴克 派克市場/經典黃金咖啡豆1.13公斤 原價999元",
-        "image_url": "https://down-tw.img.susercontent.com/file/tw-11134207-7rash-m4tqfk3s22zad9",
-        "image_alt": "新到貨～星巴克 派克市場/經典黃金咖啡豆1.13公斤 原價999元",
+        "title": "Dripo 日本咖啡焙煎所 即溶咖啡 即溶黑咖啡 黑咖啡 無糖黑咖啡 (1盒裝) 有效 : 2029年4月",
+        "image_url": "https://down-tw.img.susercontent.com/file/tw-11134207-820l4-mozki2kd0l598d",
+        "image_alt": "Dripo 日本咖啡焙煎所 即溶咖啡 即溶黑咖啡 黑咖啡 無糖黑咖啡 (1盒裝) 有效 : 2029年4月",
         "price_texts": [
-          "$ 209"
+          "$ 159"
         ],
-        "display_price": 209,
+        "display_price": 159,
         "currency": "TWD",
         "sold_text": null
       },
       {
-        "shop_id": 274069028,
-        "item_id": 24715331437,
-        "display_model_id": 226075946881,
+        "shop_id": 1069893564,
+        "item_id": 29461002826,
+        "display_model_id": 300346114706,
         "model_selection_logic": 3,
-        "title": "【Costco好市多】 KIRKLAND SIGNATURE 科克蘭即溶咖啡粉 大包裝 454g",
-        "image_url": "https://down-tw.img.susercontent.com/file/tw-11134207-7r992-ls7crmpa7tuae1",
-        "image_alt": "【Costco好市多】 KIRKLAND SIGNATURE 科克蘭即溶咖啡粉 大包裝 454g",
+        "title": "越南咖啡 三合一 G7 COFFEE 3in1 16公克x50包 KOPI SUSU VIETNAM 3in1 🔥現貨🔥",
+        "image_url": "https://down-tw.img.susercontent.com/file/tw-11134207-7ra0p-mbp3xtkbldnt8d",
+        "image_alt": "越南咖啡 三合一 G7 COFFEE 3in1 16公克x50包 KOPI SUSU VIETNAM 3in1 🔥現貨🔥",
         "price_texts": [
-          "$ 370"
+          "$ 215"
         ],
-        "display_price": 370,
+        "display_price": 215,
         "currency": "TWD",
         "sold_text": null
       },
       {
-        "shop_id": 221357585,
-        "item_id": 25415003224,
-        "display_model_id": 255368342725,
+        "shop_id": 2293056,
+        "item_id": 61949960,
+        "display_model_id": 401112052426,
         "model_selection_logic": 3,
-        "title": "好康多代購🛍️ 好市多 西雅圖咖啡 三合一咖啡 有糖咖啡 西雅圖即品拿鐵 21公克 X 100包 隨身包 下午茶",
-        "image_url": "https://down-tw.img.susercontent.com/file/tw-11134207-7r98t-ls40rfzgkufc03",
-        "image_alt": "好康多代購🛍️ 好市多 西雅圖咖啡 三合一咖啡 有糖咖啡 西雅圖即品拿鐵 21公克 X 100包 隨身包 下午茶",
+        "title": "#悠西將# 日本 原裝 日本上島咖啡 UCC玻璃罐裝即溶咖啡 114咖啡117咖啡114117日本咖啡黑咖啡",
+        "image_url": "https://down-tw.img.susercontent.com/file/tw-11134207-7r98y-lz4xep7fs4j8b7",
+        "image_alt": "#悠西將# 日本 原裝 日本上島咖啡 UCC玻璃罐裝即溶咖啡 114咖啡117咖啡114117日本咖啡黑咖啡",
         "price_texts": [
-          "$ 379"
+          "$ 155"
         ],
-        "display_price": 379,
+        "display_price": 155,
         "currency": "TWD",
         "sold_text": null
       },
@@ -260,32 +200,32 @@
         "sold_text": null
       },
       {
-        "shop_id": 2967819,
-        "item_id": 26481762104,
-        "display_model_id": 205946244200,
+        "shop_id": 20874871,
+        "item_id": 40319008417,
+        "display_model_id": 243895520317,
         "model_selection_logic": 3,
-        "title": "1000g 馬來西亞咖啡粉 速溶美式黑咖啡粉 即溶純黑咖啡粉 美式黑咖啡粉 美式咖啡粉",
-        "image_url": "https://down-tw.img.susercontent.com/file/tw-11134207-7rbka-m83oj4n13r5ld0",
-        "image_alt": "1000g 馬來西亞咖啡粉 速溶美式黑咖啡粉 即溶純黑咖啡粉 美式黑咖啡粉 美式咖啡粉",
+        "title": "STARBUCKS （臺灣 24H✈️）特價    星巴克咖啡豆 黃金烘焙咖啡豆 早餐綜閤咖啡豆  包裝",
+        "image_url": "https://down-tw.img.susercontent.com/file/sg-11134201-824ha-meny6g8sytxgc7",
+        "image_alt": "STARBUCKS （臺灣 24H✈️）特價    星巴克咖啡豆 黃金烘焙咖啡豆 早餐綜閤咖啡豆  包裝",
         "price_texts": [
-          "$ 480"
+          "$ 555"
         ],
-        "display_price": 480,
+        "display_price": 555,
         "currency": "TWD",
         "sold_text": null
       },
       {
-        "shop_id": 77997180,
-        "item_id": 18795456037,
-        "display_model_id": 253047838567,
+        "shop_id": 274069028,
+        "item_id": 24715331437,
+        "display_model_id": 226075946881,
         "model_selection_logic": 3,
-        "title": "（提供蝦皮隔日到貨選項）現貨＋口味多樣/新加坡Bacha coffee精品濾掛式咖啡12入/可附原廠紙袋/母親節送禮",
-        "image_url": "https://down-tw.img.susercontent.com/file/tw-11134207-81ztn-mg4q0c8ppw5r55",
-        "image_alt": "（提供蝦皮隔日到貨選項）現貨＋口味多樣/新加坡Bacha coffee精品濾掛式咖啡12入/可附原廠紙袋/母親節送禮",
+        "title": "【Costco好市多】 KIRKLAND SIGNATURE 科克蘭即溶咖啡粉 大包裝 454g",
+        "image_url": "https://down-tw.img.susercontent.com/file/tw-11134207-7r992-ls7crmpa7tuae1",
+        "image_alt": "【Costco好市多】 KIRKLAND SIGNATURE 科克蘭即溶咖啡粉 大包裝 454g",
         "price_texts": [
-          "$ 888"
+          "$ 370"
         ],
-        "display_price": 888,
+        "display_price": 370,
         "currency": "TWD",
         "sold_text": null
       },
@@ -305,17 +245,77 @@
         "sold_text": null
       },
       {
-        "shop_id": 28367848,
-        "item_id": 808915855,
-        "display_model_id": 2409945526,
+        "shop_id": 301578636,
+        "item_id": 56903002476,
+        "display_model_id": 315290811108,
         "model_selection_logic": 3,
-        "title": "[鮮一杯] 濾掛咖啡綜合50入分享盒 50包/盒",
-        "image_url": "https://down-tw.img.susercontent.com/file/tw-11134207-820l4-mntxny1dk3k026",
-        "image_alt": "[鮮一杯] 濾掛咖啡綜合50入分享盒 50包/盒",
+        "title": "「現貨」免運好市多Darling親愛的白咖啡三合一30g80入2027/11月",
+        "image_url": "https://down-tw.img.susercontent.com/file/tw-11134207-820lh-mr7e6s239afa5a",
+        "image_alt": "「現貨」免運好市多Darling親愛的白咖啡三合一30g80入2027/11月",
         "price_texts": [
-          "$ 474"
+          "$ 655"
         ],
-        "display_price": 474,
+        "display_price": 655,
+        "currency": "TWD",
+        "sold_text": null
+      },
+      {
+        "shop_id": 77997180,
+        "item_id": 18795456037,
+        "display_model_id": 253047838567,
+        "model_selection_logic": 3,
+        "title": "（提供蝦皮隔日到貨選項）現貨＋口味多樣/新加坡Bacha coffee精品濾掛式咖啡12入/可附原廠紙袋/母親節送禮",
+        "image_url": "https://down-tw.img.susercontent.com/file/tw-11134207-81ztn-mg4q0c8ppw5r55",
+        "image_alt": "（提供蝦皮隔日到貨選項）現貨＋口味多樣/新加坡Bacha coffee精品濾掛式咖啡12入/可附原廠紙袋/母親節送禮",
+        "price_texts": [
+          "$ 888"
+        ],
+        "display_price": 888,
+        "currency": "TWD",
+        "sold_text": null
+      },
+      {
+        "shop_id": 221357585,
+        "item_id": 25415003224,
+        "display_model_id": 255368342725,
+        "model_selection_logic": 3,
+        "title": "好康多代購🛍️ 好市多 西雅圖咖啡 三合一咖啡 有糖咖啡 西雅圖即品拿鐵 21公克 X 100包 隨身包 下午茶",
+        "image_url": "https://down-tw.img.susercontent.com/file/tw-11134207-7r98t-ls40rfzgkufc03",
+        "image_alt": "好康多代購🛍️ 好市多 西雅圖咖啡 三合一咖啡 有糖咖啡 西雅圖即品拿鐵 21公克 X 100包 隨身包 下午茶",
+        "price_texts": [
+          "$ 379"
+        ],
+        "display_price": 379,
+        "currency": "TWD",
+        "sold_text": null
+      },
+      {
+        "shop_id": 2967819,
+        "item_id": 26481762104,
+        "display_model_id": 205946244200,
+        "model_selection_logic": 3,
+        "title": "1000g 馬來西亞咖啡粉 速溶美式黑咖啡粉 即溶純黑咖啡粉 美式黑咖啡粉 美式咖啡粉",
+        "image_url": "https://down-tw.img.susercontent.com/file/tw-11134207-7rbka-m83oj4n13r5ld0",
+        "image_alt": "1000g 馬來西亞咖啡粉 速溶美式黑咖啡粉 即溶純黑咖啡粉 美式黑咖啡粉 美式咖啡粉",
+        "price_texts": [
+          "$ 480"
+        ],
+        "display_price": 480,
+        "currency": "TWD",
+        "sold_text": null
+      },
+      {
+        "shop_id": 261006724,
+        "item_id": 23586711076,
+        "display_model_id": 128794952531,
+        "model_selection_logic": 3,
+        "title": "-{泰菲印越} 越南 G7 三合一咖啡 咖啡 大包裝 16g*100入 (1單最多4包) (隔日到貨3包)",
+        "image_url": "https://down-tw.img.susercontent.com/file/tw-11134207-7r990-loaq6ezesnk22d",
+        "image_alt": "-{泰菲印越} 越南 G7 三合一咖啡 咖啡 大包裝 16g*100入 (1單最多4包) (隔日到貨3包)",
+        "price_texts": [
+          "$ 475"
+        ],
+        "display_price": 475,
         "currency": "TWD",
         "sold_text": null
       }

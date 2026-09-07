@@ -1,6 +1,6 @@
 {
-  "_fetchedAt": "2026-09-08T04:55:42.201533+08:00",
-  "_sourceCheckedAt": "2026-09-08T04:00:30",
+  "_fetchedAt": "2026-09-08T05:00:44.273000+08:00",
+  "_sourceCheckedAt": "2026-09-08T05:00:22",
   "code": 0,
   "message": null,
   "data": {
@@ -26,13 +26,13 @@
         "seeking_help_model_type": 0,
         "share_info": {
           "acl": {
-            "add_to_story_code": 0,
-            "code": 0,
-            "extra": "{}"
+            "add_to_story_code": 1,
+            "code": 1,
+            "extra": "{\"is_share_handler_failed\":\"1\"}"
           },
-          "desc": "the gr0_0viest’s comment: what does this have to do with Swift? I ask bc she's so relevant and I'm so out of touch but loved making these in middle school (born in 96)",
-          "title": "WHAT'S HIS NAME??? 😭   I can't stop crocheting unexpected things & like I really should have made at least one article of clothing by now... but no. Absolutely not. I can't hang a beanie up in my living room. #DIY #crochet #fyp #coolcrochet #cutecrochet #lizard   Pattern: https://www.etsy.com/listing/1021381790/ ",
-          "url": "https://www.tiktok.com/@demlia/video/7304809083817774382?_d=edi1489ika8357&_r=1&comment_author_id=6925718539328766981&preview_pb=0&share_comment_id=7304924071095059206&share_item_id=7304809083817774382&sharer_language=en&source=h5_m&u_code=0"
+          "desc": "",
+          "title": "",
+          "url": ""
         },
         "status": 1,
         "stick_position": 0,
@@ -56,9 +56,9 @@
             "height": 720,
             "uri": "tos-maliva-avt-0068/7b02284c40400994703b71034aaa3bdd",
             "url_list": [
-              "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/7b02284c40400994703b71034aaa3bdd~tplv-tiktokx-cropcenter-q:100:100:q70.webp?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=c4a421b4&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788897600&x-signature=ccuj05dTfCP5e1%2FKEfGHtWF58RU%3D",
-              "https://p19-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/7b02284c40400994703b71034aaa3bdd~tplv-tiktokx-cropcenter-q:100:100:q70.webp?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=559db59d&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788897600&x-signature=H9AskjE5hHwWc7RbKrlwe%2BPRars%3D",
-              "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/7b02284c40400994703b71034aaa3bdd~tplv-tiktokx-cropcenter-q:100:100:q70.jpeg?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=3f0f4c0f&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788897600&x-signature=pzR4RFecOOXeug8IuDmgrIzey5Q%3D"
+              "https://p19-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/7b02284c40400994703b71034aaa3bdd~tplv-tiktokx-cropcenter-q:100:100:q70.webp?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=25e1ed25&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788901200&x-signature=eBpzF1lXtojTEZZtY4VKllZM3h8%3D",
+              "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/7b02284c40400994703b71034aaa3bdd~tplv-tiktokx-cropcenter-q:100:100:q70.webp?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=a8af68df&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788901200&x-signature=1n7HcPsFEZ9v53K25Hbw7kEav6U%3D",
+              "https://p19-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/7b02284c40400994703b71034aaa3bdd~tplv-tiktokx-cropcenter-q:100:100:q70.jpeg?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=2de56478&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788901200&x-signature=dTyYNHICW8%2B%2F5r%2BYnJANkvQjEho%3D"
             ],
             "url_prefix": null,
             "width": 720
@@ -145,7 +145,7 @@
           "type_label": null,
           "uid": "6925718539328766981",
           "unique_id": "gr0_0vy",
-          "unique_id_modify_time": 1788811230,
+          "unique_id_modify_time": 1788814822,
           "user_canceled": false,
           "user_mode": 1,
           "user_period": 0,
@@ -184,7 +184,6 @@
         "is_high_purchase_intent": false,
         "label_list": null,
         "no_show": false,
-        "qrec_virtual_enable": "",
         "reply_comment": null,
         "reply_id": "7304877760886588191",
         "reply_to_nickname": "Sara 🏎️",
@@ -194,33 +193,18 @@
         "seeking_help_model_type": 0,
         "share_info": {
           "acl": {
-            "add_to_story_code": 0,
-            "code": 0,
-            "extra": "{}"
+            "add_to_story_code": 1,
+            "code": 1,
+            "extra": "{\"is_share_handler_failed\":\"1\"}"
           },
-          "desc": "Bxby_kali🌱🍄🧚‍♀️’s comment: Yeah but ppl could really stop saying little Taylor Swift bracelets they are called Kandi bracelets Kandi worms and edm culture started it so we would",
-          "title": "WHAT'S HIS NAME??? 😭   I can't stop crocheting unexpected things & like I really should have made at least one article of clothing by now... but no. Absolutely not. I can't hang a beanie up in my living room. #DIY #crochet #fyp #coolcrochet #cutecrochet #lizard   Pattern: https://www.etsy.com/listing/1021381790/ ",
-          "url": "https://www.tiktok.com/@demlia/video/7304809083817774382?_d=edi1489ika8357&_r=1&comment_author_id=7245114112840647685&preview_pb=0&share_comment_id=7305821643984192261&share_item_id=7304809083817774382&sharer_language=en&source=h5_m&u_code=0"
+          "desc": "",
+          "title": "",
+          "url": ""
         },
         "status": 1,
         "stick_position": 0,
         "text": "Yeah but ppl could really stop saying little Taylor Swift bracelets they are called Kandi bracelets Kandi worms and edm culture started it so we would",
-        "text_extra": [
-          {
-            "end": 99,
-            "search_keyword": "Kandi bracelets",
-            "search_keyword_id": "1990629458487604437",
-            "search_penetrate_info": "{\"lvl3_cate_list\":\"\",\"sug_user_id\":\"\",\"words_type_to_voucher_ids\":\"\",\"visualize_sug_product_id\":\"\",\"direct_to_tako\":\"\",\"word_type_list\":\"\",\"lvl1_category_id\":\"\",\"generate_time\":\"1742917139\",\"hot_level\":\"0\",\"words_type_to_dmp_list\":\"\",\"recall_reason\":\"weiss_batch_comment_pure_ner_recall_1_ab\",\"is_time_sensitive\":\"0\",\"is_ramandan_promotion\":\"\",\"ecom_intent\":\"2\",\"poi_card_id_list\":\"\",\"video_id\":\"\",\"word_type_version_map\":\"\",\"ecom_trigger_info\":\"\",\"ecom_trigger_info_map\":\"\"}",
-            "search_word_record": {
-              "qrec_json_info": "{\"is_four_vertical\":0}",
-              "textnet_id": "1011##315",
-              "words_lang": "en"
-            },
-            "start": 84,
-            "type": 6,
-            "word_position": 0
-          }
-        ],
+        "text_extra": [],
         "text_to_image_item_ids": null,
         "thread_has_more": true,
         "thread_id": 2,
@@ -240,9 +224,9 @@
             "height": 720,
             "uri": "tos-alisg-avt-0068/ac91754690c7fb11a5a1d5f152bb7ca2",
             "url_list": [
-              "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/ac91754690c7fb11a5a1d5f152bb7ca2~tplv-tiktokx-cropcenter-q:100:100:q70.webp?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=234af485&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788897600&x-signature=fWOFjzAxucWCEyEGUNOAp%2Bl3DWs%3D",
-              "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/ac91754690c7fb11a5a1d5f152bb7ca2~tplv-tiktokx-cropcenter-q:100:100:q70.webp?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=46a82dd6&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788897600&x-signature=alHr1LYywk0rYU2VUckoKoYveLo%3D",
-              "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/ac91754690c7fb11a5a1d5f152bb7ca2~tplv-tiktokx-cropcenter-q:100:100:q70.jpeg?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=1848ff48&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788897600&x-signature=vpFrA%2B%2FBfaYx9lspMQ0LvJTXY0s%3D"
+              "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/ac91754690c7fb11a5a1d5f152bb7ca2~tplv-tiktokx-cropcenter-q:100:100:q70.webp?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=987acb61&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788901200&x-signature=EQMNLqr9xpJhMjOwWo05yPi%2Fyy4%3D",
+              "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/ac91754690c7fb11a5a1d5f152bb7ca2~tplv-tiktokx-cropcenter-q:100:100:q70.webp?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=2923e299&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788901200&x-signature=b9530DOUskFywDZL10hUg658q1M%3D",
+              "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/ac91754690c7fb11a5a1d5f152bb7ca2~tplv-tiktokx-cropcenter-q:100:100:q70.jpeg?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=abcbd727&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788901200&x-signature=GjslIQXpV4kTS8TFeFtMNA%2FkeWs%3D"
             ],
             "url_prefix": null,
             "width": 720
@@ -338,7 +322,7 @@
           "type_label": null,
           "uid": "7245114112840647685",
           "unique_id": "bxby.kali3",
-          "unique_id_modify_time": 1788811230,
+          "unique_id_modify_time": 1788814822,
           "user_canceled": false,
           "user_mode": 1,
           "user_period": 0,
@@ -389,13 +373,13 @@
         "seeking_help_model_type": 0,
         "share_info": {
           "acl": {
-            "add_to_story_code": 0,
-            "code": 0,
-            "extra": "{}"
+            "add_to_story_code": 1,
+            "code": 1,
+            "extra": "{\"is_share_handler_failed\":\"1\"}"
           },
-          "desc": "Bxby_kali🌱🍄🧚‍♀️’s comment: Just would like a little bit of credit 😂",
-          "title": "WHAT'S HIS NAME??? 😭   I can't stop crocheting unexpected things & like I really should have made at least one article of clothing by now... but no. Absolutely not. I can't hang a beanie up in my living room. #DIY #crochet #fyp #coolcrochet #cutecrochet #lizard   Pattern: https://www.etsy.com/listing/1021381790/ ",
-          "url": "https://www.tiktok.com/@demlia/video/7304809083817774382?_d=edi1489ika8357&_r=1&comment_author_id=7245114112840647685&preview_pb=0&share_comment_id=7305821814143091462&share_item_id=7304809083817774382&sharer_language=en&source=h5_m&u_code=0"
+          "desc": "",
+          "title": "",
+          "url": ""
         },
         "status": 1,
         "stick_position": 0,
@@ -420,9 +404,9 @@
             "height": 720,
             "uri": "tos-alisg-avt-0068/ac91754690c7fb11a5a1d5f152bb7ca2",
             "url_list": [
-              "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/ac91754690c7fb11a5a1d5f152bb7ca2~tplv-tiktokx-cropcenter-q:100:100:q70.webp?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=234af485&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788897600&x-signature=fWOFjzAxucWCEyEGUNOAp%2Bl3DWs%3D",
-              "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/ac91754690c7fb11a5a1d5f152bb7ca2~tplv-tiktokx-cropcenter-q:100:100:q70.webp?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=46a82dd6&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788897600&x-signature=alHr1LYywk0rYU2VUckoKoYveLo%3D",
-              "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/ac91754690c7fb11a5a1d5f152bb7ca2~tplv-tiktokx-cropcenter-q:100:100:q70.jpeg?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=1848ff48&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788897600&x-signature=vpFrA%2B%2FBfaYx9lspMQ0LvJTXY0s%3D"
+              "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/ac91754690c7fb11a5a1d5f152bb7ca2~tplv-tiktokx-cropcenter-q:100:100:q70.webp?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=987acb61&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788901200&x-signature=EQMNLqr9xpJhMjOwWo05yPi%2Fyy4%3D",
+              "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/ac91754690c7fb11a5a1d5f152bb7ca2~tplv-tiktokx-cropcenter-q:100:100:q70.webp?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=2923e299&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788901200&x-signature=b9530DOUskFywDZL10hUg658q1M%3D",
+              "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/ac91754690c7fb11a5a1d5f152bb7ca2~tplv-tiktokx-cropcenter-q:100:100:q70.jpeg?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=abcbd727&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788901200&x-signature=GjslIQXpV4kTS8TFeFtMNA%2FkeWs%3D"
             ],
             "url_prefix": null,
             "width": 720
@@ -518,7 +502,7 @@
           "type_label": null,
           "uid": "7245114112840647685",
           "unique_id": "bxby.kali3",
-          "unique_id_modify_time": 1788811230,
+          "unique_id_modify_time": 1788814822,
           "user_canceled": false,
           "user_mode": 1,
           "user_period": 0,
@@ -569,13 +553,13 @@
         "seeking_help_model_type": 0,
         "share_info": {
           "acl": {
-            "add_to_story_code": 0,
-            "code": 0,
-            "extra": "{}"
+            "add_to_story_code": 1,
+            "code": 1,
+            "extra": "{\"is_share_handler_failed\":\"1\"}"
           },
-          "desc": "Sara 🏎️’s comment: That’s what I’m trying to say lol that it’s not the same so I don’t get why people are mad that swifties make friendship bracelets 😂",
-          "title": "WHAT'S HIS NAME??? 😭   I can't stop crocheting unexpected things & like I really should have made at least one article of clothing by now... but no. Absolutely not. I can't hang a beanie up in my living room. #DIY #crochet #fyp #coolcrochet #cutecrochet #lizard   Pattern: https://www.etsy.com/listing/1021381790/ ",
-          "url": "https://www.tiktok.com/@demlia/video/7304809083817774382?_d=edi1489ika8357&_r=1&comment_author_id=6916754545574396933&preview_pb=0&share_comment_id=7305848929773175582&share_item_id=7304809083817774382&sharer_language=en&source=h5_m&u_code=0"
+          "desc": "",
+          "title": "",
+          "url": ""
         },
         "status": 1,
         "stick_position": 0,
@@ -600,9 +584,9 @@
             "height": 720,
             "uri": "tos-useast5-avt-0068-tx/b55437f8ff0828b58379cc837e1fed68",
             "url_list": [
-              "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b55437f8ff0828b58379cc837e1fed68~tplv-tiktokx-cropcenter-q:100:100:q70.webp?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=eb4682ba&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788897600&x-signature=u4uehGGn0%2Frkv95DM%2BqOdFr5gGo%3D",
-              "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b55437f8ff0828b58379cc837e1fed68~tplv-tiktokx-cropcenter-q:100:100:q70.webp?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=f07599ca&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788897600&x-signature=YMXw9oy6RAmO%2BQgFdzHUMWcBnVw%3D",
-              "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b55437f8ff0828b58379cc837e1fed68~tplv-tiktokx-cropcenter-q:100:100:q70.jpeg?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=e9ca1ed7&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788897600&x-signature=D8j1cOXqlsxGXu6cnSgdhlKMHmg%3D"
+              "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b55437f8ff0828b58379cc837e1fed68~tplv-tiktokx-cropcenter-q:100:100:q70.webp?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=cb7f2e83&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788901200&x-signature=XXySDxoWDyhKNzAqOg6tY%2FTp94s%3D",
+              "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b55437f8ff0828b58379cc837e1fed68~tplv-tiktokx-cropcenter-q:100:100:q70.webp?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=4cd83aad&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788901200&x-signature=0ci%2B%2FkZtYWeIEWJBW5U%2BTFgz89Q%3D",
+              "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b55437f8ff0828b58379cc837e1fed68~tplv-tiktokx-cropcenter-q:100:100:q70.jpeg?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=9f57a2ca&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788901200&x-signature=3dPZpsL7ygsyUVxonUXjUM5F%2Fnw%3D"
             ],
             "url_prefix": null,
             "width": 720
@@ -698,7 +682,7 @@
           "type_label": null,
           "uid": "6916754545574396933",
           "unique_id": "skmadeleine",
-          "unique_id_modify_time": 1788811230,
+          "unique_id_modify_time": 1788814822,
           "user_canceled": false,
           "user_mode": 1,
           "user_period": 0,
@@ -749,13 +733,13 @@
         "seeking_help_model_type": 0,
         "share_info": {
           "acl": {
-            "add_to_story_code": 0,
-            "code": 0,
-            "extra": "{}"
+            "add_to_story_code": 1,
+            "code": 1,
+            "extra": "{\"is_share_handler_failed\":\"1\"}"
           },
-          "desc": "Bxby_kali🌱🍄🧚‍♀️’s comment: Because you guys don’t just make it seem like it’s friend ship bracelets y’all try to add the idea of Kandi into into it",
-          "title": "WHAT'S HIS NAME??? 😭   I can't stop crocheting unexpected things & like I really should have made at least one article of clothing by now... but no. Absolutely not. I can't hang a beanie up in my living room. #DIY #crochet #fyp #coolcrochet #cutecrochet #lizard   Pattern: https://www.etsy.com/listing/1021381790/ ",
-          "url": "https://www.tiktok.com/@demlia/video/7304809083817774382?_d=edi1489ika8357&_r=1&comment_author_id=7245114112840647685&preview_pb=0&share_comment_id=7305856940978520838&share_item_id=7304809083817774382&sharer_language=en&source=h5_m&u_code=0"
+          "desc": "",
+          "title": "",
+          "url": ""
         },
         "status": 1,
         "stick_position": 0,
@@ -780,9 +764,9 @@
             "height": 720,
             "uri": "tos-alisg-avt-0068/ac91754690c7fb11a5a1d5f152bb7ca2",
             "url_list": [
-              "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/ac91754690c7fb11a5a1d5f152bb7ca2~tplv-tiktokx-cropcenter-q:100:100:q70.webp?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=234af485&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788897600&x-signature=fWOFjzAxucWCEyEGUNOAp%2Bl3DWs%3D",
-              "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/ac91754690c7fb11a5a1d5f152bb7ca2~tplv-tiktokx-cropcenter-q:100:100:q70.webp?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=46a82dd6&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788897600&x-signature=alHr1LYywk0rYU2VUckoKoYveLo%3D",
-              "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/ac91754690c7fb11a5a1d5f152bb7ca2~tplv-tiktokx-cropcenter-q:100:100:q70.jpeg?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=1848ff48&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788897600&x-signature=vpFrA%2B%2FBfaYx9lspMQ0LvJTXY0s%3D"
+              "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/ac91754690c7fb11a5a1d5f152bb7ca2~tplv-tiktokx-cropcenter-q:100:100:q70.webp?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=987acb61&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788901200&x-signature=EQMNLqr9xpJhMjOwWo05yPi%2Fyy4%3D",
+              "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/ac91754690c7fb11a5a1d5f152bb7ca2~tplv-tiktokx-cropcenter-q:100:100:q70.webp?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=2923e299&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788901200&x-signature=b9530DOUskFywDZL10hUg658q1M%3D",
+              "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/ac91754690c7fb11a5a1d5f152bb7ca2~tplv-tiktokx-cropcenter-q:100:100:q70.jpeg?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=abcbd727&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788901200&x-signature=GjslIQXpV4kTS8TFeFtMNA%2FkeWs%3D"
             ],
             "url_prefix": null,
             "width": 720
@@ -878,7 +862,7 @@
           "type_label": null,
           "uid": "7245114112840647685",
           "unique_id": "bxby.kali3",
-          "unique_id_modify_time": 1788811230,
+          "unique_id_modify_time": 1788814822,
           "user_canceled": false,
           "user_mode": 1,
           "user_period": 0,
@@ -926,13 +910,13 @@
         "seeking_help_model_type": 0,
         "share_info": {
           "acl": {
-            "add_to_story_code": 0,
-            "code": 0,
-            "extra": "{}"
+            "add_to_story_code": 1,
+            "code": 1,
+            "extra": "{\"is_share_handler_failed\":\"1\"}"
           },
-          "desc": "mella_.mn’s comment: taylor swift,f1 AND lizzards?oh who are you?",
-          "title": "WHAT'S HIS NAME??? 😭   I can't stop crocheting unexpected things & like I really should have made at least one article of clothing by now... but no. Absolutely not. I can't hang a beanie up in my living room. #DIY #crochet #fyp #coolcrochet #cutecrochet #lizard   Pattern: https://www.etsy.com/listing/1021381790/ ",
-          "url": "https://www.tiktok.com/@demlia/video/7304809083817774382?_d=edi1489ika8357&_r=1&comment_author_id=7002945634388345862&preview_pb=0&share_comment_id=7578660673366852374&share_item_id=7304809083817774382&sharer_language=en&source=h5_m&u_code=0"
+          "desc": "",
+          "title": "",
+          "url": ""
         },
         "status": 1,
         "stick_position": 0,
@@ -957,9 +941,9 @@
             "height": 720,
             "uri": "tos-maliva-avt-0068/162a757b98eef7a6640d465aa7dc4576",
             "url_list": [
-              "https://p19-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/162a757b98eef7a6640d465aa7dc4576~tplv-tiktokx-cropcenter-q:100:100:q70.webp?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=a9888c81&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788897600&x-signature=kpsBbaSRAqSU4%2FFblkjxNh3j%2BL4%3D",
-              "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/162a757b98eef7a6640d465aa7dc4576~tplv-tiktokx-cropcenter-q:100:100:q70.webp?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=9bbd3d3d&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788897600&x-signature=SVkRiV%2FrioKs%2FBYGeS4QEHZaeJw%3D",
-              "https://p19-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/162a757b98eef7a6640d465aa7dc4576~tplv-tiktokx-cropcenter-q:100:100:q70.jpeg?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=0572b4ee&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788897600&x-signature=WaaBv1ncXgEzc7yEAVLQJnUFUEI%3D"
+              "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/162a757b98eef7a6640d465aa7dc4576~tplv-tiktokx-cropcenter-q:100:100:q70.webp?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=5a898786&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788901200&x-signature=ITt9bpe6aNsQGvDJ%2B5wgJaFkQXE%3D",
+              "https://p19-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/162a757b98eef7a6640d465aa7dc4576~tplv-tiktokx-cropcenter-q:100:100:q70.webp?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=e2d3ae23&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788901200&x-signature=O0E91FiRaM2y82Ol5jpHw%2BbzL1Y%3D",
+              "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/162a757b98eef7a6640d465aa7dc4576~tplv-tiktokx-cropcenter-q:100:100:q70.jpeg?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=471b6eac&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788901200&x-signature=LawneEnqoozprcXDr7ejIzEj6fo%3D"
             ],
             "url_prefix": null,
             "width": 720
@@ -1055,7 +1039,7 @@
           "type_label": null,
           "uid": "7002945634388345862",
           "unique_id": "mella_.mn",
-          "unique_id_modify_time": 1788811230,
+          "unique_id_modify_time": 1788814822,
           "user_canceled": false,
           "user_mode": 1,
           "user_period": 0,
@@ -1106,13 +1090,13 @@
         "seeking_help_model_type": 0,
         "share_info": {
           "acl": {
-            "add_to_story_code": 0,
-            "code": 0,
-            "extra": "{}"
+            "add_to_story_code": 1,
+            "code": 1,
+            "extra": "{\"is_share_handler_failed\":\"1\"}"
           },
-          "desc": "Sara 🏎️’s comment: They’re just friendship bracelets, friendship bracelets have existed for forever, nobody claimed it to be Kandi PLUR 😭",
-          "title": "WHAT'S HIS NAME??? 😭   I can't stop crocheting unexpected things & like I really should have made at least one article of clothing by now... but no. Absolutely not. I can't hang a beanie up in my living room. #DIY #crochet #fyp #coolcrochet #cutecrochet #lizard   Pattern: https://www.etsy.com/listing/1021381790/ ",
-          "url": "https://www.tiktok.com/@demlia/video/7304809083817774382?_d=edi1489ika8357&_r=1&comment_author_id=6916754545574396933&preview_pb=0&share_comment_id=7305828711039206175&share_item_id=7304809083817774382&sharer_language=en&source=h5_m&u_code=0"
+          "desc": "",
+          "title": "",
+          "url": ""
         },
         "status": 1,
         "stick_position": 0,
@@ -1137,9 +1121,9 @@
             "height": 720,
             "uri": "tos-useast5-avt-0068-tx/b55437f8ff0828b58379cc837e1fed68",
             "url_list": [
-              "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b55437f8ff0828b58379cc837e1fed68~tplv-tiktokx-cropcenter-q:100:100:q70.webp?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=eb4682ba&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788897600&x-signature=u4uehGGn0%2Frkv95DM%2BqOdFr5gGo%3D",
-              "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b55437f8ff0828b58379cc837e1fed68~tplv-tiktokx-cropcenter-q:100:100:q70.webp?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=f07599ca&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788897600&x-signature=YMXw9oy6RAmO%2BQgFdzHUMWcBnVw%3D",
-              "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b55437f8ff0828b58379cc837e1fed68~tplv-tiktokx-cropcenter-q:100:100:q70.jpeg?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=e9ca1ed7&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788897600&x-signature=D8j1cOXqlsxGXu6cnSgdhlKMHmg%3D"
+              "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b55437f8ff0828b58379cc837e1fed68~tplv-tiktokx-cropcenter-q:100:100:q70.webp?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=cb7f2e83&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788901200&x-signature=XXySDxoWDyhKNzAqOg6tY%2FTp94s%3D",
+              "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b55437f8ff0828b58379cc837e1fed68~tplv-tiktokx-cropcenter-q:100:100:q70.webp?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=4cd83aad&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788901200&x-signature=0ci%2B%2FkZtYWeIEWJBW5U%2BTFgz89Q%3D",
+              "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b55437f8ff0828b58379cc837e1fed68~tplv-tiktokx-cropcenter-q:100:100:q70.jpeg?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=9f57a2ca&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788901200&x-signature=3dPZpsL7ygsyUVxonUXjUM5F%2Fnw%3D"
             ],
             "url_prefix": null,
             "width": 720
@@ -1235,7 +1219,7 @@
           "type_label": null,
           "uid": "6916754545574396933",
           "unique_id": "skmadeleine",
-          "unique_id_modify_time": 1788811230,
+          "unique_id_modify_time": 1788814822,
           "user_canceled": false,
           "user_mode": 1,
           "user_period": 0,
@@ -1283,13 +1267,13 @@
         "seeking_help_model_type": 0,
         "share_info": {
           "acl": {
-            "add_to_story_code": 0,
-            "code": 0,
-            "extra": "{}"
+            "add_to_story_code": 1,
+            "code": 1,
+            "extra": "{\"is_share_handler_failed\":\"1\"}"
           },
-          "desc": "Madi’s comment: she didn’t start it swift has nothing to do w kandi’s",
-          "title": "WHAT'S HIS NAME??? 😭   I can't stop crocheting unexpected things & like I really should have made at least one article of clothing by now... but no. Absolutely not. I can't hang a beanie up in my living room. #DIY #crochet #fyp #coolcrochet #cutecrochet #lizard   Pattern: https://www.etsy.com/listing/1021381790/ ",
-          "url": "https://www.tiktok.com/@demlia/video/7304809083817774382?_d=edi1489ika8357&_r=1&comment_author_id=314324817099304961&preview_pb=0&share_comment_id=7305576628087210758&share_item_id=7304809083817774382&sharer_language=en&source=h5_m&u_code=0"
+          "desc": "",
+          "title": "",
+          "url": ""
         },
         "status": 1,
         "stick_position": 0,
@@ -1314,9 +1298,9 @@
             "height": 720,
             "uri": "tos-alisg-avt-0068/816ad2949732f22db2cf32921cb571aa",
             "url_list": [
-              "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/816ad2949732f22db2cf32921cb571aa~tplv-tiktokx-cropcenter-q:100:100:q70.webp?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=2a10ffdf&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788897600&x-signature=abtEjTDJOGr98r1Al8ic2x51MUM%3D",
-              "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/816ad2949732f22db2cf32921cb571aa~tplv-tiktokx-cropcenter-q:100:100:q70.webp?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=dabcfeca&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788897600&x-signature=H2bm4PYVse2EP61wUpoeHBcOzhw%3D",
-              "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/816ad2949732f22db2cf32921cb571aa~tplv-tiktokx-cropcenter-q:100:100:q70.jpeg?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=0b1d41ca&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788897600&x-signature=DI%2BW5bjb3etN0LLdolLHX23Z5N0%3D"
+              "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/816ad2949732f22db2cf32921cb571aa~tplv-tiktokx-cropcenter-q:100:100:q70.webp?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=5da58b0e&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788901200&x-signature=Ml7gXOREvT8tUBS0fSDXiy7jozk%3D",
+              "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/816ad2949732f22db2cf32921cb571aa~tplv-tiktokx-cropcenter-q:100:100:q70.webp?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=0eef3724&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788901200&x-signature=gVxKmZ4ny%2B%2BNsUOb%2FzyKBtD6rfI%3D",
+              "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/816ad2949732f22db2cf32921cb571aa~tplv-tiktokx-cropcenter-q:100:100:q70.jpeg?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=764a03f8&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788901200&x-signature=xVC95CP7HVOSd6Y2pDKqft5S2fA%3D"
             ],
             "url_prefix": null,
             "width": 720
@@ -1412,7 +1396,7 @@
           "type_label": null,
           "uid": "314324817099304961",
           "unique_id": "madiannhowell",
-          "unique_id_modify_time": 1788811230,
+          "unique_id_modify_time": 1788814822,
           "user_canceled": false,
           "user_mode": 1,
           "user_period": 0,
@@ -1443,12 +1427,12 @@
     "cursor": 8,
     "extra": {
       "fatal_item_ids": [],
-      "logid": "20260907200029545BF1BD82719DDB057F",
-      "now": 1788811230000
+      "logid": "202609072100213691E45BE61401DDAA5E",
+      "now": 1788814822000
     },
     "has_more": 0,
     "log_pb": {
-      "impr_id": "20260907200029545BF1BD82719DDB057F"
+      "impr_id": "202609072100213691E45BE61401DDAA5E"
     },
     "status_code": 0,
     "status_msg": "",
