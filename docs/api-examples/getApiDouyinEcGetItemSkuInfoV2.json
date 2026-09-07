@@ -1,6 +1,6 @@
 {
-  "_fetchedAt": "2026-09-08T02:55:13.952243+08:00",
-  "_sourceCheckedAt": "2026-09-08T02:00:01",
+  "_fetchedAt": "2026-09-08T03:00:15.108333+08:00",
+  "_sourceCheckedAt": "2026-09-08T03:00:01",
   "code": 0,
   "message": null,
   "data": {
@@ -10,7 +10,7 @@
     "mainImg": "https://p9-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_2b76c19d9cc489f0b6d5d7817fd2ed99_sx_478666_www800-800",
     "salePrice": 990,
     "originalPrice": 990,
-    "sellNum": 19557004,
+    "sellNum": 19557791,
     "shopId": 2303170,
     "category": {
       "firstCid": 1000004647,
@@ -50,7 +50,7 @@
         "id": 1767848415471667,
         "shopId": 2303170,
         "productId": "3620553568169403454",
-        "price": 2190,
+        "price": 990,
         "type": 0,
         "salePropertyValues": [
           {
@@ -122,7 +122,7 @@
             "type": "image",
             "content_list": [
               {
-                "url": "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_2b76c19d9cc489f0b6d5d7817fd2ed99_sx_478666_www800-800~tplv-5mmsx3fupr-resize_q:1080:1080:q90.webp",
+                "url": "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_2b76c19d9cc489f0b6d5d7817fd2ed99_sx_478666_www800-800~tplv-5mmsx3fupr-resize_q:1080:1080:q90.webp",
                 "height": 0,
                 "width": 0,
                 "combination_info": {
@@ -146,7 +146,7 @@
                 }
               },
               {
-                "url": "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_3f2a5cac76ed2ad7373a400e44a895e5_sx_392109_www800-800~tplv-5mmsx3fupr-resize_q:1080:1080:q90.webp",
+                "url": "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_3f2a5cac76ed2ad7373a400e44a895e5_sx_392109_www800-800~tplv-5mmsx3fupr-resize_q:1080:1080:q90.webp",
                 "height": 0,
                 "width": 0,
                 "combination_info": {
@@ -158,7 +158,7 @@
         ],
         "live_info": {
           "status": "live",
-          "url": "sslocal://webcast_room/?ecom_live_params=%7B%22jump_schema%22%3A%22sslocal%3A%2F%2Fec_live_list%2F%3Fpassthrough_params%3D%257B%2522live_list_channel%2522%253A%2522product_detail_shown%2522%257D%22%2C%22params_version%22%3A1%2C%22related_info%22%3A%22%7B%5C%22detail_product_id%5C%22%3A%5C%223620553568169403454%5C%22%2C%5C%22related_config%5C%22%3A%5B%7B%5C%22id%5C%22%3A%5C%22detail_product_id%5C%22%2C%5C%22client_config%5C%22%3A%7B%5C%22type%5C%22%3A%5B%5C%22promotion_list_top%5C%22%5D%2C%5C%22list_show_count%5C%22%3A2147483647%7D%2C%5C%22server_config%5C%22%3A%7B%5C%22list_show_duration%5C%22%3A-1%2C%5C%22list_show_index%5C%22%3Atrue%7D%7D%5D%7D%22%7D&room_id=7682824530296916777&user_id=99514375927",
+          "url": "sslocal://webcast_room/?ecom_live_params=%7B%22params_version%22%3A1%2C%22related_info%22%3A%22%7B%5C%22detail_product_id%5C%22%3A%5C%223620553568169403454%5C%22%2C%5C%22related_config%5C%22%3A%5B%7B%5C%22id%5C%22%3A%5C%22detail_product_id%5C%22%2C%5C%22client_config%5C%22%3A%7B%5C%22type%5C%22%3A%5B%5C%22promotion_list_top%5C%22%5D%2C%5C%22list_show_count%5C%22%3A2147483647%7D%2C%5C%22server_config%5C%22%3A%7B%5C%22list_show_duration%5C%22%3A-1%2C%5C%22list_show_index%5C%22%3Atrue%7D%7D%5D%7D%22%2C%22jump_schema%22%3A%22sslocal%3A%2F%2Fec_live_list%2F%3Fpassthrough_params%3D%257B%2522live_list_channel%2522%253A%2522product_detail_shown%2522%257D%22%7D&room_id=7682824530296916777&user_id=99514375927",
           "icon": "https://p3-piu.byteimg.com/tos-cn-i-8jisjyls3a/30c8e6e7757340babb23305267117929~tplv-8jisjyls3a-2:0:0:q75.image",
           "text": "直播中"
         },
@@ -257,16 +257,16 @@
           "content_list": [
             {
               "label_type": 0,
-              "link": "sslocal://webcast_lynxview?add_safe_area_height=0&gravity=bottom&height_percent=60&mask_alpha=0.5&top_level=1&type=popup&url=https%3A%2F%2Flf-webcast-sourcecdn-tos.bytegecko.com%2Fobj%2Fbyte-gurd-source%2Fwebcast%2Fecom%2Flynx%2Fecom_goods_detail_popup_panels%2Flogistics_timeliness_popup%2Ftemplate.js%3Finfos%3D%255B%257B%2522main_text%2522%253A%2522%25E9%25A2%2584%25E8%25AE%25A1%25E4%25BB%258A%25E5%25A4%25A9%25E4%25B8%258A%25E5%258D%2588%25E5%258F%2591%25E8%25B4%25A7%2522%252C%2522sub_text%2522%253A%2522%25E6%25A0%25B9%25E6%258D%25AE%25E8%25AF%25A5%25E5%2595%2586%25E5%2593%2581%25E8%25BF%25917%25E5%25A4%25A9%25E5%258F%2591%25E8%25B4%25A7%25E6%2583%2585%25E5%2586%25B5%25E6%258E%25A8%25E6%25B5%258B%25EF%25BC%258C%25E8%25AF%25A5%25E5%2595%2586%25E5%2593%2581%25E9%25A2%2584%25E8%25AE%25A1%25E4%25BB%258A%25E5%25A4%25A9%25E4%25B8%258A%25E5%258D%2588%25E5%258F%2591%25E8%25B4%25A7%25E3%2580%2582%25E5%2585%25B7%25E4%25BD%2593%25E4%25BB%25A5%25E5%2595%2586%25E5%25AE%25B6%25E5%25AE%259E%25E9%2599%2585%25E5%258F%2591%25E8%25B4%25A7%25E6%2597%25B6%25E9%2597%25B4%25E4%25B8%25BA%25E5%2587%2586%25E3%2580%2582%2522%257D%255D%26title%3D%25E7%2589%25A9%25E6%25B5%2581%25E6%2597%25B6%25E6%2595%2588%25E8%25AF%25B4%25E6%2598%258E&use_real_screen_height=1",
+              "link": "sslocal://webcast_lynxview?add_safe_area_height=0&gravity=bottom&height_percent=60&mask_alpha=0.5&top_level=1&type=popup&url=https%3A%2F%2Flf-webcast-sourcecdn-tos.bytegecko.com%2Fobj%2Fbyte-gurd-source%2Fwebcast%2Fecom%2Flynx%2Fecom_goods_detail_popup_panels%2Flogistics_timeliness_popup%2Ftemplate.js%3Finfos%3D%255B%257B%2522main_text%2522%253A%2522%25E9%25A2%2584%25E8%25AE%25A1%25E4%25BB%258A%25E5%25A4%25A9%25E4%25B8%258B%25E5%258D%2588%25E5%258F%2591%25E8%25B4%25A7%2522%252C%2522sub_text%2522%253A%2522%25E6%25A0%25B9%25E6%258D%25AE%25E8%25AF%25A5%25E5%2595%2586%25E5%2593%2581%25E8%25BF%25917%25E5%25A4%25A9%25E5%258F%2591%25E8%25B4%25A7%25E6%2583%2585%25E5%2586%25B5%25E6%258E%25A8%25E6%25B5%258B%25EF%25BC%258C%25E8%25AF%25A5%25E5%2595%2586%25E5%2593%2581%25E9%25A2%2584%25E8%25AE%25A1%25E4%25BB%258A%25E5%25A4%25A9%25E4%25B8%258B%25E5%258D%2588%25E5%258F%2591%25E8%25B4%25A7%25E3%2580%2582%25E5%2585%25B7%25E4%25BD%2593%25E4%25BB%25A5%25E5%2595%2586%25E5%25AE%25B6%25E5%25AE%259E%25E9%2599%2585%25E5%258F%2591%25E8%25B4%25A7%25E6%2597%25B6%25E9%2597%25B4%25E4%25B8%25BA%25E5%2587%2586%25E3%2580%2582%2522%257D%255D%26title%3D%25E7%2589%25A9%25E6%25B5%2581%25E6%2597%25B6%25E6%2595%2588%25E8%25AF%25B4%25E6%2598%258E&use_real_screen_height=1",
               "coms": [
                 {
                   "type": "icon",
-                  "url": "https://lf3-static.bytednsdoc.com/obj/eden-cn/rjhw.ajbkvyweh7tvjl/ljhwZthlaukjlkulzlp/xianhuo.png",
+                  "url": "https://lf3-static.bytednsdoc.com/obj/eden-cn/nmeh7nulmuhknuhog/detail_tag_icon/dangrifa.png",
                   "border_radius": ""
                 },
                 {
                   "type": "text",
-                  "text": "现在下单，预计今天上午发货",
+                  "text": "现在下单，预计今天下午发货",
                   "border_radius": ""
                 }
               ]
@@ -288,7 +288,7 @@
       "comment_data": {
         "good_comment": {
           "title_bar": {
-            "sum": 1404649,
+            "sum": 1404661,
             "link": "sslocal://ec_goods_comment/?comment_entrance=product_flow_page&product_id=3620553568169403454&show_header=1"
           },
           "tag_list": [
@@ -362,7 +362,7 @@
             {
               "type": 1,
               "image_info": {
-                "thumbnail": "https://p3-ecom-commentpic-sign.byteimg.com/tos-cn-i-8y5sebgt5i/bfaaef9a31d14f25af14c712db6f96a6~tplv-fceoirpogb-re_cp:360:0:q100.heic?lk3s=e100c300&x-expires=1789408804&x-signature=bg0vKiVhroE6hvPYMfeDUyVqaOU%3D"
+                "thumbnail": "https://p3-ecom-commentpic-sign.byteimg.com/tos-cn-i-8y5sebgt5i/bfaaef9a31d14f25af14c712db6f96a6~tplv-fceoirpogb-re_cp:360:0:q100.heic?lk3s=e100c300&x-expires=1789412404&x-signature=sf%2FkaqRE6SqiHc1srBlW1mUCVD0%3D"
               },
               "video_info": {},
               "preview_url": "sslocal://ec_comment_detail?product_id=3620553568169403454&comment_id=4200169789170630922&comment_cursor=0&comment_entrance=product_detail"
@@ -370,7 +370,7 @@
             {
               "type": 1,
               "image_info": {
-                "thumbnail": "https://p3-ecom-commentpic-sign.byteimg.com/tos-cn-i-8y5sebgt5i/778d12b56e88458da2115cd49a784888~tplv-fceoirpogb-re_cp:360:0:q100.heic?lk3s=e100c300&x-expires=1789408804&x-signature=B3vlrBc%2FBkz0GWTnXnIwwn1%2BOTM%3D"
+                "thumbnail": "https://p3-ecom-commentpic-sign.byteimg.com/tos-cn-i-8y5sebgt5i/778d12b56e88458da2115cd49a784888~tplv-fceoirpogb-re_cp:360:0:q100.heic?lk3s=e100c300&x-expires=1789412404&x-signature=cf%2FmD83wpDRna2TspJ4nnPcGa0E%3D"
               },
               "video_info": {},
               "preview_url": "sslocal://ec_comment_detail?product_id=3620553568169403454&comment_id=2645090909913792814&comment_cursor=1&comment_entrance=product_detail"
@@ -379,7 +379,7 @@
               "type": 2,
               "image_info": {},
               "video_info": {
-                "poster_url": "https://p9-sign.douyinpic.com/tos-cn-p-2253/okL2GMMiah9fDQbsCQBgMIcZEB60C4BRtyHAiA~tplv-noop.image?cquery=100D&dy_q=1788804004&l=20260908020004579B81C8D3C9A5906BD8&x-expires=1788814821&x-signature=YARkTfJOclE%2FjfdIpvBd75AJ04g%3D"
+                "poster_url": "https://p11-sign.douyinpic.com/tos-cn-p-2253/okL2GMMiah9fDQbsCQBgMIcZEB60C4BRtyHAiA~tplv-noop.image?cquery=100D&dy_q=1788807604&l=2026090803000465F102F6AE1114190EFC&x-expires=1788818421&x-signature=Qk3Wdl6eCFUNREM07xQ11NaH76k%3D"
               },
               "preview_url": "sslocal://ec_comment_detail?product_id=3620553568169403454&comment_id=1083143796067205403&comment_cursor=2&comment_entrance=product_detail"
             },
@@ -387,14 +387,14 @@
               "type": 2,
               "image_info": {},
               "video_info": {
-                "poster_url": "https://p9-sign.douyinpic.com/tos-cn-p-2253/oYvBFXD1FmZ1p8TSerKGECkZF1xIQECfARfmdE~tplv-noop.image?cquery=100D&dy_q=1788804004&l=20260908020004579B81C8D3C9A5906BD8&x-expires=1788814808&x-signature=UjBl6eFvbbvTrHV9QKelrfW%2B%2BKA%3D"
+                "poster_url": "https://p11-sign.douyinpic.com/tos-cn-p-2253/oYvBFXD1FmZ1p8TSerKGECkZF1xIQECfARfmdE~tplv-noop.image?cquery=100D&dy_q=1788807604&l=2026090803000465F102F6AE1114190EFC&x-expires=1788818408&x-signature=4o7oe9pLnF4YyIcajaNXsWy44LA%3D"
               },
               "preview_url": "sslocal://ec_comment_detail?product_id=3620553568169403454&comment_id=1101101019305476362&comment_cursor=3&comment_entrance=product_detail"
             },
             {
               "type": 1,
               "image_info": {
-                "thumbnail": "https://p3-ecom-commentpic-sign.byteimg.com/douyin-user-image-file/e2c81306acc4391cd3ce542a6f029b7c~tplv-fceoirpogb-re_cp:360:0:q100.heic?lk3s=e100c300&x-expires=1789408804&x-signature=N2n2ynY83%2Bmzdci0esslP4NZcIs%3D"
+                "thumbnail": "https://p3-ecom-commentpic-sign.byteimg.com/douyin-user-image-file/e2c81306acc4391cd3ce542a6f029b7c~tplv-fceoirpogb-re_cp:360:0:q100.heic?lk3s=e100c300&x-expires=1789412404&x-signature=PHFpSs06G3EtOT9WC8Cnl0qhe6w%3D"
               },
               "video_info": {},
               "preview_url": "sslocal://ec_comment_detail?product_id=3620553568169403454&comment_id=1779720422066946355&comment_cursor=4&comment_entrance=product_detail"
@@ -481,8 +481,8 @@
         {
           "uri": "ecom-shop-material/jpeg_m_071cf61f062be960f061179c17d5c6f5_sx_392923_www790-1329",
           "url_list": [
-            "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_071cf61f062be960f061179c17d5c6f5_sx_392923_www790-1329~tplv-5mmsx3fupr-resize:790:1329.jpeg",
-            "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_071cf61f062be960f061179c17d5c6f5_sx_392923_www790-1329~tplv-5mmsx3fupr-resize:790:1329.jpeg"
+            "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_071cf61f062be960f061179c17d5c6f5_sx_392923_www790-1329~tplv-5mmsx3fupr-resize:790:1329.jpeg",
+            "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_071cf61f062be960f061179c17d5c6f5_sx_392923_www790-1329~tplv-5mmsx3fupr-resize:790:1329.jpeg"
           ],
           "width": 790,
           "height": 1329
@@ -508,8 +508,8 @@
         {
           "uri": "ecom-shop-material/jpeg_m_a837fe66628c6425a7ad7b0674ff5d15_sx_391633_www790-1184",
           "url_list": [
-            "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_a837fe66628c6425a7ad7b0674ff5d15_sx_391633_www790-1184~tplv-5mmsx3fupr-resize:790:1184.jpeg",
-            "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_a837fe66628c6425a7ad7b0674ff5d15_sx_391633_www790-1184~tplv-5mmsx3fupr-resize:790:1184.jpeg"
+            "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_a837fe66628c6425a7ad7b0674ff5d15_sx_391633_www790-1184~tplv-5mmsx3fupr-resize:790:1184.jpeg",
+            "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_a837fe66628c6425a7ad7b0674ff5d15_sx_391633_www790-1184~tplv-5mmsx3fupr-resize:790:1184.jpeg"
           ],
           "width": 790,
           "height": 1184
@@ -562,8 +562,8 @@
         {
           "uri": "ecom-shop-material/jpeg_m_1d01583e62950023b3f64bcd5a9c71a2_sx_208058_www750-804",
           "url_list": [
-            "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_1d01583e62950023b3f64bcd5a9c71a2_sx_208058_www750-804~tplv-5mmsx3fupr-resize:750:804.jpeg",
-            "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_1d01583e62950023b3f64bcd5a9c71a2_sx_208058_www750-804~tplv-5mmsx3fupr-resize:750:804.jpeg"
+            "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_1d01583e62950023b3f64bcd5a9c71a2_sx_208058_www750-804~tplv-5mmsx3fupr-resize:750:804.jpeg",
+            "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_1d01583e62950023b3f64bcd5a9c71a2_sx_208058_www750-804~tplv-5mmsx3fupr-resize:750:804.jpeg"
           ],
           "width": 750,
           "height": 804
@@ -580,8 +580,8 @@
         {
           "uri": "ecom-shop-material/jpeg_m_fbb0f2b81ad81b30e355b0d706527a7e_sx_378311_www790-1244",
           "url_list": [
-            "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_fbb0f2b81ad81b30e355b0d706527a7e_sx_378311_www790-1244~tplv-5mmsx3fupr-resize:790:1244.jpeg",
-            "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_fbb0f2b81ad81b30e355b0d706527a7e_sx_378311_www790-1244~tplv-5mmsx3fupr-resize:790:1244.jpeg"
+            "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_fbb0f2b81ad81b30e355b0d706527a7e_sx_378311_www790-1244~tplv-5mmsx3fupr-resize:790:1244.jpeg",
+            "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_fbb0f2b81ad81b30e355b0d706527a7e_sx_378311_www790-1244~tplv-5mmsx3fupr-resize:790:1244.jpeg"
           ],
           "width": 790,
           "height": 1244
@@ -616,8 +616,8 @@
         {
           "uri": "ecom-shop-material/jpeg_m_c50286c0966a4d720c5975a24420a742_sx_48000_www790-200",
           "url_list": [
-            "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_c50286c0966a4d720c5975a24420a742_sx_48000_www790-200~tplv-5mmsx3fupr-resize:790:200.jpeg",
-            "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_c50286c0966a4d720c5975a24420a742_sx_48000_www790-200~tplv-5mmsx3fupr-resize:790:200.jpeg"
+            "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_c50286c0966a4d720c5975a24420a742_sx_48000_www790-200~tplv-5mmsx3fupr-resize:790:200.jpeg",
+            "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_c50286c0966a4d720c5975a24420a742_sx_48000_www790-200~tplv-5mmsx3fupr-resize:790:200.jpeg"
           ],
           "width": 790,
           "height": 200
@@ -846,8 +846,8 @@
           "image": {
             "uri": "ecom-shop-material/jpeg_m_071cf61f062be960f061179c17d5c6f5_sx_392923_www790-1329",
             "url_list": [
-              "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_071cf61f062be960f061179c17d5c6f5_sx_392923_www790-1329~tplv-5mmsx3fupr-resize:790:1329.jpeg",
-              "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_071cf61f062be960f061179c17d5c6f5_sx_392923_www790-1329~tplv-5mmsx3fupr-resize:790:1329.jpeg"
+              "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_071cf61f062be960f061179c17d5c6f5_sx_392923_www790-1329~tplv-5mmsx3fupr-resize:790:1329.jpeg",
+              "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_071cf61f062be960f061179c17d5c6f5_sx_392923_www790-1329~tplv-5mmsx3fupr-resize:790:1329.jpeg"
             ],
             "width": 790,
             "height": 1329
@@ -882,8 +882,8 @@
           "image": {
             "uri": "ecom-shop-material/jpeg_m_a837fe66628c6425a7ad7b0674ff5d15_sx_391633_www790-1184",
             "url_list": [
-              "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_a837fe66628c6425a7ad7b0674ff5d15_sx_391633_www790-1184~tplv-5mmsx3fupr-resize:790:1184.jpeg",
-              "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_a837fe66628c6425a7ad7b0674ff5d15_sx_391633_www790-1184~tplv-5mmsx3fupr-resize:790:1184.jpeg"
+              "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_a837fe66628c6425a7ad7b0674ff5d15_sx_391633_www790-1184~tplv-5mmsx3fupr-resize:790:1184.jpeg",
+              "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_a837fe66628c6425a7ad7b0674ff5d15_sx_391633_www790-1184~tplv-5mmsx3fupr-resize:790:1184.jpeg"
             ],
             "width": 790,
             "height": 1184
@@ -954,8 +954,8 @@
           "image": {
             "uri": "ecom-shop-material/jpeg_m_1d01583e62950023b3f64bcd5a9c71a2_sx_208058_www750-804",
             "url_list": [
-              "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_1d01583e62950023b3f64bcd5a9c71a2_sx_208058_www750-804~tplv-5mmsx3fupr-resize:750:804.jpeg",
-              "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_1d01583e62950023b3f64bcd5a9c71a2_sx_208058_www750-804~tplv-5mmsx3fupr-resize:750:804.jpeg"
+              "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_1d01583e62950023b3f64bcd5a9c71a2_sx_208058_www750-804~tplv-5mmsx3fupr-resize:750:804.jpeg",
+              "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_1d01583e62950023b3f64bcd5a9c71a2_sx_208058_www750-804~tplv-5mmsx3fupr-resize:750:804.jpeg"
             ],
             "width": 750,
             "height": 804
@@ -978,8 +978,8 @@
           "image": {
             "uri": "ecom-shop-material/jpeg_m_fbb0f2b81ad81b30e355b0d706527a7e_sx_378311_www790-1244",
             "url_list": [
-              "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_fbb0f2b81ad81b30e355b0d706527a7e_sx_378311_www790-1244~tplv-5mmsx3fupr-resize:790:1244.jpeg",
-              "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_fbb0f2b81ad81b30e355b0d706527a7e_sx_378311_www790-1244~tplv-5mmsx3fupr-resize:790:1244.jpeg"
+              "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_fbb0f2b81ad81b30e355b0d706527a7e_sx_378311_www790-1244~tplv-5mmsx3fupr-resize:790:1244.jpeg",
+              "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_fbb0f2b81ad81b30e355b0d706527a7e_sx_378311_www790-1244~tplv-5mmsx3fupr-resize:790:1244.jpeg"
             ],
             "width": 790,
             "height": 1244
@@ -1026,8 +1026,8 @@
           "image": {
             "uri": "ecom-shop-material/jpeg_m_c50286c0966a4d720c5975a24420a742_sx_48000_www790-200",
             "url_list": [
-              "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_c50286c0966a4d720c5975a24420a742_sx_48000_www790-200~tplv-5mmsx3fupr-resize:790:200.jpeg",
-              "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_c50286c0966a4d720c5975a24420a742_sx_48000_www790-200~tplv-5mmsx3fupr-resize:790:200.jpeg"
+              "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_c50286c0966a4d720c5975a24420a742_sx_48000_www790-200~tplv-5mmsx3fupr-resize:790:200.jpeg",
+              "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_c50286c0966a4d720c5975a24420a742_sx_48000_www790-200~tplv-5mmsx3fupr-resize:790:200.jpeg"
             ],
             "width": 790,
             "height": 200

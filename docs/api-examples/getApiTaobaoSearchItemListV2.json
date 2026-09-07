@@ -1,11 +1,11 @@
 {
-  "_fetchedAt": "2026-09-08T02:55:43.411340+08:00",
-  "_sourceCheckedAt": "2026-09-08T02:00:17",
+  "_fetchedAt": "2026-09-08T03:00:44.219484+08:00",
+  "_sourceCheckedAt": "2026-09-08T03:00:14",
   "code": 0,
   "message": null,
   "data": {
-    "_cost": 471.530387,
-    "_host": "hippo.033205255052.na175",
+    "_cost": 550.426878,
+    "_host": "hippo.033094242119.na175",
     "cardStyle": {
       "adAbstractSwitch": true,
       "adBigScreenSwitch": true,
@@ -32,7 +32,8 @@
         "service",
         "prop",
         "end_price",
-        "start_price"
+        "start_price",
+        "catmap"
       ],
       "filters": [
         {
@@ -10784,46 +10785,24 @@
     },
     "itemsArray": [
       {
-        "auctionURL": "http://click.simba.taobao.com/cc_im?p=%D2%C2%B7%FE&s=1325331326&k=2593&e=vQ0hbBj822HkweS6xxPSVfatcxk%2BRhj%2BRFXCevt18kV4lQ8FZJ3veWcpLkBEeqrXa4fjlUXWAyTxe2XHregNekRgWFVQKFGLaO3Yz%2Fa1FekOP4l2G%2BnOM0yPdHE9wiX6xzx4dPG1AlRKEmoXOjhOdFLQ7Cn7XJ%2FKj1LOQiuXW99BO%2F58hX6i3%2FHkrpwKl4fnKvlTQbsCLjQsHExWHTK7iDrVCwnhbTF7mAsjeEHHhsFLv%2FRlC0pa3Xs3cFgaxXC6OJos8a46Eoc1njdFq%2BmTvT9khFdJ4o2r4htPFC2XyVNGz0cMfRvDZXqYFNRFTqKbTj4sW7DrK72OWztnfTVrw%2B5kk4b7nV3ltPEyGxpOTu29h6JV00%2FPnreVBSbU8LPnKTPGPiGNmnl0wR4ogUUYJ%2FxlbgYLZamIsilNcgUYzYg0VTamOoijld1Sbkk9B5nGX7lytJP9c0tolYpPInR66KYAhk2H36giynpgZnLM5KKIXD0nOsk94%2FckvnQWcT7AIEK3MW7LD9%2BUIEll8HgP4XbZJBdYxrmDxTPvGAuVDdglGYG5ZRkExuuvKQ2T5LscG%2BbWtuW%2F9mShttPYXJuM7m1H9TJZYUSbW7t85ccSsfWx4BqI84Fq82bwuBsVYH8J%2FJklGY8ZamsykhQk9ejGPnoiXO%2BiYMX1hyxPV%2Ft5xLb3ucFGVOXMasip5LKpwOA9BjfJvYO7CKgoIg%2BjYVSbn%2Fes8wI48JrRmNSywavi3r5pH%2B0GO2hUuU8eJBCfm4ed8kDipA%2BTkkF91R6f%2FXN%2FnnvcgdWCamFOigWb9%2FizX3Fo7fty%2FiDL6jgrLEHFk1%2BrhK0132Dam2IHBqyNOURPNsMIOKeD4nl8OpVT0lbb2SsINIeaVxMLOF4btZY2bSHK8nIHkYxGdAct00XInCOgSin4yB3d6sBVFpfvO0g5pWU%2F4MZd0lWzcF%2BFBVeiCxcm17xm0IIRDiRCNlj4LKAeNreTNlqR702b1zVDMZU6p68S%2F5WN7qzfwwACgXifRUQhkLcw%2FhLLgU16qmH24p3fFMbA3QI3mhyQGeIt7eNRAGHGMt7hWbTfdZN%2B%2BEcPNN9fWn%2F0p2nUCg5ZxLrNWQlRMvSn9a2xLuGaKZAgfc3CGtC6OGDBc1VZMWKYnWoJ8YwoI3o29j9exhRiFARPIjKbvjCnpCBe1HZjetdj9yY%2BuIQIa7RfiAM%2BODNscju1iZr3%2BzSBl2bl1cIZO%2F0VKChdkEkWz1e%2BHuzyXRm%2FJsiy9ogwwS1TG8ZjDvvzoirExWzIc5mTw8fyEvL5exGQzTbM2LxCtvGHub9YMsy6e7b160blLhH7VcqTsyQlxcCXEqMaDSz5ouJl94l%2Bf%2B7OkhmI4U%2BAdWId%2FQcxvVnsK32n7VFbPwBbwFRXrQovKVpixDRl5qVl7AXZmSopzhPwSnAtrgNzgxTvGSj4jFBnqEXDt5gpkDZ9wkcmdZ6ARSEMp7GqG9Rl0GXTJNzkSNx757BSgCn9cD%2F8hFKaaaVHtBtDl7w4uRWxRPPmQ8YyK6UVMPAWAebH1IiqO%2F3%2FQOMaTUoCnmhwHUdaJK3JTAxiiHq9X0dAXLP3e7bt0u1wu1japgOZJbeQr52qrVu%2Fr%2FjMqwRyBZK8vIJA9dBC5W2O6ZnkWNqkYw6WkDkzLKfZ1K4T84WI4xtui%2FgK3O1tv4nYutvfTEeSLCkd0c4TF8wV7A1pVlro6QVwQX09C%2FMjYl%2BI%2FJULNOcVpb5yjmaSf0C5fT4sBYQk%2F2Zofp5FZenVjTVlSTNMnUXfQT2kUIWYxuIrChfF329CZEkp0aPJ3HwyZwzlD0BGy0mhe8hLJXhx2b%2BPS5u3iKOi12baSS3TRcicI6BKyFJYOqr14JA8Vy%2FtTslfLQcKP%2BHz%2BEeY9XpRbR4Sjx8XZZ7yEznvOBnfwOVq1hPH7pfIjr6N6ylYWWoJ6a8et4tZCsEuT98kaGQBrpkjr0zSk7sQuSTjZ94%2BJcdrOfzhwOXzb3E92oyQmJ%2BU8FiHDlInxWly9NN%2FZwLgUY4s4VmtAfZuXIRD8oMu9Sz4I7CbjdQWbYiRK9PnN7Y0Bp8SL1BYnIsBLXaq6WyptPOMW%2B9VfDJTnjdRoB08Lto%2BaffNMDwVRbeUiUgmxYDjU51r3InOxUVlyAvHiJrwG65LO59OPWEn%2FIe9PgkCE%2FHo5Xp1zDM7GvKz8vwOGcMDG11%2FvUL6p%2FW4vE6r%2BZfJCcPnGsALbhPjStQQ55Y%2BNE%2FpgsY4PmnUzvn6n6%2BRWRNfL%2FCAL82qx0Bu1BRUpVJCcfwE40xIn0lT23uqUq43JX9QwabxaDjX7PBsluZT%2FQxn8f2r6HeUiqVBXeZrr7Hq5UUyHz%2Fn577wO0tU17A%2BXX0LyvCa7tTDv2scOg2SRzQTI5f0dFD17F0ulw%2F%2Fdywh5aNGCKBq0XI5e5%2BptCvFOk%2FtQsWJWn%2F0p2nUCg48pwX3HWHYUNDSY7Y55IvZ7RQDdK1bk5pwlR3TNkkZAFStELSTp0U0HmjEd6kpGQ3vtY2j8ELutfrFQcrTYIIZtsnxWe4clwaYYV86UxwU2s6kaxv7V%2Fxfmfb46bAoTfZhDHm61b0UVj5mKDxQ6B0S&eadt=282&mm_sceneid=1_0_52738182_0&a=xxc%3Dad_ztc%26umpChannel%3Dbybtqdyh%26u_channel%3Dbybtqdyh%26fpChannel%3D101%26fpChannelSig%3Dd7bc18816b19e6295555c8a8b38ff08851ae657c%26mi_id%3D0000QxmIR4ld981Gky2RfsVcCKkLDf0EQUYaxcvxQMRsu9o%26skuId%3D6110743796742&id=1064557713297",
-        "categoryp": "50008165 50013189",
+        "auctionURL": "http://click.simba.taobao.com/cc_im?p=%D2%C2%B7%FE&s=533831323&k=2605&e=WJlf8gANcUAQ%2BVSEF1iPUyTTmDLQECmU61ZJh7TBSI0cOVSqz7Pmvg345IhQW9ya8GYhKiBu1daRFiXKgImYrEmxnllzbBbT7NAqciwnLSUNtnd2w0KNUclAnAiBcCtWAIGfV5rYypPAnhvsHf1q7pYAYggXCZLtMWHJATv5Eg13YoKNOh9whbyFoNkLUpAb4a%2BZXsWw3T7GkwZUtFb3OhpKz04xFDWDEZ6%2FrRVZ55JXInxmoPiicbaLsteU8%2BZUoM9JSDolQ9oTF3TqnfRV4c%2FGmfY72nVa5OdEDDV%2F2165OME3lVu8f3068FFEyiQrLboETej%2BPvFoEDwn1Crz3BMNbjcpgCzlVEVEXetIe6rjy3vtbKM%2FUMWAaBQnHQHJbB%2FhloWoXc4Wo2d3oFLwVRxO99tmXIm161XSDZnuixYPwV707LAaIaVEv5Bcy8xMpfnUChv22uZrrLQQlgWCzo7%2FejgEFT%2FOIMkuq5v60rj3Mn7CZuThVkj2%2FEJndYZyW8WXq2%2BhHX8%2F6RHQ9HuSmtPLoO89%2F2sedUgScuMxxXyuBRu5ijMtV%2BLuTsKtxNql462dP1VKIqyegkxaY10%2Bce7jmOBp4N6VAD7UxDSsqiaSYUeg5Pp5oxIyxPPG5ipuYLsZIOmeQeRQ0hwn%2BpNoJVeIlE30DQKFocQEIv%2BgcbdgDB9DSwoC28L86EQ3cJIU8dQiHIdZ4h67eT1bWhNJ7HHNnHymGCCTmFCMqdXQZr%2BBtBqVyDbyNUTtV%2FqmBkgCSLqYMYD%2B1aH0ZRMKElMSRW4Wbasawwgb%2BFdy93daBloO9PoSMvcy%2F7WnCTQIuJy7oUNwQFGkkx2hQko6snPa47PmG4NZk5Mftik8hoGJE%2BMpwSGI5h%2BeU%2Fz9RLbaClBc52DSFa9sEnRp2UspsdJuKAycGaRCmDMm4uDFxtQlDt6iQvXXWPWiYZi6%2F6VtowcolC%2BagTFmebymCnbnvpK04yq4IGuLKvFxIiQ3E2tCQ%2F%2BJYfjmMbjSEBReERde5vw5nk5oohb92j1GQCLaPSRQbJpdViAZk8cizoiMfUSx%2F4ckrxLPHEM6oGw53fwCYJnDmgwhqwRXsGtdSZFlu9oyiQNhDExFK3AmnGaz4SzGed1vScCehoXa7LcmH1vwJcosgztO6hAz0ev6WGglFZWpoiOSpfXylcoL8fox%2FXdP1%2FmNwZDH1NWV7kyztdT7z7vqdrQw%2FwAby7JgNLz8GuKmyU6DZRoB9hdWR37dQtC0bCrdU524kn%2BsTPw6DzmngZRpjXHoV6jYQuCb%2BtmanY52ZjiG0Udk7EEaMToQGV%2FtAxUinoJCOysrHaLhN9L3QkChdC2034%2F1TUxLeQ9%2Bl%2F35kJ3Nwnk%2BZFncpkSyijkkFsP1kDcFEcR4J5naJs4ruJ7Tia3QV2iYvPcWuVx1MHhtBU3aLBpjhWURzTWuXXW7Z28ZWNRmx73mWLYGvfSH8PNcAKkl0cKHpIYnsgl2QZkG%2Fp0x6AovURq2HZT9C7OIUCRc%2BeCNpmcva8P5E2NIl335qCWQdGUp3OHUZy9xL6gyL8guNg437ArmE4gUrKgw%2Bn2SsKRNcH5zqw%2BnDZ%2BR6fdxdhuM9rCoYMsO9PoSMvcy%2FwzwqoDKFcxwNoCmM5oBT2s5ElKayzNSdsRlBV19vydfMeErcXNyS3ItMWegQhyvpGhWF38Saal592nlqU69F6MzZaxk4ggXkpJUxlFDUqtD%2BWGZX9ka%2F%2B5%2BQ1yK%2Bko81cvgPOjsBPKasP%2FD5Nk83xQjo%2FepWzbENJECC5LzmEeaB2nRRSkhulXLexf%2BVLTFTqGpltsb%2FQWhLLML%2FMBUCWEpbd5UhfwiWMt7F%2F5UtMVOtTvPMJT38sMLL58NipQU%2F%2F0V461razCNQJu8FKeIStIjG9cFwrpHmBuyZ639egwFmJk%2B%2F1FcEbafZtoMjqF5pOGhpPy5JjTPqo%2B1xTKFiGmW11jalMsvEsMzknSWvXBhgPq3kO3901Ermn9x6TrADUbNrmZ0sA7IgrDOa4ZOsxIOq%2BdzH8%2BcJRfc3BeGMzLMMCnZqVX2bhADC7aj6WSt2KEdnC2tk9IAyho%2BrTaCuG%2Fmex3nwfArvC7uweZnfv5TL5TOVXykd0CP7YhFXSxZC49pDiKmKGHPWTPF07qFTzTcF4XdJws08sWl5kohBtoN0c78%2F6u5w%2BqKgFZz3NUjofLzROFgHcFs4jhOSulrC1I7B%2Bv%2Bk5bUDu6fB4K1JeP0wdDQgCciHglrzyBRmhliZTMz0RrPWbofkvqD3H3b9F6MEYx2JLeGsEQcu%2FMI%2BBb1KrzIzJ6EBrHZHOpfZ4Yrk6SE74Pnn1pdeB1ziGCaTAA%2FzrmZCqSw5iYsHDGhr7UqOk4q2D0055njnOurWDra2BW9d%2BEeVXlgVoqWS0SeRnfAEoczl24CWTdNV2dortWKfEnCeii5B8P6Hw5ug07SC9pTanREB5i%2B1RYi9Bc6oxET5%2Barpnesfw3AEpmOlLnrFItYoiOwGNSSz%2FbkIvx53gqiftXf2Ihr5OH2K3XB1U82rqbcPyO03rkeBHd4ORuq0oX8zf%2B96PCuZMB%2FQEWEhGe60NDa0zVLbfAC3bl7kt0%3D&eadt=318&mm_sceneid=0_0_6990184225_0&a=xxc%3Dad_ztc%26mi_id%3D0000Hd-b4wOqKVmDBe8AvuplzmMyX4lquM8i-VKNL52BLBo%26skuId%3D5832251288280&id=938020526138",
+        "categoryp": "16 50008906 162703",
         "extraParams": [
           {
             "key": "skuId",
-            "value": "6110743796742"
-          },
-          {
-            "key": "umpChannel",
-            "value": "bybtqdyh"
-          },
-          {
-            "key": "u_channel",
-            "value": "bybtqdyh"
+            "value": "5832251288280"
           },
           {
             "key": "detailAlgoParam",
             "value": "%E8%A1%A3%E6%9C%8D"
           }
         ],
-        "iconList": "guanggao,pcbybt_tm,wsearchicon-activityPreTitleMainpc_8e18dfeb4b2aaea23021251ebaeed0ff,tmallPC,tmall,thbxf1",
+        "iconList": "guanggao,tmallPC,tmall,thbxf1",
         "icons": [
           {
             "alias": "guanggao",
             "domClass": "guanggao",
             "group": "2",
-            "showType": "0",
-            "type": "img"
-          },
-          {
-            "alias": "pcbybt_tm",
-            "domClass": "pcbybt_tm",
-            "group": "1",
-            "showType": "0",
-            "type": "img"
-          },
-          {
-            "alias": "wsearchicon-activityPreTitleMainpc_8e18dfeb4b2aaea23021251ebaeed0ff",
-            "domClass": "wsearchicon-activityPreTitleMainpc_8e18dfeb4b2aaea23021251ebaeed0ff",
-            "group": "1",
             "showType": "0",
             "type": "img"
           },
@@ -10851,120 +10830,89 @@
             "type": "text"
           }
         ],
-        "ifsUrl": "http://kgb-ifs.tanx.com/kgb?i=%B9%B8r%2C%E8%BB%FF%C8%28%81%0A%91%B9W%5CY%EA1+%3A%B8V%27F%CD%E3%F7%F9_%B0%0EF%3A%D5+Y%F1%7F-%97%F0P%B7%B8%3AiR%F8%8DI%E8L%98g%C0%D5N%60y%A75Q%C8E%B1I%AFfz%E7m%91%7D%B0%87l%B8S%FDj%87%FC.%D7%A7%BA%FCS%F2%16%0D%FDKFN%E9V%D9%EC-E%7Do%1D%AA%CD%19%D8P%81%D6%09%B0%0F%E6%0471%A5%CB%8B%D5e%F5%910",
+        "ifsUrl": "http://kgb-ifs.tanx.com/kgb?i=%B9%B8+y%EE%EB%F6%C0%F0%16Pf%21%05%E2%81%7E%DBM0%84%EA+%23%FF%F1%ED%D8%12t%A8p%F0%D8%9D%A09%F4%7F%24%84%28%23D%A8%8Bky%85%FE%7B%8E%FD%F5%03%D0%0F%BE%FB%DE%CD%B6.%18%9F%27%7B%2C%A1%C6%A9%C4%06%C8%08Bl%92%14%82%16k+%8FG%C2%0A%83%22L%C8%8E%D8%C4%17%C5%8F%97d%E8%DF%D8d6%B4%D8%D0%5BC%16%C3fJ%BA%29%B0%E6%F0%ABqc%DF%05.v6",
         "isP4p": "true",
-        "item_id": "1064557713297",
+        "item_id": "938020526138",
         "labelOrder": [
           "structuredUSPInfo"
         ],
-        "leafCategory": "50013189",
+        "leafCategory": "162703",
         "localPrice": "",
-        "nick": "converse童装旗舰店",
+        "nick": "卷毛树旗舰店",
         "p4pLabel": true,
-        "pic_path": "https://img.alicdn.com/imgextra/i1/1916176081/O1CN017H1NqZtVXCF1chua_!!1916176081-0-alimamacc.jpg",
-        "price": "199",
+        "pic_path": "https://img.alicdn.com/bao/uploaded/i1/2218645622822/O1CN01ILPNhp1WiWlFqIVGY_!!2218645622822.jpg",
+        "price": "37",
         "priceColor": "#000000",
         "priceShow": {
           "preText": "",
-          "price": "199",
-          "priceDesc": "补贴价",
+          "price": "37",
+          "priceDesc": "优惠后",
           "unit": "¥"
         },
-        "procity": "福建 厦门",
+        "procity": "广东 广州",
         "realSales": "本月行业热销",
         "relationScore": 0.0,
         "shopInfo": {
-          "commonTagText": "12年老店",
           "pbshowshopinfo": "false",
-          "title": "converse童装旗舰店"
+          "title": "卷毛树旗舰店"
         },
         "structuredUSPInfo": [
           {
             "fieldTemplate": "property",
-            "propertyName": "面料",
-            "propertyValueName": "100%棉",
+            "propertyName": "适用年龄",
+            "propertyValueName": "17周岁以下",
             "source": "new"
           },
           {
             "fieldTemplate": "property",
-            "propertyName": "功能",
-            "propertyValueName": "透气",
+            "propertyName": "上市年份季节",
+            "propertyValueName": "2025年夏季",
             "source": "new"
           },
           {
             "fieldTemplate": "property",
-            "propertyName": "安全等级",
-            "propertyValueName": "B类",
-            "source": "new"
-          },
-          {
-            "fieldTemplate": "property",
-            "propertyName": "袖长",
-            "propertyValueName": "长袖",
-            "source": "new"
-          },
-          {
-            "fieldTemplate": "property",
-            "propertyName": "适用季节",
-            "propertyValueName": "秋季",
-            "source": "new"
-          },
-          {
-            "fieldTemplate": "property",
-            "propertyName": "适用性别",
-            "propertyValueName": "男",
-            "source": "new"
-          },
-          {
-            "fieldTemplate": "property",
-            "propertyName": "领型",
-            "propertyValueName": "圆领",
-            "source": "new"
-          },
-          {
-            "fieldTemplate": "property",
-            "propertyName": "风格",
-            "propertyValueName": "休闲",
+            "propertyName": "品牌",
+            "propertyValueName": "卷毛树",
             "source": "new"
           }
         ],
-        "title": "匡威假两件男童长袖t恤男大童上衣春秋条纹拼接袖官方英伦风休闲",
+        "title": "儿童迷彩服套装男女童军训服夏季春秋季运动会表演服幼儿园演出服",
         "umpPriceLog": {
           "b_s": "pctb_search",
-          "item_price": "199",
+          "item_price": "37",
           "price_from": "ump",
           "price_stage": "0",
-          "s_id": "6110743796742",
-          "traceId": "210127cc17888004538553658e0a89",
-          "umpLog": "sourceTypeKey:2_ad_ztc;channelKey:bybtqdyh;fpChannelKey:101_d7bc18816b19e6295555c8a8b38ff08851ae657c;originUmpPrice:19900^19900;utcP:38_0",
+          "s_id": "5832251288280",
+          "traceId": "2100cff617888076241655439e0bb0",
+          "umpLog": "sourceTypeKey:2_ad_ztc;originUmpPrice:3700^4000;utcP:9_5000^11_300",
           "ump_invoke": "0",
-          "x_object_id": "1064557713297"
+          "x_object_id": "938020526138"
         },
-        "uprightImg": "https://img.alicdn.com/bao/uploaded/i1/1916176081/O1CN01VLWrOwrYSbJ1WPjS_!!1916176081.jpg",
+        "uprightImg": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i4/2218645622822/O1CN01d6V05joKV5I2b8N1_!!4611686018427383846-2-item_pic.png",
         "uprightImgAspectRatio": "0.75",
-        "userId": "RAzN8HWJnq6MiVamfsVzm8aQmWTE6Gikt8Cz7QtKUMHjX3XQyBP",
+        "userId": "RAzN8HWXep1tXvRgTEQpkeXV5GPiTDqNFbWmDgrkjVbfYb9i5PS",
         "utLogMap": {
-          "aplus_abtest": "493aa8fabb707d0c15bdd5240d18a1a6",
-          "at_bucketid": "75",
+          "aplus_abtest": "5824ed7b6e13c4e359cde05b7687fb57",
+          "at_bucketid": "76",
           "is_weak": "0",
-          "lf_aclog": "1-1064557713297-49-_sale|-0-199",
+          "lf_aclog": "1-938020526138-49-_sale|-0-37",
           "pageNum": "1",
-          "price": "199",
-          "rn": "e33756d1715fea81cb06e739f6318ddd",
-          "time": 1788800454417,
-          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529603#0_34385#50535#525315#0_34385#51800#509551#0_34385#50009#530670#0_34385#57411#522394#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522405#0_34385#59594#533776#0_34385#58166#528987#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#502761#0_34385#61217#541178#0_34385#43484#512361#0_34385#63007#549575#0_34385#44159#499960#0_34385#45784#507589#0",
-          "userId": "2222930862201",
+          "price": "37",
+          "rn": "73fc6b33cff3686b48920a7e6fd4af93",
+          "time": 1788807624760,
+          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529604#0_34385#50535#507978#0_34385#51800#509551#0_34385#50009#507596#0_34385#57411#522400#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522407#0_34385#59594#533776#0_34385#58166#525998#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#501535#0_34385#61217#541178#0_34385#43484#512360#0_34385#63007#549575#0_34385#44159#505918#0_34385#45784#502000#0",
+          "userId": "2222989967027",
           "x_ad": "1"
         },
         "video": {
-          "coverUrl": "http://img.alicdn.com/imgextra/i4/2217753917324/O1CN01uXMk5X23yRvz9AN4H_!!2217753917324-0-qnaigc.jpg",
+          "coverUrl": "http://img.alicdn.com/imgextra/i1/2218645622822/O1CN01uob8QM1WiWlHRC2wH_!!2218645622822-0-qnaigc.jpg",
           "showIcon": "false",
           "videoDimension": "3:4",
-          "videoUrl": "https://cloud.video.taobao.com/play/u/1916176081/p/2/e/6/t/1/570812174654.mp4?appKey=38829"
+          "videoUrl": "https://cloud.video.taobao.com/play/u/2218645622822/p/2/e/6/t/1/522886514679.mp4?appKey=38829"
         }
       },
       {
-        "auctionURL": "//item.taobao.com/item.htm?id=1022438417587&ns=1&abbucket=15&xxc=taobaoSearch&mi_id=00002u_lM-pLRs8yiu6yH5nPzpZe9g2wehj3R2AuaO-u5ww&skuId=6198129054440",
+        "auctionURL": "//item.taobao.com/item.htm?id=1022438417587&ns=1&abbucket=19&xxc=taobaoSearch&mi_id=00002u_lM-pLRs8yiu6yH5nPzmxZVZ4PxYB21sVwvWEUdH0&skuId=6198129054440",
         "categoryp": "16 50000671",
         "extraParams": [
           {
@@ -11085,7 +11033,7 @@
           "price_from": "ump",
           "price_stage": "0",
           "s_id": "6198129054440",
-          "traceId": "210127cc17888004538553658e0a89",
+          "traceId": "2100cff617888076241655439e0bb0",
           "umpLog": "sourceTypeKey:2_taobaoSearch;originUmpPrice:5890^7990;utcP:20_2100^17_0^10_0",
           "ump_invoke": "0",
           "x_object_id": "1022438417587"
@@ -11094,16 +11042,16 @@
         "uprightImg": "https://gw.alicdn.com/imgextra/O1CN01NxG3tsKqECK1WPjS_!!76223406-0-picasso.jpg",
         "userId": "RAzN8HAq4khaj772KSMLoWC8dNFne",
         "utLogMap": {
-          "aplus_abtest": "0f106143464ca9b1d71a2298837bc69a",
-          "at_bucketid": "75",
+          "aplus_abtest": "789e2c5cebb0fc4045d467e98df4c17e",
+          "at_bucketid": "76",
           "is_weak": "0",
           "lf_aclog": "2-1022438417587-49-_sale|-0-58.9",
           "pageNum": "1",
           "price": "58.9",
-          "rn": "e33756d1715fea81cb06e739f6318ddd",
-          "time": 1788800454418,
-          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529603#0_34385#50535#525315#0_34385#51800#509551#0_34385#50009#530670#0_34385#57411#522394#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522405#0_34385#59594#533776#0_34385#58166#528987#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#502761#0_34385#61217#541178#0_34385#43484#512361#0_34385#63007#549575#0_34385#44159#499960#0_34385#45784#507589#0_124#0#318546#0",
-          "userId": "2222930862201",
+          "rn": "73fc6b33cff3686b48920a7e6fd4af93",
+          "time": 1788807624761,
+          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529604#0_34385#50535#507978#0_34385#51800#509551#0_34385#50009#507596#0_34385#57411#522400#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522407#0_34385#59594#533776#0_34385#58166#525998#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#501535#0_34385#61217#541178#0_34385#43484#512360#0_34385#63007#549575#0_34385#44159#505918#0_34385#45784#502000#0_124#0#318546#0",
+          "userId": "2222989967027",
           "x_ad": "0"
         },
         "video": {
@@ -11114,7 +11062,7 @@
         }
       },
       {
-        "auctionURL": "//detail.tmall.com/item.htm?id=894166003424&ns=1&abbucket=15&xxc=taobaoSearch&mi_id=0000AGeo2Sa5GlSnHj-p7ViEdqtFXVkLsnWBQA5cBoTnJ1g&skuId=6261562567091",
+        "auctionURL": "//detail.tmall.com/item.htm?id=894166003424&ns=1&abbucket=19&xxc=taobaoSearch&mi_id=0000AGeo2Sa5GlSnHj-p7ViEdhyo23R6QQDMNCe9X1c-PYY&skuId=6261562567091",
         "categoryp": "16 50000671",
         "extraParams": [
           {
@@ -11186,7 +11134,7 @@
         ],
         "leafCategory": "50000671",
         "nick": "蕉下官方旗舰店",
-        "pic_path": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i4/1652864050/O1CN014DFIDTf7fEK2vH2e-1652864050.jpg",
+        "pic_path": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i4/1652864050/O1CN014DFIDTf7fEK2vH2e-1652864050.jpg",
         "price": "79",
         "priceColor": "#000000",
         "priceShow": {
@@ -11258,7 +11206,7 @@
           "price_from": "ump",
           "price_stage": "0",
           "s_id": "6261562567091",
-          "traceId": "210127cc17888004538553658e0a89",
+          "traceId": "2100cff617888076241655439e0bb0",
           "umpLog": "sourceTypeKey:2_taobaoSearch;originUmpPrice:6900^7900;utcP:spsd4cjmj_1000^saleCjmj_0",
           "ump_invoke": "0",
           "x_object_id": "894166003424"
@@ -11267,16 +11215,16 @@
         "uprightImg": "https://img.alicdn.com/bao/uploaded/i4/1652864050/O1CN01NYrwycNbFlE2vHAO-1652864050.jpg",
         "userId": "RAzN8HWSj2Vg963w7VzebB6DrsEfY4FitX1AZU5J2nBBGdnXV96",
         "utLogMap": {
-          "aplus_abtest": "6b8321ae774344e2c16d5d9eafbe226e",
-          "at_bucketid": "75",
+          "aplus_abtest": "f783a5b38aef76ca967d6e88af906666",
+          "at_bucketid": "76",
           "is_weak": "0",
           "lf_aclog": "3-894166003424-49-_sale|-0-69",
           "pageNum": "1",
           "price": "69",
-          "rn": "e33756d1715fea81cb06e739f6318ddd",
-          "time": 1788800454418,
-          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529603#0_34385#50535#525315#0_34385#51800#509551#0_34385#50009#530670#0_34385#57411#522394#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522405#0_34385#59594#533776#0_34385#58166#528987#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#502761#0_34385#61217#541178#0_34385#43484#512361#0_34385#63007#549575#0_34385#44159#499960#0_34385#45784#507589#0_124#0#318546#0",
-          "userId": "2222930862201",
+          "rn": "73fc6b33cff3686b48920a7e6fd4af93",
+          "time": 1788807624761,
+          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529604#0_34385#50535#507978#0_34385#51800#509551#0_34385#50009#507596#0_34385#57411#522400#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522407#0_34385#59594#533776#0_34385#58166#525998#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#501535#0_34385#61217#541178#0_34385#43484#512360#0_34385#63007#549575#0_34385#44159#505918#0_34385#45784#502000#0_124#0#318546#0",
+          "userId": "2222989967027",
           "x_ad": "0"
         },
         "video": {
@@ -11287,24 +11235,46 @@
         }
       },
       {
-        "auctionURL": "http://click.simba.taobao.com/cc_im?p=%D2%C2%B7%FE&s=1325331326&k=2617&e=pdCerywupCnkweS6xxPSVfatcxk%2BRhj%2BK8x%2FjpTUop2AJQyoO4JRxapmJZJjxy3ga4fjlUXWAyTaU3RX4TWHZFxaeuJqIciogaRZErdwHiIOP4l2G%2BnOM0yPdHE9wiX6xzx4dPG1AlTsiTlw7f4jLxX8zIRt1kToj1LOQiuXW99BO%2F58hX6i3%2FHkrpwKl4fnKvlTQbsCLjQsHExWHTK7iDrVCwnhbTF7mAsjeEHHhsFLv%2FRlC0pa3Xs3cFgaxXC6OJos8a46Eoc1njdFq%2BmTvT9khFdJ4o2r4htPFC2XyVNGz0cMfRvDZXqYFNRFTqKbTj4sW7DrK72OWztnfTVrw%2B5kk4b7nV3ltPEyGxpOTu29h6JV00%2FPnreVBSbU8LPnKTPGPiGNmnl0wR4ogUUYJ%2FxlbgYLZamIsilNcgUYzYg0VTamOoijld1Sbkk9B5nGX7lytJP9c0tolYpPInR66KYAhk2H36giynpgZnLM5KKIXD0nOsk94%2FckvnQWcT7AIEK3MW7LD9%2BUIEll8HgP4XbZJBdYxrmDxTPvGAuVDdglGYG5ZRkExuuvKQ2T5LscG%2BbWtuW%2F9mShttPYXJuM7m1H9TJZYUSbW7t85ccSsfWx4BqI84Fq82bwuBsVYH8J%2FJklGY8ZamsykhQk9ejGPlZV90%2B9zXQPolLve%2F7QA7Jlzp%2FDUziRJxbtCDybLwTnNmrip1Z479STW6CSlOhgLGQNdUPcHa4V8S6L2kzK%2Bomcg8yJ4t%2BqO2IwZY5IqdMZs%2B0ST%2BN4Qh6C57EsQwNSrQ3sYR8FhAB46nC617UdX2q5YGj%2BNHHK2e%2BxSdvW%2BVmdEC7JVulrExdFfiwggqwDn3dkY7nEI%2FfynZrHcxo5eMZJuHkvCtzn8nGwsY5acWDivuxOw%2B4uyNyO1g5CkrJ51RTyntl%2Fzdn09i9%2F1pN%2BZvT3UnNHq%2Bw3nVnVULEzchNuPXbYp09qMF9ohMJTVCagOFCaK84WKFfFrKH4xorkKOJaEWE6%2BEhcCvnLokm4n3tzf4JC6EEZl4RfaA5mGq%2B52Yvm4gBDKWdbPTKcrXD%2FXrniIfsKK1ymGVjnZ2bHHBCHf7c3QcUpKb%2FIMMHE8F92eOdG1dRm1HsgyZYf0fXGYW%2BNV2DzLffFZCOz2obuAAXbX6qAn0HzY%2F4TXlTWIE2cYcZGk1ebjDnWVGl9c5FWKwENbdWBTrewngaQMeZGQbXWHL91z4EVqs3HXV9k1RUHiOelPVBg18CcmyS%2BOy3WuC5BMgZovAeuceBxvNYVd4axR8GiHerbGF0dMPSlLp%2B%2BBYvaBnUa8fu%2BlzpB9jAyDsH9W62JD60rnSAWtrAm5hcRmuhZ6oxV5ZlUpJWakssBz0M7IFtkCghE7IFNIJ8j7DDzryFnrdluJ7AdlBHhabwS%2BFzxGWWnri%2BXeSgsvno4CSSorTLYNWVgf7eU3e8u69YaOqZ5Ux9Zuf9gJdPftA3VEwtXewsL4KTbxcnR9MRmnP%2Bn9zwdT%2F5Znqv3jnwITqiz440PswgZV4TSXjrGa5JvAbLAw277auSX41Cg13hzUpBI2DzDFl4t98nVXtqClCGC7yEzk4b%2Bdz%2FxRTxAtewFYcyJPze3VsFTvIdHg4g5L0G0IVimDUAYtLocG9qbVrB3dmwbp9Tq%2Fni7o6Y7sFXVxaOfVq3bhy00%2FEZUFkN%2BUD6iEJpDNHOCvEFZPL%2Bf9x6129QBHD6JwQECf61iWRGZzBKyVEa6%2FyhOhxTDxF31uj7VoFfpAwjToWrQNYQ1fZ98TsQEILnw%2BPzXIf3r6dSDRRzb17%2BZshoJfRKv3Boh4HHyUpw1cfQAtoaq4HyJ%2F%2FdrAiwzrMzInM%2BRT7VpTwzMcfJSnDVx9ADqrnLSeZH8TDrpKDaMUqJGvX%2FpFkb01A8dDfQlnzhtLsh2UW%2BlP7AefRxRcs4DJ1OXJV8bp5E3XzdJCPvp1njYLvg%2B31xhRci2eZPNlqsv9IZeOQMOubqa5MyVgLKb9L4a20Lq7G%2B36cihte0OvOoLM100RL%2FVCh7EmvUrLzOg7jZCFJYmysffdq2pdKOdxv5af%2FSnadQKDhD5Ym6GzYbbRJefopXWiaZKL8vKRbsQlsQ3FVEw6JgGl95frJgoe896cEUAJFC75DA8FUW3lIlIJsWA41Oda9yJzsVFZcgLx6wK%2BRQI4APjwVU3NtSJSoMJAhPx6OV6dWvCQUCtxcYIDhnDAxtdf71C%2Bqf1uLxOq%2FmXyQnD5xrAC24T40rUEOeWPjRP6YLGOD5p1M75%2Bp%2BvkVkTXy%2FwgC%2FNqsdAbtQUVKVSQnH8BONMSJ9JU9t7qlLEjxeDtWQ02UwkfFbwYVaQEDoa%2FisnPguSnbsqMVkSAu92OrcNPyeg2Se6Z70lhQHXNUMxlTqnrxL%2FlY3urN%2FDAAKBeJ9FRCGQtzD%2BEsuBTXqqYfbind8UxsDdAjeaHJAZ4i3t41EAYcYy3uFZtN91k374Rw80319af%2FSnadQKDn1TikajVFcEuw8f0j3UZBLY2GoDacxrP7SxhSsoL9Jv%2FQYC2fCBz9uYwJTNfje0xWhiQATVOmDidsVEPVKb54IeQYxU%2FZChPaTKux85HPmdt7EC9vXIctTW06jfx5pVRA%3D%3D&eadt=282&mm_sceneid=1_0_106907472_0&a=xxc%3Dad_ztc%26mi_id%3D0000tbdkfoPo5tNYzg-e14H1_T7EhPELHGBMMO-inV-_bng%26skuId%3D4930920407673&id=614781733838",
-        "categoryp": "50022517 50012374 50012378",
+        "auctionURL": "http://click.simba.taobao.com/cc_im?p=%D2%C2%B7%FE&s=533831323&k=2585&e=3wCFe6Qfu5QQ%2BVSEF1iPUyTTmDLQECmUPcZB%2F2qKT0UppShwYiEeMaiy75mWcjL68GYhKiBu1dYj66Y9zCz0c1hDXOrlMcoqoi91Gt6XYe4Ntnd2w0KNUclAnAiBcCtWAIGfV5rYypPM%2FjaSFiFanFRPWzBO5%2FRWMWHJATv5Eg13YoKNOh9whbyFoNkLUpAb4a%2BZXsWw3T7GkwZUtFb3OhpKz04xFDWDEZ6%2FrRVZ55JXInxmoPiicbaLsteU8%2BZUoM9JSDolQ9oTF3TqnfRV4c%2FGmfY72nVa5OdEDDV%2F2165OME3lVu8f3068FFEyiQrLboETej%2BPvFoEDwn1Crz3BMNbjcpgCzlVEVEXetIe6rjy3vtbKM%2FUMWAaBQnHQHJbB%2FhloWoXc4Wo2d3oFLwVRxO99tmXIm161XSDZnuixYPwV707LAaIaVEv5Bcy8xMpfnUChv22uZrrLQQlgWCzo7%2FejgEFT%2FOIMkuq5v60rj3Mn7CZuThVkj2%2FEJndYZyW8WXq2%2BhHX8%2F6RHQ9HuSmtPLoO89%2F2sedUgScuMxxXyuBRu5ijMtV%2BLuTsKtxNql462dP1VKIqyegkxaY10%2Bce7jmOBp4N6VAD7UxDSsqiaSYUeg5Pp5oxIyxPPG5ipuVF7VgirABRqUVcOCkOvZsdiCDZJZ7sbeUIJo27oY7VFix8i9NcWZXB6Y%2FPECJj1GtFusTS09WAwqugR9i3HzPDqBGl%2BoVk%2FqXxjhfmjayXfHDajQNh3H4%2FnZuFEVcn6855H%2F8wF8OFkAfXnGX%2Fdjd%2F4vtvih2Xm3g7rEWVChGxPhrE7GE849xSVQ1lfB76pzVsGYpSxeQrwGnhu%2BIWfrOSeHXHLZx0uNbm0Qn%2F8HqNG5bP%2F8e4pEnk9VPdPTKHB08EeEsjDp5FphueDK4STaXaJ2%2FejUsSCAxoAalhrQvCU9chlmXnqsAXvMxCE%2BXRfCDCTjtHKOIY28UNz3IFguFFJgxQ3N1PpDuq5DD1zn%2FnWJYfjmMbjSEBReERde5vw5nk5oohb92j1GQCLaPSRQbFEgJfsDO6aRyDdzqOFJjY%2B2Olcv9P6v5Zt5Sc4Woshzo0EFRinPEFMx4Kp%2Bay72%2FB8rKqriW60sH%2BlhhMunEE30SBpuGa6ZpDFayEbJu6bcd9lfTbQ9pQ45MwTWWl89sSj5eRHRsCHAv7H8FaUQon7x%2BjH9d0%2FX%2BY3BkMfU1ZXuTLO11PvPu%2Bp2tDD%2FABvLsmA0vPwa4qbJToNlGgH2F1ZHft1C0LRsKt1TnbiSf6xM%2FDoPOaeBlGmNcehXqNhC4Jv62ZqdjnZmOIbRR2TsQRoxOhAZX%2B0DFSKegkI7Kysdoi6WzRh02zB0LbTfj%2FVNTASpQuiCtnHiAPN%2Fec%2B%2FCbhXw%2B7f3kiB4%2FWQNwURxHgnmdomziu4ntOaoe9U8i7p5Ba5XHUweG0FTdosGmOFZRHNNa5ddbtnbxlY1GbHveZYtdBYszKXbHbVCVrq7cDwNAjq0OIMp%2BYmKM1nQvx%2BY9ATYptEYWtQfjGHO%2BtbwG4uKOfm%2BR68LNwT2yKo8wFU%2B4iDMqd55rdGPbt9hVEzyOGpmhQN%2B8EeqvZ6eYTH%2Fxwxy9Cv8YE%2Ftew9LHSrvKZ0%2FZlFb7PpDXOwOzI0hKwhlOWuZMB%2FQEWEhGe60NDa0zVLPyh69uk%2BGo2Bt4xd5Kojv2b%2B6abw8lKuSThVDcgYsGOnhBGEXPmhoJeMIvVb7bp59B%2Fm7jGK%2Ba3ey1Cu7t1ofkuWTXRZbMJThtvrxlTZN05T2EPGP6UgVcywyaNWqBdXkGF12n4%2Bvey2ybml%2Fue%2FGc40iRktlrYEx%2FL%2B8MzrTsHwR4SyMOnkWlKzROy7TX8Qb%2FQ3zDJU4UJRrvbQy%2F4SQrhuqwSAjzxM7wjkmFKRDH1SQkior8c0gWzbXQHeLN6taEDjQ1QVWSQSFwzTCZz5BKaN2TEUYgdn0N64HahHDRmO8XGD9MTh2yvfvKvzcX%2BMOi2DwhvTj2jhAkMC6Qp3mP4oy9uj1QKfMCnZqVX2bhADC7aj6WSt2KEdnC2tk9IAMk9l%2BMfaF%2FP5e4lOxhybcATyU1GXe9%2FdL%2Be%2ByZVgH9UWa5YAea1PNUnO2ZSIpADpw0UNvraMaL%2BqgUzzhanbxEqkVLUDgrCGPgGI2uUfMjsfBL8Xg4hGKkVAR%2FrqoQjY8FDkArQTOZ3bPAEr6F2fBntO7vHcq%2BrpBgaG6C0TEtDf97OMym0oX%2BWZsvl9o6R6WBG73T8zSVGUPED9td9Jgjw5G0EMFErjwZmmtSNCO30h7hbMTdm661ZNIHMZELTlqFCTToNdrgeFXAULxQZuWRB3SNPfKXe5Y9HDpm4uLHGvXpZ0gSjwMj3U8Gt%2Fr4ecOmxXc1rv38K2T0HpV5RmIcUY6egmM2P6t32Rc4riOQzYmfI6DJ%2F9B5t5Sc4WoshzBEYPyeRCCoHVFiL0FzqjETQnLUaMHEKQ23jgWE%2Ff1eml48l9bcUQwgrQvwwRBs6Hr2CcIrqrS3KUoVXzb0LdqVSDbLv%2BV3l67hbi%2FWnqGo3Cz179UrFPiFrmb4ysfZoqUJnZZeg01mblrJA619NKwA%3D%3D&eadt=282&mm_sceneid=1_0_52738182_0&a=xxc%3Dad_ztc%26umpChannel%3Dbybtqdyh%26u_channel%3Dbybtqdyh%26fpChannel%3D101%26fpChannelSig%3D42c4a9b40408fac73c07a9d6d2e9ba9dde42b9c0%26mi_id%3D0000EwJdnN8zF0m49TApR8vP3vDXHA3ZeArxEIg9u1oshfo%26skuId%3D6267556211752&id=1058401702900",
+        "categoryp": "50008165 50010540",
         "extraParams": [
           {
             "key": "skuId",
-            "value": "4930920407673"
+            "value": "6267556211752"
+          },
+          {
+            "key": "umpChannel",
+            "value": "bybtqdyh"
+          },
+          {
+            "key": "u_channel",
+            "value": "bybtqdyh"
           },
           {
             "key": "detailAlgoParam",
             "value": "%E8%A1%A3%E6%9C%8D"
           }
         ],
-        "iconList": "guanggao,tmallPC,tmall,thbxf1,shipping48H,baoyounew,gongyibaobei",
+        "iconList": "guanggao,pcbybt_tm,wsearchicon-activityPreTitleMainpc_8e18dfeb4b2aaea23021251ebaeed0ff,tmallPC,tmall,thbxf1",
         "icons": [
           {
             "alias": "guanggao",
             "domClass": "guanggao",
             "group": "2",
+            "showType": "0",
+            "type": "img"
+          },
+          {
+            "alias": "pcbybt_tm",
+            "domClass": "pcbybt_tm",
+            "group": "1",
+            "showType": "0",
+            "type": "img"
+          },
+          {
+            "alias": "wsearchicon-activityPreTitleMainpc_8e18dfeb4b2aaea23021251ebaeed0ff",
+            "domClass": "wsearchicon-activityPreTitleMainpc_8e18dfeb4b2aaea23021251ebaeed0ff",
+            "group": "1",
             "showType": "0",
             "type": "img"
           },
@@ -11330,140 +11300,116 @@
             "showType": "0",
             "text": "退货宝",
             "type": "text"
-          },
-          {
-            "alias": "shipping48H",
-            "domClass": "shipping48H",
-            "group": "2",
-            "showType": "0",
-            "text": "48小时内发",
-            "type": "text"
-          },
-          {
-            "alias": "baoyounew",
-            "domClass": "baoyounew",
-            "group": "2",
-            "showType": "0",
-            "text": "包邮",
-            "type": "text"
-          },
-          {
-            "alias": "gongyibaobei",
-            "domClass": "gongyibaobei",
-            "group": "2",
-            "showType": "0",
-            "text": "公益宝贝",
-            "type": "text"
           }
         ],
-        "ifsUrl": "http://kgb-ifs.tanx.com/kgb?i=%B9%B8r%28%EF%BC%AA%CE%8B%11V%857V%A9%8E%5B%7B%E7X%3C%BB%E9%D2%25%AAs%B6C%BAl%C3%F3%E4A%E2J%B4%2F%81%A6%2C%C1%C2Z%C05%DFD%8A%E9%5C9%F8%89%F0g%DD%0Di%D4R%8Fbsk%3C%18%DA%B9%22Y%A8%B1%ABX%1CZ%B2%A4%DA%2B%17%7D%AC%2AQah%8E%BD%5B%91%C8%AF%DE%5E%F3%3D%80%0Elq%7C%BC%EF%09%16h%99%DE%CE%12%0C%04%86%CB%D2s%9Ewq%9B%F2%0A%14",
+        "ifsUrl": "http://kgb-ifs.tanx.com/kgb?i=%B9%B8r%7F%B5%BB%F7%98%3FT%DA%96%1A%8A%7Fy%C2%D4%DC%95%3A%0F%8C%AD%97%A9%A1%B3%D1%87%29%A8%B7%D6%EBA%8C%24%E2%C4p%D5%40s%00%60%7F%C9%9C%80%C0%A6%A7%5B%F2%9Bki%90%D8%02%EC%8B%3D%98%C6H%7Bj%C4%9C%FCe%7B+%EB%B8%A1%B9%CB%9E%B7%9Ay%89%FA%D2%5D%22%99%11%AEPi%06%09M%01%AD0%2A%C5%15Bb%21%E9%EA%3A%AA%DB-%FC%D9%5E%E6%12%B9w%A8%EDe%18%1Dl%F8",
         "isP4p": "true",
-        "item_id": "614781733838",
+        "item_id": "1058401702900",
         "labelOrder": [
           "structuredUSPInfo"
         ],
-        "leafCategory": "50012378",
+        "leafCategory": "50010540",
         "localPrice": "",
-        "nick": "美康臣旗舰店",
+        "nick": "converse童装旗舰店",
         "p4pLabel": true,
-        "pic_path": "http://g.search.alicdn.com/img/O1CN01lN7MxK230uP7rcZJ8_!!4611686018427381098-0-item_pic.jpg",
-        "price": "198",
+        "pic_path": "http://g.search.alicdn.com/img/O1CN01wBOLnEB7OjD1chua_!!1916176081.jpg",
+        "price": "459",
         "priceColor": "#000000",
         "priceShow": {
           "preText": "",
-          "price": "198",
-          "priceDesc": "",
+          "price": "459",
+          "priceDesc": "补贴价",
           "unit": "¥"
         },
-        "procity": "广东 惠州",
-        "realSales": "行业销量Top3",
+        "procity": "福建 厦门",
+        "realSales": "本月行业热销",
         "relationScore": 0.0,
         "shopInfo": {
-          "commonTagText": "11年老店",
+          "commonTagText": "12年老店",
           "pbshowshopinfo": "false",
-          "title": "美康臣旗舰店"
+          "title": "converse童装旗舰店"
         },
         "structuredUSPInfo": [
           {
             "fieldTemplate": "property",
-            "propertyName": "面料",
-            "propertyValueName": "银纤维",
+            "propertyName": "安全等级",
+            "propertyValueName": "B类",
             "source": "new"
           },
           {
             "fieldTemplate": "property",
-            "propertyName": "面料工艺",
-            "propertyValueName": "针织",
+            "propertyName": "组合形式",
+            "propertyValueName": "上衣+裤子",
             "source": "new"
           },
           {
             "fieldTemplate": "property",
-            "propertyName": "版型",
-            "propertyValueName": "宽松",
-            "source": "new"
-          },
-          {
-            "fieldTemplate": "property",
-            "propertyName": "厚薄",
-            "propertyValueName": "薄款",
+            "propertyName": "材质成分",
+            "propertyValueName": "棉100%",
             "source": "new"
           },
           {
             "fieldTemplate": "property",
             "propertyName": "适用季节",
-            "propertyValueName": "四季通用",
+            "propertyValueName": "秋季",
             "source": "new"
           },
           {
             "fieldTemplate": "property",
-            "propertyName": "产地",
-            "propertyValueName": "中国大陆",
+            "propertyName": "适用年龄",
+            "propertyValueName": "10岁",
+            "source": "new"
+          },
+          {
+            "fieldTemplate": "property",
+            "propertyName": "风格",
+            "propertyValueName": "休闲",
             "source": "new"
           },
           {
             "fieldTemplate": "property",
             "propertyName": "品牌",
-            "propertyValueName": "Mikson/美康臣",
+            "propertyValueName": "Converse/匡威",
             "source": "new"
           }
         ],
-        "title": "防辐射孕妇服装上班族电脑内穿隐形女怀孕期辐射防护肚兜背心正品",
+        "title": "匡威儿童春秋运动套装男童卫衣长裤运动服官方正品青少年上衣休闲",
         "umpPriceLog": {
           "b_s": "pctb_search",
-          "item_price": "198",
+          "item_price": "459",
           "price_from": "ump",
           "price_stage": "0",
-          "s_id": "4930920407673",
-          "traceId": "210127cc17888004538553658e0a89",
-          "umpLog": "sourceTypeKey:2_ad_ztc;originUmpPrice:19800^19800;utcP:9_82000",
+          "s_id": "6267556211752",
+          "traceId": "2100cff617888076241655439e0bb0",
+          "umpLog": "sourceTypeKey:2_ad_ztc;channelKey:bybtqdyh;fpChannelKey:101_42c4a9b40408fac73c07a9d6d2e9ba9dde42b9c0;originUmpPrice:45900^45900;utcP:38_0",
           "ump_invoke": "0",
-          "x_object_id": "614781733838"
+          "x_object_id": "1058401702900"
         },
-        "uprightImg": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i2/2258937194/O1CN0164jYDF230uLfE95jv_!!4611686018427381098-0-item_pic.jpg",
+        "uprightImg": "https://img.alicdn.com/bao/uploaded/i3/1916176081/O1CN018H2uqXAzKQC1WPjS_!!1916176081.jpg",
         "uprightImgAspectRatio": "0.75",
-        "userId": "RAzN8HWSoKZdirTLtfnPTiNCfSEs8ufYSiev5Cw5acd5rPF6waV",
+        "userId": "RAzN8HWJnq6MiVamfsVzm8aQmWTE6Gikt8Cz7QtKUMHjX3XQyBP",
         "utLogMap": {
-          "aplus_abtest": "51171a8917521a19de386cef407b915a",
-          "at_bucketid": "75",
+          "aplus_abtest": "bfd32ba6591eb5bed078cf1640d5d427",
+          "at_bucketid": "76",
           "is_weak": "0",
-          "lf_aclog": "4-614781733838-49-_sale|-0-198",
+          "lf_aclog": "4-1058401702900-49-_sale|-0-459",
           "pageNum": "1",
-          "price": "198",
-          "rn": "e33756d1715fea81cb06e739f6318ddd",
-          "time": 1788800454418,
-          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529603#0_34385#50535#525315#0_34385#51800#509551#0_34385#50009#530670#0_34385#57411#522394#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522405#0_34385#59594#533776#0_34385#58166#528987#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#502761#0_34385#61217#541178#0_34385#43484#512361#0_34385#63007#549575#0_34385#44159#499960#0_34385#45784#507589#0",
-          "userId": "2222930862201",
+          "price": "459",
+          "rn": "73fc6b33cff3686b48920a7e6fd4af93",
+          "time": 1788807624761,
+          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529604#0_34385#50535#507978#0_34385#51800#509551#0_34385#50009#507596#0_34385#57411#522400#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522407#0_34385#59594#533776#0_34385#58166#525998#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#501535#0_34385#61217#541178#0_34385#43484#512360#0_34385#63007#549575#0_34385#44159#505918#0_34385#45784#502000#0",
+          "userId": "2222989967027",
           "x_ad": "1"
         },
         "video": {
-          "coverUrl": "http://img.alicdn.com/imgextra/i1/O1CN01B8ENcw230uJFRFE9V_!!4611686018427381098-0-beehive-scenes.jpg",
+          "coverUrl": "http://img.alicdn.com/imgextra/i1/2217753917324/O1CN01hQYkoh23yRvz7ocNm_!!2217753917324-0-qnaigc.jpg",
           "showIcon": "false",
           "videoDimension": "3:4",
-          "videoUrl": "https://cloud.video.taobao.com/play/u/2258937194/p/2/e/6/t/1/494355317441.mp4?appKey=38829"
+          "videoUrl": "https://cloud.video.taobao.com/play/u/1916176081/p/2/e/6/t/1/571130400153.mp4?appKey=38829"
         }
       },
       {
-        "auctionURL": "//detail.tmall.com/item.htm?id=584596714443&ns=1&abbucket=15&xxc=taobaoSearch&mi_id=0000cqA4TOB7BfgAlKLPICVtLwGE7QRCoMsHG8CnTk2Qww4&skuId=6297926219663",
+        "auctionURL": "//detail.tmall.com/item.htm?id=584596714443&ns=1&abbucket=19&xxc=taobaoSearch&mi_id=0000cqA4TOB7BfgAlKLPICVtL4YP_D6WkWJQMffyUaKDNZE&skuId=6297926219663",
         "categoryp": "50011699 50013228",
         "extraParams": [
           {
@@ -11552,7 +11498,7 @@
         ],
         "leafCategory": "50013228",
         "nick": "鸿星尔克erke旗舰店",
-        "pic_path": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i2/349740505/O1CN0139YYIFSTatK1chua_!!349740505.jpg",
+        "pic_path": "https://g-search2.alicdn.com/img/bao/uploaded/i4/i2/349740505/O1CN0139YYIFSTatK1chua_!!349740505.jpg",
         "price": "99",
         "priceColor": "#000000",
         "priceShow": {
@@ -11653,7 +11599,7 @@
           "price_from": "ump",
           "price_stage": "0",
           "s_id": "6297926219663",
-          "traceId": "210127cc17888004538553658e0a89",
+          "traceId": "2100cff617888076241655439e0bb0",
           "umpLog": "sourceTypeKey:2_taobaoSearch;originUmpPrice:4900^7900;utcP:20_3000^10_2000",
           "ump_invoke": "0",
           "x_object_id": "584596714443"
@@ -11662,16 +11608,16 @@
         "uprightImg": "https://img.alicdn.com/bao/uploaded/i3/349740505/O1CN017zKmmDvLPKG1WPjS_!!349740505.jpg",
         "userId": "RAzN8HWS3jPuvH64EsziTodnQab598mSymP9uT3b3X8ZyEa9TUd",
         "utLogMap": {
-          "aplus_abtest": "a6b2bc2fdb0a70f50f6d3b6a5c1e942f",
-          "at_bucketid": "75",
+          "aplus_abtest": "a8fc9638b1cb7f90d04ae6bfb7929a3f",
+          "at_bucketid": "76",
           "is_weak": "0",
           "lf_aclog": "5-584596714443-49-_sale|-0-49",
           "pageNum": "1",
           "price": "49",
-          "rn": "e33756d1715fea81cb06e739f6318ddd",
-          "time": 1788800454418,
-          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529603#0_34385#50535#525315#0_34385#51800#509551#0_34385#50009#530670#0_34385#57411#522394#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522405#0_34385#59594#533776#0_34385#58166#528987#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#502761#0_34385#61217#541178#0_34385#43484#512361#0_34385#63007#549575#0_34385#44159#499960#0_34385#45784#507589#0_124#0#318546#0",
-          "userId": "2222930862201",
+          "rn": "73fc6b33cff3686b48920a7e6fd4af93",
+          "time": 1788807624761,
+          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529604#0_34385#50535#507978#0_34385#51800#509551#0_34385#50009#507596#0_34385#57411#522400#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522407#0_34385#59594#533776#0_34385#58166#525998#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#501535#0_34385#61217#541178#0_34385#43484#512360#0_34385#63007#549575#0_34385#44159#505918#0_34385#45784#502000#0_124#0#318546#0",
+          "userId": "2222989967027",
           "x_ad": "0"
         },
         "video": {
@@ -11682,7 +11628,7 @@
         }
       },
       {
-        "auctionURL": "//detail.tmall.com/item.htm?id=665168744655&ns=1&abbucket=15&xxc=taobaoSearch&mi_id=00005LkjHMl3gwe7Ev13jNC9MzOzf9qvNLYdTWLAWDOky8U&skuId=6088763105490",
+        "auctionURL": "//detail.tmall.com/item.htm?id=665168744655&ns=1&abbucket=19&xxc=taobaoSearch&mi_id=00005LkjHMl3gwe7Ev13jNC9M9Um7cYK24r1LP4IsJ3C6o8&skuId=6088763105490",
         "categoryp": "50011699 50013228",
         "extraParams": [
           {
@@ -11742,7 +11688,7 @@
         ],
         "leafCategory": "50013228",
         "nick": "特步官方旗舰店",
-        "pic_path": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i3/353571709/O1CN01N7MKSO1CzBB1chua-353571709.jpg",
+        "pic_path": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i3/353571709/O1CN01N7MKSO1CzBB1chua-353571709.jpg",
         "price": "99",
         "priceColor": "#000000",
         "priceShow": {
@@ -11758,7 +11704,7 @@
         "shopInfo": {
           "commonTagText": "回头客100万",
           "pbshowshopinfo": "false",
-          "shopLogo": "https://g-search2.alicdn.com/img/bao/uploaded/i4//i2/353571709/O1CN01vBj7EO1OUlWiGyUHW_!!353571709.jpg",
+          "shopLogo": "https://g-search1.alicdn.com/img/bao/uploaded/i4//i2/353571709/O1CN01vBj7EO1OUlWiGyUHW_!!353571709.jpg",
           "title": "特步官方旗舰店",
           "url": "//store.taobao.com/category.htm?appUid=RAzN8HWb9dqkC8AoVxwdvs8RuHfbkpiT9ZsnSMKSVbDgQUBZqXF"
         },
@@ -11831,7 +11777,7 @@
           "price_from": "ump",
           "price_stage": "0",
           "s_id": "6088763105490",
-          "traceId": "210127cc17888004538553658e0a89",
+          "traceId": "2100cff617888076241655439e0bb0",
           "umpLog": "sourceTypeKey:2_taobaoSearch;originUmpPrice:3900^5500;utcP:9_4400^11_1600",
           "ump_invoke": "0",
           "x_object_id": "665168744655"
@@ -11840,16 +11786,16 @@
         "uprightImg": "https://img.alicdn.com/bao/uploaded/i4/353571709/O1CN01lviKvjEjsJK1WPjS-353571709.jpg",
         "userId": "RAzN8HWb9dqkC8AoVxwdvs8RuHfbkpiT9ZsnSMKSVbDgQUBZqXF",
         "utLogMap": {
-          "aplus_abtest": "b011962a9515dcd9551ee0ad7f61ca66",
-          "at_bucketid": "75",
+          "aplus_abtest": "26fb2991889fdc24a06dc5c764c949e7",
+          "at_bucketid": "76",
           "is_weak": "0",
           "lf_aclog": "6-665168744655-49-_sale|-0-39",
           "pageNum": "1",
           "price": "39",
-          "rn": "e33756d1715fea81cb06e739f6318ddd",
-          "time": 1788800454418,
-          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529603#0_34385#50535#525315#0_34385#51800#509551#0_34385#50009#530670#0_34385#57411#522394#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522405#0_34385#59594#533776#0_34385#58166#528987#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#502761#0_34385#61217#541178#0_34385#43484#512361#0_34385#63007#549575#0_34385#44159#499960#0_34385#45784#507589#0_124#0#318546#0",
-          "userId": "2222930862201",
+          "rn": "73fc6b33cff3686b48920a7e6fd4af93",
+          "time": 1788807624761,
+          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529604#0_34385#50535#507978#0_34385#51800#509551#0_34385#50009#507596#0_34385#57411#522400#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522407#0_34385#59594#533776#0_34385#58166#525998#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#501535#0_34385#61217#541178#0_34385#43484#512360#0_34385#63007#549575#0_34385#44159#505918#0_34385#45784#502000#0_124#0#318546#0",
+          "userId": "2222989967027",
           "x_ad": "0"
         },
         "video": {
@@ -11860,7 +11806,7 @@
         }
       },
       {
-        "auctionURL": "//item.taobao.com/item.htm?id=674208551983&ns=1&abbucket=15&xxc=taobaoSearch&mi_id=0000-iIiDRClYIcKLlWjhnrlB2bUvKEpqdXuyrLQuA7O5-Y&skuId=4850574245249",
+        "auctionURL": "//item.taobao.com/item.htm?id=674208551983&ns=1&abbucket=19&xxc=taobaoSearch&mi_id=0000-iIiDRClYIcKLlWjhnrlBwKESEeNcu2YoRNM0UfrxZ4&skuId=4850574245249",
         "categoryp": "16 50000671",
         "extraParams": [
           {
@@ -11997,7 +11943,7 @@
           "price_from": "ump",
           "price_stage": "0",
           "s_id": "4850574245249",
-          "traceId": "210127cc17888004538553658e0a89",
+          "traceId": "2100cff617888076241655439e0bb0",
           "umpLog": "sourceTypeKey:2_taobaoSearch;originUmpPrice:3890^4990;utcP:20_1100^17_0^10_0",
           "ump_invoke": "0",
           "x_object_id": "674208551983"
@@ -12006,16 +11952,16 @@
         "uprightImg": "https://gw.alicdn.com/imgextra/O1CN01G6NueOgoVXI1WPjS_!!76223406-0-picasso.jpg",
         "userId": "RAzN8HAq4khaj772KSMLoWC8dNFne",
         "utLogMap": {
-          "aplus_abtest": "8884fc79bb3977b4e7b59656800ac81f",
-          "at_bucketid": "75",
+          "aplus_abtest": "c202f17ce84b99e400b0abfbb1e9ee3e",
+          "at_bucketid": "76",
           "is_weak": "0",
           "lf_aclog": "7-674208551983-49-_sale|-0-38.9",
           "pageNum": "1",
           "price": "38.9",
-          "rn": "e33756d1715fea81cb06e739f6318ddd",
-          "time": 1788800454418,
-          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529603#0_34385#50535#525315#0_34385#51800#509551#0_34385#50009#530670#0_34385#57411#522394#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522405#0_34385#59594#533776#0_34385#58166#528987#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#502761#0_34385#61217#541178#0_34385#43484#512361#0_34385#63007#549575#0_34385#44159#499960#0_34385#45784#507589#0_124#0#318546#0",
-          "userId": "2222930862201",
+          "rn": "73fc6b33cff3686b48920a7e6fd4af93",
+          "time": 1788807624761,
+          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529604#0_34385#50535#507978#0_34385#51800#509551#0_34385#50009#507596#0_34385#57411#522400#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522407#0_34385#59594#533776#0_34385#58166#525998#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#501535#0_34385#61217#541178#0_34385#43484#512360#0_34385#63007#549575#0_34385#44159#505918#0_34385#45784#502000#0_124#0#318546#0",
+          "userId": "2222989967027",
           "x_ad": "0"
         },
         "video": {
@@ -12026,12 +11972,12 @@
         }
       },
       {
-        "auctionURL": "http://click.simba.taobao.com/cc_im?p=%D2%C2%B7%FE&s=1325331326&k=2573&e=lFJ3nF8lMhvkweS6xxPSVfatcxk%2BRhj%2BK8x%2FjpTUop2AJQyoO4JRxapmJZJjxy3ga4fjlUXWAySYylnqbvdZ8URgWFVQKFGLyBP8l3oBel8OP4l2G%2BnOM0yPdHE9wiX6xzx4dPG1AlTsiTlw7f4jLxX8zIRt1kToj1LOQiuXW99BO%2F58hX6i3%2FHkrpwKl4fnKvlTQbsCLjQsHExWHTK7iDrVCwnhbTF7mAsjeEHHhsFLv%2FRlC0pa3Xs3cFgaxXC6OJos8a46Eoc1njdFq%2BmTvT9khFdJ4o2r4htPFC2XyVNGz0cMfRvDZXqYFNRFTqKbTj4sW7DrK72OWztnfTVrw%2B5kk4b7nV3ltPEyGxpOTu29h6JV00%2FPnreVBSbU8LPnKTPGPiGNmnl0wR4ogUUYJ%2FxlbgYLZamIsilNcgUYzYg0VTamOoijld1Sbkk9B5nGX7lytJP9c0tolYpPInR66KYAhk2H36giynpgZnLM5KKIXD0nOsk94%2FckvnQWcT7AIEK3MW7LD9%2BUIEll8HgP4XbZJBdYxrmDxTPvGAuVDdglGYG5ZRkExuuvKQ2T5LscG%2BbWtuW%2F9mShttPYXJuM7m1H9TJZYUSbW7t85ccSsfWx4BqI84Fq82bwuBsVYH8J%2FJklGY8ZamsykhQk9ejGPnoiXO%2BiYMX1eWrXsB3mE3YikngMXzzesTAdFti3PbJabnipKRatIF6%2FczVly%2BxxrFZgiVTkFKn6RvDABL3ALVZh%2Fl0Eu%2Bz6PPIozmReG%2BvDu5xsRIornESrTylU1rHqV41rdI3Xryc1%2B%2BtS04kqlnceWxiNa1xOTrib96pgxyfGh4rEIJW8jwLvEDzIgpcOoQcGrI05RE82wwg4p4PieXw6lVPSVtvZKwg0h5pXEws4Xhu1ljZtIcoVD3gOwgv00cQGRYeAZ%2BlbyAT029xLH3Tq13GIhEOfQJmFgvv0v7f4X4UFV6ILFybXvGbQghEOJML5JcFCKQ5iy03lN5rDKQTXNUMxlTqnrxL%2FlY3urN%2FDAAKBeJ9FRCGQtzD%2BEsuBTXqqYfbind8UxsDdAjeaHJAZ4i3t41EAYYOUFIX%2B83nDrkTjjBeLAsmUou5Nq9aJh8QGRYeAZ%2BlbkYEFBoEQUR%2Bulwmek24S6q1ie0jINYc1CpZSnW%2FVFGBLYBnugFwnAOppH1ytHszycdtIl6ZYk0PftOhU0xkQxCI7k07%2Fn8xI%2FFFv0esPCHq1L943hA3KJHUrFgO7moDH%2F%2BnBdRmt4l6EQ0CixmDJGVZvpHOhpKKBVQ%2B6Qtk2%2B%2Fo%2BkDjh8TnPVmmXCcPaX4ZN17zBOH9gdhqqodhN3WlvAx0cDLzo7N71IVwvzFdgoFNtq5zVkpPO1MdBNJphJgAzAyTH7ceB7lHuYL%2FWLjDGgLOSaVeJLzAnlwPLm0Z1bS7eJCDhy1cvcF0NZ3EZGn4fCE3tJBKUJMKsuWWr%2BwZzDNKbR8rqHVQQciV4G7RLT1TKW5%2B0xO2xHqIWz9yUnAbsjWt0jdevJzX761LTiSqWdx5bGI1rXE5OuJv3qmDHJ8aHisQglbyPAv8E85tvEhDLQcLH8dVeS7X%2BHpwwP8kQ%2FSeMAm%2B41zUGiwTPk%2FZ%2FQFv761LTiSqWd6Q%2B2DE20Ba9qahUa6gMIy66a0AqqmFRo6uhnplNLX5XH3uce0qXIG0Le4mlxyncGUNEkK2BQMOe25tl8%2B%2FNJaY4fKTq6fVjkvyU194tBHPPfXA9Io1Lm7z%2BnhL4POaebh8kQEdam7caU8sUY65gemxoHGMKSyOa%2FT7o2H4CP1JCyAmXPIOuZ%2Bv0v8Z6BocoCMlubaiAGoni9vG9cN3yzwibf2mDmu%2B2cl9W8IKC9elXLTy3%2Biazx%2Fo66Sg2jFKiRr1%2F6RZG9NQPHQ30JZ84bS7IdlFvpT%2BwHn0cUXLOAydTlyVfG6eRN183SQj76dZ42C74Pt9cYUXItnmTzZarL%2FRA0l7KYWFNYl6DSwWya1CtGttC6uxvt%2BnIobXtDrzqC4qJ2H5BgCCpsk4dFICr1GymztrWnHAEYHwxArkZbT75EZ0MHarz7StJYvRJigG7h4bgI5AzFKjKWycV4RjhReix8fSgK2735ktduQRhhNt6B6CZ0FriI9ebuDMq1uPW%2F4HwsMdfRQV1gInTSg%2Bz5eX0up324th6766fM6hfH4PZ3I50SgzU4ymO5alAqE9y8hy%2Fdc%2BBFarNoV3yr0AUEJ9mBY3NqoM3Qhx2EuVuNZ1n7tx6XV%2FQrISgYkXmXjMp8eKacMU4wHA%2BmmmRYHdELBxtOQ6CkPDjG%2Fncl4%2FSV3xHwLmh3T820CKYaT3qoPpnEa1lo%2FRZMfaHv3M1ZcvscazDCaZ3%2Fa1cCftCjD5clgxkZcox8Odg6ahTx9EUkq23jDXL706Zd6n8%2BbXucPdvD2EA1R4vdKv9Q1S8h9ScYi7v%2BrG0ffU85soY5ROegHm3Bj8CE85EvsYTX1bwgoL16VdOjDTdZMQHTOnSWFoV%2FpI1%2B%2BtS04kqlneJHe6hPnjMuvtvwkAnZtdvVhFUU5l4XPgW6rqSPQm288UArSmliMtCH%2BuNIcGtrCc%3D&eadt=282&mm_sceneid=1_0_52738182_0&a=xxc%3Dad_ztc%26mi_id%3D0000haO-m5Mn7hOQPiGDeM6BwZipgaqJwSc_ZR9cFBo2hLs%26skuId%3D6007119173597&id=1009500264533",
-        "categoryp": "50008165 50012308 50010519",
+        "auctionURL": "http://click.simba.taobao.com/cc_im?p=%D2%C2%B7%FE&s=533831323&k=2553&e=mtImHzmMl1MQ%2BVSEF1iPUyTTmDLQECmUPcZB%2F2qKT0UppShwYiEeMaiy75mWcjL68GYhKiBu1dZKEGV01pFb9VhDXOrlMcoqGUFRj0Twg%2B4Ntnd2w0KNUclAnAiBcCtWAIGfV5rYypPM%2FjaSFiFanFRPWzBO5%2FRWMWHJATv5Eg13YoKNOh9whbyFoNkLUpAb4a%2BZXsWw3T7GkwZUtFb3OhpKz04xFDWDEZ6%2FrRVZ55JXInxmoPiicbaLsteU8%2BZUoM9JSDolQ9oTF3TqnfRV4c%2FGmfY72nVa5OdEDDV%2F2165OME3lVu8f3068FFEyiQrLboETej%2BPvFoEDwn1Crz3BMNbjcpgCzlVEVEXetIe6rjy3vtbKM%2FUMWAaBQnHQHJbB%2FhloWoXc4Wo2d3oFLwVRxO99tmXIm161XSDZnuixYPwV707LAaIaVEv5Bcy8xMpfnUChv22uZrrLQQlgWCzo7%2FejgEFT%2FOIMkuq5v60rj3Mn7CZuThVkj2%2FEJndYZyW8WXq2%2BhHX8%2F6RHQ9HuSmtPLoO89%2F2sedUgScuMxxXyuBRu5ijMtV%2BLuTsKtxNql462dP1VKIqyegkxaY10%2Bce7jmOBp4N6VAD7UxDSsqiaSYUeg5Pp5oxIyxPPG5ipuVF7VgirABRqUVcOCkOvZsdiCDZJZ7sbe1nJKt1vJ%2BHlMCc%2BPrJR9wKHZmNF2Q%2BmHlYuLqZjrW6OoqbYwxOcY6IUMGv%2BUq4rP%2BRsPPhbNUnwyE8kSB8r1zksnNPdOgq%2FdVSIvBLmCIr5lsyYrt3CTAWrm06anONf1mbLBKPokhSaG%2BlitUB6sZHH8NGvpCFQYoUNwQFGkkx2hQko6snPa47PmG4NZk5Mftik8hoGJE%2BMpwSGI5h%2BeUyklHwCeWd1Ek%2BeVkPXdWZNNx1hxceVwBcB5mFJUi5PEKdxvGpKZfR1kAEUTUv2ra7kHxIZCRj%2BO77OCNl1Galy36lWtDg79XY%2FHGMnKAhDdniDNE10p7A%2BTcP%2BjhKd4qapWv%2FndTYWdMRg8pKBJGO2hSGn4Kz9vTVw1p0CZMeQFyMNDh56Vh55qZ%2BFtiWUpyHuiPuB5eVIKk%2BeVkPXdWZP5AgOojmSlbTcLaoHccHahJP9mbPuUVEZswpdhup5oiMdn4%2BOq2XjqLrdeHLrCwjLEa6jcX1lLsQVnssbz27p2l3T%2BN5hgKh6MpCnCn2SYNfV93s7D2Yyw%2BukzG22tGAb0x%2BBQntxHXseapjvzkJv2aTED3LpP5%2BVOAwDWYQJ8rMebUpXfgr0yhpfgmNvMGHifD9aebAn2jJqtsofpe61IMMQP5ybTdC6ZBVtD2swXL3xkqm2hERJ0qqKzmW3W3u2AFuhqG9mBMRlQeEv0oyPkCSqdquQ4zouLpPgzCD1TgsIQP%2FnMEMJzG2J4Zq9nxQyT8mRoBvjE3dJcnlEQcbla%2FlopOZP4wAWO6djYyonBVWre3pRWARggGzL8u6y1h9pVIi8EuYIivmWzJiu3cJMBaubTpqc41%2FWZssEo%2BiSFJob6WK1QHqxkipXNYye9GSOuBqk1Ub%2Fp3vKAOIy8GHC28ZF6o0QlqNVUpeUbuDd1EzTE3p8tj%2FU9AjClqE0h%2BsDHt1%2FO%2F1W46Tl2BOTxZT7rLuhZSy%2BFeOpGorm%2BCcpSsK%2BxreEMREMXj1IBLDo751%2BHSk9cy25za%2BYXFRIv19g6Oz3h68S5V6kvbqTgDBjO4ctAaLwjsZnz4VrNtNXy%2BpHwukUTvkdEBx%2B18gnxg3MB7HeZwLBDWh9Anqgw73RQTB77BQad0FhhESwouoquBS9EOp%2F26UirGPmOtEpthP%2Bdeg%2BbW6nGPF7oD%2B1%2B3BF1DAsvnw2KlBT%2F%2FRXjrWtrMI1Am7wUp4hK0iMb1wXCukeYG7Jnrf16DAWYmT7%2FUVwRtp9m2gyOoXmk4aGk%2FLkmNM%2Bqj7XFMoWIaTX06t0lOU6F8W7Dx3wYdT7W39hPKxLEokmcr%2FKz6IBVh8ajYOL9KO60kYzeT6HjqisLhwTvSihyYrATQcN9cY9cgEecI98FeFbrItaY3LCEj56WslaghQwr37yr83F%2FjJkf7TIoZxMs%2B%2BhE5sgXhr7NWDKnCTB%2Bt5A8FSrHEblq8QlS0R4KBLZXc%2Fo5sV0En7fGxX15Q7i4T70L8tW9v1YitVjVTeb237Ml3%2BZaV4Ryk5vsRvKkBxBFZ5eW7m2Rn0FrzV0WUZTP9BWMm3W%2BlyUrZw%2BMtToUSladoCenVDatPbt9hVEzyOHtcAfsdw8Kat%2FArw51ipp%2FHnH7%2Bhl3lI1P0m365rnAq5KDmBWgEfk9oKK2YoC9LYKh2ZjRdkPph6PA9NvSMEoKjohMigp1yNZdSL4C2A%2BeX73ZKqWSUz0ERbKqnr%2BGdWO3FaMgg5FwKLwM2Q%2FlQt1Xifa1sHYxf4eoh4aNVA2uZ%2F9ieG%2BHDlFVg9es8%2BtslSN6D5tbqcY8XkL7fHS54meL8gwL%2F3w3Ueo0xN6fLY%2F1PenY6Myy3jkzD3H5XLvxxLNXpWgmXP%2F6WzaApjOaAU9rORJSmsszUnZ%2FomSJ0cL%2BRw%3D%3D&eadt=282&mm_sceneid=1_0_52738182_0&a=xxc%3Dad_ztc%26mi_id%3D0000SIgqYRnpCqPJWpJ-Yc98mg7Z5z6f3s4bySJc2o0o1Io%26skuId%3D6171613366829&id=1008748265814",
+        "categoryp": "50008165 50010540",
         "extraParams": [
           {
             "key": "skuId",
-            "value": "6007119173597"
+            "value": "6171613366829"
           },
           {
             "key": "detailAlgoParam",
@@ -12059,7 +12005,7 @@
             "domClass": "guanfanglijiannodacupc",
             "group": "2",
             "showType": "0",
-            "text": "官方立减46元",
+            "text": "官方立减44元",
             "type": "text"
           },
           {
@@ -12081,7 +12027,7 @@
             "domClass": "tjbpc",
             "group": "2",
             "showType": "0",
-            "text": "淘金币抵11.3元",
+            "text": "淘金币抵10.7元",
             "type": "text"
           },
           {
@@ -12094,23 +12040,23 @@
             "type": "text"
           }
         ],
-        "ifsUrl": "http://kgb-ifs.tanx.com/kgb?i=%B9%B8r%28%EF%BC%AA%CE%8B%11V%857V%A9%8E%5B%7B%E7X%3C%BB%E9%D2%25%AAs%B6C%BAl%C3%F3%E4A%E2J%B4%2F%81%A6%2C%C1%A0T%F3T%C3p%7D%7Dz%A2%C5%9C%1A%E4%89.%7Bhl%7E%9E%D3%89%27%E06%91ZhM%0A%ACj%B2%25%9D%E2O%C8W%07%CD%D2%C4P%B1%19%BF%08%DEm%14%E7a1%08%84%11%8F%C2v%9E%2F%EF%FD%80Mf%C8%B4T%C19%80%E6%A5%23%85%12%7E%11%07%D2",
+        "ifsUrl": "http://kgb-ifs.tanx.com/kgb?i=%B9%B8r%7F%B5%BB%F7%98%3FT%DA%96%1A%8A%7Fy%C2%D4%DC%95%3A%0F%8C%AD%97%A9%A1%B3%D1%87%29%A8%B7%D6%EBA%8C%24%E2%C4p%D5%40%1F%3E2P%C8%F1%8B%800171%3A%DCy%B7%8E4%7Bx%7C%E1d%1F%1E%00%D7%C0%1C%AA%87%C6%FB9-%9A%60%AC%E3%B4%D4%84%E6%7DW%DEG%DDO%BD%2B%EE%173%D3%9A%EA.%7E%3D%FE%EB%3A%D9%BB%3E%11X%85%CD+%E9md%A7J%88%B7%7F%B4%97B%A8",
         "isP4p": "true",
-        "item_id": "1009500264533",
+        "item_id": "1008748265814",
         "labelOrder": [
           "structuredUSPInfo"
         ],
-        "leafCategory": "50010519",
+        "leafCategory": "50010540",
         "localPrice": "",
         "nick": "converse童装旗舰店",
         "p4pLabel": true,
-        "pic_path": "http://g.search.alicdn.com/img/O1CN013RFTkjbd1WK1chua_!!1916176081.jpg",
-        "price": "218.92",
+        "pic_path": "http://g.search.alicdn.com/img/O1CN01z7cETgI5tSG1chua_!!1916176081.jpg",
+        "price": "182.99",
         "priceColor": "#000000",
         "priceShow": {
           "preText": "",
-          "price": "218.92",
-          "priceDesc": "优惠后",
+          "price": "182.99",
+          "priceDesc": "",
           "unit": "¥"
         },
         "procity": "福建 厦门",
@@ -12124,26 +12070,44 @@
         "structuredUSPInfo": [
           {
             "fieldTemplate": "property",
+            "propertyName": "面料",
+            "propertyValueName": "100%棉",
+            "source": "new"
+          },
+          {
+            "fieldTemplate": "property",
+            "propertyName": "安全等级",
+            "propertyValueName": "B类",
+            "source": "new"
+          },
+          {
+            "fieldTemplate": "property",
+            "propertyName": "组合形式",
+            "propertyValueName": "上衣+裤子",
+            "source": "new"
+          },
+          {
+            "fieldTemplate": "property",
+            "propertyName": "材质成分",
+            "propertyValueName": "棉100%",
+            "source": "new"
+          },
+          {
+            "fieldTemplate": "property",
+            "propertyName": "适用季节",
+            "propertyValueName": "春季",
+            "source": "new"
+          },
+          {
+            "fieldTemplate": "property",
+            "propertyName": "适用年龄",
+            "propertyValueName": "5岁",
+            "source": "new"
+          },
+          {
+            "fieldTemplate": "property",
             "propertyName": "风格",
             "propertyValueName": "休闲",
-            "source": "new"
-          },
-          {
-            "fieldTemplate": "property",
-            "propertyName": "面料",
-            "propertyValueName": "锦纶",
-            "source": "new"
-          },
-          {
-            "fieldTemplate": "property",
-            "propertyName": "适用性别",
-            "propertyValueName": "男",
-            "source": "new"
-          },
-          {
-            "fieldTemplate": "property",
-            "propertyName": "上市年份季节",
-            "propertyValueName": "2026年春",
             "source": "new"
           },
           {
@@ -12153,43 +12117,43 @@
             "source": "new"
           }
         ],
-        "title": "匡威童装男童夹克2026秋季款立领撞色运动休闲外套时尚百搭宽松",
+        "title": "匡威童装男童套装2026秋季款长袖T恤长裤两件套复古英伦风休闲",
         "umpPriceLog": {
           "b_s": "pctb_search",
-          "item_price": "218.92",
+          "item_price": "182.99",
           "price_from": "ump",
           "price_stage": "0",
-          "s_id": "6007119173597",
-          "traceId": "210127cc17888004538553658e0a89",
-          "umpLog": "sourceTypeKey:2_ad_ztc;originUmpPrice:21892^37900;utcP:spsd4price_11408^20_4600^10_0",
+          "s_id": "6171613366829",
+          "traceId": "2100cff617888076241655439e0bb0",
+          "umpLog": "sourceTypeKey:2_ad_ztc;originUmpPrice:18299^35900;utcP:spsd4price_12601^20_4400^10_0^1_600",
           "ump_invoke": "0",
-          "x_object_id": "1009500264533"
+          "x_object_id": "1008748265814"
         },
-        "uprightImg": "https://img.alicdn.com/bao/uploaded/i2/1916176081/O1CN01kybNFKv0BkI1WPjS_!!1916176081.jpg",
+        "uprightImg": "https://img.alicdn.com/bao/uploaded/i2/1916176081/O1CN01lIQzHiQ3r0C1WPjS_!!1916176081.jpg",
         "uprightImgAspectRatio": "0.75",
         "userId": "RAzN8HWJnq6MiVamfsVzm8aQmWTE6Gikt8Cz7QtKUMHjX3XQyBP",
         "utLogMap": {
-          "aplus_abtest": "249f741a6dde8f96e3594d406412342c",
-          "at_bucketid": "75",
+          "aplus_abtest": "a5bb6f71efe6cf33addd20a0043efffc",
+          "at_bucketid": "76",
           "is_weak": "0",
-          "lf_aclog": "8-1009500264533-49-_sale|-0-218.92",
+          "lf_aclog": "8-1008748265814-49-_sale|-0-182.99",
           "pageNum": "1",
-          "price": "218.92",
-          "rn": "e33756d1715fea81cb06e739f6318ddd",
-          "time": 1788800454418,
-          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529603#0_34385#50535#525315#0_34385#51800#509551#0_34385#50009#530670#0_34385#57411#522394#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522405#0_34385#59594#533776#0_34385#58166#528987#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#502761#0_34385#61217#541178#0_34385#43484#512361#0_34385#63007#549575#0_34385#44159#499960#0_34385#45784#507589#0",
-          "userId": "2222930862201",
+          "price": "182.99",
+          "rn": "73fc6b33cff3686b48920a7e6fd4af93",
+          "time": 1788807624761,
+          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529604#0_34385#50535#507978#0_34385#51800#509551#0_34385#50009#507596#0_34385#57411#522400#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522407#0_34385#59594#533776#0_34385#58166#525998#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#501535#0_34385#61217#541178#0_34385#43484#512360#0_34385#63007#549575#0_34385#44159#505918#0_34385#45784#502000#0",
+          "userId": "2222989967027",
           "x_ad": "1"
         },
         "video": {
-          "coverUrl": "http://img.alicdn.com/imgextra/i4/2217753917324/O1CN013OEaPn23yRtmcGqo1_!!2217753917324-0-qnaigc.jpg",
+          "coverUrl": "http://img.alicdn.com/imgextra/i2/2217753917324/O1CN01lZKUom23yRtmnsGau_!!2217753917324-0-qnaigc.jpg",
           "showIcon": "false",
           "videoDimension": "3:4",
-          "videoUrl": "https://cloud.video.taobao.com/play/u/1916176081/p/2/e/6/t/1/547216238249.mp4?appKey=38829"
+          "videoUrl": "https://cloud.video.taobao.com/play/u/1916176081/p/2/e/6/t/1/547241197264.mp4?appKey=38829"
         }
       },
       {
-        "auctionURL": "//item.taobao.com/item.htm?id=1070197619569&ns=1&abbucket=15&xxc=taobaoSearch&mi_id=00001JyzeL028chkisQD1kNRlYPTYmk0Of60p3Gy_JlZJGQ&skuId=6286340683407",
+        "auctionURL": "//item.taobao.com/item.htm?id=1070197619569&ns=1&abbucket=19&xxc=taobaoSearch&mi_id=00001JyzeL028chkisQD1kNRlRJJBf_lTZHBXiAI9kI9E5E&skuId=6286340683407",
         "categoryp": "16 162104",
         "extraParams": [
           {
@@ -12314,7 +12278,7 @@
           "price_from": "ump",
           "price_stage": "0",
           "s_id": "6286340683407",
-          "traceId": "210127cc17888004538553658e0a89",
+          "traceId": "2100cff617888076241655439e0bb0",
           "umpLog": "sourceTypeKey:2_taobaoSearch;originUmpPrice:9690^12990;utcP:20_3300^17_0^10_0",
           "ump_invoke": "0",
           "x_object_id": "1070197619569"
@@ -12323,16 +12287,16 @@
         "uprightImg": "https://gw.alicdn.com/imgextra/O1CN01r0ZRh8J72QD1WPjS_!!76223406-0-picasso.jpg",
         "userId": "RAzN8HAq4khaj772KSMLoWC8dNFne",
         "utLogMap": {
-          "aplus_abtest": "3ea45315088c22f12681c633778aae1c",
-          "at_bucketid": "75",
+          "aplus_abtest": "2833649d424c22bc6b7203470d6a518b",
+          "at_bucketid": "76",
           "is_weak": "0",
           "lf_aclog": "9-1070197619569-49-_sale|-0-96.9",
           "pageNum": "1",
           "price": "96.9",
-          "rn": "e33756d1715fea81cb06e739f6318ddd",
-          "time": 1788800454418,
-          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529603#0_34385#50535#525315#0_34385#51800#509551#0_34385#50009#530670#0_34385#57411#522394#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522405#0_34385#59594#533776#0_34385#58166#528987#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#502761#0_34385#61217#541178#0_34385#43484#512361#0_34385#63007#549575#0_34385#44159#499960#0_34385#45784#507589#0_124#0#318546#0",
-          "userId": "2222930862201",
+          "rn": "73fc6b33cff3686b48920a7e6fd4af93",
+          "time": 1788807624762,
+          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529604#0_34385#50535#507978#0_34385#51800#509551#0_34385#50009#507596#0_34385#57411#522400#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522407#0_34385#59594#533776#0_34385#58166#525998#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#501535#0_34385#61217#541178#0_34385#43484#512360#0_34385#63007#549575#0_34385#44159#505918#0_34385#45784#502000#0_124#0#318546#0",
+          "userId": "2222989967027",
           "x_ad": "0"
         },
         "video": {
@@ -12343,7 +12307,7 @@
         }
       },
       {
-        "auctionURL": "//item.taobao.com/item.htm?id=1048664639943&ns=1&abbucket=15&xxc=taobaoSearch&mi_id=0000grhCg3ITrWeAC3n702IK3SWvDg0VA_Z1HWyclX2am1E&skuId=6080629309059",
+        "auctionURL": "//item.taobao.com/item.htm?id=1048664639943&ns=1&abbucket=19&xxc=taobaoSearch&mi_id=0000grhCg3ITrWeAC3n702IK3YaKlVHQRFDC89-w9jmlbq4&skuId=6080629309059",
         "categoryp": "16 50000671",
         "extraParams": [
           {
@@ -12476,7 +12440,7 @@
           "price_from": "ump",
           "price_stage": "0",
           "s_id": "6080629309059",
-          "traceId": "210127cc17888004538553658e0a89",
+          "traceId": "2100cff617888076241655439e0bb0",
           "umpLog": "sourceTypeKey:2_taobaoSearch;originUmpPrice:4990^6990;utcP:20_2000^17_0^10_0",
           "ump_invoke": "0",
           "x_object_id": "1048664639943"
@@ -12485,16 +12449,16 @@
         "uprightImg": "https://gw.alicdn.com/imgextra/O1CN011hjzM7PEvtH1WPjS_!!76223406-0-picasso.jpg",
         "userId": "RAzN8HAq4khaj772KSMLoWC8dNFne",
         "utLogMap": {
-          "aplus_abtest": "ab942410ebb4359e165743593a509715",
-          "at_bucketid": "75",
+          "aplus_abtest": "ebc8116dd22176c76f79852889a182fa",
+          "at_bucketid": "76",
           "is_weak": "0",
           "lf_aclog": "10-1048664639943-49-_sale|-0-49.9",
           "pageNum": "1",
           "price": "49.9",
-          "rn": "e33756d1715fea81cb06e739f6318ddd",
-          "time": 1788800454418,
-          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529603#0_34385#50535#525315#0_34385#51800#509551#0_34385#50009#530670#0_34385#57411#522394#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522405#0_34385#59594#533776#0_34385#58166#528987#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#502761#0_34385#61217#541178#0_34385#43484#512361#0_34385#63007#549575#0_34385#44159#499960#0_34385#45784#507589#0_124#0#318546#0",
-          "userId": "2222930862201",
+          "rn": "73fc6b33cff3686b48920a7e6fd4af93",
+          "time": 1788807624762,
+          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529604#0_34385#50535#507978#0_34385#51800#509551#0_34385#50009#507596#0_34385#57411#522400#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522407#0_34385#59594#533776#0_34385#58166#525998#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#501535#0_34385#61217#541178#0_34385#43484#512360#0_34385#63007#549575#0_34385#44159#505918#0_34385#45784#502000#0_124#0#318546#0",
+          "userId": "2222989967027",
           "x_ad": "0"
         },
         "video": {
@@ -12505,19 +12469,22 @@
         }
       },
       {
-        "auctionURL": "http://click.simba.taobao.com/cc_im?p=%D2%C2%B7%FE&s=1325331326&k=2605&e=h71tPT6P52nkweS6xxPSVfatcxk%2BRhj%2BK8x%2FjpTUop2AJQyoO4JRxapmJZJjxy3ga4fjlUXWAyTMnYle%2B%2BXF1VZLFezofBb8dC2tw%2F4QpBGde236csC75kyPdHE9wiX6xzx4dPG1AlTsiTlw7f4jLxX8zIRt1kToj1LOQiuXW99BO%2F58hX6i3%2FHkrpwKl4fnKvlTQbsCLjQsHExWHTK7iDrVCwnhbTF7mAsjeEHHhsFLv%2FRlC0pa3Xs3cFgaxXC6OJos8a46Eoc1njdFq%2BmTvT9khFdJ4o2r4htPFC2XyVNGz0cMfRvDZXqYFNRFTqKbTj4sW7DrK72OWztnfTVrw%2B5kk4b7nV3ltPEyGxpOTu29h6JV00%2FPnreVBSbU8LPnKTPGPiGNmnl0wR4ogUUYJ%2FxlbgYLZamIsilNcgUYzYg0VTamOoijld1Sbkk9B5nGX7lytJP9c0tolYpPInR66KYAhk2H36giynpgZnLM5KKIXD0nOsk94%2FckvnQWcT7AIEK3MW7LD9%2BUIEll8HgP4XbZJBdYxrmDxTPvGAuVDdglGYG5ZRkExuuvKQ2T5LscG%2BbWtuW%2F9mShttPYXJuM7m1H9TJZYUSbW7t85ccSsfWx4BqI84Fq82bwuBsVYH8JRGv61sXgDaWG0aw8AtpRRtJO7N54ohimL6hKbwXyPr1jXR6PCtSbQ1ZV90%2B9zXQPazQbzfcxS5sa4UcNKtttBNM6j7of3S92vuGKJi0DLmt8%2B%2BRoX0QJwRHYdGjm%2B6lTcw5o5qtNRg3Jwis1LQFtj7vEnLr5wQA%2BTW2higtw1QmgrHDnH9qoPZCpQaL2Etk96w1NO8ogHLcu7WJYXyJWOUCBoAEMLqIdL6f05vE%2BPl9iwWcEaBXLQgcGrI05RE82wwg4p4PieXw6lVPSVtvZKwg0h5pXEws4Xhu1ljZtIcqGebBDERwsWhsaUmvn3oR8%2BTpN2AFvyC7GWcgu3ynN5t5zFTmXvyAtqNRv6YuuASzKiSZyasgvZwE52B3TzAtEC81nMXfsHJKY52ebhQq3jEpnQOzy0JQsNOGRqbRVEI6F84oxkgu%2FMSp3p7YM8Y9W52RppTTvAusmJ7Nr8rVJ1s2MFqemepDbXXUQnfMdWDxh%2BTVvTDJImJnlGT1oA%2Fc%2BnDwQzNfLS74XrFPmHg7DiRJ78%2Fw4dHln6qUg%2BlGJdh4BOdgd08wLREexDFGO%2BccaxwO70ulAEG90IR6m77g55IAcslxE%2FpGXdS2MiGIa1LsZO%2F0VKChdkEkWz1e%2BHuzyWioTFiRSgVUwwS1TG8ZjDvvzoirExWzIc5mTw8fyEvL5exGQzTbM2LxCtvGHub9YMsy6e7b160blLhH7VcqTsyQlxcCXEqMaDSz5ouJl94mQPcuihtm6bU%2BAdWId%2FQcx%2B3OGnF%2Fgwo4h2x4BfDtiwQovKVpixDRl5qVl7AXZmSopzhPwSnAtrgNzgxTvGSj4jFBnqEXDt5gpkDZ9wkcmdZ6ARSEMp7GqG9Rl0GXTJNxO8vEQoTPr%2B7Xg12l4vKaNpZyUh9%2F%2BCjozKaXtnN2sSOvNOxOASKWHyNwg7lLkLEtV7oyih7EBJGq9OKn0Xy4c1R9T6rP%2FBO76T36aER1Zg7M4qRG1LB1S13IeIdfX3Rb3JSnh%2BSF9k%2Fdw%2BBIcyY5FTW2higtw1QmnBjRfgpw2x5n2%2BOmwKE32YQx5utW9FFYN2vatGbfRuWX6%2F9C%2B%2B7Zm2ybMsWf%2FhYwEitt5ZKSF0xVvz%2BwUbL28vHlNno0W%2F%2BU104ryENmdSpqk7k7wG682UNQdEoyj%2FyT8KRxJAk9R1YM5aAQ42M%2Fkl2%2Bj4Ov6eXcbGlJr596EfEBGy0mhe8hLJXhx2b%2BPS5tTwAyrI27fAxsaUmvn3oR8RDlU%2FRVsljPFwTctMEZZRTxRYPpyckaLYlbvLFXG8Y1A51dkknlbib6VB4g%2Ft2GAFSvyGw0oHsvfEQ92ShOUsqXKuZV7MTgYHrNuwmv3OEf2vkwK%2Bn84ek39gbJ2Xu7JxDcVUTDomAY3l3CjKf%2B7ckwP86RKKIuRDUrgKLrSyUyWLTnSVO9D3lQrKZZNPMvn4FWImfcpPo4rK6E8qV7UQBboM3%2BQY33uxDcVUTDomAaX3l%2BsmCh7z0b3GF6wR58YdPPkXW8inuStCPxrHB3GgLQHCj0EPhgwPw6bFSPteq24TIJZaFEQK%2FHnEjCRKNvBEobtUHfbFbfATgAM5XuIjWCJcZ8JJmukE1CwyyLRAAYl%2B%2B5zyUg7EY1TaZYFh%2BTSWmig1Y3VsBoUURHJoqKPtfFWAYu2Mgvw93lspxBxAjz6uB67cOf2tzHxoFgUJqsQQc5v8wPG3RpJBk1vJdcEvsR%2BdwM3es%2BnKtxm1D7VgdKi5hvFinJAg1oRYTr4SFwK%2BcuiSbife3N%2FgkLoQRmXhF9oDmYar7nZi%2BbiAEMpZ1s9MpytcP9euVndM%2BWc4%2FrMNPZvLaX0%2Ffhuq6UaLzz3TB7klSx8iC8ls7zx59XXzbG%2FPhzs0i1LTXaAswZNfxLb6w1NO8ogHLckxiF9hjcf2zyxA%2F7TxS5kVhFUU5l4XPgW6rqSPQm288UArSmliMtCH%2BuNIcGtrCc%3D&eadt=282&mm_sceneid=1_0_448250163_0&a=xxc%3Dad_ztc%26mi_id%3D0000pb7FM00lHXCjbu_W5eGrDeWfFBeVw9Nsi9twblhWMYQ%26skuId%3D6132293088079&id=637894681726",
-        "categoryp": "50022517 50023613 121406022",
+        "auctionURL": "http://click.simba.taobao.com/cc_im?p=%D2%C2%B7%FE&s=533831323&k=2465&e=YJxPNLmznmQQ%2BVSEF1iPUyTTmDLQECmUPcZB%2F2qKT0UppShwYiEeMaiy75mWcjL68GYhKiBu1daUCMhoe1GJi6tog%2FQ0rsdpc6BORoFrPJMNtnd2w0KNUclAnAiBcCtWAIGfV5rYypPM%2FjaSFiFanFRPWzBO5%2FRWMWHJATv5Eg13YoKNOh9whbyFoNkLUpAb4a%2BZXsWw3T7GkwZUtFb3OhpKz04xFDWDEZ6%2FrRVZ55JXInxmoPiicbaLsteU8%2BZUoM9JSDolQ9oTF3TqnfRV4c%2FGmfY72nVa5OdEDDV%2F2165OME3lVu8f3068FFEyiQrLboETej%2BPvFoEDwn1Crz3BMNbjcpgCzlVEVEXetIe6rjy3vtbKM%2FUMWAaBQnHQHJbB%2FhloWoXc4Wo2d3oFLwVRxO99tmXIm161XSDZnuixYPwV707LAaIaVEv5Bcy8xMpfnUChv22uZrrLQQlgWCzo7%2FejgEFT%2FOIMkuq5v60rj3Mn7CZuThVkj2%2FEJndYZyW8WXq2%2BhHX8%2F6RHQ9HuSmtPLoO89%2F2sedUgScuMxxXyuBRu5ijMtV%2BLuTsKtxNql462dP1VKIqyegkxaY10%2Bce7jmOBp4N6VAD7UxDSsqiaSYUeg5Pp5oxIyxPPG5ipuegC9WvVuz3hnooa17zuXKJUMDLV9i6BctD3TRCM4q1R2kbHjvFUlkrmvq10JA%2BCTfa54gsZI4CYpMtdhYmP1tKxN9zcr%2B0KWlso37J56wDDheKiJL9QZJtCkCjOUhlms8DdWEHu8BE%2FRsmCAHI6s1s3iol69m%2FDkhTJ6YCxF0%2BbXqUiwDUSksD1NXLC9U0g0TVvkwr6tPS6lBfT77ibDV25tEJ%2F%2FB6jRuWz%2F%2FHuKRJ5RWvhSaI56VrNOJdFTJCZ8g59k74oJsgKI%2F9vt6Cc97FDWgkVlj9sRe%2BeDfreN1ZAl%2Fy%2BPTI1RMtqvsxQwk1HoNQQFi3YGv2KOiEyKCnXI1jsyytrghskuwBKHM5duAlloV4hkMNiNtNafVwxDGVzyx6aUP04igp2GUL3ycvxvSwEcYqdHk2tylMTWUBzpxYq470tN1dGUsGqK3c3PN1MPQFHa0KEOXYTar7MUMJNR6LymT7Al5B6IbYoBu0HXVI%2BzaXZT4nKANOoaPdkkv4FxIEDR2BrCvhhIyJL7qNatDr%2BxHFETz35V6Nj9uZzoalOQtIBPSCy9tK3%2BTHsb2UPYjqXLzvJEJ4uooUEQXWRbtdAnuHIt26Tqtl35ZKu0uSjBUqAbJwn8B5rHQ%2FGznfXhqWxVYMf%2BEhrtOs9L8sXn78eqMfrLPZjJQ7tiBzjDCSwG5ae%2FyjxJ1t%2BJ%2B5HyFCKMHcIycSyDt3GGBH0dKUX2odGFmKc4aRL1tK0KleTeWFo%2FgOZJGEJQz8S74oDlI3BSaxLR2vpAugkJQtObfL3uFNCkCjOUhlms8DdWEHu8BE%2FRsmCAHI6s1s3iol69m%2FDkhTJ6YCxF0%2BZy%2FrzGuGZrmYLssuOtIMTSTC8vN6LUi1Jv4J48Jf8VDMaPLJpLWEMV8DdWEHu8BE9c46OCrlM7u0TiYQai%2FkuHY7NbPW14JpD8XbvxJpbpYwJdGYk9bTsTs50LpFrgGa0N2m7fdOKAKr%2FlBwcaHQ1FD8Fp85wJkzqG6reAZ7%2FVt6C0GA%2BOsHbYzxKkrhHp%2Fk3IyY4U30f8iLHYdSzFw82MbFRzPxXgt7FHPyAN9%2Fo29iEC8UCivvuGBP64vfnKAanuOLLQrI0W4ulgO%2FTYR2NBwTmM8h14CYph9gp%2FiWO7stSFKBSo4jOfTIIzPDFki7S9ChK1jGt5UMof7ZwiY7Id9VMFixk7J71RaoGb6hJQROVjev98n8AKN4OyK7HZva%2FnyaOEe%2BpR9r4W0YdIkPXWegiVY0fXT85GB4mqVXIq0%2FU02lOHE06leyZabPS3Y0fZ3QS1E3LrWYyl22t9DJsSpMmHEHJe7tCWq%2F3e5U2yoQfD237gJvxFyE6G4fQvfejRbtoI5EmlUi7uweZnfv5TL5TOVXykd0CP7YhFXSxZC4LV2%2FdoNsD%2B3y%2FXGFEa9ZjQEjCrALhfLWZ3e%2FxBerCe7gaVCjyqOWfYW8GDBxRVAB6YyCkLmP1w8nPBF2b%2BQ5f9b8PTqJcaRY1WUx4UwNe4zull1eKYhM3sFXCrZRhFzA8LIhcUx8nlV%2BAytMqhbVhKmQGR2Tj4VXG1Y9XlePVba3vZap4%2Bm9wtNs3XT%2BoXPEEKCZs%2BetwK%2BbxdTsyLirxnSBbLRNNAliXixd%2F%2FPEhQnt4QYMasG7fAGR56rTRVGFwtia%2BXkDeUpcMH8Oh40XWaPSlwlKuCrVLZckLxXHfZS1XI5hQuJAlIFgVnxEcSUHFIHKmBqDWIs04l0VMkJnz%2FWj3lxvAJPvNn%2Fi7bAkK%2F4edhbOSap8mMoa6P%2F1Cvh%2FNBxuVnotTxjLvw2ZuFiOW8M762fFCgJl1SkUf2H9IK&eadt=282&mm_sceneid=1_0_32256685_0&a=xxc%3Dad_ztc%26mi_id%3D0000GeLtmbVQ1QMp3clZpl-j1Np8Bbb5fCFxFt5qZ1hwX7g%26skuId%3D6174759635963&id=1008833862797",
+        "categoryp": "30 50000436",
         "extraParams": [
           {
             "key": "skuId",
-            "value": "6132293088079"
+            "value": "6174759635963"
           },
           {
             "key": "detailAlgoParam",
             "value": "%E8%A1%A3%E6%9C%8D"
           }
         ],
-        "iconList": "guanggao,wsearchicon-activityPreTitleMainpc_8e18dfeb4b2aaea23021251ebaeed0ff,guanfanglijiannodacupc,tmallPC,tmall",
+        "hotListInfo": {
+          "rank_short_text": "入选先锋国潮男装店铺榜"
+        },
+        "iconList": "guanggao,wsearchicon-activityPreTitleMainpc_a7af23ccd9763db6646fb2dfad4f2018,guanfanglijiannodacupc,ifashionnew",
         "icons": [
           {
             "alias": "guanggao",
@@ -12527,8 +12494,8 @@
             "type": "img"
           },
           {
-            "alias": "wsearchicon-activityPreTitleMainpc_8e18dfeb4b2aaea23021251ebaeed0ff",
-            "domClass": "wsearchicon-activityPreTitleMainpc_8e18dfeb4b2aaea23021251ebaeed0ff",
+            "alias": "wsearchicon-activityPreTitleMainpc_a7af23ccd9763db6646fb2dfad4f2018",
+            "domClass": "wsearchicon-activityPreTitleMainpc_a7af23ccd9763db6646fb2dfad4f2018",
             "group": "1",
             "showType": "0",
             "type": "img"
@@ -12538,108 +12505,110 @@
             "domClass": "guanfanglijiannodacupc",
             "group": "2",
             "showType": "0",
-            "text": "官方立减50元",
+            "text": "官方立减30元",
             "type": "text"
           },
           {
-            "alias": "tmallPC",
-            "domClass": "tmallPC",
-            "group": "1",
+            "alias": "ifashionnew",
+            "domClass": "ifashionnew",
+            "group": "2",
             "showType": "0",
-            "type": "img"
-          },
-          {
-            "alias": "tmall",
-            "domClass": "tmall",
-            "group": "1",
-            "showType": "0",
-            "type": "img"
+            "text": "ifashion",
+            "type": "text"
           }
         ],
-        "ifsUrl": "http://kgb-ifs.tanx.com/kgb?i=%B9%B8r%28%EF%BC%AA%CE%8B%11V%857V%A9%8E%5B%7B%E7X%3C%BB%E9%D2%25%AAs%B6C%BAl%C3%F3%E4A%E2J%B4%2F%81%A6%2C%C1%F9%09%8E%2A%DBT%16%9AiE%0C%24%86%0A%3B%F1%FAi7%8E%19%AC8%15%05%E1%81%0E%F0%9DB%AD%8B%96d6%B8%D6YR%07%CE%97b%84I%12%1D2%1A%B2%D2%CA%BAl%29%99%18w%08%82%1Ex%82%94%9E%F0%08%01%F1%0A9%F8%ED%93%99%B6%B4%9Eo%28%09Y",
+        "ifsUrl": "http://kgb-ifs.tanx.com/kgb?i=%B9%B8r%7F%B5%BB%F7%98%3FT%DA%96%1A%8A%7Fy%C2%D4%DC%95%3A%0F%8C%AD%97%A9%A1%B3%D1%87%29%A8%B7%D6%EBA%8C%24%E2%C4p%D5%40%09V%21%5C%C9%3B%96%8D%0E%0A4%AD%FD%12%D9%0Do1HJi%FC%E6%F9%3B%EC%15%91%91%14%1F%EB%89%7D%0A%22q3%FC%144d%9B%5E%FE8v%3F%2A%13%10%AE%F5%E9%F2G%9EZW%D0.%E88%08%EEsJy%12%D7g%C1%5E%D4g%276%2C4T%8A%B8_",
         "isP4p": "true",
-        "item_id": "637894681726",
+        "item_id": "1008833862797",
         "labelOrder": [
+          "hotListInfo",
           "structuredUSPInfo"
         ],
-        "leafCategory": "121406022",
+        "leafCategory": "50000436",
         "localPrice": "",
-        "nick": "domiamia旗舰店",
+        "nick": "赵朝余",
         "p4pLabel": true,
-        "pic_path": "http://g.search.alicdn.com/img/O1CN01jQAhLX1LvqZlWFFHy_!!4611686018427384898-2-item_pic.png",
-        "price": "349",
+        "pic_path": "http://g.search.alicdn.com/img/O1CN01dRb3t4MDWOG2vH2e_!!670439763.jpg",
+        "price": "169",
         "priceColor": "#000000",
         "priceShow": {
           "preText": "",
-          "price": "349",
+          "price": "169",
           "priceDesc": "优惠后",
           "unit": "¥"
         },
-        "procity": "浙江 嘉兴",
+        "procity": "广东 广州",
         "realSales": "本月行业热销",
         "relationScore": 0.0,
         "shopInfo": {
-          "commonTagText": "回头客2万",
+          "indTagText": "IFASHION",
+          "indTagTextCol": "#A64DFF",
           "pbshowshopinfo": "false",
-          "title": "domiamia旗舰店"
+          "title": "瞬时山野Monterest"
         },
         "structuredUSPInfo": [
           {
             "fieldTemplate": "property",
-            "propertyName": "适用季节",
-            "propertyValueName": "四季通用",
+            "propertyName": "版型分类",
+            "propertyValueName": "宽松型",
             "source": "new"
           },
           {
             "fieldTemplate": "property",
-            "propertyName": "适用阶段",
-            "propertyValueName": "全阶段",
+            "propertyName": "面料",
+            "propertyValueName": "聚酯纤维",
             "source": "new"
           },
           {
             "fieldTemplate": "property",
-            "propertyName": "可哺乳类型",
-            "propertyValueName": "侧开口",
+            "propertyName": "图案",
+            "propertyValueName": "几何",
+            "source": "new"
+          },
+          {
+            "fieldTemplate": "property",
+            "propertyName": "适用性别",
+            "propertyValueName": "男女通用",
             "source": "new"
           }
         ],
-        "title": "Domiamia纱布月子服春夏薄款竹棉纱布透气哺乳孕妇睡衣产后家居服",
+        "title": "瞬时山野Monterest户外5A抗菌吸湿速干华夫格阳离子印花长袖T恤",
         "umpPriceLog": {
           "b_s": "pctb_search",
-          "item_price": "349",
+          "item_price": "169",
           "price_from": "ump",
           "price_stage": "0",
-          "s_id": "6132293088079",
-          "traceId": "210127cc17888004538553658e0a89",
-          "umpLog": "sourceTypeKey:2_ad_ztc;originUmpPrice:34900^39900;utcP:20_5000^10_39900",
+          "s_id": "6174759635963",
+          "traceId": "2100cff617888076241655439e0bb0",
+          "umpLog": "sourceTypeKey:2_ad_ztc;originUmpPrice:16900^19900;utcP:20_3000^17_0^10_1000",
           "ump_invoke": "0",
-          "x_object_id": "637894681726"
+          "x_object_id": "1008833862797"
         },
-        "uprightImg": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i4/2201419191362/O1CN01sVJ5JE1LvqZlKsj6r_!!4611686018427384898-0-item_pic.jpg",
+        "uprightImg": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i3/670439763/O1CN01UeX2fVrQZpC43lxD_!!670439763.jpg",
         "uprightImgAspectRatio": "0.75",
-        "userId": "RAzN8HWVQ9Y96qEBSJ3kdkB2b2bKgViTJ951BfCcmSLVXd3RDpv",
+        "userId": "RAzN8HWWGijJYEjGRMu4FzknqBxNrVjJxnEAdFrSMWu1JafeaCq",
         "utLogMap": {
-          "aplus_abtest": "81851b483b28456cabdb011a7650ec56",
-          "at_bucketid": "75",
+          "aplus_abtest": "f376ddf3d536733d819b1ab1e7e9274d",
+          "at_bucketid": "76",
           "is_weak": "0",
-          "lf_aclog": "11-637894681726-49-_sale|-0-349",
+          "lf_aclog": "11-1008833862797-49-_sale|-0-169",
           "pageNum": "1",
-          "price": "349",
-          "rn": "e33756d1715fea81cb06e739f6318ddd",
-          "time": 1788800454418,
-          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529603#0_34385#50535#525315#0_34385#51800#509551#0_34385#50009#530670#0_34385#57411#522394#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522405#0_34385#59594#533776#0_34385#58166#528987#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#502761#0_34385#61217#541178#0_34385#43484#512361#0_34385#63007#549575#0_34385#44159#499960#0_34385#45784#507589#0",
-          "userId": "2222930862201",
+          "price": "169",
+          "rn": "73fc6b33cff3686b48920a7e6fd4af93",
+          "time": 1788807624762,
+          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529604#0_34385#50535#507978#0_34385#51800#509551#0_34385#50009#507596#0_34385#57411#522400#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522407#0_34385#59594#533776#0_34385#58166#525998#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#501535#0_34385#61217#541178#0_34385#43484#512360#0_34385#63007#549575#0_34385#44159#505918#0_34385#45784#502000#0",
+          "userId": "2222989967027",
           "x_ad": "1"
         },
         "video": {
-          "coverUrl": "http://img.alicdn.com/imgextra/i1/6000000007820/O1CN01LqxbDq27dcN0KphOS_!!6000000007820-0-tmap.jpg",
+          "coverUrl": "http://img.alicdn.com/imgextra/i1/2220196135343/O1CN01uWVAAd1pL9J2n19Rg_!!2220196135343-0-qnaigc.jpg",
           "showIcon": "false",
           "videoDimension": "3:4",
-          "videoUrl": "https://cloud.video.taobao.com/play/u/2201419191362/p/2/e/6/t/1/561765465986.mp4?appKey=38829"
+          "videoUrl": "https://cloud.video.taobao.com/play/u/670439763/p/2/e/6/t/1/556079245500.mp4?appKey=38829"
         }
       },
       {
-        "auctionURL": "//item.taobao.com/item.htm?id=1029408124871&ns=1&abbucket=15&xxc=taobaoSearch&mi_id=0000lz_VzY3CvtS3hY2q3i_oAcxkqE87DtxWrdzRAWfpSEw&skuId=6039176388893",
+        "auctionURL": "//item.taobao.com/item.htm?id=1029408124871&ns=1&abbucket=19&xxc=taobaoSearch&mi_id=0000lz_VzY3CvtS3hY2q3i_oAU2nPh7nD32d6Y0h4fZA2Vc&skuId=6039176388893",
         "categoryp": "16 121412004",
         "extraParams": [
           {
@@ -12778,7 +12747,7 @@
           "price_from": "ump",
           "price_stage": "0",
           "s_id": "6039176388893",
-          "traceId": "210127cc17888004538553658e0a89",
+          "traceId": "2100cff617888076241655439e0bb0",
           "umpLog": "sourceTypeKey:2_taobaoSearch;originUmpPrice:4990^6990;utcP:20_2000^17_0^10_0",
           "ump_invoke": "0",
           "x_object_id": "1029408124871"
@@ -12787,16 +12756,16 @@
         "uprightImg": "https://gw.alicdn.com/imgextra/O1CN01fr7qhITyelC1WPjS_!!76223406-0-picasso.jpg",
         "userId": "RAzN8HAq4khaj772KSMLoWC8dNFne",
         "utLogMap": {
-          "aplus_abtest": "d66adcfca2a743797840f9d58d3f440b",
-          "at_bucketid": "75",
+          "aplus_abtest": "cde1b6b75e9247a55640ff123c1abae2",
+          "at_bucketid": "76",
           "is_weak": "0",
           "lf_aclog": "12-1029408124871-49-_sale|-0-49.9",
           "pageNum": "1",
           "price": "49.9",
-          "rn": "e33756d1715fea81cb06e739f6318ddd",
-          "time": 1788800454418,
-          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529603#0_34385#50535#525315#0_34385#51800#509551#0_34385#50009#530670#0_34385#57411#522394#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522405#0_34385#59594#533776#0_34385#58166#528987#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#502761#0_34385#61217#541178#0_34385#43484#512361#0_34385#63007#549575#0_34385#44159#499960#0_34385#45784#507589#0_124#0#318546#0",
-          "userId": "2222930862201",
+          "rn": "73fc6b33cff3686b48920a7e6fd4af93",
+          "time": 1788807624762,
+          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529604#0_34385#50535#507978#0_34385#51800#509551#0_34385#50009#507596#0_34385#57411#522400#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522407#0_34385#59594#533776#0_34385#58166#525998#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#501535#0_34385#61217#541178#0_34385#43484#512360#0_34385#63007#549575#0_34385#44159#505918#0_34385#45784#502000#0_124#0#318546#0",
+          "userId": "2222989967027",
           "x_ad": "0"
         },
         "video": {
@@ -12807,7 +12776,7 @@
         }
       },
       {
-        "auctionURL": "//detail.tmall.com/item.htm?id=870819406704&ns=1&abbucket=15&xxc=taobaoSearch&mi_id=0000hue5stSUhXMDEgMhNtPX9Xz_lRKaD0DpwlY0aEzCYII&skuId=5900757734370",
+        "auctionURL": "//detail.tmall.com/item.htm?id=870819406704&ns=1&abbucket=19&xxc=taobaoSearch&mi_id=0000hue5stSUhXMDEgMhNtPX9ZRLoG-MkPs7wYdWSozo-Dc&skuId=5900757734370",
         "categoryp": "16 50000671",
         "extraParams": [
           {
@@ -12884,7 +12853,7 @@
         ],
         "leafCategory": "50000671",
         "nick": "mh服饰旗舰店",
-        "pic_path": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i2/2216196372075/O1CN014k19tl1RCOrTDBVYV_!!4611686018427385451-0-item_pic.jpg",
+        "pic_path": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i2/2216196372075/O1CN014k19tl1RCOrTDBVYV_!!4611686018427385451-0-item_pic.jpg",
         "price": "59",
         "priceColor": "#000000",
         "priceShow": {
@@ -12966,7 +12935,7 @@
           "price_from": "ump",
           "price_stage": "0",
           "s_id": "5900757734370",
-          "traceId": "210127cc17888004538553658e0a89",
+          "traceId": "2100cff617888076241655439e0bb0",
           "umpLog": "sourceTypeKey:2_taobaoSearch;originUmpPrice:2990^4990;utcP:42_910^spsd4hjmssjbt_2000",
           "ump_invoke": "0",
           "x_object_id": "870819406704"
@@ -12975,16 +12944,16 @@
         "uprightImg": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i4/2216196372075/O1CN01VommPT1RCOrMin55c_!!4611686018427385451-0-item_pic.jpg",
         "userId": "RAzN8HWLLbfvvp45aVmc8iGT26zK5ZFHaFeRYFnLyBF26EccTA8",
         "utLogMap": {
-          "aplus_abtest": "ce095ce7c155e63d7fcbc84e427a5635",
-          "at_bucketid": "75",
+          "aplus_abtest": "9b11654feea4b7f13e8a15e1b9419d22",
+          "at_bucketid": "76",
           "is_weak": "0",
           "lf_aclog": "13-870819406704-49-_sale|-0-29.9",
           "pageNum": "1",
           "price": "29.9",
-          "rn": "e33756d1715fea81cb06e739f6318ddd",
-          "time": 1788800454419,
-          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529603#0_34385#50535#525315#0_34385#51800#509551#0_34385#50009#530670#0_34385#57411#522394#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522405#0_34385#59594#533776#0_34385#58166#528987#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#502761#0_34385#61217#541178#0_34385#43484#512361#0_34385#63007#549575#0_34385#44159#499960#0_34385#45784#507589#0_124#0#318546#0",
-          "userId": "2222930862201",
+          "rn": "73fc6b33cff3686b48920a7e6fd4af93",
+          "time": 1788807624762,
+          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529604#0_34385#50535#507978#0_34385#51800#509551#0_34385#50009#507596#0_34385#57411#522400#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522407#0_34385#59594#533776#0_34385#58166#525998#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#501535#0_34385#61217#541178#0_34385#43484#512360#0_34385#63007#549575#0_34385#44159#505918#0_34385#45784#502000#0_124#0#318546#0",
+          "userId": "2222989967027",
           "x_ad": "0"
         },
         "video": {
@@ -12995,7 +12964,7 @@
         }
       },
       {
-        "auctionURL": "//detail.tmall.com/item.htm?id=760734810174&ns=1&abbucket=15&xxc=taobaoSearch&fpChannel=101&fpChannelSig=ae3d04dcfc5aa970c4624c803657749018eac340&mi_id=0000TbeVD7M0wtaESFu8riE6wwn3DlN0YX8HBbGE_XK69DQ&skuId=5953243522654",
+        "auctionURL": "//detail.tmall.com/item.htm?id=760734810174&ns=1&abbucket=19&xxc=taobaoSearch&fpChannel=101&fpChannelSig=ae3d04dcfc5aa970c4624c803657749018eac340&mi_id=0000TbeVD7M0wtaESFu8riE6w0r95GuZFHOczBYYbLnANNQ&skuId=5953243522654",
         "categoryp": "50011699 50022889",
         "extraParams": [
           {
@@ -13083,7 +13052,7 @@
         ],
         "leafCategory": "50022889",
         "nick": "鸿星尔克erke旗舰店",
-        "pic_path": "https://g-search2.alicdn.com/img/bao/uploaded/i4/i1/349740505/O1CN01gYwh9lCDGnD1chua_!!349740505.jpg",
+        "pic_path": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i1/349740505/O1CN01gYwh9lCDGnD1chua_!!349740505.jpg",
         "price": "139",
         "priceColor": "#000000",
         "priceShow": {
@@ -13154,7 +13123,7 @@
           "price_from": "ump",
           "price_stage": "0",
           "s_id": "5953243522654",
-          "traceId": "210127cc17888004538553658e0a89",
+          "traceId": "2100cff617888076241655439e0bb0",
           "umpLog": "sourceTypeKey:2_taobaoSearch;fpChannelKey:101_ae3d04dcfc5aa970c4624c803657749018eac340;originUmpPrice:6400^9900;utcP:spsd4bybt_3500^38_4000",
           "ump_invoke": "0",
           "x_object_id": "760734810174"
@@ -13163,16 +13132,16 @@
         "uprightImg": "https://img.alicdn.com/bao/uploaded/i4/349740505/O1CN012huy1r3nTMB1WPjS_!!349740505.jpg",
         "userId": "RAzN8HWS3jPuvH64EsziTodnQab598mSymP9uT3b3X8ZyEa9TUd",
         "utLogMap": {
-          "aplus_abtest": "54b3a434d3372a8951c082cb196a2470",
-          "at_bucketid": "75",
+          "aplus_abtest": "24bd8953b18ec201ebf9fa09cb781a06",
+          "at_bucketid": "76",
           "is_weak": "0",
           "lf_aclog": "14-760734810174-49-_sale|-0-64",
           "pageNum": "1",
           "price": "64",
-          "rn": "e33756d1715fea81cb06e739f6318ddd",
-          "time": 1788800454419,
-          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529603#0_34385#50535#525315#0_34385#51800#509551#0_34385#50009#530670#0_34385#57411#522394#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522405#0_34385#59594#533776#0_34385#58166#528987#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#502761#0_34385#61217#541178#0_34385#43484#512361#0_34385#63007#549575#0_34385#44159#499960#0_34385#45784#507589#0_124#0#318546#0",
-          "userId": "2222930862201",
+          "rn": "73fc6b33cff3686b48920a7e6fd4af93",
+          "time": 1788807624762,
+          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529604#0_34385#50535#507978#0_34385#51800#509551#0_34385#50009#507596#0_34385#57411#522400#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522407#0_34385#59594#533776#0_34385#58166#525998#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#501535#0_34385#61217#541178#0_34385#43484#512360#0_34385#63007#549575#0_34385#44159#505918#0_34385#45784#502000#0_124#0#318546#0",
+          "userId": "2222989967027",
           "x_ad": "0"
         },
         "video": {
@@ -13454,7 +13423,7 @@
         ]
       },
       {
-        "auctionURL": "//detail.tmall.com/item.htm?id=1014168503803&ns=1&abbucket=15&xxc=taobaoSearch&mi_id=00001czwVRyCa-gkAxDwicOKIi4JhJweP61074-pe7EOqYU&skuId=6186436686218",
+        "auctionURL": "//detail.tmall.com/item.htm?id=1014168503803&ns=1&abbucket=19&xxc=taobaoSearch&mi_id=00001czwVRyCa-gkAxDwicOKIqi1kA-z92nCjvcaFuQ_poY&skuId=6186436686218",
         "categoryp": "16 50000671",
         "extraParams": [
           {
@@ -13605,7 +13574,7 @@
           "price_from": "ump",
           "price_stage": "0",
           "s_id": "6186436686218",
-          "traceId": "210127cc17888004538553658e0a89",
+          "traceId": "2100cff617888076241655439e0bb0",
           "umpLog": "sourceTypeKey:2_taobaoSearch;originUmpPrice:2990^4990;utcP:42_910^spsd4hjmssjbt_2000",
           "ump_invoke": "0",
           "x_object_id": "1014168503803"
@@ -13614,16 +13583,16 @@
         "uprightImg": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i4/2216455906211/O1CN01U2crrV1vkh5YB51GE_!!4611686018427380643-2-item_pic.png",
         "userId": "RAzN8HWZaCVKDKwyWy9hW822BQNcBakc2qQC6rDxL9Rg3HA8cYt",
         "utLogMap": {
-          "aplus_abtest": "68d20a063e7f9a14dead171f5e9f762e",
-          "at_bucketid": "75",
+          "aplus_abtest": "0125fb42853422f01ad272876de47e84",
+          "at_bucketid": "76",
           "is_weak": "0",
           "lf_aclog": "15-1014168503803-49-_sale|-0-29.9",
           "pageNum": "1",
           "price": "29.9",
-          "rn": "e33756d1715fea81cb06e739f6318ddd",
-          "time": 1788800454419,
-          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529603#0_34385#50535#525315#0_34385#51800#509551#0_34385#50009#530670#0_34385#57411#522394#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522405#0_34385#59594#533776#0_34385#58166#528987#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#502761#0_34385#61217#541178#0_34385#43484#512361#0_34385#63007#549575#0_34385#44159#499960#0_34385#45784#507589#0_124#0#318546#0",
-          "userId": "2222930862201",
+          "rn": "73fc6b33cff3686b48920a7e6fd4af93",
+          "time": 1788807624762,
+          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529604#0_34385#50535#507978#0_34385#51800#509551#0_34385#50009#507596#0_34385#57411#522400#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522407#0_34385#59594#533776#0_34385#58166#525998#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#501535#0_34385#61217#541178#0_34385#43484#512360#0_34385#63007#549575#0_34385#44159#505918#0_34385#45784#502000#0_124#0#318546#0",
+          "userId": "2222989967027",
           "x_ad": "0"
         },
         "video": {
@@ -13634,7 +13603,7 @@
         }
       },
       {
-        "auctionURL": "//item.taobao.com/item.htm?id=828923033022&ns=1&abbucket=15&xxc=taobaoSearch&mi_id=0000kEC12jnUYAm2uu6mbI6l9Awd2XWXwywiAFjJ0Ees8qc&skuId=5558240444710",
+        "auctionURL": "//item.taobao.com/item.htm?id=828923033022&ns=1&abbucket=19&xxc=taobaoSearch&mi_id=0000kEC12jnUYAm2uu6mbI6l9AaPYcvc_VDVGJy7SbcRCDE&skuId=5558240444710",
         "categoryp": "16 50011277",
         "extraParams": [
           {
@@ -13753,7 +13722,7 @@
           "price_from": "ump",
           "price_stage": "0",
           "s_id": "5558240444710",
-          "traceId": "210127cc17888004538553658e0a89",
+          "traceId": "2100cff617888076241655439e0bb0",
           "umpLog": "sourceTypeKey:2_taobaoSearch;originUmpPrice:16490^19990;utcP:20_3500^17_0^10_0",
           "ump_invoke": "0",
           "x_object_id": "828923033022"
@@ -13762,16 +13731,16 @@
         "uprightImg": "https://gw.alicdn.com/imgextra/O1CN01XkntwHsHZ3E1WPjS_!!76223406-0-picasso.jpg",
         "userId": "RAzN8HAq4khaj772KSMLoWC8dNFne",
         "utLogMap": {
-          "aplus_abtest": "56bc7e3600974a1fedf9daed82098e27",
-          "at_bucketid": "75",
+          "aplus_abtest": "73e61fdb95ace6435b7709f7d1ab9427",
+          "at_bucketid": "76",
           "is_weak": "0",
           "lf_aclog": "16-828923033022-49-_sale|-0-164.9",
           "pageNum": "1",
           "price": "164.9",
-          "rn": "e33756d1715fea81cb06e739f6318ddd",
-          "time": 1788800454419,
-          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529603#0_34385#50535#525315#0_34385#51800#509551#0_34385#50009#530670#0_34385#57411#522394#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522405#0_34385#59594#533776#0_34385#58166#528987#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#502761#0_34385#61217#541178#0_34385#43484#512361#0_34385#63007#549575#0_34385#44159#499960#0_34385#45784#507589#0_124#0#318546#0",
-          "userId": "2222930862201",
+          "rn": "73fc6b33cff3686b48920a7e6fd4af93",
+          "time": 1788807624762,
+          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529604#0_34385#50535#507978#0_34385#51800#509551#0_34385#50009#507596#0_34385#57411#522400#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522407#0_34385#59594#533776#0_34385#58166#525998#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#501535#0_34385#61217#541178#0_34385#43484#512360#0_34385#63007#549575#0_34385#44159#505918#0_34385#45784#502000#0_124#0#318546#0",
+          "userId": "2222989967027",
           "x_ad": "0"
         },
         "video": {
@@ -13782,7 +13751,7 @@
         }
       },
       {
-        "auctionURL": "//detail.tmall.com/item.htm?id=896208368744&ns=1&abbucket=15&xxc=taobaoSearch&mi_id=00009KpH6feZf31_TfJJKOTvHrKfYxKOhsPQzSyUO8AnzLs&skuId=5914950255560",
+        "auctionURL": "//detail.tmall.com/item.htm?id=896208368744&ns=1&abbucket=19&xxc=taobaoSearch&mi_id=00009KpH6feZf31_TfJJKOTvHovnOdjPC0YsDaeNGSmVke0&skuId=5914950255560",
         "categoryp": "50011699 50022891 50022890",
         "extraParams": [
           {
@@ -13922,30 +13891,30 @@
           "price_from": "ump",
           "price_stage": "0",
           "s_id": "5914950255560",
-          "traceId": "210127cc17888004538553658e0a89",
+          "traceId": "2100cff617888076241655439e0bb0",
           "umpLog": "sourceTypeKey:2_taobaoSearch;originUmpPrice:5589^6900;utcP:42_9000^spsd4hjmssjbt_1311",
           "ump_invoke": "0",
           "x_object_id": "896208368744"
         },
         "uniqpid": "709090538",
-        "uprightImg": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i2/2212566875835/O1CN013BFQaI1syU5Sb3Qrq_!!4611686018427387579-0-item_pic.jpg",
+        "uprightImg": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i2/2212566875835/O1CN013BFQaI1syU5Sb3Qrq_!!4611686018427387579-0-item_pic.jpg",
         "userId": "RAzN8HWMXFDYD97gaSxTzLhKMQpcSpun7KrtbRH8AxDFyyJhN6P",
         "utLogMap": {
-          "aplus_abtest": "c0e51eb39c5461dbadb2b58ef023c5ef",
-          "at_bucketid": "75",
+          "aplus_abtest": "83355361cc64419499e7808267e039c9",
+          "at_bucketid": "76",
           "is_weak": "0",
           "lf_aclog": "17-896208368744-49-_sale|-0-55.89",
           "pageNum": "1",
           "price": "55.89",
-          "rn": "e33756d1715fea81cb06e739f6318ddd",
-          "time": 1788800454419,
-          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529603#0_34385#50535#525315#0_34385#51800#509551#0_34385#50009#530670#0_34385#57411#522394#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522405#0_34385#59594#533776#0_34385#58166#528987#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#502761#0_34385#61217#541178#0_34385#43484#512361#0_34385#63007#549575#0_34385#44159#499960#0_34385#45784#507589#0_124#0#318546#0",
-          "userId": "2222930862201",
+          "rn": "73fc6b33cff3686b48920a7e6fd4af93",
+          "time": 1788807624762,
+          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529604#0_34385#50535#507978#0_34385#51800#509551#0_34385#50009#507596#0_34385#57411#522400#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522407#0_34385#59594#533776#0_34385#58166#525998#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#501535#0_34385#61217#541178#0_34385#43484#512360#0_34385#63007#549575#0_34385#44159#505918#0_34385#45784#502000#0_124#0#318546#0",
+          "userId": "2222989967027",
           "x_ad": "0"
         }
       },
       {
-        "auctionURL": "//item.taobao.com/item.htm?id=1048451682942&ns=1&abbucket=15&xxc=taobaoSearch&mi_id=0000QqDR5xTu614KvSgLbnksQ-NGaW-SzsSiFHNJIJ6BPag&skuId=6077835468412",
+        "auctionURL": "//item.taobao.com/item.htm?id=1048451682942&ns=1&abbucket=19&xxc=taobaoSearch&mi_id=0000QqDR5xTu614KvSgLbnksQ1v3aPw0XFwD5QgqI53CYPI&skuId=6077835468412",
         "categoryp": "16 50000671",
         "extraParams": [
           {
@@ -14085,30 +14054,30 @@
           "price_from": "ump",
           "price_stage": "0",
           "s_id": "6077835468412",
-          "traceId": "210127cc17888004538553658e0a89",
+          "traceId": "2100cff617888076241655439e0bb0",
           "umpLog": "sourceTypeKey:2_taobaoSearch;originUmpPrice:2790^2990;utcP:10_0^4_200",
           "ump_invoke": "0",
           "x_object_id": "1048451682942"
         },
         "uniqpid": "1207178629",
-        "uprightImg": "https://g-search2.alicdn.com/img/bao/uploaded/i4/i1/2453174782/O1CN01oOqT581lCD7oE8rOP_!!2453174782.jpg",
+        "uprightImg": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i1/2453174782/O1CN01oOqT581lCD7oE8rOP_!!2453174782.jpg",
         "userId": "RAzN8HWYjeyrWaSEFLPH57yXk369mC4oQUpzQLxdDQ1Ms9MGAuk",
         "utLogMap": {
-          "aplus_abtest": "884c0bab0290af3533bce3b61457397d",
-          "at_bucketid": "75",
+          "aplus_abtest": "89ead72fbc6a4f86050d84e26b852510",
+          "at_bucketid": "76",
           "is_weak": "0",
           "lf_aclog": "18-1048451682942-49-_sale|-0-27.9",
           "pageNum": "1",
           "price": "27.9",
-          "rn": "e33756d1715fea81cb06e739f6318ddd",
-          "time": 1788800454419,
-          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529603#0_34385#50535#525315#0_34385#51800#509551#0_34385#50009#530670#0_34385#57411#522394#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522405#0_34385#59594#533776#0_34385#58166#528987#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#502761#0_34385#61217#541178#0_34385#43484#512361#0_34385#63007#549575#0_34385#44159#499960#0_34385#45784#507589#0_124#0#318546#0",
-          "userId": "2222930862201",
+          "rn": "73fc6b33cff3686b48920a7e6fd4af93",
+          "time": 1788807624762,
+          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529604#0_34385#50535#507978#0_34385#51800#509551#0_34385#50009#507596#0_34385#57411#522400#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522407#0_34385#59594#533776#0_34385#58166#525998#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#501535#0_34385#61217#541178#0_34385#43484#512360#0_34385#63007#549575#0_34385#44159#505918#0_34385#45784#502000#0_124#0#318546#0",
+          "userId": "2222989967027",
           "x_ad": "0"
         }
       },
       {
-        "auctionURL": "//item.taobao.com/item.htm?id=1040713391481&ns=1&abbucket=15&xxc=taobaoSearch&mi_id=0000K_iga_sFlgEDEvKiHupY1SplvwEINTElO2xmL9e7Orw&skuId=6227954583112",
+        "auctionURL": "//item.taobao.com/item.htm?id=1040713391481&ns=1&abbucket=19&xxc=taobaoSearch&mi_id=0000K_iga_sFlgEDEvKiHupY1VPq_cxLMNckd7bM94VzNGY&skuId=6227954583112",
         "categoryp": "16 50000671",
         "extraParams": [
           {
@@ -14235,7 +14204,7 @@
           "price_from": "ump",
           "price_stage": "0",
           "s_id": "6227954583112",
-          "traceId": "210127cc17888004538553658e0a89",
+          "traceId": "2100cff617888076241655439e0bb0",
           "umpLog": "sourceTypeKey:2_taobaoSearch;originUmpPrice:4990^6990;utcP:20_2000^17_0^10_0",
           "ump_invoke": "0",
           "x_object_id": "1040713391481"
@@ -14244,16 +14213,16 @@
         "uprightImg": "https://gw.alicdn.com/imgextra/O1CN01i0NtJVbDBOG1WPjS_!!76223406-0-picasso.jpg",
         "userId": "RAzN8HAq4khaj772KSMLoWC8dNFne",
         "utLogMap": {
-          "aplus_abtest": "b3a3f1dcb339e0b9cdf3a6a5af6f371e",
-          "at_bucketid": "75",
+          "aplus_abtest": "72ce8f7e2149e2d3c6cefe8f6ae2cda7",
+          "at_bucketid": "76",
           "is_weak": "0",
           "lf_aclog": "19-1040713391481-49-_sale|-0-49.9",
           "pageNum": "1",
           "price": "49.9",
-          "rn": "e33756d1715fea81cb06e739f6318ddd",
-          "time": 1788800454419,
-          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529603#0_34385#50535#525315#0_34385#51800#509551#0_34385#50009#530670#0_34385#57411#522394#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522405#0_34385#59594#533776#0_34385#58166#528987#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#502761#0_34385#61217#541178#0_34385#43484#512361#0_34385#63007#549575#0_34385#44159#499960#0_34385#45784#507589#0_124#0#318546#0",
-          "userId": "2222930862201",
+          "rn": "73fc6b33cff3686b48920a7e6fd4af93",
+          "time": 1788807624763,
+          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529604#0_34385#50535#507978#0_34385#51800#509551#0_34385#50009#507596#0_34385#57411#522400#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522407#0_34385#59594#533776#0_34385#58166#525998#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#501535#0_34385#61217#541178#0_34385#43484#512360#0_34385#63007#549575#0_34385#44159#505918#0_34385#45784#502000#0_124#0#318546#0",
+          "userId": "2222989967027",
           "x_ad": "0"
         },
         "video": {
@@ -14264,7 +14233,7 @@
         }
       },
       {
-        "auctionURL": "//item.taobao.com/item.htm?id=672821864935&ns=1&abbucket=15&xxc=taobaoSearch&mi_id=0000UPagg2rrQiGL0ToLEdmJGwiStcWY28SZHz_uHEEg5i8&skuId=5879791676411",
+        "auctionURL": "//item.taobao.com/item.htm?id=672821864935&ns=1&abbucket=19&xxc=taobaoSearch&mi_id=0000UPagg2rrQiGL0ToLEdmJG2sBpzsv0YvhRfHI_xYKU2E&skuId=5879791676411",
         "categoryp": "16 50000671",
         "extraParams": [
           {
@@ -14397,7 +14366,7 @@
           "price_from": "ump",
           "price_stage": "0",
           "s_id": "5879791676411",
-          "traceId": "210127cc17888004538553658e0a89",
+          "traceId": "2100cff617888076241655439e0bb0",
           "umpLog": "sourceTypeKey:2_taobaoSearch;originUmpPrice:6790^8990;utcP:20_2200^17_0^10_0",
           "ump_invoke": "0",
           "x_object_id": "672821864935"
@@ -14406,16 +14375,16 @@
         "uprightImg": "https://gw.alicdn.com/imgextra/O1CN01v0JsQuWk7BE1WPjS_!!76223406-0-picasso.jpg",
         "userId": "RAzN8HAq4khaj772KSMLoWC8dNFne",
         "utLogMap": {
-          "aplus_abtest": "7ca4188d0586f596980857ed8dc7f6d6",
-          "at_bucketid": "75",
+          "aplus_abtest": "edf8ad612c466071e1ac65dc10b8eabd",
+          "at_bucketid": "76",
           "is_weak": "0",
           "lf_aclog": "20-672821864935-49-_sale|-0-67.9",
           "pageNum": "1",
           "price": "67.9",
-          "rn": "e33756d1715fea81cb06e739f6318ddd",
-          "time": 1788800454419,
-          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529603#0_34385#50535#525315#0_34385#51800#509551#0_34385#50009#530670#0_34385#57411#522394#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522405#0_34385#59594#533776#0_34385#58166#528987#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#502761#0_34385#61217#541178#0_34385#43484#512361#0_34385#63007#549575#0_34385#44159#499960#0_34385#45784#507589#0_124#0#318546#0",
-          "userId": "2222930862201",
+          "rn": "73fc6b33cff3686b48920a7e6fd4af93",
+          "time": 1788807624763,
+          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529604#0_34385#50535#507978#0_34385#51800#509551#0_34385#50009#507596#0_34385#57411#522400#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522407#0_34385#59594#533776#0_34385#58166#525998#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#501535#0_34385#61217#541178#0_34385#43484#512360#0_34385#63007#549575#0_34385#44159#505918#0_34385#45784#502000#0_124#0#318546#0",
+          "userId": "2222989967027",
           "x_ad": "0"
         },
         "video": {
@@ -14426,7 +14395,7 @@
         }
       },
       {
-        "auctionURL": "//detail.tmall.com/item.htm?id=1020895532883&ns=1&abbucket=15&xxc=taobaoSearch&mi_id=00004JJUWy6GsHNUv1tfoBNB3uUnpLAbIVbDwr7GHTt1iMA&skuId=6030633617531",
+        "auctionURL": "//detail.tmall.com/item.htm?id=1020895532883&ns=1&abbucket=19&xxc=taobaoSearch&mi_id=00004JJUWy6GsHNUv1tfoBNB3ibWkVRGZg_Sbpl-_Wcd0OY&skuId=6030633617531",
         "categoryp": "16 50000671",
         "extraParams": [
           {
@@ -14564,25 +14533,25 @@
           "price_from": "ump",
           "price_stage": "0",
           "s_id": "6030633617531",
-          "traceId": "210127cc17888004538553658e0a89",
+          "traceId": "2100cff617888076241655439e0bb0",
           "umpLog": "sourceTypeKey:2_taobaoSearch;originUmpPrice:3490^4990;utcP:42_10^spsd4hjmssjbt_1500",
           "ump_invoke": "0",
           "x_object_id": "1020895532883"
         },
         "uniqpid": "483343524",
-        "uprightImg": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i1/2218390463107/O1CN01jxfeLK1Yp3hLs6L3M_!!4611686018427380355-0-item_pic.jpg",
+        "uprightImg": "https://g-search2.alicdn.com/img/bao/uploaded/i4/i1/2218390463107/O1CN01jxfeLK1Yp3hLs6L3M_!!4611686018427380355-0-item_pic.jpg",
         "userId": "RAzN8HWVLF8WGc7N8cHnzoYL5ATS8BJrRYePqRsUhm1y3TNmgF3",
         "utLogMap": {
-          "aplus_abtest": "cdbd47b16c25a09d3462b9457895b5e7",
-          "at_bucketid": "75",
+          "aplus_abtest": "56f59e2e22b397b7b92444ee0374bb50",
+          "at_bucketid": "76",
           "is_weak": "0",
           "lf_aclog": "21-1020895532883-49-_sale|-0-34.9",
           "pageNum": "1",
           "price": "34.9",
-          "rn": "e33756d1715fea81cb06e739f6318ddd",
-          "time": 1788800454419,
-          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529603#0_34385#50535#525315#0_34385#51800#509551#0_34385#50009#530670#0_34385#57411#522394#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522405#0_34385#59594#533776#0_34385#58166#528987#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#502761#0_34385#61217#541178#0_34385#43484#512361#0_34385#63007#549575#0_34385#44159#499960#0_34385#45784#507589#0_124#0#318546#0",
-          "userId": "2222930862201",
+          "rn": "73fc6b33cff3686b48920a7e6fd4af93",
+          "time": 1788807624763,
+          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529604#0_34385#50535#507978#0_34385#51800#509551#0_34385#50009#507596#0_34385#57411#522400#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522407#0_34385#59594#533776#0_34385#58166#525998#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#501535#0_34385#61217#541178#0_34385#43484#512360#0_34385#63007#549575#0_34385#44159#505918#0_34385#45784#502000#0_124#0#318546#0",
+          "userId": "2222989967027",
           "x_ad": "0"
         },
         "video": {
@@ -14593,7 +14562,7 @@
         }
       },
       {
-        "auctionURL": "//item.taobao.com/item.htm?id=959081422425&ns=1&abbucket=15&xxc=taobaoSearch&mi_id=00007cqoyWdhYqIIqbVuyAGSPiB0dAuTFMTfqljI6G8XtUU&skuId=5889803533502",
+        "auctionURL": "//item.taobao.com/item.htm?id=959081422425&ns=1&abbucket=19&xxc=taobaoSearch&mi_id=00007cqoyWdhYqIIqbVuyAGSPjf-LuuOsp58nyencGQEc90&skuId=5889803533502",
         "categoryp": "16 50000671",
         "extraParams": [
           {
@@ -14726,7 +14695,7 @@
           "price_from": "ump",
           "price_stage": "0",
           "s_id": "5889803533502",
-          "traceId": "210127cc17888004538553658e0a89",
+          "traceId": "2100cff617888076241655439e0bb0",
           "umpLog": "sourceTypeKey:2_taobaoSearch;originUmpPrice:6790^8990;utcP:20_2200^17_0^10_0",
           "ump_invoke": "0",
           "x_object_id": "959081422425"
@@ -14735,16 +14704,16 @@
         "uprightImg": "https://gw.alicdn.com/imgextra/O1CN01emtSIi0IKyH1WPjS_!!76223406-0-picasso.jpg",
         "userId": "RAzN8HAq4khaj772KSMLoWC8dNFne",
         "utLogMap": {
-          "aplus_abtest": "57a82abc752df933915cc49a6fbb33e3",
-          "at_bucketid": "75",
+          "aplus_abtest": "da333189758907ad3d503493e10e5d36",
+          "at_bucketid": "76",
           "is_weak": "0",
           "lf_aclog": "22-959081422425-49-_sale|-0-67.9",
           "pageNum": "1",
           "price": "67.9",
-          "rn": "e33756d1715fea81cb06e739f6318ddd",
-          "time": 1788800454419,
-          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529603#0_34385#50535#525315#0_34385#51800#509551#0_34385#50009#530670#0_34385#57411#522394#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522405#0_34385#59594#533776#0_34385#58166#528987#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#502761#0_34385#61217#541178#0_34385#43484#512361#0_34385#63007#549575#0_34385#44159#499960#0_34385#45784#507589#0_124#0#318546#0",
-          "userId": "2222930862201",
+          "rn": "73fc6b33cff3686b48920a7e6fd4af93",
+          "time": 1788807624763,
+          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529604#0_34385#50535#507978#0_34385#51800#509551#0_34385#50009#507596#0_34385#57411#522400#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522407#0_34385#59594#533776#0_34385#58166#525998#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#501535#0_34385#61217#541178#0_34385#43484#512360#0_34385#63007#549575#0_34385#44159#505918#0_34385#45784#502000#0_124#0#318546#0",
+          "userId": "2222989967027",
           "x_ad": "0"
         },
         "video": {
@@ -14755,7 +14724,7 @@
         }
       },
       {
-        "auctionURL": "//detail.tmall.com/item.htm?id=901585281173&ns=1&abbucket=15&xxc=taobaoSearch&mi_id=0000FRJowuhNRBsaX1ntzOqCk84193VW-uS2hvstFvrCl4Q&skuId=5935697348635",
+        "auctionURL": "//detail.tmall.com/item.htm?id=901585281173&ns=1&abbucket=19&xxc=taobaoSearch&mi_id=0000FRJowuhNRBsaX1ntzOqCkzGKvKBZV7CCUjsW_sK8jX8&skuId=5935697348635",
         "categoryp": "16 50000671",
         "extraParams": [
           {
@@ -14832,7 +14801,7 @@
         ],
         "leafCategory": "50000671",
         "nick": "真维斯服饰旗舰店",
-        "pic_path": "https://g-search2.alicdn.com/img/bao/uploaded/i4/i1/2216455906211/O1CN01iyWNBg1vkh0TK3plz_!!4611686018427380643-0-item_pic.jpg",
+        "pic_path": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i1/2216455906211/O1CN01iyWNBg1vkh0TK3plz_!!4611686018427380643-0-item_pic.jpg",
         "price": "59",
         "priceColor": "#000000",
         "priceShow": {
@@ -14902,25 +14871,25 @@
           "price_from": "ump",
           "price_stage": "0",
           "s_id": "5935697348635",
-          "traceId": "210127cc17888004538553658e0a89",
+          "traceId": "2100cff617888076241655439e0bb0",
           "umpLog": "sourceTypeKey:2_taobaoSearch;originUmpPrice:2990^4990;utcP:42_910^spsd4hjmssjbt_2000",
           "ump_invoke": "0",
           "x_object_id": "901585281173"
         },
         "uniqpid": "503381361",
-        "uprightImg": "https://g-search2.alicdn.com/img/bao/uploaded/i4/i4/2216455906211/O1CN01uvzfw21vkh0Uf5JEY_!!4611686018427380643-0-item_pic.jpg",
+        "uprightImg": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i4/2216455906211/O1CN01uvzfw21vkh0Uf5JEY_!!4611686018427380643-0-item_pic.jpg",
         "userId": "RAzN8HWZaCVKDKwyWy9hW822BQNcBakc2qQC6rDxL9Rg3HA8cYt",
         "utLogMap": {
-          "aplus_abtest": "7c76d6364b83fc1b94b9d3ed3788d405",
-          "at_bucketid": "75",
+          "aplus_abtest": "aba7958e4bdb8875a12814b179ec0b30",
+          "at_bucketid": "76",
           "is_weak": "0",
           "lf_aclog": "23-901585281173-49-_sale|-0-29.9",
           "pageNum": "1",
           "price": "29.9",
-          "rn": "e33756d1715fea81cb06e739f6318ddd",
-          "time": 1788800454419,
-          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529603#0_34385#50535#525315#0_34385#51800#509551#0_34385#50009#530670#0_34385#57411#522394#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522405#0_34385#59594#533776#0_34385#58166#528987#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#502761#0_34385#61217#541178#0_34385#43484#512361#0_34385#63007#549575#0_34385#44159#499960#0_34385#45784#507589#0_124#0#318546#0",
-          "userId": "2222930862201",
+          "rn": "73fc6b33cff3686b48920a7e6fd4af93",
+          "time": 1788807624763,
+          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529604#0_34385#50535#507978#0_34385#51800#509551#0_34385#50009#507596#0_34385#57411#522400#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522407#0_34385#59594#533776#0_34385#58166#525998#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#501535#0_34385#61217#541178#0_34385#43484#512360#0_34385#63007#549575#0_34385#44159#505918#0_34385#45784#502000#0_124#0#318546#0",
+          "userId": "2222989967027",
           "x_ad": "0"
         },
         "video": {
@@ -14931,7 +14900,7 @@
         }
       },
       {
-        "auctionURL": "//item.taobao.com/item.htm?id=755469681154&ns=1&abbucket=15&xxc=taobaoSearch&mi_id=00003WmhK9j0DzZtOmZj91EjSlLnt8q-aNa6ORZLWrrVm0U&skuId=5381575131460",
+        "auctionURL": "//item.taobao.com/item.htm?id=755469681154&ns=1&abbucket=19&xxc=taobaoSearch&mi_id=00003WmhK9j0DzZtOmZj91EjSjV-1gkH92blfPU7QlJKQkM&skuId=5381575131460",
         "categoryp": "16 121412004",
         "extraParams": [
           {
@@ -15000,7 +14969,7 @@
         "shopInfo": {
           "commonTagText": "回头客8万",
           "pbshowshopinfo": "false",
-          "shopLogo": "https://g-search3.alicdn.com/img/bao/uploaded/i4//41/55/TB1sjF0hv9TBuNjy0FcSuveiFXa.jpg",
+          "shopLogo": "https://g-search2.alicdn.com/img/bao/uploaded/i4//41/55/TB1sjF0hv9TBuNjy0FcSuveiFXa.jpg",
           "title": "丸子的衣服店",
           "url": "//store.taobao.com/category.htm?appUid=RAzN8HWRzr6R8bW6PUG33PQWaRnFcMFVvmsPGFL6s6Jk4Drc59v"
         },
@@ -15061,25 +15030,25 @@
           "price_from": "ump",
           "price_stage": "0",
           "s_id": "5381575131460",
-          "traceId": "210127cc17888004538553658e0a89",
+          "traceId": "2100cff617888076241655439e0bb0",
           "umpLog": "sourceTypeKey:2_taobaoSearch;originUmpPrice:4390^4990;utcP:20_600^10_4000",
           "ump_invoke": "0",
           "x_object_id": "755469681154"
         },
         "uniqpid": "1032383031",
-        "uprightImg": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i2/3168351759/O1CN01gEoKun1OrfbyQYI5x_!!3168351759.jpg",
+        "uprightImg": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i2/3168351759/O1CN01gEoKun1OrfbyQYI5x_!!3168351759.jpg",
         "userId": "RAzN8HWRzr6R8bW6PUG33PQWaRnFcMFVvmsPGFL6s6Jk4Drc59v",
         "utLogMap": {
-          "aplus_abtest": "e027ff80f7decf54ac1bde8c07c43216",
-          "at_bucketid": "75",
+          "aplus_abtest": "fa29cc5659fd4483283e0efec8339007",
+          "at_bucketid": "76",
           "is_weak": "0",
           "lf_aclog": "24-755469681154-49-_sale|-0-43.9",
           "pageNum": "1",
           "price": "43.9",
-          "rn": "e33756d1715fea81cb06e739f6318ddd",
-          "time": 1788800454419,
-          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529603#0_34385#50535#525315#0_34385#51800#509551#0_34385#50009#530670#0_34385#57411#522394#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522405#0_34385#59594#533776#0_34385#58166#528987#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#502761#0_34385#61217#541178#0_34385#43484#512361#0_34385#63007#549575#0_34385#44159#499960#0_34385#45784#507589#0_124#0#318546#0",
-          "userId": "2222930862201",
+          "rn": "73fc6b33cff3686b48920a7e6fd4af93",
+          "time": 1788807624763,
+          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529604#0_34385#50535#507978#0_34385#51800#509551#0_34385#50009#507596#0_34385#57411#522400#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522407#0_34385#59594#533776#0_34385#58166#525998#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#501535#0_34385#61217#541178#0_34385#43484#512360#0_34385#63007#549575#0_34385#44159#505918#0_34385#45784#502000#0_124#0#318546#0",
+          "userId": "2222989967027",
           "x_ad": "0"
         },
         "video": {
@@ -15090,7 +15059,7 @@
         }
       },
       {
-        "auctionURL": "//item.taobao.com/item.htm?id=674072759884&ns=1&abbucket=15&xxc=taobaoSearch&mi_id=0000AduGl0BuBIJWPvJ3aINFNrEPiauQh11rk2csPK7qNiY&skuId=5976395102723",
+        "auctionURL": "//item.taobao.com/item.htm?id=674072759884&ns=1&abbucket=19&xxc=taobaoSearch&mi_id=0000AduGl0BuBIJWPvJ3aINFNu8Uj-RRWT1XtL9ZsHS9_6g&skuId=5976395102723",
         "categoryp": "16 121412004",
         "extraParams": [
           {
@@ -15227,7 +15196,7 @@
           "price_from": "ump",
           "price_stage": "0",
           "s_id": "5976395102723",
-          "traceId": "210127cc17888004538553658e0a89",
+          "traceId": "2100cff617888076241655439e0bb0",
           "umpLog": "sourceTypeKey:2_taobaoSearch;originUmpPrice:3490^4990;utcP:20_1500^17_0^10_0",
           "ump_invoke": "0",
           "x_object_id": "674072759884"
@@ -15236,16 +15205,16 @@
         "uprightImg": "https://gw.alicdn.com/imgextra/O1CN01LQK4Vh9XKLI1WPjS_!!76223406-0-picasso.jpg",
         "userId": "RAzN8HAq4khaj772KSMLoWC8dNFne",
         "utLogMap": {
-          "aplus_abtest": "c9fc37c2510ce7b761ada6410aaf5435",
-          "at_bucketid": "75",
+          "aplus_abtest": "d18a3399ab1d9dbb4464391f795266a0",
+          "at_bucketid": "76",
           "is_weak": "0",
           "lf_aclog": "25-674072759884-49-_sale|-0-34.9",
           "pageNum": "1",
           "price": "34.9",
-          "rn": "e33756d1715fea81cb06e739f6318ddd",
-          "time": 1788800454420,
-          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529603#0_34385#50535#525315#0_34385#51800#509551#0_34385#50009#530670#0_34385#57411#522394#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522405#0_34385#59594#533776#0_34385#58166#528987#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#502761#0_34385#61217#541178#0_34385#43484#512361#0_34385#63007#549575#0_34385#44159#499960#0_34385#45784#507589#0_124#0#318546#0",
-          "userId": "2222930862201",
+          "rn": "73fc6b33cff3686b48920a7e6fd4af93",
+          "time": 1788807624763,
+          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529604#0_34385#50535#507978#0_34385#51800#509551#0_34385#50009#507596#0_34385#57411#522400#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522407#0_34385#59594#533776#0_34385#58166#525998#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#501535#0_34385#61217#541178#0_34385#43484#512360#0_34385#63007#549575#0_34385#44159#505918#0_34385#45784#502000#0_124#0#318546#0",
+          "userId": "2222989967027",
           "x_ad": "0"
         },
         "video": {
@@ -15256,7 +15225,7 @@
         }
       },
       {
-        "auctionURL": "//detail.tmall.com/item.htm?id=1024177685500&ns=1&abbucket=15&xxc=taobaoSearch&mi_id=0000tCXCmiYq_h1qVv9O9bZWsj7sdusf47pdjZ3h-n81zIc&skuId=6236843283875",
+        "auctionURL": "//detail.tmall.com/item.htm?id=1024177685500&ns=1&abbucket=19&xxc=taobaoSearch&mi_id=0000tCXCmiYq_h1qVv9O9bZWsofUcE9tc6tuKMooNmSiHoY&skuId=6236843283875",
         "categoryp": "16 50000671",
         "extraParams": [
           {
@@ -15393,25 +15362,25 @@
           "price_from": "ump",
           "price_stage": "0",
           "s_id": "6236843283875",
-          "traceId": "210127cc17888004538553658e0a89",
+          "traceId": "2100cff617888076241655439e0bb0",
           "umpLog": "sourceTypeKey:2_taobaoSearch;originUmpPrice:2990^4990;utcP:42_910^spsd4hjmssjbt_2000",
           "ump_invoke": "0",
           "x_object_id": "1024177685500"
         },
         "uniqpid": "19092319",
-        "uprightImg": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i3/2216455906211/O1CN01P4Fngi1vkh5YlJqjo_!!4611686018427380643-0-item_pic.jpg",
+        "uprightImg": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i3/2216455906211/O1CN01P4Fngi1vkh5YlJqjo_!!4611686018427380643-0-item_pic.jpg",
         "userId": "RAzN8HWZaCVKDKwyWy9hW822BQNcBakc2qQC6rDxL9Rg3HA8cYt",
         "utLogMap": {
-          "aplus_abtest": "7f9da86187d66958841487c917fdd785",
-          "at_bucketid": "75",
+          "aplus_abtest": "436638d24b1bf74bfcbeccf77559363f",
+          "at_bucketid": "76",
           "is_weak": "0",
           "lf_aclog": "26-1024177685500-49-_sale|-0-29.9",
           "pageNum": "1",
           "price": "29.9",
-          "rn": "e33756d1715fea81cb06e739f6318ddd",
-          "time": 1788800454420,
-          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529603#0_34385#50535#525315#0_34385#51800#509551#0_34385#50009#530670#0_34385#57411#522394#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522405#0_34385#59594#533776#0_34385#58166#528987#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#502761#0_34385#61217#541178#0_34385#43484#512361#0_34385#63007#549575#0_34385#44159#499960#0_34385#45784#507589#0_124#0#318546#0",
-          "userId": "2222930862201",
+          "rn": "73fc6b33cff3686b48920a7e6fd4af93",
+          "time": 1788807624763,
+          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529604#0_34385#50535#507978#0_34385#51800#509551#0_34385#50009#507596#0_34385#57411#522400#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522407#0_34385#59594#533776#0_34385#58166#525998#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#501535#0_34385#61217#541178#0_34385#43484#512360#0_34385#63007#549575#0_34385#44159#505918#0_34385#45784#502000#0_124#0#318546#0",
+          "userId": "2222989967027",
           "x_ad": "0"
         },
         "video": {
@@ -15422,7 +15391,7 @@
         }
       },
       {
-        "auctionURL": "//detail.tmall.com/item.htm?id=890015440799&ns=1&abbucket=15&xxc=taobaoSearch&fpChannel=101&fpChannelSig=50b9b20855a9223c4ae3499ff0bc10c93a47a2c1&mi_id=0000zA14xeZXPGDO4Ymc0JUJn6Vg5RoF4x0yPz8T-k2Y3Gs&skuId=5901299818313",
+        "auctionURL": "//detail.tmall.com/item.htm?id=890015440799&ns=1&abbucket=19&xxc=taobaoSearch&fpChannel=101&fpChannelSig=50b9b20855a9223c4ae3499ff0bc10c93a47a2c1&mi_id=0000zA14xeZXPGDO4Ymc0JUJnxLo5qUBPt5AShBWVFq_-ig&skuId=5901299818313",
         "categoryp": "50011699 50013228",
         "extraParams": [
           {
@@ -15534,7 +15503,7 @@
         "shopInfo": {
           "commonTagText": "回头客100万",
           "pbshowshopinfo": "false",
-          "shopLogo": "https://g-search3.alicdn.com/img/bao/uploaded/i4//f8/9f/TB1XenAIpXXXXcKXXXXSutbFXXX.jpg",
+          "shopLogo": "https://g-search2.alicdn.com/img/bao/uploaded/i4//f8/9f/TB1XenAIpXXXXcKXXXXSutbFXXX.jpg",
           "title": "鸿星尔克官方旗舰店",
           "url": "//store.taobao.com/category.htm?appUid=RAzN8HWS3jPuvH64EsziTodnQab598mSymP9uT3b3X8ZyEa9TUd"
         },
@@ -15595,7 +15564,7 @@
           "price_from": "ump",
           "price_stage": "0",
           "s_id": "5901299818313",
-          "traceId": "210127cc17888004538553658e0a89",
+          "traceId": "2100cff617888076241655439e0bb0",
           "umpLog": "sourceTypeKey:2_taobaoSearch;fpChannelKey:101_50b9b20855a9223c4ae3499ff0bc10c93a47a2c1;originUmpPrice:5400^7900;utcP:spsd4bybt_2500^38_4000",
           "ump_invoke": "0",
           "x_object_id": "890015440799"
@@ -15604,16 +15573,16 @@
         "uprightImg": "https://img.alicdn.com/bao/uploaded/i3/349740505/O1CN01hYTwtLTtNYC1WPjS_!!349740505.jpg",
         "userId": "RAzN8HWS3jPuvH64EsziTodnQab598mSymP9uT3b3X8ZyEa9TUd",
         "utLogMap": {
-          "aplus_abtest": "02c6d13a8c8c77c0899dc6ba26a635cb",
-          "at_bucketid": "75",
+          "aplus_abtest": "36257e086173edd10134e96b1478b5d1",
+          "at_bucketid": "76",
           "is_weak": "0",
           "lf_aclog": "27-890015440799-49-_sale|-0-54",
           "pageNum": "1",
           "price": "54",
-          "rn": "e33756d1715fea81cb06e739f6318ddd",
-          "time": 1788800454420,
-          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529603#0_34385#50535#525315#0_34385#51800#509551#0_34385#50009#530670#0_34385#57411#522394#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522405#0_34385#59594#533776#0_34385#58166#528987#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#502761#0_34385#61217#541178#0_34385#43484#512361#0_34385#63007#549575#0_34385#44159#499960#0_34385#45784#507589#0_124#0#318546#0",
-          "userId": "2222930862201",
+          "rn": "73fc6b33cff3686b48920a7e6fd4af93",
+          "time": 1788807624763,
+          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529604#0_34385#50535#507978#0_34385#51800#509551#0_34385#50009#507596#0_34385#57411#522400#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522407#0_34385#59594#533776#0_34385#58166#525998#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#501535#0_34385#61217#541178#0_34385#43484#512360#0_34385#63007#549575#0_34385#44159#505918#0_34385#45784#502000#0_124#0#318546#0",
+          "userId": "2222989967027",
           "x_ad": "0"
         },
         "video": {
@@ -15624,7 +15593,7 @@
         }
       },
       {
-        "auctionURL": "//detail.tmall.com/item.htm?id=1026193980414&ns=1&abbucket=15&xxc=taobaoSearch&mi_id=000005iBMsYE_FlnorF1fYG1g7Ecz_KkuAWGZWOj60n2vIs&skuId=6242256147702",
+        "auctionURL": "//detail.tmall.com/item.htm?id=1026193980414&ns=1&abbucket=19&xxc=taobaoSearch&mi_id=000005iBMsYE_FlnorF1fYG1g9Aklss6rvn1tE-7Gm8nD9g&skuId=6242256147702",
         "categoryp": "16 50011404 162702",
         "extraParams": [
           {
@@ -15698,7 +15667,7 @@
         ],
         "leafCategory": "162702",
         "nick": "满庭芳旗舰店",
-        "pic_path": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i3/864749342/O1CN01eNrM7y2IshAtYnjSr_!!4611686018427381534-0-item_pic.jpg",
+        "pic_path": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i3/864749342/O1CN01eNrM7y2IshAtYnjSr_!!4611686018427381534-0-item_pic.jpg",
         "price": "470",
         "priceColor": "#000000",
         "priceShow": {
@@ -15757,7 +15726,7 @@
           "price_from": "ump",
           "price_stage": "0",
           "s_id": "6242256147702",
-          "traceId": "210127cc17888004538553658e0a89",
+          "traceId": "2100cff617888076241655439e0bb0",
           "umpLog": "sourceTypeKey:2_taobaoSearch;originUmpPrice:24700^47000;utcP:spsd4price_8900^20_8000^10_0^1_5400",
           "ump_invoke": "0",
           "x_object_id": "1026193980414"
@@ -15766,16 +15735,16 @@
         "uprightImg": "https://g-search2.alicdn.com/img/bao/uploaded/i4/i2/864749342/O1CN01SYIoW32IshAtS8AaT_!!4611686018427381534-0-item_pic.jpg",
         "userId": "RAzN8HWSZywLcA1hrF1s8hELKoMZcA8FwQZ6NSYhk39njgWQfKf",
         "utLogMap": {
-          "aplus_abtest": "da3d25a8cb190f937793a1cb2e089978",
-          "at_bucketid": "75",
+          "aplus_abtest": "03aaba64b6bf8f98668bcd30dd52e749",
+          "at_bucketid": "76",
           "is_weak": "0",
           "lf_aclog": "28-1026193980414-49-_sale|-0-247",
           "pageNum": "1",
           "price": "247",
-          "rn": "e33756d1715fea81cb06e739f6318ddd",
-          "time": 1788800454420,
-          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529603#0_34385#50535#525315#0_34385#51800#509551#0_34385#50009#530670#0_34385#57411#522394#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522405#0_34385#59594#533776#0_34385#58166#528987#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#502761#0_34385#61217#541178#0_34385#43484#512361#0_34385#63007#549575#0_34385#44159#499960#0_34385#45784#507589#0_124#0#318546#0",
-          "userId": "2222930862201",
+          "rn": "73fc6b33cff3686b48920a7e6fd4af93",
+          "time": 1788807624763,
+          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529604#0_34385#50535#507978#0_34385#51800#509551#0_34385#50009#507596#0_34385#57411#522400#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522407#0_34385#59594#533776#0_34385#58166#525998#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#501535#0_34385#61217#541178#0_34385#43484#512360#0_34385#63007#549575#0_34385#44159#505918#0_34385#45784#502000#0_124#0#318546#0",
+          "userId": "2222989967027",
           "x_ad": "0"
         },
         "video": {
@@ -15815,7 +15784,7 @@
         ]
       },
       {
-        "auctionURL": "//item.taobao.com/item.htm?id=1037302056379&ns=1&abbucket=15&xxc=taobaoSearch&mi_id=0000LtHai_aHUR1gwtc4r9ckuvbOJ7VUKam5nj6eTNdbW6M&skuId=6051736472054",
+        "auctionURL": "//item.taobao.com/item.htm?id=1037302056379&ns=1&abbucket=19&xxc=taobaoSearch&mi_id=0000LtHai_aHUR1gwtc4r9ckuj6pWpXCIq_gM36_SyoCSls&skuId=6051736472054",
         "categoryp": "16 50000671",
         "extraParams": [
           {
@@ -15929,7 +15898,7 @@
           "price_from": "ump",
           "price_stage": "0",
           "s_id": "6051736472054",
-          "traceId": "210127cc17888004538553658e0a89",
+          "traceId": "2100cff617888076241655439e0bb0",
           "umpLog": "sourceTypeKey:2_taobaoSearch;originUmpPrice:3500^3980;utcP:20_480^10_3820",
           "ump_invoke": "0",
           "x_object_id": "1037302056379"
@@ -15938,16 +15907,16 @@
         "uprightImg": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i4/2212679249842/O1CN01o99hTt2MZhD2P2WBx~crop,150,0,900,1200~_!!2212679249842.jpg",
         "userId": "RAzN8HWUswZjtoBTP1FTYyu6anZhTEbxxUVcjB6sq73tJ43YSmQ",
         "utLogMap": {
-          "aplus_abtest": "e497d5e2f5f4a4541d57912b5b7a32a4",
-          "at_bucketid": "75",
+          "aplus_abtest": "bffdf8a1edd4b5bbca83385d97fc68e1",
+          "at_bucketid": "76",
           "is_weak": "0",
           "lf_aclog": "29-1037302056379-49-_sale|-0-35",
           "pageNum": "1",
           "price": "35",
-          "rn": "e33756d1715fea81cb06e739f6318ddd",
-          "time": 1788800454420,
-          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529603#0_34385#50535#525315#0_34385#51800#509551#0_34385#50009#530670#0_34385#57411#522394#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522405#0_34385#59594#533776#0_34385#58166#528987#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#502761#0_34385#61217#541178#0_34385#43484#512361#0_34385#63007#549575#0_34385#44159#499960#0_34385#45784#507589#0_124#0#318546#0",
-          "userId": "2222930862201",
+          "rn": "73fc6b33cff3686b48920a7e6fd4af93",
+          "time": 1788807624764,
+          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529604#0_34385#50535#507978#0_34385#51800#509551#0_34385#50009#507596#0_34385#57411#522400#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522407#0_34385#59594#533776#0_34385#58166#525998#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#501535#0_34385#61217#541178#0_34385#43484#512360#0_34385#63007#549575#0_34385#44159#505918#0_34385#45784#502000#0_124#0#318546#0",
+          "userId": "2222989967027",
           "x_ad": "0"
         },
         "video": {
@@ -15958,7 +15927,7 @@
         }
       },
       {
-        "auctionURL": "//item.taobao.com/item.htm?id=1053728311515&ns=1&abbucket=15&xxc=taobaoSearch&mi_id=0000tbTM5xzaNzzPICMVjYxqDAyfJXZwzMAYT_x0oB5ErkQ&skuId=6260291510628",
+        "auctionURL": "//item.taobao.com/item.htm?id=1053728311515&ns=1&abbucket=19&xxc=taobaoSearch&mi_id=0000tbTM5xzaNzzPICMVjYxqDKFkRTw_GskZtZkQjospk_A&skuId=6260291510628",
         "categoryp": "16 50000671",
         "extraParams": [
           {
@@ -16028,7 +15997,7 @@
         ],
         "leafCategory": "50000671",
         "nick": "亲哦哦哈",
-        "pic_path": "https://g-search2.alicdn.com/img/bao/uploaded/i4/i2/2490055747/O1CN01asfONV1sKBKkxDLyV~crop,300,341,1800,1800~_!!2490055747.jpg",
+        "pic_path": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i2/2490055747/O1CN01asfONV1sKBKkxDLyV~crop,300,341,1800,1800~_!!2490055747.jpg",
         "price": "99",
         "priceColor": "#000000",
         "priceShow": {
@@ -16104,7 +16073,7 @@
           "price_from": "ump",
           "price_stage": "0",
           "s_id": "6260291510628",
-          "traceId": "210127cc17888004538553658e0a89",
+          "traceId": "2100cff617888076241655439e0bb0",
           "umpLog": "sourceTypeKey:2_taobaoSearch;originUmpPrice:4300^4990;utcP:20_600^10_4910^1_90",
           "ump_invoke": "0",
           "x_object_id": "1053728311515"
@@ -16113,16 +16082,16 @@
         "uprightImg": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i2/2490055747/O1CN01asfONV1sKBKkxDLyV~crop,300,0,1800,2400~_!!2490055747.jpg",
         "userId": "RAzN8HWSeYDosDsUt3NdgRf47s9Npbhnb8D4ykJ61RRgN2PCptq",
         "utLogMap": {
-          "aplus_abtest": "1c3a40df275cd4b71d26390111ef1a79",
-          "at_bucketid": "75",
+          "aplus_abtest": "fe5c14da6eb63df2a13d8defb13c4029",
+          "at_bucketid": "76",
           "is_weak": "0",
           "lf_aclog": "30-1053728311515-49-_sale|-0-43",
           "pageNum": "1",
           "price": "43",
-          "rn": "e33756d1715fea81cb06e739f6318ddd",
-          "time": 1788800454420,
-          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529603#0_34385#50535#525315#0_34385#51800#509551#0_34385#50009#530670#0_34385#57411#522394#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522405#0_34385#59594#533776#0_34385#58166#528987#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#502761#0_34385#61217#541178#0_34385#43484#512361#0_34385#63007#549575#0_34385#44159#499960#0_34385#45784#507589#0_124#0#318546#0",
-          "userId": "2222930862201",
+          "rn": "73fc6b33cff3686b48920a7e6fd4af93",
+          "time": 1788807624764,
+          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529604#0_34385#50535#507978#0_34385#51800#509551#0_34385#50009#507596#0_34385#57411#522400#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522407#0_34385#59594#533776#0_34385#58166#525998#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#501535#0_34385#61217#541178#0_34385#43484#512360#0_34385#63007#549575#0_34385#44159#505918#0_34385#45784#502000#0_124#0#318546#0",
+          "userId": "2222989967027",
           "x_ad": "0"
         },
         "video": {
@@ -16133,7 +16102,7 @@
         }
       },
       {
-        "auctionURL": "//detail.tmall.com/item.htm?id=767919171469&ns=1&abbucket=15&xxc=taobaoSearch&mi_id=00000GY9kqKm6FEda1H25sLsYwN5kNDALbwujA1vhPwr7wY&skuId=5272531501790",
+        "auctionURL": "//detail.tmall.com/item.htm?id=767919171469&ns=1&abbucket=19&xxc=taobaoSearch&mi_id=00000GY9kqKm6FEda1H25sLsYynyGeG1Z83_Sp0uRgN4Gyk&skuId=5272531501790",
         "categoryp": "50013886 50014023 50014089",
         "extraParams": [
           {
@@ -16282,7 +16251,7 @@
           "price_from": "ump",
           "price_stage": "0",
           "s_id": "5272531501790",
-          "traceId": "210127cc17888004538553658e0a89",
+          "traceId": "2100cff617888076241655439e0bb0",
           "umpLog": "sourceTypeKey:2_taobaoSearch;originUmpPrice:3884^5571;utcP:42_429^spsd4hjmssjbt_1687",
           "ump_invoke": "0",
           "x_object_id": "767919171469"
@@ -16291,16 +16260,16 @@
         "uprightImg": "https://g-search2.alicdn.com/img/bao/uploaded/i4/i3/2217106333969/O1CN01FGhUHL1fBqxs9kACm_!!0-item_pic.jpg",
         "userId": "RAzN8HWJdQgX66Vv96SwPMbGdkiBqzeKN87J4QvZ9S27e2ERtDo",
         "utLogMap": {
-          "aplus_abtest": "6a87db10e063fb6161c7d40feb415e71",
-          "at_bucketid": "75",
+          "aplus_abtest": "79169b3b3043f49bdd2fab3312521dc5",
+          "at_bucketid": "76",
           "is_weak": "0",
           "lf_aclog": "31-767919171469-49-_sale|-0-38.84",
           "pageNum": "1",
           "price": "38.84",
-          "rn": "e33756d1715fea81cb06e739f6318ddd",
-          "time": 1788800454420,
-          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529603#0_34385#50535#525315#0_34385#51800#509551#0_34385#50009#530670#0_34385#57411#522394#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522405#0_34385#59594#533776#0_34385#58166#528987#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#502761#0_34385#61217#541178#0_34385#43484#512361#0_34385#63007#549575#0_34385#44159#499960#0_34385#45784#507589#0_124#0#318546#0",
-          "userId": "2222930862201",
+          "rn": "73fc6b33cff3686b48920a7e6fd4af93",
+          "time": 1788807624764,
+          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529604#0_34385#50535#507978#0_34385#51800#509551#0_34385#50009#507596#0_34385#57411#522400#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522407#0_34385#59594#533776#0_34385#58166#525998#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#501535#0_34385#61217#541178#0_34385#43484#512360#0_34385#63007#549575#0_34385#44159#505918#0_34385#45784#502000#0_124#0#318546#0",
+          "userId": "2222989967027",
           "x_ad": "0"
         },
         "video": {
@@ -16311,7 +16280,7 @@
         }
       },
       {
-        "auctionURL": "//detail.tmall.com/item.htm?id=919534192933&ns=1&abbucket=15&xxc=taobaoSearch&mi_id=00006h5OeN6azhWhQegHypjqXOUCdLnO82WPCqafs30K29E&skuId=6292186618180",
+        "auctionURL": "//detail.tmall.com/item.htm?id=919534192933&ns=1&abbucket=19&xxc=taobaoSearch&mi_id=00006h5OeN6azhWhQegHypjqXP6w_G3vY0eH3xaYID004_k&skuId=6292186618180",
         "categoryp": "50013886 50014023 50014089",
         "extraParams": [
           {
@@ -16388,7 +16357,7 @@
         ],
         "leafCategory": "50014089",
         "nick": "甜甜仔旗舰店",
-        "pic_path": "https://gw.alicdn.com/imgextra/O1CN01LLW9SU23RvnY5BaW4_!!4611686018427385045-0-item_pic.jpg",
+        "pic_path": "https://gw.alicdn.com/imgextra/O1CN01Mk9wlf23Rvnmnys9o_!!3886167253.jpg",
         "price": "99",
         "priceColor": "#000000",
         "priceShow": {
@@ -16476,25 +16445,25 @@
           "price_from": "ump",
           "price_stage": "0",
           "s_id": "6292186618180",
-          "traceId": "210127cc17888004538553658e0a89",
+          "traceId": "2100cff617888076241655439e0bb0",
           "umpLog": "sourceTypeKey:2_taobaoSearch;originUmpPrice:4600^5900;utcP:42_4000^spsd4hjmssjbt_1000^1_300",
           "ump_invoke": "0",
           "x_object_id": "919534192933"
         },
         "uniqpid": "1294695363",
-        "uprightImg": "https://gw.alicdn.com/imgextra/O1CN01GqWQfU23RvndN0CjF_!!4611686018427385045-0-item_pic.jpg",
+        "uprightImg": "https://gw.alicdn.com/imgextra/O1CN01CAcEXH23RvnlvOXxj_!!3886167253.jpg",
         "userId": "RAzN8HWNGaGDLf3ejZKtmiqoNkgbC4QGkVF8TNHBCvAoJvpCtk5",
         "utLogMap": {
-          "aplus_abtest": "9600e3be730657b0686e59c53f0a1483",
-          "at_bucketid": "75",
+          "aplus_abtest": "b3ed0de22f9b574e8ee24d5832e10d37",
+          "at_bucketid": "76",
           "is_weak": "0",
           "lf_aclog": "32-919534192933-49-_sale|-0-46",
           "pageNum": "1",
           "price": "46",
-          "rn": "e33756d1715fea81cb06e739f6318ddd",
-          "time": 1788800454420,
-          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529603#0_34385#50535#525315#0_34385#51800#509551#0_34385#50009#530670#0_34385#57411#522394#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522405#0_34385#59594#533776#0_34385#58166#528987#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#502761#0_34385#61217#541178#0_34385#43484#512361#0_34385#63007#549575#0_34385#44159#499960#0_34385#45784#507589#0_124#0#318546#0",
-          "userId": "2222930862201",
+          "rn": "73fc6b33cff3686b48920a7e6fd4af93",
+          "time": 1788807624764,
+          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529604#0_34385#50535#507978#0_34385#51800#509551#0_34385#50009#507596#0_34385#57411#522400#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522407#0_34385#59594#533776#0_34385#58166#525998#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#501535#0_34385#61217#541178#0_34385#43484#512360#0_34385#63007#549575#0_34385#44159#505918#0_34385#45784#502000#0_124#0#318546#0",
+          "userId": "2222989967027",
           "x_ad": "0"
         },
         "video": {
@@ -16505,7 +16474,7 @@
         }
       },
       {
-        "auctionURL": "//detail.tmall.com/item.htm?id=1018142112382&ns=1&abbucket=15&xxc=taobaoSearch&mi_id=0000B3qPybe9Qu8WG5SI8g5DwcygHFfcOaWORkrKPOPwQlw&skuId=6024664048768",
+        "auctionURL": "//detail.tmall.com/item.htm?id=1018142112382&ns=1&abbucket=19&xxc=taobaoSearch&mi_id=0000B3qPybe9Qu8WG5SI8g5Dwbk-ReYZUjCtylsizCk2zvk&skuId=6024664048768",
         "categoryp": "16 50000671",
         "extraParams": [
           {
@@ -16628,25 +16597,25 @@
           "price_from": "ump",
           "price_stage": "0",
           "s_id": "6024664048768",
-          "traceId": "210127cc17888004538553658e0a89",
+          "traceId": "2100cff617888076241655439e0bb0",
           "umpLog": "sourceTypeKey:2_taobaoSearch;originUmpPrice:4900^4900;utcP:noProm",
           "ump_invoke": "0",
           "x_object_id": "1018142112382"
         },
         "uniqpid": "1039906601",
-        "uprightImg": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i1/397341302/O1CN01bVPu1gCxCwH3LiDC_!!4611686018427384438-0-item_pic.jpg",
+        "uprightImg": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i1/397341302/O1CN01bVPu1gCxCwH3LiDC_!!4611686018427384438-0-item_pic.jpg",
         "userId": "RAzN8HWZvwtrgq32BhyScjrtGHu5Nw97jDzwZnfMsc9fyz2fvrm",
         "utLogMap": {
-          "aplus_abtest": "ef53273bb78229bc060e4cb4a6b8c232",
-          "at_bucketid": "75",
+          "aplus_abtest": "02e37929222ed07508fe0dbd1a1424ed",
+          "at_bucketid": "76",
           "is_weak": "0",
           "lf_aclog": "33-1018142112382-49-_sale|-0-49",
           "pageNum": "1",
           "price": "49",
-          "rn": "e33756d1715fea81cb06e739f6318ddd",
-          "time": 1788800454420,
-          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529603#0_34385#50535#525315#0_34385#51800#509551#0_34385#50009#530670#0_34385#57411#522394#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522405#0_34385#59594#533776#0_34385#58166#528987#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#502761#0_34385#61217#541178#0_34385#43484#512361#0_34385#63007#549575#0_34385#44159#499960#0_34385#45784#507589#0_124#0#318546#0",
-          "userId": "2222930862201",
+          "rn": "73fc6b33cff3686b48920a7e6fd4af93",
+          "time": 1788807624764,
+          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529604#0_34385#50535#507978#0_34385#51800#509551#0_34385#50009#507596#0_34385#57411#522400#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522407#0_34385#59594#533776#0_34385#58166#525998#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#501535#0_34385#61217#541178#0_34385#43484#512360#0_34385#63007#549575#0_34385#44159#505918#0_34385#45784#502000#0_124#0#318546#0",
+          "userId": "2222989967027",
           "x_ad": "0"
         },
         "video": {
@@ -16657,7 +16626,7 @@
         }
       },
       {
-        "auctionURL": "//item.taobao.com/item.htm?id=932686470507&ns=1&abbucket=15&xxc=taobaoSearch&mi_id=00008i8je6USecgrgX4h1OHlisSSvP-mdv8O6VRZN-sLN_g&skuId=5820145256281",
+        "auctionURL": "//item.taobao.com/item.htm?id=932686470507&ns=1&abbucket=19&xxc=taobaoSearch&mi_id=00008i8je6USecgrgX4h1OHlirS8EfxiqQfksIEIpeoqdtg&skuId=5820145256281",
         "categoryp": "16 50000671",
         "extraParams": [
           {
@@ -16785,7 +16754,7 @@
           "price_from": "ump",
           "price_stage": "0",
           "s_id": "5820145256281",
-          "traceId": "210127cc17888004538553658e0a89",
+          "traceId": "2100cff617888076241655439e0bb0",
           "umpLog": "sourceTypeKey:2_taobaoSearch;originUmpPrice:3510^3990;utcP:20_480^10_5910",
           "ump_invoke": "0",
           "x_object_id": "932686470507"
@@ -16794,16 +16763,16 @@
         "uprightImg": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i1/2490055747/O1CN01oGwSjM1sKBFbXjlg3_!!2490055747.jpg",
         "userId": "RAzN8HWSeYDosDsUt3NdgRf47s9Npbhnb8D4ykJ61RRgN2PCptq",
         "utLogMap": {
-          "aplus_abtest": "57a13e66b6b8c78571319ab86733323f",
-          "at_bucketid": "75",
+          "aplus_abtest": "e2373d360901e3d342ea3839d7c0ad22",
+          "at_bucketid": "76",
           "is_weak": "0",
           "lf_aclog": "34-932686470507-49-_sale|-0-35.1",
           "pageNum": "1",
           "price": "35.1",
-          "rn": "e33756d1715fea81cb06e739f6318ddd",
-          "time": 1788800454420,
-          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529603#0_34385#50535#525315#0_34385#51800#509551#0_34385#50009#530670#0_34385#57411#522394#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522405#0_34385#59594#533776#0_34385#58166#528987#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#502761#0_34385#61217#541178#0_34385#43484#512361#0_34385#63007#549575#0_34385#44159#499960#0_34385#45784#507589#0_124#0#318546#0",
-          "userId": "2222930862201",
+          "rn": "73fc6b33cff3686b48920a7e6fd4af93",
+          "time": 1788807624764,
+          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529604#0_34385#50535#507978#0_34385#51800#509551#0_34385#50009#507596#0_34385#57411#522400#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522407#0_34385#59594#533776#0_34385#58166#525998#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#501535#0_34385#61217#541178#0_34385#43484#512360#0_34385#63007#549575#0_34385#44159#505918#0_34385#45784#502000#0_124#0#318546#0",
+          "userId": "2222989967027",
           "x_ad": "0"
         },
         "video": {
@@ -16814,7 +16783,7 @@
         }
       },
       {
-        "auctionURL": "//item.taobao.com/item.htm?id=1035595303778&ns=1&abbucket=15&xxc=taobaoSearch&mi_id=0000m5jWigeKbKtaVZORIBm097wDCig12ndCDAD29f4Wn9U&skuId=6232295719611",
+        "auctionURL": "//item.taobao.com/item.htm?id=1035595303778&ns=1&abbucket=19&xxc=taobaoSearch&mi_id=0000m5jWigeKbKtaVZORIBm090IJFx4YeIPeDyv4sbY2JOI&skuId=6232295719611",
         "categoryp": "16 50000671",
         "extraParams": [
           {
@@ -16859,7 +16828,7 @@
         ],
         "leafCategory": "50000671",
         "nick": "脱线妞",
-        "pic_path": "https://g-search2.alicdn.com/img/bao/uploaded/i4/i1/58076580/O1CN01csnwb71yThFXHrDZ5_!!58076580.jpg",
+        "pic_path": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i1/58076580/O1CN01csnwb71yThFXHrDZ5_!!58076580.jpg",
         "price": "99",
         "priceColor": "#000000",
         "priceShow": {
@@ -16876,7 +16845,7 @@
           "indTagText": "IFASHION",
           "indTagTextCol": "#A64DFF",
           "pbshowshopinfo": "false",
-          "shopLogo": "https://g-search1.alicdn.com/img/bao/uploaded/i4///gw.alicdn.com/tfs//e5/ef/TB1hmlLmTmWBKNjSZFBSutxUFXa.jpg",
+          "shopLogo": "https://g-search3.alicdn.com/img/bao/uploaded/i4///gw.alicdn.com/tfs//e5/ef/TB1hmlLmTmWBKNjSZFBSutxUFXa.jpg",
           "title": "iWiNG用心做衣服",
           "url": "//store.taobao.com/category.htm?appUid=RAzN8HAaURLWTVedk1EzBNjM8FGYh"
         },
@@ -16919,25 +16888,25 @@
           "price_from": "ump",
           "price_stage": "0",
           "s_id": "6232295719611",
-          "traceId": "210127cc17888004538553658e0a89",
+          "traceId": "2100cff617888076241655439e0bb0",
           "umpLog": "sourceTypeKey:2_taobaoSearch;originUmpPrice:8710^9900;utcP:20_1190^10_0",
           "ump_invoke": "0",
           "x_object_id": "1035595303778"
         },
         "uniqpid": "1460827683",
-        "uprightImg": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i3/58076580/O1CN0102yg5c1yThFQTD4Lr_!!58076580.jpg",
+        "uprightImg": "https://g-search2.alicdn.com/img/bao/uploaded/i4/i3/58076580/O1CN0102yg5c1yThFQTD4Lr_!!58076580.jpg",
         "userId": "RAzN8HAaURLWTVedk1EzBNjM8FGYh",
         "utLogMap": {
-          "aplus_abtest": "d14b0642d31c5e047de9c7c1c7f80206",
-          "at_bucketid": "75",
+          "aplus_abtest": "ae3f9bb5687b3cd166a4635f933491c8",
+          "at_bucketid": "76",
           "is_weak": "0",
           "lf_aclog": "35-1035595303778-49-_sale|-0-87.1",
           "pageNum": "1",
           "price": "87.1",
-          "rn": "e33756d1715fea81cb06e739f6318ddd",
-          "time": 1788800454420,
-          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529603#0_34385#50535#525315#0_34385#51800#509551#0_34385#50009#530670#0_34385#57411#522394#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522405#0_34385#59594#533776#0_34385#58166#528987#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#502761#0_34385#61217#541178#0_34385#43484#512361#0_34385#63007#549575#0_34385#44159#499960#0_34385#45784#507589#0_124#0#318546#0",
-          "userId": "2222930862201",
+          "rn": "73fc6b33cff3686b48920a7e6fd4af93",
+          "time": 1788807624764,
+          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529604#0_34385#50535#507978#0_34385#51800#509551#0_34385#50009#507596#0_34385#57411#522400#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522407#0_34385#59594#533776#0_34385#58166#525998#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#501535#0_34385#61217#541178#0_34385#43484#512360#0_34385#63007#549575#0_34385#44159#505918#0_34385#45784#502000#0_124#0#318546#0",
+          "userId": "2222989967027",
           "x_ad": "0"
         },
         "video": {
@@ -16948,7 +16917,7 @@
         }
       },
       {
-        "auctionURL": "//item.taobao.com/item.htm?id=1024684079330&ns=1&abbucket=15&xxc=taobaoSearch&mi_id=0000RgmXMnXhK_GWI6-o9aSDUo8L0xkgMn_l7yKYJEug42s&skuId=6201292398656",
+        "auctionURL": "//item.taobao.com/item.htm?id=1024684079330&ns=1&abbucket=19&xxc=taobaoSearch&mi_id=0000RgmXMnXhK_GWI6-o9aSDUjgso2VdtlqQQpW_rDhAVI0&skuId=6201292398656",
         "categoryp": "16 162205",
         "extraParams": [
           {
@@ -17043,7 +17012,7 @@
           "price_from": "ump",
           "price_stage": "0",
           "s_id": "6201292398656",
-          "traceId": "210127cc17888004538553658e0a89",
+          "traceId": "2100cff617888076241655439e0bb0",
           "umpLog": "sourceTypeKey:2_taobaoSearch;originUmpPrice:15590^18990;utcP:20_3400^17_0^10_0",
           "ump_invoke": "0",
           "x_object_id": "1024684079330"
@@ -17052,16 +17021,16 @@
         "uprightImg": "https://gw.alicdn.com/imgextra/O1CN01sagAhIledBB1WPjS_!!76223406-0-picasso.jpg",
         "userId": "RAzN8HAq4khaj772KSMLoWC8dNFne",
         "utLogMap": {
-          "aplus_abtest": "ccb811658eb5eb1d5c7c165b520e4726",
-          "at_bucketid": "75",
+          "aplus_abtest": "4c7ea61fe40dbc234555848ab01633d1",
+          "at_bucketid": "76",
           "is_weak": "0",
           "lf_aclog": "36-1024684079330-49-_sale|-0-155.9",
           "pageNum": "1",
           "price": "155.9",
-          "rn": "e33756d1715fea81cb06e739f6318ddd",
-          "time": 1788800454420,
-          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529603#0_34385#50535#525315#0_34385#51800#509551#0_34385#50009#530670#0_34385#57411#522394#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522405#0_34385#59594#533776#0_34385#58166#528987#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#502761#0_34385#61217#541178#0_34385#43484#512361#0_34385#63007#549575#0_34385#44159#499960#0_34385#45784#507589#0_124#0#318546#0",
-          "userId": "2222930862201",
+          "rn": "73fc6b33cff3686b48920a7e6fd4af93",
+          "time": 1788807624764,
+          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529604#0_34385#50535#507978#0_34385#51800#509551#0_34385#50009#507596#0_34385#57411#522400#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522407#0_34385#59594#533776#0_34385#58166#525998#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#501535#0_34385#61217#541178#0_34385#43484#512360#0_34385#63007#549575#0_34385#44159#505918#0_34385#45784#502000#0_124#0#318546#0",
+          "userId": "2222989967027",
           "x_ad": "0"
         },
         "video": {
@@ -17072,7 +17041,7 @@
         }
       },
       {
-        "auctionURL": "//item.taobao.com/item.htm?id=775312154524&ns=1&abbucket=15&xxc=taobaoSearch&mi_id=0000IwL2adtVMO79y4Mfti6HdvFH2fDwqAzXbToko0QWwr8&skuId=5916364173799",
+        "auctionURL": "//item.taobao.com/item.htm?id=775312154524&ns=1&abbucket=19&xxc=taobaoSearch&mi_id=0000IwL2adtVMO79y4Mfti6HdmTMCJODyW-BqLkQe7ulq9c&skuId=5916364173799",
         "categoryp": "16 50000671",
         "extraParams": [
           {
@@ -17203,7 +17172,7 @@
           "price_from": "ump",
           "price_stage": "0",
           "s_id": "5916364173799",
-          "traceId": "210127cc17888004538553658e0a89",
+          "traceId": "2100cff617888076241655439e0bb0",
           "umpLog": "sourceTypeKey:2_taobaoSearch;originUmpPrice:6790^8990;utcP:20_2200^17_0^10_0",
           "ump_invoke": "0",
           "x_object_id": "775312154524"
@@ -17212,16 +17181,16 @@
         "uprightImg": "https://gw.alicdn.com/imgextra/O1CN017w9lDM6jnqJ1WPjS_!!76223406-0-picasso.jpg",
         "userId": "RAzN8HAq4khaj772KSMLoWC8dNFne",
         "utLogMap": {
-          "aplus_abtest": "9d81235154d9778c75d9087934f9c145",
-          "at_bucketid": "75",
+          "aplus_abtest": "7659d7512764577250ec945fae336f58",
+          "at_bucketid": "76",
           "is_weak": "0",
           "lf_aclog": "37-775312154524-49-_sale|-0-67.9",
           "pageNum": "1",
           "price": "67.9",
-          "rn": "e33756d1715fea81cb06e739f6318ddd",
-          "time": 1788800454421,
-          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529603#0_34385#50535#525315#0_34385#51800#509551#0_34385#50009#530670#0_34385#57411#522394#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522405#0_34385#59594#533776#0_34385#58166#528987#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#502761#0_34385#61217#541178#0_34385#43484#512361#0_34385#63007#549575#0_34385#44159#499960#0_34385#45784#507589#0_124#0#318546#0",
-          "userId": "2222930862201",
+          "rn": "73fc6b33cff3686b48920a7e6fd4af93",
+          "time": 1788807624764,
+          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529604#0_34385#50535#507978#0_34385#51800#509551#0_34385#50009#507596#0_34385#57411#522400#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522407#0_34385#59594#533776#0_34385#58166#525998#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#501535#0_34385#61217#541178#0_34385#43484#512360#0_34385#63007#549575#0_34385#44159#505918#0_34385#45784#502000#0_124#0#318546#0",
+          "userId": "2222989967027",
           "x_ad": "0"
         },
         "video": {
@@ -17232,7 +17201,7 @@
         }
       },
       {
-        "auctionURL": "//item.taobao.com/item.htm?id=1059141214264&ns=1&abbucket=15&xxc=taobaoSearch&mi_id=0000SDVTZzppS0QiWB8qxyuAXoDMgeKmtEJojcIoiHmdmYg&skuId=6268507550579",
+        "auctionURL": "//item.taobao.com/item.htm?id=1059141214264&ns=1&abbucket=19&xxc=taobaoSearch&mi_id=0000SDVTZzppS0QiWB8qxyuAXteEfIeFtURMMqrDnD089fA&skuId=6268507550579",
         "categoryp": "16 50000671",
         "extraParams": [
           {
@@ -17294,12 +17263,12 @@
         ],
         "leafCategory": "50000671",
         "nick": "苏菲家韩版女装",
-        "pic_path": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i3/3274926562/O1CN01A9hFbX1yLS8CcUT5Y_!!3274926562.jpg",
+        "pic_path": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i3/3274926562/O1CN01A9hFbX1yLS8CcUT5Y_!!3274926562.jpg",
         "price": "59",
         "priceColor": "#000000",
         "priceShow": {
           "preText": "",
-          "price": "37.3",
+          "price": "36.9",
           "priceDesc": "",
           "unit": "¥"
         },
@@ -17372,12 +17341,12 @@
         "title": "黑色正肩短袖t恤女修身2026新款夏季美式复古显瘦独特短款上<span class=H>衣服</span>",
         "umpPriceLog": {
           "b_s": "pctb_search",
-          "item_price": "37.3",
+          "item_price": "36.9",
           "price_from": "ump",
           "price_stage": "0",
           "s_id": "6268507550579",
-          "traceId": "210127cc17888004538553658e0a89",
-          "umpLog": "sourceTypeKey:2_taobaoSearch;originUmpPrice:3730^4690;utcP:20_710^10_1210^1_250",
+          "traceId": "2100cff617888076241655439e0bb0",
+          "umpLog": "sourceTypeKey:2_taobaoSearch;originUmpPrice:3690^4690;utcP:20_710^10_1210^1_290",
           "ump_invoke": "0",
           "x_object_id": "1059141214264"
         },
@@ -17385,16 +17354,16 @@
         "uprightImg": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i1/3274926562/O1CN01lhRpko1yLS8DQiPIP_!!3274926562.jpg",
         "userId": "RAzN8HWR1uDGNYiGPc8scZkb4wdBsovcmZth9exnyLNiUHX3SwY",
         "utLogMap": {
-          "aplus_abtest": "7e8320b5a5c85c9ad13bd48f1b71e3b9",
-          "at_bucketid": "75",
+          "aplus_abtest": "e85285048c212ad4a683ab76eb13aa8c",
+          "at_bucketid": "76",
           "is_weak": "0",
-          "lf_aclog": "38-1059141214264-49-_sale|-0-37.3",
+          "lf_aclog": "38-1059141214264-49-_sale|-0-36.9",
           "pageNum": "1",
-          "price": "37.3",
-          "rn": "e33756d1715fea81cb06e739f6318ddd",
-          "time": 1788800454421,
-          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529603#0_34385#50535#525315#0_34385#51800#509551#0_34385#50009#530670#0_34385#57411#522394#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522405#0_34385#59594#533776#0_34385#58166#528987#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#502761#0_34385#61217#541178#0_34385#43484#512361#0_34385#63007#549575#0_34385#44159#499960#0_34385#45784#507589#0_124#0#318546#0",
-          "userId": "2222930862201",
+          "price": "36.9",
+          "rn": "73fc6b33cff3686b48920a7e6fd4af93",
+          "time": 1788807624764,
+          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529604#0_34385#50535#507978#0_34385#51800#509551#0_34385#50009#507596#0_34385#57411#522400#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522407#0_34385#59594#533776#0_34385#58166#525998#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#501535#0_34385#61217#541178#0_34385#43484#512360#0_34385#63007#549575#0_34385#44159#505918#0_34385#45784#502000#0_124#0#318546#0",
+          "userId": "2222989967027",
           "x_ad": "0"
         },
         "video": {
@@ -17405,7 +17374,7 @@
         }
       },
       {
-        "auctionURL": "//item.taobao.com/item.htm?id=920797832028&ns=1&abbucket=15&xxc=taobaoSearch&mi_id=0000ZUBxZoP-mI09K1BgbNjvbExbzxuETD_b1ITGhCtRSN0&skuId=5792030052106",
+        "auctionURL": "//item.taobao.com/item.htm?id=920797832028&ns=1&abbucket=19&xxc=taobaoSearch&mi_id=0000ZUBxZoP-mI09K1BgbNjvbIn94xJ9TUoQe6Sktv8sLjc&skuId=5792030052106",
         "categoryp": "16 50000671",
         "extraParams": [
           {
@@ -17471,7 +17440,7 @@
         ],
         "leafCategory": "50000671",
         "nick": "嫦嫦好",
-        "pic_path": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i2/1878777791/O1CN01iYyLgY27QKnfm4da7_!!1878777791.jpg",
+        "pic_path": "https://g-search2.alicdn.com/img/bao/uploaded/i4/i2/1878777791/O1CN01iYyLgY27QKnfm4da7_!!1878777791.jpg",
         "price": "60",
         "priceColor": "#000000",
         "priceShow": {
@@ -17547,25 +17516,25 @@
           "price_from": "ump",
           "price_stage": "0",
           "s_id": "5792030052106",
-          "traceId": "210127cc17888004538553658e0a89",
+          "traceId": "2100cff617888076241655439e0bb0",
           "umpLog": "sourceTypeKey:2_taobaoSearch;originUmpPrice:3000^3480;utcP:20_420^10_2520^1_60",
           "ump_invoke": "0",
           "x_object_id": "920797832028"
         },
         "uniqpid": "235403327",
-        "uprightImg": "https://g-search2.alicdn.com/img/bao/uploaded/i4/i1/1878777791/O1CN01t879Xh27QKnlbCB3W_!!1878777791.jpg",
+        "uprightImg": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i1/1878777791/O1CN01t879Xh27QKnlbCB3W_!!1878777791.jpg",
         "userId": "RAzN8HWJV4829BteLt96uUvkJGEGZWDoDFgWyuyuDm5vdoAnst5",
         "utLogMap": {
-          "aplus_abtest": "aafd58920034224e93c951d62901ca94",
-          "at_bucketid": "75",
+          "aplus_abtest": "864872926668628efcdd9a7abd91fd35",
+          "at_bucketid": "76",
           "is_weak": "0",
           "lf_aclog": "39-920797832028-49-_sale|-0-30",
           "pageNum": "1",
           "price": "30",
-          "rn": "e33756d1715fea81cb06e739f6318ddd",
-          "time": 1788800454421,
-          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529603#0_34385#50535#525315#0_34385#51800#509551#0_34385#50009#530670#0_34385#57411#522394#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522405#0_34385#59594#533776#0_34385#58166#528987#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#502761#0_34385#61217#541178#0_34385#43484#512361#0_34385#63007#549575#0_34385#44159#499960#0_34385#45784#507589#0_124#0#318546#0",
-          "userId": "2222930862201",
+          "rn": "73fc6b33cff3686b48920a7e6fd4af93",
+          "time": 1788807624765,
+          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529604#0_34385#50535#507978#0_34385#51800#509551#0_34385#50009#507596#0_34385#57411#522400#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522407#0_34385#59594#533776#0_34385#58166#525998#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#501535#0_34385#61217#541178#0_34385#43484#512360#0_34385#63007#549575#0_34385#44159#505918#0_34385#45784#502000#0_124#0#318546#0",
+          "userId": "2222989967027",
           "x_ad": "0"
         },
         "video": {
@@ -17576,7 +17545,7 @@
         }
       },
       {
-        "auctionURL": "//detail.tmall.com/item.htm?id=1018142216379&ns=1&abbucket=15&xxc=taobaoSearch&mi_id=0000f7yCBiBwUvwQezl1QIuLXEiE3SBEkuhsiG3SxWKPfQM&skuId=6244536487451",
+        "auctionURL": "//detail.tmall.com/item.htm?id=1018142216379&ns=1&abbucket=19&xxc=taobaoSearch&mi_id=0000f7yCBiBwUvwQezl1QIuLXHCDcfO9zMXdZj8OyB89rGQ&skuId=6244536487451",
         "categoryp": "16 50000671",
         "extraParams": [
           {
@@ -17643,7 +17612,7 @@
         ],
         "leafCategory": "50000671",
         "nick": "森马官方旗舰店",
-        "pic_path": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i3/397341302/O1CN01qkvFtSZbMkI2b8G8_!!397341302.jpg",
+        "pic_path": "https://g-search2.alicdn.com/img/bao/uploaded/i4/i3/397341302/O1CN01qkvFtSZbMkI2b8G8_!!397341302.jpg",
         "price": "79",
         "priceColor": "#000000",
         "priceShow": {
@@ -17732,7 +17701,7 @@
           "price_from": "ump",
           "price_stage": "0",
           "s_id": "6244536487451",
-          "traceId": "210127cc17888004538553658e0a89",
+          "traceId": "2100cff617888076241655439e0bb0",
           "umpLog": "sourceTypeKey:2_taobaoSearch;originUmpPrice:4900^6900;utcP:spsd4price_770^20_830^10_1000^11_400",
           "ump_invoke": "0",
           "x_object_id": "1018142216379"
@@ -17741,16 +17710,16 @@
         "uprightImg": "https://gw.alicdn.com/imgextra/O1CN01QQmpEHWKzYL3LiDC_!!4611686018427384438-0-item_pic.jpg",
         "userId": "RAzN8HWZvwtrgq32BhyScjrtGHu5Nw97jDzwZnfMsc9fyz2fvrm",
         "utLogMap": {
-          "aplus_abtest": "3382dd8be805f361b0eb32c583006c5a",
-          "at_bucketid": "75",
+          "aplus_abtest": "4e989d79e3e1a52998d819e742b699de",
+          "at_bucketid": "76",
           "is_weak": "0",
           "lf_aclog": "40-1018142216379-49-_sale|-0-49",
           "pageNum": "1",
           "price": "49",
-          "rn": "e33756d1715fea81cb06e739f6318ddd",
-          "time": 1788800454421,
-          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529603#0_34385#50535#525315#0_34385#51800#509551#0_34385#50009#530670#0_34385#57411#522394#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522405#0_34385#59594#533776#0_34385#58166#528987#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#502761#0_34385#61217#541178#0_34385#43484#512361#0_34385#63007#549575#0_34385#44159#499960#0_34385#45784#507589#0_124#0#318546#0",
-          "userId": "2222930862201",
+          "rn": "73fc6b33cff3686b48920a7e6fd4af93",
+          "time": 1788807624765,
+          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529604#0_34385#50535#507978#0_34385#51800#509551#0_34385#50009#507596#0_34385#57411#522400#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522407#0_34385#59594#533776#0_34385#58166#525998#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#501535#0_34385#61217#541178#0_34385#43484#512360#0_34385#63007#549575#0_34385#44159#505918#0_34385#45784#502000#0_124#0#318546#0",
+          "userId": "2222989967027",
           "x_ad": "0"
         },
         "video": {
@@ -17761,7 +17730,7 @@
         }
       },
       {
-        "auctionURL": "//item.taobao.com/item.htm?id=777226864990&ns=1&abbucket=15&xxc=taobaoSearch&mi_id=0000iEmFTRglDX6QfKaHy5dCEA9il3lkfU_OY372RKRCrW0&skuId=5777752021144",
+        "auctionURL": "//item.taobao.com/item.htm?id=777226864990&ns=1&abbucket=19&xxc=taobaoSearch&mi_id=0000iEmFTRglDX6QfKaHy5dCEP0PHhKynoqn5J5eifOt9ko&skuId=5777752021144",
         "categoryp": "16 50000671",
         "extraParams": [
           {
@@ -17904,7 +17873,7 @@
           "price_from": "ump",
           "price_stage": "0",
           "s_id": "5777752021144",
-          "traceId": "210127cc17888004538553658e0a89",
+          "traceId": "2100cff617888076241655439e0bb0",
           "umpLog": "sourceTypeKey:2_taobaoSearch;originUmpPrice:4890^6990;utcP:20_2100^17_0^10_0",
           "ump_invoke": "0",
           "x_object_id": "777226864990"
@@ -17913,16 +17882,16 @@
         "uprightImg": "https://gw.alicdn.com/imgextra/O1CN01pxAqYXjL7wK1WPjS_!!76223406-0-picasso.jpg",
         "userId": "RAzN8HAq4khaj772KSMLoWC8dNFne",
         "utLogMap": {
-          "aplus_abtest": "fe6ffd55094f4dd7a814d141a29393ba",
-          "at_bucketid": "75",
+          "aplus_abtest": "1342d0ebc43aeac9157b29abe750e66c",
+          "at_bucketid": "76",
           "is_weak": "0",
           "lf_aclog": "41-777226864990-49-_sale|-0-48.9",
           "pageNum": "1",
           "price": "48.9",
-          "rn": "e33756d1715fea81cb06e739f6318ddd",
-          "time": 1788800454421,
-          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529603#0_34385#50535#525315#0_34385#51800#509551#0_34385#50009#530670#0_34385#57411#522394#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522405#0_34385#59594#533776#0_34385#58166#528987#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#502761#0_34385#61217#541178#0_34385#43484#512361#0_34385#63007#549575#0_34385#44159#499960#0_34385#45784#507589#0_124#0#318546#0",
-          "userId": "2222930862201",
+          "rn": "73fc6b33cff3686b48920a7e6fd4af93",
+          "time": 1788807624765,
+          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529604#0_34385#50535#507978#0_34385#51800#509551#0_34385#50009#507596#0_34385#57411#522400#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522407#0_34385#59594#533776#0_34385#58166#525998#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#501535#0_34385#61217#541178#0_34385#43484#512360#0_34385#63007#549575#0_34385#44159#505918#0_34385#45784#502000#0_124#0#318546#0",
+          "userId": "2222989967027",
           "x_ad": "0"
         },
         "video": {
@@ -17933,7 +17902,7 @@
         }
       },
       {
-        "auctionURL": "//detail.tmall.com/item.htm?id=666716997006&ns=1&abbucket=15&xxc=taobaoSearch&mi_id=0000LI4eeNwj69ks4jaNosDyiuZwDtPZr5E5bRqIJ8q95PU&skuId=6079392749368",
+        "auctionURL": "//detail.tmall.com/item.htm?id=666716997006&ns=1&abbucket=19&xxc=taobaoSearch&mi_id=0000LI4eeNwj69ks4jaNosDyiqHmGjxRWhYmCtRtkbpUOUA&skuId=6079392749368",
         "categoryp": "50013886 50013888 50019517 50013932",
         "extraParams": [
           {
@@ -18081,7 +18050,7 @@
           "price_from": "ump",
           "price_stage": "0",
           "s_id": "6079392749368",
-          "traceId": "210127cc17888004538553658e0a89",
+          "traceId": "2100cff617888076241655439e0bb0",
           "umpLog": "sourceTypeKey:2_taobaoSearch;originUmpPrice:8900^13900;utcP:spsd4price_3300^20_1700^10_26000",
           "ump_invoke": "0",
           "x_object_id": "666716997006"
@@ -18090,16 +18059,16 @@
         "uprightImg": "https://gw.alicdn.com/imgextra/O1CN01KMJ5XP5IVMH1WPjS_!!379092709-0-picasso.jpg",
         "userId": "RAzN8HWZg6NWxYNj5SWC1EY2eH9isv9MwKV5oQrbvWyHG72pBqj",
         "utLogMap": {
-          "aplus_abtest": "fbb17a3eac8d7616b77481a1b77615b4",
-          "at_bucketid": "75",
+          "aplus_abtest": "ffaf3b96aa87d37ae6d003ba04e93075",
+          "at_bucketid": "76",
           "is_weak": "0",
           "lf_aclog": "42-666716997006-49-_sale|-0-89",
           "pageNum": "1",
           "price": "89",
-          "rn": "e33756d1715fea81cb06e739f6318ddd",
-          "time": 1788800454421,
-          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529603#0_34385#50535#525315#0_34385#51800#509551#0_34385#50009#530670#0_34385#57411#522394#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522405#0_34385#59594#533776#0_34385#58166#528987#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#502761#0_34385#61217#541178#0_34385#43484#512361#0_34385#63007#549575#0_34385#44159#499960#0_34385#45784#507589#0_124#0#318546#0",
-          "userId": "2222930862201",
+          "rn": "73fc6b33cff3686b48920a7e6fd4af93",
+          "time": 1788807624765,
+          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529604#0_34385#50535#507978#0_34385#51800#509551#0_34385#50009#507596#0_34385#57411#522400#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522407#0_34385#59594#533776#0_34385#58166#525998#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#501535#0_34385#61217#541178#0_34385#43484#512360#0_34385#63007#549575#0_34385#44159#505918#0_34385#45784#502000#0_124#0#318546#0",
+          "userId": "2222989967027",
           "x_ad": "0"
         },
         "video": {
@@ -18110,7 +18079,7 @@
         }
       },
       {
-        "auctionURL": "//item.taobao.com/item.htm?id=765305003710&ns=1&abbucket=15&xxc=taobaoSearch&mi_id=0000cVZSWTwZOiq7HwBXm4mN2zQP1DXaHnl5C8jOjTLmXgo&skuId=5262021028606",
+        "auctionURL": "//item.taobao.com/item.htm?id=765305003710&ns=1&abbucket=19&xxc=taobaoSearch&mi_id=0000cVZSWTwZOiq7HwBXm4mN2_30VTpaiB8M1iK4va4g8Qw&skuId=5262021028606",
         "categoryp": "16 50000671",
         "extraParams": [
           {
@@ -18228,7 +18197,7 @@
           "price_from": "ump",
           "price_stage": "0",
           "s_id": "5262021028606",
-          "traceId": "210127cc17888004538553658e0a89",
+          "traceId": "2100cff617888076241655439e0bb0",
           "umpLog": "sourceTypeKey:2_taobaoSearch;originUmpPrice:5190^5900;utcP:20_710^10_5000",
           "ump_invoke": "0",
           "x_object_id": "765305003710"
@@ -18237,16 +18206,16 @@
         "uprightImg": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i1/3168351759/O1CN014CRvOq1OrfnLeZm8b_!!3168351759.jpg",
         "userId": "RAzN8HWRzr6R8bW6PUG33PQWaRnFcMFVvmsPGFL6s6Jk4Drc59v",
         "utLogMap": {
-          "aplus_abtest": "c0a4b6d1c1445ae02ed90559173c271e",
-          "at_bucketid": "75",
+          "aplus_abtest": "6645c6188b8149503ece2013591636a4",
+          "at_bucketid": "76",
           "is_weak": "0",
           "lf_aclog": "43-765305003710-49-_sale|-0-51.9",
           "pageNum": "1",
           "price": "51.9",
-          "rn": "e33756d1715fea81cb06e739f6318ddd",
-          "time": 1788800454421,
-          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529603#0_34385#50535#525315#0_34385#51800#509551#0_34385#50009#530670#0_34385#57411#522394#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522405#0_34385#59594#533776#0_34385#58166#528987#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#502761#0_34385#61217#541178#0_34385#43484#512361#0_34385#63007#549575#0_34385#44159#499960#0_34385#45784#507589#0_124#0#318546#0",
-          "userId": "2222930862201",
+          "rn": "73fc6b33cff3686b48920a7e6fd4af93",
+          "time": 1788807624765,
+          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529604#0_34385#50535#507978#0_34385#51800#509551#0_34385#50009#507596#0_34385#57411#522400#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522407#0_34385#59594#533776#0_34385#58166#525998#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#501535#0_34385#61217#541178#0_34385#43484#512360#0_34385#63007#549575#0_34385#44159#505918#0_34385#45784#502000#0_124#0#318546#0",
+          "userId": "2222989967027",
           "x_ad": "0"
         },
         "video": {
@@ -18257,7 +18226,7 @@
         }
       },
       {
-        "auctionURL": "//item.taobao.com/item.htm?id=903443870947&ns=1&abbucket=15&xxc=taobaoSearch&mi_id=0000Qj1njAFKAVhEpckj2N4Q6xzpNLXWds0hvdzyDoQt_a4&skuId=5764226193971",
+        "auctionURL": "//item.taobao.com/item.htm?id=903443870947&ns=1&abbucket=19&xxc=taobaoSearch&mi_id=0000Qj1njAFKAVhEpckj2N4Q66vvJsRrux8xHkZhaMwXdZI&skuId=5764226193971",
         "categoryp": "50013886 50014023 50014089",
         "extraParams": [
           {
@@ -18312,7 +18281,7 @@
         ],
         "leafCategory": "50014089",
         "nick": "永田品牌",
-        "pic_path": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i3/2208132032118/O1CN016DkVkF1RW5uYjN0Fg_!!2208132032118.jpg",
+        "pic_path": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i3/2208132032118/O1CN016DkVkF1RW5uYjN0Fg_!!2208132032118.jpg",
         "price": "138",
         "priceColor": "#000000",
         "priceShow": {
@@ -18327,7 +18296,7 @@
         "sameCount": "134",
         "shopInfo": {
           "pbshowshopinfo": "false",
-          "shopLogo": "https://g-search1.alicdn.com/img/bao/uploaded/i4///gw.alicdn.com/tfs//dd/7e/TB1rwGCJYr1gK0jSZR0SuvP8XXa.jpg",
+          "shopLogo": "https://g-search3.alicdn.com/img/bao/uploaded/i4///gw.alicdn.com/tfs//dd/7e/TB1rwGCJYr1gK0jSZR0SuvP8XXa.jpg",
           "title": "永田出口中国仓",
           "url": "//store.taobao.com/category.htm?appUid=RAzN8HWR5hhGRr1b5D28AbeUC1gYxuv7nLRw7dM9ssWzo1oAyQR"
         },
@@ -18400,7 +18369,7 @@
           "price_from": "ump",
           "price_stage": "0",
           "s_id": "5764226193971",
-          "traceId": "210127cc17888004538553658e0a89",
+          "traceId": "2100cff617888076241655439e0bb0",
           "umpLog": "sourceTypeKey:2_taobaoSearch;originUmpPrice:5880^10880;utcP:spsd4cjmj_5000^saleCjmj_2920",
           "ump_invoke": "0",
           "x_object_id": "903443870947"
@@ -18408,21 +18377,21 @@
         "uniqpid": "463526429",
         "userId": "RAzN8HWR5hhGRr1b5D28AbeUC1gYxuv7nLRw7dM9ssWzo1oAyQR",
         "utLogMap": {
-          "aplus_abtest": "1a3067413d1451480232025b65243633",
-          "at_bucketid": "75",
+          "aplus_abtest": "92a868a7c40b65391b0ba00956477c08",
+          "at_bucketid": "76",
           "is_weak": "0",
           "lf_aclog": "44-903443870947-49-_sale|-0-58.8",
           "pageNum": "1",
           "price": "58.8",
-          "rn": "e33756d1715fea81cb06e739f6318ddd",
-          "time": 1788800454421,
-          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529603#0_34385#50535#525315#0_34385#51800#509551#0_34385#50009#530670#0_34385#57411#522394#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522405#0_34385#59594#533776#0_34385#58166#528987#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#502761#0_34385#61217#541178#0_34385#43484#512361#0_34385#63007#549575#0_34385#44159#499960#0_34385#45784#507589#0_124#0#318546#0",
-          "userId": "2222930862201",
+          "rn": "73fc6b33cff3686b48920a7e6fd4af93",
+          "time": 1788807624765,
+          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529604#0_34385#50535#507978#0_34385#51800#509551#0_34385#50009#507596#0_34385#57411#522400#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522407#0_34385#59594#533776#0_34385#58166#525998#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#501535#0_34385#61217#541178#0_34385#43484#512360#0_34385#63007#549575#0_34385#44159#505918#0_34385#45784#502000#0_124#0#318546#0",
+          "userId": "2222989967027",
           "x_ad": "0"
         }
       },
       {
-        "auctionURL": "//detail.tmall.com/item.htm?id=794225511640&ns=1&abbucket=15&xxc=taobaoSearch&mi_id=0000z3L3yydA8EIeoOZ6e3--AnGLrVPOISjtpG86K6ad_ys&skuId=5420866492870",
+        "auctionURL": "//detail.tmall.com/item.htm?id=794225511640&ns=1&abbucket=19&xxc=taobaoSearch&mi_id=0000z3L3yydA8EIeoOZ6e3--ArLOiRu4jNq9_N8AXLmudIY&skuId=5420866492870",
         "categoryp": "50013886 50014023 50014089",
         "extraParams": [
           {
@@ -18490,7 +18459,7 @@
         ],
         "leafCategory": "50014089",
         "nick": "渔悠岛旗舰店",
-        "pic_path": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i2/2217106333969/O1CN01YAEgzi1fBr8bj4roC_!!4611686018427379985-0-item_pic.jpg",
+        "pic_path": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i2/2217106333969/O1CN01YAEgzi1fBr8bj4roC_!!4611686018427379985-0-item_pic.jpg",
         "price": "70",
         "priceColor": "#000000",
         "priceShow": {
@@ -18573,7 +18542,7 @@
           "price_from": "ump",
           "price_stage": "0",
           "s_id": "5420866492870",
-          "traceId": "210127cc17888004538553658e0a89",
+          "traceId": "2100cff617888076241655439e0bb0",
           "umpLog": "sourceTypeKey:2_taobaoSearch;originUmpPrice:3887^5571;utcP:spsd4price_1014^20_670^10_1429",
           "ump_invoke": "0",
           "x_object_id": "794225511640"
@@ -18582,16 +18551,16 @@
         "uprightImg": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i4/2217106333969/O1CN01xNrk1m1fBr8bZxDEL_!!4611686018427379985-0-item_pic.jpg",
         "userId": "RAzN8HWJdQgX66Vv96SwPMbGdkiBqzeKN87J4QvZ9S27e2ERtDo",
         "utLogMap": {
-          "aplus_abtest": "788d56d38156fbafb3eca1f82cb6f41b",
-          "at_bucketid": "75",
+          "aplus_abtest": "73bc86c483f4b1ec27679d8c2f8af74d",
+          "at_bucketid": "76",
           "is_weak": "0",
           "lf_aclog": "45-794225511640-49-_sale|-0-38.87",
           "pageNum": "1",
           "price": "38.87",
-          "rn": "e33756d1715fea81cb06e739f6318ddd",
-          "time": 1788800454421,
-          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529603#0_34385#50535#525315#0_34385#51800#509551#0_34385#50009#530670#0_34385#57411#522394#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522405#0_34385#59594#533776#0_34385#58166#528987#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#502761#0_34385#61217#541178#0_34385#43484#512361#0_34385#63007#549575#0_34385#44159#499960#0_34385#45784#507589#0_124#0#318546#0",
-          "userId": "2222930862201",
+          "rn": "73fc6b33cff3686b48920a7e6fd4af93",
+          "time": 1788807624765,
+          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529604#0_34385#50535#507978#0_34385#51800#509551#0_34385#50009#507596#0_34385#57411#522400#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522407#0_34385#59594#533776#0_34385#58166#525998#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#501535#0_34385#61217#541178#0_34385#43484#512360#0_34385#63007#549575#0_34385#44159#505918#0_34385#45784#502000#0_124#0#318546#0",
+          "userId": "2222989967027",
           "x_ad": "0"
         },
         "video": {
@@ -18602,7 +18571,7 @@
         }
       },
       {
-        "auctionURL": "//detail.tmall.com/item.htm?id=965805817063&ns=1&abbucket=15&xxc=taobaoSearch&mi_id=0000XG0zYPYZcJjI-ul28T4bgAooD2OpLx2ZxAK_OECBEsU&skuId=6117803701990",
+        "auctionURL": "//detail.tmall.com/item.htm?id=965805817063&ns=1&abbucket=19&xxc=taobaoSearch&mi_id=0000XG0zYPYZcJjI-ul28T4bgLb4iP0HU0DEMvIUumlFBG4&skuId=6117803701990",
         "categoryp": "50013886 50014023 50014089",
         "extraParams": [
           {
@@ -18776,7 +18745,7 @@
           "price_from": "ump",
           "price_stage": "0",
           "s_id": "6117803701990",
-          "traceId": "210127cc17888004538553658e0a89",
+          "traceId": "2100cff617888076241655439e0bb0",
           "umpLog": "sourceTypeKey:2_taobaoSearch;originUmpPrice:4890^5900;utcP:20_710^9_4000^1_300",
           "ump_invoke": "0",
           "x_object_id": "965805817063"
@@ -18785,16 +18754,16 @@
         "uprightImg": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i3/3886167253/O1CN01GAaQBG23RvoDGKA2P_!!4611686018427385045-0-item_pic.jpg",
         "userId": "RAzN8HWNGaGDLf3ejZKtmiqoNkgbC4QGkVF8TNHBCvAoJvpCtk5",
         "utLogMap": {
-          "aplus_abtest": "188bc05974a069eb5caca158bc4f3b24",
-          "at_bucketid": "75",
+          "aplus_abtest": "08d65f8ac46e27e227c33661e05e161e",
+          "at_bucketid": "76",
           "is_weak": "0",
           "lf_aclog": "46-965805817063-49-_sale|-0-48.9",
           "pageNum": "1",
           "price": "48.9",
-          "rn": "e33756d1715fea81cb06e739f6318ddd",
-          "time": 1788800454421,
-          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529603#0_34385#50535#525315#0_34385#51800#509551#0_34385#50009#530670#0_34385#57411#522394#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522405#0_34385#59594#533776#0_34385#58166#528987#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#502761#0_34385#61217#541178#0_34385#43484#512361#0_34385#63007#549575#0_34385#44159#499960#0_34385#45784#507589#0_124#0#318546#0",
-          "userId": "2222930862201",
+          "rn": "73fc6b33cff3686b48920a7e6fd4af93",
+          "time": 1788807624765,
+          "tpp_buckets": "34385#0#417921#0_34385#52324#510170#0_34385#56957#519713#0_34385#58805#529604#0_34385#50535#507978#0_34385#51800#509551#0_34385#50009#507596#0_34385#57411#522400#0_34385#57299#521762#0_34385#57259#521552#0_34385#57412#522407#0_34385#59594#533776#0_34385#58166#525998#0_34385#48759#516717#0_34385#57261#521554#0_34385#44850#501535#0_34385#61217#541178#0_34385#43484#512360#0_34385#63007#549575#0_34385#44159#505918#0_34385#45784#502000#0_124#0#318546#0",
+          "userId": "2222989967027",
           "x_ad": "0"
         },
         "video": {
@@ -18807,8 +18776,8 @@
     ],
     "itemsArrayRec": [],
     "mainInfo": {
-      "RN": "e33756d1715fea81cb06e739f6318ddd",
-      "abtest": "75",
+      "RN": "73fc6b33cff3686b48920a7e6fd4af93",
+      "abtest": "76",
       "bcoffset": -6,
       "ntoffset": 0,
       "order_by": "_sale",
@@ -18816,27 +18785,27 @@
       "pageInfo": {
         "als": "qc:2;lqt:1",
         "elderHome": "false",
-        "for_bts": "search_fushi3:544104;ai_shopping_agent_new:541431;ai_shopping_agent:537366;aiAssistant_chakadichi:528719;search_performance_improve:521202;search_fushi2:520104;search_content_card_quality:100006;search_growthSK:515139;mainse_digou_strategy:514250;mainse_new_trend:513870;relevance2:443015;wlrank_pricesort:11116;search_xp_supply:512372;wlrank_adapt:6935;video_test:499762;live_content_layer:498742;dg_vertical_channel:501616;mainse_hard_strategy:522091;mainse_boost:508875;srp_hangingsearch:505340;search_fushi:510004;mainse_algo_itemcard:886636;live_card_layer:668805;search_innovate:880046;search_growth_Normal:496640;mainse_item_strategy4:495004;supply_wlrank_default:483805;supply_wlrank_adapt:494100;dg_item2q:487593;search_filter:88044;taobaosearch_feizhu:600002;voice_gpt_flow:493459;mainse_item_judan:491419;wlrank_layer3:496230;tmallrank:488625;mainse_item_strategy3:492004;jiankang_all:501203;reduce_recall:484019;dg_hintq:483694;dg_active_page:483523;mainse_item_strategy:482958;mainse_qzt:7777701;cloudtheme:508805;shangka_hechuan:586613;spl_suggest_kuoliang:480563;mainse_xinpin_item:508828;mainse_stg:88809;search_quanyi:489910;search_basic:488019;mainse_item_policy:488887;sk_hechuan:660603;hanxin_query_newitem:463840;add_to_cart:800006;food_subsidy:56000;skusearch:461428;mainse_explore:465255;mainse_inshop:461186;wlrank_strategy:555505;JK95:464422;wlrank_bigmodel:66674;ads_test:3604;wlrank_layer4:4131;navigation_kg:50004;newitem_tab:6013;diversity:7079;relevance:3341;mixrank_mainse:8253;match:7396;rank_policy:27423;tb_sug_rank:462829;tpp_search_bucketId:11;srp_guess_like_search:17444;smart_ui:7207;search_growth_outside:9970;logistics:666626;wlrank_default:2899;wlrank_business:32055;wlrank_adapt:6935;grayLayerBucket:85",
+        "for_bts": "search_fushi3:544112;ai_shopping_agent_new:541439;ai_shopping_agent:537362;aiAssistant_chakadichi:528736;search_performance_improve:521211;search_fushi2:520080;search_content_card_quality:100009;search_growthSK:517996;mainse_digou_strategy:514243;mainse_new_trend:513856;relevance2:443019;wlrank_pricesort:11116;search_xp_supply:512372;wlrank_adapt:6936;video_test:499760;live_content_layer:509817;dg_vertical_channel:501616;mainse_hard_strategy:510590;mainse_boost:508876;srp_hangingsearch:505344;search_fushi:510003;mainse_algo_itemcard:886616;live_card_layer:668806;search_innovate:880007;search_growth_Normal:496632;mainse_item_strategy4:495009;supply_wlrank_default:483805;supply_wlrank_adapt:494102;dg_item2q:487593;search_filter:88005;taobaosearch_feizhu:600004;mainse_item_judan:491417;wlrank_layer3:496254;tmallrank:488634;mainse_item_strategy3:492010;jiankang_all:501217;reduce_recall:484018;dg_hintq:483695;dg_active_page:483523;mainse_item_strategy:519499;mainse_qzt:7777717;cloudtheme:508803;shangka_hechuan:586615;spl_suggest_kuoliang:493313;mainse_xinpin_item:508829;mainse_stg:88819;search_quanyi:489914;search_basic:488010;mainse_item_policy:477246;base_optimize:520670;sk_hechuan:660619;hanxin_query_newitem:463848;add_to_cart:800005;food_subsidy:56000;skusearch:461413;mainse_explore:461445;mainse_inshop:461186;wlrank_strategy:555510;JK95:464421;wlrank_bigmodel:66692;ads_test:8225;wlrank_layer4:4135;navigation_kg:50018;newitem_tab:6070;diversity:23150;relevance:3346;mixrank_mainse:8252;match:7373;rank_policy:27419;tb_sug_rank:462829;tpp_search_bucketId:49;srp_guess_like_search:17387;smart_ui:8203;search_growth_outside:9974;logistics:666610;wlrank_default:2899;wlrank_business:32041;wlrank_adapt:6936;grayLayerBucket:20",
         "from": "nt_history",
         "grayHair": "false",
-        "traceId": "210127cc17888004538553658e0a89"
+        "traceId": "2100cff617888076241655439e0bb0"
       },
       "pageName": "PCMainSrp",
       "pageSize": "48",
       "pageTraceArgs": [
         {
           "key": "utparam-cnt",
-          "value": "{\"for_bts\":\"search_fushi3:544104;ai_shopping_agent_new:541431;ai_shopping_agent:537366;aiAssistant_chakadichi:528719;search_performance_improve:521202;search_fushi2:520104;search_content_card_quality:100006;search_growthSK:515139;mainse_digou_strategy:514250;mainse_new_trend:513870;relevance2:443015;wlrank_pricesort:11116;search_xp_supply:512372;wlrank_adapt:6935;video_test:499762;live_content_layer:498742;dg_vertical_channel:501616;mainse_hard_strategy:522091;mainse_boost:508875;srp_hangingsearch:505340;search_fushi:510004;mainse_algo_itemcard:886636;live_card_layer:668805;search_innovate:880046;search_growth_Normal:496640;mainse_item_strategy4:495004;supply_wlrank_default:483805;supply_wlrank_adapt:494100;dg_item2q:487593;search_filter:88044;taobaosearch_feizhu:600002;voice_gpt_flow:493459;mainse_item_judan:491419;wlrank_layer3:496230;tmallrank:488625;mainse_item_strategy3:492004;jiankang_all:501203;reduce_recall:484019;dg_hintq:483694;dg_active_page:483523;mainse_item_strategy:482958;mainse_qzt:7777701;cloudtheme:508805;shangka_hechuan:586613;spl_suggest_kuoliang:480563;mainse_xinpin_item:508828;mainse_stg:88809;search_quanyi:489910;search_basic:488019;mainse_item_policy:488887;sk_hechuan:660603;hanxin_query_newitem:463840;add_to_cart:800006;food_subsidy:56000;skusearch:461428;mainse_explore:465255;mainse_inshop:461186;wlrank_strategy:555505;JK95:464422;wlrank_bigmodel:66674;ads_test:3604;wlrank_layer4:4131;navigation_kg:50004;newitem_tab:6013;diversity:7079;relevance:3341;mixrank_mainse:8253;match:7396;rank_policy:27423;tb_sug_rank:462829;tpp_search_bucketId:11;srp_guess_like_search:17444;smart_ui:7207;search_growth_outside:9970;logistics:666626;wlrank_default:2899;wlrank_business:32055;wlrank_adapt:6935;grayLayerBucket:85\",\"list_param\":\"衣服_75_e33756d1715fea81cb06e739f6318ddd\",\"from\":\"nt_history\"}"
+          "value": "{\"for_bts\":\"search_fushi3:544112;ai_shopping_agent_new:541439;ai_shopping_agent:537362;aiAssistant_chakadichi:528736;search_performance_improve:521211;search_fushi2:520080;search_content_card_quality:100009;search_growthSK:517996;mainse_digou_strategy:514243;mainse_new_trend:513856;relevance2:443019;wlrank_pricesort:11116;search_xp_supply:512372;wlrank_adapt:6936;video_test:499760;live_content_layer:509817;dg_vertical_channel:501616;mainse_hard_strategy:510590;mainse_boost:508876;srp_hangingsearch:505344;search_fushi:510003;mainse_algo_itemcard:886616;live_card_layer:668806;search_innovate:880007;search_growth_Normal:496632;mainse_item_strategy4:495009;supply_wlrank_default:483805;supply_wlrank_adapt:494102;dg_item2q:487593;search_filter:88005;taobaosearch_feizhu:600004;mainse_item_judan:491417;wlrank_layer3:496254;tmallrank:488634;mainse_item_strategy3:492010;jiankang_all:501217;reduce_recall:484018;dg_hintq:483695;dg_active_page:483523;mainse_item_strategy:519499;mainse_qzt:7777717;cloudtheme:508803;shangka_hechuan:586615;spl_suggest_kuoliang:493313;mainse_xinpin_item:508829;mainse_stg:88819;search_quanyi:489914;search_basic:488010;mainse_item_policy:477246;base_optimize:520670;sk_hechuan:660619;hanxin_query_newitem:463848;add_to_cart:800005;food_subsidy:56000;skusearch:461413;mainse_explore:461445;mainse_inshop:461186;wlrank_strategy:555510;JK95:464421;wlrank_bigmodel:66692;ads_test:8225;wlrank_layer4:4135;navigation_kg:50018;newitem_tab:6070;diversity:23150;relevance:3346;mixrank_mainse:8252;match:7373;rank_policy:27419;tb_sug_rank:462829;tpp_search_bucketId:49;srp_guess_like_search:17387;smart_ui:8203;search_growth_outside:9974;logistics:666610;wlrank_default:2899;wlrank_business:32041;wlrank_adapt:6936;grayLayerBucket:20\",\"list_param\":\"衣服_76_73fc6b33cff3686b48920a7e6fd4af93\",\"from\":\"nt_history\"}"
         }
       ],
       "pageTraceName": "Page_SearchItemList-PCMainSrp",
       "paramValue": "衣服",
       "parameter": "q",
-      "sessionid": "65e2617c712fa4fe680c3fa6b1847ac2",
+      "sessionid": "2698a56d626384edb38905c0dae0c3c9",
       "sourceS": 1,
       "style": "wf",
       "totalPage": "100",
-      "totalResults": "195710"
+      "totalResults": "197839"
     },
     "p4pData": {
       "bottom": {
@@ -18847,7 +18816,7 @@
             "keyword": "%E8%A1%A3%E6%9C%8D",
             "pageNum": 1,
             "pid": "420435_1006",
-            "se": "e33756d1715fea81cb06e739f6318ddd"
+            "se": "73fc6b33cff3686b48920a7e6fd4af93"
           },
           {
             "catId": "",
@@ -18864,7 +18833,7 @@
             "keyword": "%E8%A1%A3%E6%9C%8D",
             "pageNum": 1,
             "pid": "420434_1006",
-            "se": "e33756d1715fea81cb06e739f6318ddd"
+            "se": "73fc6b33cff3686b48920a7e6fd4af93"
           }
         ]
       },
@@ -18942,12 +18911,12 @@
       ],
       "industryName": "clothAndSports"
     },
-    "pvid": "dc1dc9af-bd5b-43e7-ae04-5165dd62c2c5",
+    "pvid": "f8f4cb18-402e-4b33-abd9-dea3de8c7293",
     "result": [],
     "resultModuleStatus": 0,
     "scm": "1007.44385.417921.0",
-    "tpp_buckets": "34385#0#417921#11_34385#52324#510170#6_34385#56957#519713#5_34385#58805#529603#8_34385#50535#525315#9_34385#51800#509551#84_34385#50009#530670#8_34385#57411#522394#6_34385#57299#521762#6_34385#57259#521552#13_34385#57412#522405#5_34385#59594#533776#6_34385#58166#528987#6_34385#48759#516717#3_34385#57261#521554#93_34385#44850#502761#5_34385#61217#541178#7_34385#43484#512361#5_34385#63007#549575#34_34385#44159#499960#2_34385#45784#507589#27",
-    "tpp_trace": "210127cc17888004538553658e0a89",
+    "tpp_buckets": "34385#0#417921#49_34385#52324#510170#7_34385#56957#519713#7_34385#58805#529604#5_34385#50535#507978#5_34385#51800#509551#33_34385#50009#507596#2_34385#57411#522400#5_34385#57299#521762#7_34385#57259#521552#12_34385#57412#522407#7_34385#59594#533776#1_34385#58166#525998#3_34385#48759#516717#10_34385#57261#521554#19_34385#44850#501535#7_34385#61217#541178#7_34385#43484#512360#4_34385#63007#549575#35_34385#44159#505918#10_34385#45784#502000#13",
+    "tpp_trace": "2100cff617888076241655439e0bb0",
     "version": 1.0
   },
   "recordTime": null
