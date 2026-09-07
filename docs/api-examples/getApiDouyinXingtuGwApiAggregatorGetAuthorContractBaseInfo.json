@@ -1,0 +1,23 @@
+{
+  "_fetchedAt": "2026-09-08T00:40:32.930178+08:00",
+  "_sourceCheckedAt": "2026-09-08T00:00:03",
+  "code": 0,
+  "message": null,
+  "data": {
+    "base_resp": {
+      "status_code": 0,
+      "status_message": ""
+    },
+    "credit_score": "100",
+    "industry_order_distribution": "[{\"key\":\"1933\",\"rate\":\"0.0455\",\"value\":\"1\"},{\"key\":\"1930\",\"rate\":\"0.9545\",\"value\":\"21\"}]",
+    "industry_vv_distribution": "[{\"key\":\"1933\",\"rate\":\"0.0156\",\"value\":\"1991700\"},{\"key\":\"1930\",\"rate\":\"0.9844\",\"value\":\"125375461\"}]",
+    "max_process_order_cnt": "7",
+    "message_reply_rate": "0",
+    "modify_time": "1788748133",
+    "new_credit_score": 72,
+    "order_cnt": "22",
+    "positive_rating_rate": "1",
+    "process_order_cnt": "4"
+  },
+  "recordTime": null
+}

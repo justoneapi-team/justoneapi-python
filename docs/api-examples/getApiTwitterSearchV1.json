@@ -1,0 +1,2477 @@
+{
+  "_fetchedAt": "2026-09-08T00:41:04.750401+08:00",
+  "_sourceCheckedAt": "2026-09-08T00:00:21",
+  "code": 0,
+  "message": null,
+  "data": {
+    "status": "ok",
+    "timeline": [
+      {
+        "type": "tweet",
+        "tweet_id": "2095595741528125780",
+        "screen_name": "OpenAI",
+        "bookmarks": 103771,
+        "favorites": 334095,
+        "created_at": "Thu Sep 03 19:32:13 +0000 2026",
+        "text": "This is GPT-6 Astra.\n\nAnything you can do on a computer, Astra can do for you. Fast. https://t.co/gDd0IsewJw",
+        "lang": "en",
+        "display_text_range": [
+          0,
+          84
+        ],
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "quotes": 26071,
+        "sensitive": false,
+        "replies": 8541,
+        "conversation_id": "2095595741528125780",
+        "retweets": 34657,
+        "views": "131103224",
+        "entities": {
+          "media": [
+            {
+              "additional_media_info": {
+                "monetizable": false
+              },
+              "display_url": "pic.x.com/gDd0IsewJw",
+              "expanded_url": "https://x.com/OpenAI/status/2095595741528125780/video/1",
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "id_str": "2095595661559574528",
+              "indices": [
+                85,
+                108
+              ],
+              "media_key": "13_2095595661559574528",
+              "media_results": {
+                "result": {
+                  "media_key": "13_2095595661559574528"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2095595661559574528/img/Vmb2pgEFJ6fpCUTD.jpg",
+              "original_info": {
+                "focus_rects": [],
+                "height": 1080,
+                "width": 1920
+              },
+              "sizes": {
+                "large": {
+                  "h": 1080,
+                  "resize": "fit",
+                  "w": 1920
+                },
+                "medium": {
+                  "h": 675,
+                  "resize": "fit",
+                  "w": 1200
+                },
+                "small": {
+                  "h": 383,
+                  "resize": "fit",
+                  "w": 680
+                },
+                "thumb": {
+                  "h": 150,
+                  "resize": "crop",
+                  "w": 150
+                }
+              },
+              "type": "video",
+              "url": "https://t.co/gDd0IsewJw",
+              "video_info": {
+                "aspect_ratio": [
+                  16,
+                  9
+                ],
+                "duration_millis": 162965,
+                "variants": [
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/amplify_video/2095595661559574528/pl/Xq_LduP0ihdDNafh.m3u8?tag=29"
+                  },
+                  {
+                    "bitrate": 256000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2095595661559574528/vid/avc1/480x270/CntmNmX2nKsH3Czk.mp4?tag=29"
+                  },
+                  {
+                    "bitrate": 832000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2095595661559574528/vid/avc1/640x360/H0EgAPRo-BmSJVdT.mp4?tag=29"
+                  },
+                  {
+                    "bitrate": 2176000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2095595661559574528/vid/avc1/1280x720/Cv4dXuFNWqERUUJd.mp4?tag=29"
+                  },
+                  {
+                    "bitrate": 10368000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2095595661559574528/vid/avc1/1920x1080/grXdGA07X-yPH_8z.mp4?tag=29"
+                  }
+                ]
+              }
+            }
+          ],
+          "hashtags": [],
+          "symbols": [],
+          "timestamps": [],
+          "urls": [],
+          "user_mentions": []
+        },
+        "user_info": {
+          "screen_name": "OpenAI",
+          "name": "OpenAI",
+          "created_at": "Sun Dec 06 22:51:08 +0000 2015",
+          "description": null,
+          "rest_id": "4398626122",
+          "followers_count": 5255642,
+          "favorites_count": 2464,
+          "avatar": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+          "url": null,
+          "cover_image": null,
+          "verified_type": "Business",
+          "verified": true,
+          "friends_count": null,
+          "location": ""
+        },
+        "media": {
+          "video": [
+            {
+              "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2095595661559574528/img/Vmb2pgEFJ6fpCUTD.jpg",
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/2095595661559574528/pl/Xq_LduP0ihdDNafh.m3u8?tag=29"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2095595661559574528/vid/avc1/480x270/CntmNmX2nKsH3Czk.mp4?tag=29"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2095595661559574528/vid/avc1/640x360/H0EgAPRo-BmSJVdT.mp4?tag=29"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2095595661559574528/vid/avc1/1280x720/Cv4dXuFNWqERUUJd.mp4?tag=29"
+                },
+                {
+                  "bitrate": 10368000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2095595661559574528/vid/avc1/1920x1080/grXdGA07X-yPH_8z.mp4?tag=29"
+                }
+              ],
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration": 162965,
+              "original_info": {
+                "focus_rects": [],
+                "height": 1080,
+                "width": 1920
+              },
+              "id": "2095595661559574528"
+            }
+          ]
+        }
+      },
+      {
+        "type": "tweet",
+        "tweet_id": "2095840221132947643",
+        "screen_name": "zodchiii",
+        "bookmarks": 2479,
+        "favorites": 918,
+        "created_at": "Fri Sep 04 11:43:42 +0000 2026",
+        "text": "Sam Altman (CEO of OpenAI): \n\n\"You no longer need to write prompts. GPT-6 Astra literally does everything better than you.”\n\nIn just 26 minutes, he explains how to use LLMs at a level that most people can't even imagine.\n\nAfter watching it, I realized I was only taking advantage of about 15% of what this tool can really do. \n\nWatch it in full and then read the guide below on how to create a system that prompts itself 👇🏼",
+        "lang": "en",
+        "display_text_range": [
+          0,
+          279
+        ],
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "quotes": 1,
+        "sensitive": false,
+        "replies": 23,
+        "conversation_id": "2095840221132947643",
+        "retweets": 121,
+        "views": "236605",
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "timestamps": [],
+          "urls": [],
+          "user_mentions": []
+        },
+        "user_info": {
+          "screen_name": "zodchiii",
+          "name": "darkzodchi",
+          "created_at": "Sun Feb 09 22:40:28 +0000 2020",
+          "description": null,
+          "rest_id": "1226636978256564226",
+          "followers_count": 26231,
+          "favorites_count": 9930,
+          "avatar": "https://pbs.twimg.com/profile_images/1999509933302124544/ABxY9N7S_normal.jpg",
+          "url": null,
+          "cover_image": null,
+          "verified_type": null,
+          "verified": true,
+          "friends_count": null,
+          "location": ""
+        },
+        "media": {
+          "video": [
+            {
+              "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2095839283437502464/img/oaXbf78en-Z4Ia7a.jpg",
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/2095839283437502464/pl/9FCdvzHrXk3bRn4p.m3u8?tag=29&v=7b1"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2095839283437502464/vid/avc1/480x270/6TXOIQdVIPZ9J1dn.mp4?tag=29"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2095839283437502464/vid/avc1/640x360/WhU7Aa2XcZotM7QU.mp4?tag=29"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2095839283437502464/vid/avc1/1280x720/Hg2Kesi1iHX1K-vD.mp4?tag=29"
+                }
+              ],
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration": 1600333,
+              "original_info": {
+                "focus_rects": [],
+                "height": 720,
+                "width": 1280
+              },
+              "id": "2095839283437502464"
+            }
+          ]
+        },
+        "quoted": {
+          "tweet_id": "2095806517500932190",
+          "bookmarks": 1642,
+          "created_at": "Fri Sep 04 09:29:46 +0000 2026",
+          "favorites": 395,
+          "text": "https://t.co/6gEZ4NSnbP",
+          "lang": "zxx",
+          "views": "1586263",
+          "quotes": 16,
+          "sensitive": false,
+          "replies": 10,
+          "retweets": 49,
+          "conversation_id": "2095806517500932190",
+          "author": {
+            "rest_id": "1226636978256564226",
+            "created_at": "Sun Feb 09 22:40:28 +0000 2020",
+            "name": "darkzodchi",
+            "screen_name": "zodchiii",
+            "avatar": "https://pbs.twimg.com/profile_images/1999509933302124544/ABxY9N7S_normal.jpg",
+            "blue_verified": true
+          },
+          "media": []
+        }
+      },
+      {
+        "type": "tweet",
+        "tweet_id": "2095840631100682740",
+        "screen_name": "aridot_",
+        "bookmarks": 309,
+        "favorites": 397,
+        "created_at": "Fri Sep 04 11:45:19 +0000 2026",
+        "text": "Un estudiante de 21 años en Ankara. Estudia ingeniería de software y todavía vive en la residencia universitaria.\n\nPasó un mes escribiendo un trading bot. Cuando todo estuvo listo, le dio a \"iniciar\". Esa misma noche ganó 14 mil dólares.\n\nNi él mismo se lo creía. El setup no era tan complicado como pensaba.\n\nMe contó los detalles. El core stack son tres cosas: OpenAI Codex, Claude Opus 4.7 y la Polymarket CLOB API.\n\nLa lógica es esta: cuando sale una noticia importante, la probabilidad en Polymarket se actualiza en pocos segundos, pero el orderbook se queda lleno al nivel anterior. Esa ventana dura entre 30 y 90 segundos. El bot escanea el feed de noticias de Bloomberg y Reuters, y aplica la fórmula:\n\nΔP(t) = α · news_score · e^(-λt)\n\nα es la elasticidad de la noticia respecto al mercado. λ es la velocidad de propagación de la información. La posición se cierra antes de que el precio vuelva a su nivel.\n\nLa ejecución se hace a través de Polymarket CLOB. No hay ningún prompt manual a Claude tipo \"abre un long en este nivel\". El bot funciona por su cuenta.\n\nAhora mismo está en 50-70 mil dólares al mes. A este ritmo, son 600 mil dólares al año.\n\nHace un mes, en la habitación de la residencia tenía un laptop, Claude Pro y una API key de Polymarket. Ahora tiene esto.",
+        "lang": "es",
+        "display_text_range": [
+          0,
+          279
+        ],
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "quotes": 0,
+        "sensitive": false,
+        "replies": 26,
+        "conversation_id": "2095840631100682740",
+        "retweets": 59,
+        "views": "24450",
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "timestamps": [],
+          "urls": [],
+          "user_mentions": []
+        },
+        "user_info": {
+          "screen_name": "aridot_",
+          "name": "ari.",
+          "created_at": "Sat Jul 18 05:36:11 +0000 2026",
+          "description": null,
+          "rest_id": "2078352807883907072",
+          "followers_count": 99498,
+          "favorites_count": 1405,
+          "avatar": "https://pbs.twimg.com/profile_images/2095443927751176192/zUapzcG2_normal.jpg",
+          "url": null,
+          "cover_image": null,
+          "verified_type": null,
+          "verified": true,
+          "friends_count": null,
+          "location": ""
+        },
+        "media": {
+          "video": [
+            {
+              "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2095840595281661952/img/KThjUKowqL0aVq9F.jpg",
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/2095840595281661952/pl/zGjm15A9-FcloFmi.m3u8?tag=29&v=cfc"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2095840595281661952/vid/avc1/360x270/nM2umjelzK8wHDJl.mp4?tag=29"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2095840595281661952/vid/avc1/480x360/E52jOKcQkt8h9NvD.mp4?tag=29"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2095840595281661952/vid/avc1/960x720/NkfPdrMcXYnv2G-4.mp4?tag=29"
+                }
+              ],
+              "aspect_ratio": [
+                4,
+                3
+              ],
+              "duration": 25366,
+              "original_info": {
+                "focus_rects": [],
+                "height": 720,
+                "width": 960
+              },
+              "id": "2095840595281661952"
+            }
+          ]
+        },
+        "quoted": {
+          "tweet_id": "2095835406755622998",
+          "bookmarks": 797,
+          "created_at": "Fri Sep 04 11:24:34 +0000 2026",
+          "favorites": 496,
+          "text": "ALGUIEN SUBIÓ A GITHUB UN BOT QUE TRADEA SOLO EN POLYMARKET.\n\nY sí, es completamente gratis.\n\nCompra donde hay beneficio garantizado, copia a los que más ganan, pilla las caídas antes que nadie y cierra solo si algo va mal.\n\nTodo desde el mismo panel.\n\n¿Lo más raro? Solo tiene https://t.co/y3Sv0QbxhT",
+          "lang": "es",
+          "views": "130302",
+          "quotes": 7,
+          "sensitive": false,
+          "replies": 49,
+          "retweets": 89,
+          "conversation_id": "2095835406755622998",
+          "author": {
+            "rest_id": "1308053727539068935",
+            "created_at": "Mon Sep 21 14:41:34 +0000 2020",
+            "name": "marcus",
+            "screen_name": "marcusyul",
+            "avatar": "https://pbs.twimg.com/profile_images/2055048793670787072/KU39HxsL_normal.jpg",
+            "blue_verified": true
+          },
+          "media": {
+            "video": [
+              {
+                "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2095835376799940608/img/GGjQPM7IxKLm_I3G.jpg",
+                "variants": [
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/amplify_video/2095835376799940608/pl/paRMam-Ne97mk4CU.m3u8?tag=16"
+                  },
+                  {
+                    "bitrate": 288000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2095835376799940608/vid/avc1/524x270/7aCVnnbxP7fIprPu.mp4?tag=16"
+                  },
+                  {
+                    "bitrate": 832000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2095835376799940608/vid/avc1/698x360/rY83ES0YMsyLLyGg.mp4?tag=16"
+                  },
+                  {
+                    "bitrate": 2176000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2095835376799940608/vid/avc1/1398x720/tD8qd4nqpdNi9i1t.mp4?tag=16"
+                  },
+                  {
+                    "bitrate": 10368000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2095835376799940608/vid/avc1/2096x1080/8UeesRNM8Eoh_PYs.mp4?tag=16"
+                  }
+                ],
+                "aspect_ratio": [
+                  571,
+                  294
+                ],
+                "duration": 26515,
+                "original_info": {
+                  "focus_rects": [],
+                  "height": 1176,
+                  "width": 2284
+                },
+                "id": "2095835376799940608"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "type": "tweet",
+        "tweet_id": "2095162457052319778",
+        "screen_name": "AnatoliKopadze",
+        "bookmarks": 834,
+        "favorites": 385,
+        "created_at": "Wed Sep 02 14:50:30 +0000 2026",
+        "text": "OpenAI CEO, Sam Altman:\n\n\"You don't need to write prompts anymore.\"\n\nIn 38 minutes, he explains how to use LLMs better than 99% of people do.\n\nThis is the whole difference between using AI and having AI work for you.\n\nWatch it, then read the guide below on how to build a system that prompts itself.",
+        "lang": "en",
+        "display_text_range": [
+          0,
+          278
+        ],
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "quotes": 5,
+        "sensitive": false,
+        "replies": 18,
+        "conversation_id": "2095162457052319778",
+        "retweets": 68,
+        "views": "121199",
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "timestamps": [],
+          "urls": [],
+          "user_mentions": []
+        },
+        "user_info": {
+          "screen_name": "AnatoliKopadze",
+          "name": "Anatoli Kopadze",
+          "created_at": "Wed Mar 08 10:33:55 +0000 2017",
+          "description": null,
+          "rest_id": "839423932184870914",
+          "followers_count": 152513,
+          "favorites_count": 43418,
+          "avatar": "https://pbs.twimg.com/profile_images/1634313760444751873/QfwY91Hp_normal.jpg",
+          "url": null,
+          "cover_image": null,
+          "verified_type": null,
+          "verified": true,
+          "friends_count": null,
+          "location": ""
+        },
+        "media": {
+          "video": [
+            {
+              "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2095159206425104384/img/xbJetnyPDtTh7zU2.jpg",
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/2095159206425104384/pl/0z1VwZsYXR7tmWpb.m3u8?tag=29&v=5a2"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2095159206425104384/vid/avc1/480x270/dC2Q_qh2hc9nTduw.mp4?tag=29"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2095159206425104384/vid/avc1/640x360/AkEv350Mko7yWlC_.mp4?tag=29"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2095159206425104384/vid/avc1/1280x720/YYN6i5-4TtOMiWXo.mp4?tag=29"
+                },
+                {
+                  "bitrate": 10368000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2095159206425104384/vid/avc1/1920x1080/lM5-Mr0CVK11I0Tr.mp4?tag=29"
+                }
+              ],
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration": 2314966,
+              "original_info": {
+                "focus_rects": [],
+                "height": 1080,
+                "width": 1920
+              },
+              "id": "2095159206425104384"
+            }
+          ]
+        },
+        "quoted": {
+          "tweet_id": "2080668775796314331",
+          "bookmarks": 15950,
+          "created_at": "Fri Jul 24 14:57:47 +0000 2026",
+          "favorites": 3727,
+          "text": "https://t.co/fyBGWQbsvn",
+          "lang": "zxx",
+          "views": "12135101",
+          "quotes": 112,
+          "sensitive": false,
+          "replies": 91,
+          "retweets": 516,
+          "conversation_id": "2080668775796314331",
+          "author": {
+            "rest_id": "839423932184870914",
+            "created_at": "Wed Mar 08 10:33:55 +0000 2017",
+            "name": "Anatoli Kopadze",
+            "screen_name": "AnatoliKopadze",
+            "avatar": "https://pbs.twimg.com/profile_images/1634313760444751873/QfwY91Hp_normal.jpg",
+            "blue_verified": true
+          },
+          "media": []
+        }
+      },
+      {
+        "type": "tweet",
+        "tweet_id": "2096943449459065202",
+        "screen_name": "AnatoliKopadze",
+        "bookmarks": 82,
+        "favorites": 84,
+        "created_at": "Mon Sep 07 12:47:32 +0000 2026",
+        "text": "Sam Altman (CEO of OpenAI):\n\n\"You no longer need to write prompts, if you use GPT-6 Astra\"\n\nIn just 10 minutes, he explains how one person now does the work an entire team used to spend a month on.\n\nHe says just keep throwing harder tasks at it, software, science, whole simulations it handles more than you'd dare ask.\n\nWatch it, then read the guide below on the easiest way to run your own AI agent team with Astra for free.",
+        "lang": "en",
+        "display_text_range": [
+          0,
+          270
+        ],
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "quotes": 3,
+        "sensitive": false,
+        "replies": 10,
+        "conversation_id": "2096943449459065202",
+        "retweets": 9,
+        "views": "13313",
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "timestamps": [],
+          "urls": [],
+          "user_mentions": []
+        },
+        "user_info": {
+          "screen_name": "AnatoliKopadze",
+          "name": "Anatoli Kopadze",
+          "created_at": "Wed Mar 08 10:33:55 +0000 2017",
+          "description": null,
+          "rest_id": "839423932184870914",
+          "followers_count": 152513,
+          "favorites_count": 43418,
+          "avatar": "https://pbs.twimg.com/profile_images/1634313760444751873/QfwY91Hp_normal.jpg",
+          "url": null,
+          "cover_image": null,
+          "verified_type": null,
+          "verified": true,
+          "friends_count": null,
+          "location": ""
+        },
+        "media": {
+          "video": [
+            {
+              "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2096942636208738304/img/Uww9YAd9mgSEyFZU.jpg",
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/2096942636208738304/pl/p32zVSCw--bp4Ny3.m3u8?tag=29&v=701"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2096942636208738304/vid/avc1/480x270/fbqsbc291oi8L3mn.mp4?tag=29"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2096942636208738304/vid/avc1/640x360/C8VCFcUvaHpVKTP2.mp4?tag=29"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2096942636208738304/vid/avc1/1280x720/1nyHDjPQZDjXvAfp.mp4?tag=29"
+                },
+                {
+                  "bitrate": 10368000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2096942636208738304/vid/avc1/1920x1080/BqBHyNI6EF_yUe77.mp4?tag=29"
+                }
+              ],
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration": 687700,
+              "original_info": {
+                "focus_rects": [],
+                "height": 1080,
+                "width": 1920
+              },
+              "id": "2096942636208738304"
+            }
+          ]
+        },
+        "quoted": {
+          "tweet_id": "2090418682534961283",
+          "bookmarks": 593,
+          "created_at": "Thu Aug 20 12:40:26 +0000 2026",
+          "favorites": 216,
+          "text": "https://t.co/ptUoYuEW7n",
+          "lang": "zxx",
+          "views": "758861",
+          "quotes": 21,
+          "sensitive": false,
+          "replies": 11,
+          "retweets": 31,
+          "conversation_id": "2090418682534961283",
+          "author": {
+            "rest_id": "839423932184870914",
+            "created_at": "Wed Mar 08 10:33:55 +0000 2017",
+            "name": "Anatoli Kopadze",
+            "screen_name": "AnatoliKopadze",
+            "avatar": "https://pbs.twimg.com/profile_images/1634313760444751873/QfwY91Hp_normal.jpg",
+            "blue_verified": true
+          },
+          "media": []
+        }
+      },
+      {
+        "type": "tweet",
+        "tweet_id": "2096631743533207983",
+        "screen_name": "charliejhills",
+        "bookmarks": 60,
+        "favorites": 77,
+        "created_at": "Sun Sep 06 16:08:55 +0000 2026",
+        "text": "Someone gave GPT-6 and Fable 5.1 access to Canva.\n\nOne smoked the other (it's not even close).\n\nClaude Fable 5.1 is on the left.\nGPT-6 Astra is on the right.\n\nThe gap is not small.\n\nIt comes down to one test (ARC-AGI 3).\n\nIt drops a model into a game with no instructions and makes it work them out. Astra solved levels in fewer moves than you or I would, 96% of the time.\n\nClaude Opus 5 managed less than half of that.\n\nThat's why everyone is shouting about AGI again.\n\nYou can turn this on yourself in about two minutes:\n\n1. Open the ChatGPT desktop app, switch to Work.\n2. Go to Plugins, then Computer Use. Install it.\n3. Switch on the server and skill toggles.\n4. Allow Screen Recording and Accessibility.\n5. Point it at one app and ask it do something.\n\nI wrote up the full Claude → Codex migration.\n\nAccess it here \n\n→ https://t.co/SO59UumkSt\n\nRepost ♻️ to help someone in your network.",
+        "lang": "en",
+        "display_text_range": [
+          0,
+          275
+        ],
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "quotes": 1,
+        "sensitive": false,
+        "replies": 11,
+        "conversation_id": "2096631743533207983",
+        "retweets": 9,
+        "views": "40710",
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "timestamps": [],
+          "urls": [
+            {
+              "display_url": "charliehills.substack.com/p/claude-code-…",
+              "expanded_url": "https://charliehills.substack.com/p/claude-code-codex",
+              "indices": [
+                825,
+                848
+              ],
+              "url": "https://t.co/SO59UumkSt"
+            }
+          ],
+          "user_mentions": []
+        },
+        "user_info": {
+          "screen_name": "charliejhills",
+          "name": "Charlie Hills",
+          "created_at": "Fri Sep 24 19:10:00 +0000 2021",
+          "description": null,
+          "rest_id": "1441480006451044355",
+          "followers_count": 14152,
+          "favorites_count": 4877,
+          "avatar": "https://pbs.twimg.com/profile_images/1930709528829423616/U7t4WBAU_normal.jpg",
+          "url": null,
+          "cover_image": null,
+          "verified_type": null,
+          "verified": true,
+          "friends_count": null,
+          "location": "London, England"
+        },
+        "media": {
+          "video": [
+            {
+              "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2096631639296380929/img/77ouDJRKu-nmTBmQ.jpg",
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/2096631639296380929/pl/lSakNmZsE3hddyGS.m3u8?tag=29"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2096631639296380929/vid/avc1/480x270/zym8IpuBWGzE52mz.mp4?tag=29"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2096631639296380929/vid/avc1/640x360/zodw3cuE3TiLpcDL.mp4?tag=29"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2096631639296380929/vid/avc1/1280x720/tmzS-Y2LYFhfFQFY.mp4?tag=29"
+                }
+              ],
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration": 21933,
+              "original_info": {
+                "focus_rects": [],
+                "height": 720,
+                "width": 1280
+              },
+              "id": "2096631639296380929"
+            }
+          ]
+        },
+        "quoted": {
+          "tweet_id": "2096550164278485292",
+          "bookmarks": 1449,
+          "created_at": "Sun Sep 06 10:44:45 +0000 2026",
+          "favorites": 548,
+          "text": "https://t.co/Lz0ia1qC8Q",
+          "lang": "zxx",
+          "views": "139546",
+          "quotes": 2,
+          "sensitive": false,
+          "replies": 35,
+          "retweets": 52,
+          "conversation_id": "2096550164278485292",
+          "author": {
+            "rest_id": "1441480006451044355",
+            "created_at": "Fri Sep 24 19:10:00 +0000 2021",
+            "name": "Charlie Hills",
+            "screen_name": "charliejhills",
+            "avatar": "https://pbs.twimg.com/profile_images/1930709528829423616/U7t4WBAU_normal.jpg",
+            "blue_verified": true
+          },
+          "media": []
+        }
+      },
+      {
+        "type": "tweet",
+        "tweet_id": "2096665911407050891",
+        "screen_name": "AnatoliKopadze",
+        "bookmarks": 493,
+        "favorites": 414,
+        "created_at": "Sun Sep 06 18:24:42 +0000 2026",
+        "text": "OpenAI CEO, Sam Altman:\n\n\"I just tell the model what I want come back in 30 minutes and it's all ready. \n\nAstra is the first model where I could tell someone just give it a try and it will work.\"\n\nIn 20 minutes he explains how AI went from a tool you operate to an agent that operates your computer for you, and where that goes next.\n\nWorth more than any $500 AI course you'll find.\n\nWatch it, then read the guide below on the easiest way to run your own agent team for free.",
+        "lang": "en",
+        "display_text_range": [
+          0,
+          275
+        ],
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "quotes": 4,
+        "sensitive": false,
+        "replies": 44,
+        "conversation_id": "2096665911407050891",
+        "retweets": 43,
+        "views": "88271",
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "timestamps": [],
+          "urls": [],
+          "user_mentions": []
+        },
+        "user_info": {
+          "screen_name": "AnatoliKopadze",
+          "name": "Anatoli Kopadze",
+          "created_at": "Wed Mar 08 10:33:55 +0000 2017",
+          "description": null,
+          "rest_id": "839423932184870914",
+          "followers_count": 152513,
+          "favorites_count": 43418,
+          "avatar": "https://pbs.twimg.com/profile_images/1634313760444751873/QfwY91Hp_normal.jpg",
+          "url": null,
+          "cover_image": null,
+          "verified_type": null,
+          "verified": true,
+          "friends_count": null,
+          "location": ""
+        },
+        "media": {
+          "video": [
+            {
+              "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2096662324820205568/img/_U9cFI0DDCGv0ets.jpg",
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/2096662324820205568/pl/Vu2MRT7VpChwW2Hv.m3u8?tag=29"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2096662324820205568/vid/avc1/480x270/-Pdl0c_Ah8ohBSMs.mp4?tag=29"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2096662324820205568/vid/avc1/640x360/Oy69bNFglWGa7uC-.mp4?tag=29"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2096662324820205568/vid/avc1/1280x720/m6USC5oCAdiQk5yY.mp4?tag=29"
+                },
+                {
+                  "bitrate": 10368000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2096662324820205568/vid/avc1/1920x1080/BOJz3hgmkrYtYaej.mp4?tag=29"
+                }
+              ],
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration": 1270300,
+              "original_info": {
+                "focus_rects": [],
+                "height": 1080,
+                "width": 1920
+              },
+              "id": "2096662324820205568"
+            }
+          ]
+        },
+        "quoted": {
+          "tweet_id": "2090418682534961283",
+          "bookmarks": 593,
+          "created_at": "Thu Aug 20 12:40:26 +0000 2026",
+          "favorites": 216,
+          "text": "https://t.co/ptUoYuEW7n",
+          "lang": "zxx",
+          "views": "758861",
+          "quotes": 21,
+          "sensitive": false,
+          "replies": 11,
+          "retweets": 31,
+          "conversation_id": "2090418682534961283",
+          "author": {
+            "rest_id": "839423932184870914",
+            "created_at": "Wed Mar 08 10:33:55 +0000 2017",
+            "name": "Anatoli Kopadze",
+            "screen_name": "AnatoliKopadze",
+            "avatar": "https://pbs.twimg.com/profile_images/1634313760444751873/QfwY91Hp_normal.jpg",
+            "blue_verified": true
+          },
+          "media": []
+        }
+      },
+      {
+        "type": "tweet",
+        "tweet_id": "2096961757658886178",
+        "screen_name": "elune0x",
+        "bookmarks": 28,
+        "favorites": 24,
+        "created_at": "Mon Sep 07 14:00:17 +0000 2026",
+        "text": "Anthropic engineer:\n\n\"Most people use only 10% of what Claude can do\n\nThe other 90% is loops and graphs\"\n\nChat → Agents → Loops → Graphs\n\nIn 27 minutes, he explains how Anthropic actually uses Claude and why most users never reach that level\n\nMost people open a chat, write a good prompt, and stop when it works\n\nHe closes the chat and builds a system that keeps running without him\n\nSame model, same tokens, completely different workflow\n\nThis is worth more than most paid graph engineering courses\n\nWatch it today\n\nThen read the full graph engineering guide below and save it before everyone catches up ↓",
+        "lang": "en",
+        "display_text_range": [
+          0,
+          275
+        ],
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "quotes": 0,
+        "sensitive": false,
+        "replies": 0,
+        "conversation_id": "2096961757658886178",
+        "retweets": 2,
+        "views": "1105",
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "timestamps": [],
+          "urls": [],
+          "user_mentions": []
+        },
+        "user_info": {
+          "screen_name": "elune0x",
+          "name": "elune",
+          "created_at": "Fri Apr 21 13:40:50 +0000 2023",
+          "description": null,
+          "rest_id": "1649407831483768833",
+          "followers_count": 1027,
+          "favorites_count": 3448,
+          "avatar": "https://pbs.twimg.com/profile_images/2079658653024391168/q1bPo1_T_normal.jpg",
+          "url": null,
+          "cover_image": null,
+          "verified_type": null,
+          "verified": true,
+          "friends_count": null,
+          "location": "where?"
+        },
+        "media": {
+          "video": [
+            {
+              "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2096807254137987072/img/KMdlmh708wZSHcuT.jpg",
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/2096807254137987072/pl/WNl3xhKZyiUrkAnx.m3u8?tag=29"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2096807254137987072/vid/avc1/482x270/Ts9dxEBNGLSwRLA9.mp4?tag=29"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2096807254137987072/vid/avc1/642x360/4A6EbFdo07LcJs1P.mp4?tag=29"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2096807254137987072/vid/avc1/1286x720/IHq72AJwzZoLX10_.mp4?tag=29"
+                },
+                {
+                  "bitrate": 10368000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2096807254137987072/vid/avc1/1930x1080/EwLYctzJMEPWlH0T.mp4?tag=29"
+                }
+              ],
+              "aspect_ratio": [
+                1931,
+                1080
+              ],
+              "duration": 1649395,
+              "original_info": {
+                "focus_rects": [],
+                "height": 1080,
+                "width": 1931
+              },
+              "id": "2096807254137987072"
+            }
+          ]
+        },
+        "quoted": {
+          "tweet_id": "2093685107534000560",
+          "bookmarks": 2832,
+          "created_at": "Sat Aug 29 13:00:03 +0000 2026",
+          "favorites": 987,
+          "text": "https://t.co/3ANIWs48lJ",
+          "lang": "zxx",
+          "views": "1795831",
+          "quotes": 25,
+          "sensitive": false,
+          "replies": 49,
+          "retweets": 160,
+          "conversation_id": "2093685107534000560",
+          "author": {
+            "rest_id": "1675280785157287938",
+            "created_at": "Sat Jul 01 23:10:42 +0000 2023",
+            "name": "rari",
+            "screen_name": "0xwhrrari",
+            "avatar": "https://pbs.twimg.com/profile_images/2029005608125431808/RHmOjHaB_normal.jpg",
+            "blue_verified": true
+          },
+          "media": []
+        }
+      },
+      {
+        "type": "tweet",
+        "tweet_id": "2096366053743817157",
+        "screen_name": "igus_ai",
+        "bookmarks": 129,
+        "favorites": 205,
+        "created_at": "Sat Sep 05 22:33:10 +0000 2026",
+        "text": "🚨ASÍ ES COMO LA BURBUJA DE LA IA PODRÍA ROMPER EL S&P 500\n\nLee esto con calma antes de comprar una sola acción.\n\nSpaceX ya hizo historia.\n\nEn junio salió a bolsa en la mayor OPV de la historia: recaudó $75.000 millones con una valoración inicial de $1,77 billones.\n\nY ahora viene algo todavía más interesante:\n\nAnthropic apunta a salir a bolsa en octubre con una valoración de hasta $2 billones.\n\nOpenAI también ha iniciado el proceso para cotizar, aunque todo apunta a que su OPV llegará más adelante.\n\nY esto cambia el juego.\n\n1. EL MERCADO ACABA DE ABRIR UNA NUEVA VÍA PARA EL CAPITAL\n\nSpaceX ya demostró que existe demanda institucional para pagar valoraciones gigantescas por empresas de IA y tecnología.\n\nSu OPV terminó recaudando incluso más de lo inicialmente previsto después de las operaciones de los colocadores.\n\nAhora Anthropic quiere salir con una valoración potencial de $2 billones.\n\nEso significa que el mercado público está a punto de recibir otra de las mayores empresas tecnológicas del mundo.\n\nY los inversores tendrán que decidir de dónde sale ese capital.\n\n2. EL S&P 500 ESTÁ MÁS CONCENTRADO QUE NUNCA\n\nNvidia. Microsoft. Alphabet. Amazon. Meta. Apple. Tesla.\n\nLas grandes tecnológicas y las compañías vinculadas a la IA representan una parte enorme del índice.\n\nY ahora aparecen nuevos gigantes intentando captar parte del mismo capital institucional.\n\nLos fondos no crean cientos de miles de millones de dólares de liquidez de la nada.\n\nPara entrar en los nuevos ganadores, también pueden reducir posiciones en los antiguos.\n\nY cuando el mercado está tan concentrado, eso puede amplificar cualquier movimiento.\n\n3. EL VERDADERO RIESGO NO ES QUE ANTHROPIC SEA MALA\n\nEs exactamente lo contrario.\n\nSi Anthropic sale a bolsa con una valoración cercana a $2 billones, estará entrando directamente en el grupo de las empresas más valiosas del planeta.\n\nLos inversores tendrán que justificar una valoración que ya descuenta un crecimiento brutal.\n\nReuters ha informado de que Anthropic estaría proyectando unos ingresos de $190.000-$200.000 millones para 2028 para respaldar esa valoración.\n\nEse es el tipo de expectativa que puede convertir una OPV en un acontecimiento de mercado.\n\n4. Y AQUÍ ES DONDE LA HISTORIA SE REPITE\n\nEn las grandes burbujas, el capital termina concentrándose en unas pocas compañías consideradas prácticamente “infalibles”.\n\nPasó en los años 20.\n\nPasó en Japón.\n\nPasó durante la burbuja puntocom.\n\nEl problema no aparece cuando las empresas son malas.\n\nAparece cuando las expectativas se vuelven demasiado altas y el mercado deja de tener suficiente liquidez para sostenerlas.\n\nSpaceX ya ha demostrado que el apetito existe.\n\nAnthropic será la siguiente gran prueba.\n\nY después podría llegar OpenAI.\n\nLa pregunta ya no es si existe una burbuja de IA.\n\nLa pregunta es cuánto capital puede absorber el mercado antes de que alguien tenga que empezar a vender.\n\nPorque cuando todos quieren comprar al mismo tiempo, todo parece funcionar.\n\nEl problema empieza cuando alguien necesita salir.\n\nY ahí es cuando una concentración extrema puede convertirse en una caída extremadamente rápida.\n\nLa próxima señal importante será Anthropic.\n\nSi consigue una valoración cercana a $2 billones, habrá que mirar muy de cerca qué ocurre con Nvidia, Microsoft, Alphabet y el resto de las grandes posiciones del S&P 500.\n\nPorque quizá el verdadero riesgo para la bolsa no sea que la IA fracase.\n\nQuizá sea que la IA tenga tanto éxito que todo el mundo quiera comprarla al mismo tiempo.\n\nVoy a estar siguiendo muy de cerca cada movimiento.\n\nSi quieres entender lo que está pasando antes de que llegue a los titulares, sígueme y activa las notificaciones.",
+        "lang": "es",
+        "display_text_range": [
+          0,
+          283
+        ],
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "quotes": 2,
+        "sensitive": false,
+        "replies": 17,
+        "conversation_id": "2096366053743817157",
+        "retweets": 41,
+        "views": "537869",
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "timestamps": [],
+          "urls": [],
+          "user_mentions": []
+        },
+        "user_info": {
+          "screen_name": "igus_ai",
+          "name": "gus",
+          "created_at": "Thu Nov 19 23:58:59 +0000 2009",
+          "description": null,
+          "rest_id": "91225009",
+          "followers_count": 147576,
+          "favorites_count": 16588,
+          "avatar": "https://pbs.twimg.com/profile_images/2041450156508286976/3Q2tIQab_normal.jpg",
+          "url": null,
+          "cover_image": null,
+          "verified_type": null,
+          "verified": true,
+          "friends_count": null,
+          "location": "San Francisco, CA"
+        },
+        "media": {
+          "video": [
+            {
+              "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2096366021871579136/img/Fv_XOqIhZu7WgTXr.jpg",
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/2096366021871579136/pl/1VCniMwRCoK87aSc.m3u8?tag=29"
+                },
+                {
+                  "bitrate": 632000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2096366021871579136/vid/avc1/320x378/C5fkVSjrJ8ORNj4c.mp4?tag=29"
+                },
+                {
+                  "bitrate": 950000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2096366021871579136/vid/avc1/480x568/b20p1nRMKQDN1kAD.mp4?tag=29"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2096366021871579136/vid/avc1/720x852/-Gw9KZ7Gxo7OykXJ.mp4?tag=29"
+                },
+                {
+                  "bitrate": 10368000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2096366021871579136/vid/avc1/1086x1286/w6R8Qy6w1pWBVuwT.mp4?tag=29"
+                }
+              ],
+              "aspect_ratio": [
+                543,
+                643
+              ],
+              "duration": 28200,
+              "original_info": {
+                "focus_rects": [],
+                "height": 1286,
+                "width": 1086
+              },
+              "id": "2096366021871579136"
+            }
+          ]
+        },
+        "quoted": {
+          "tweet_id": "2096048168274395396",
+          "bookmarks": 54,
+          "created_at": "Sat Sep 05 01:30:00 +0000 2026",
+          "favorites": 1151,
+          "text": "JUST IN: Anthropic could file for a $2,000,000,000,000.00 IPO as soon as next week.",
+          "lang": "en",
+          "views": "116862",
+          "quotes": 20,
+          "sensitive": null,
+          "replies": 34,
+          "retweets": 55,
+          "conversation_id": "2096048168274395396",
+          "author": {
+            "rest_id": "1938262633871822848",
+            "created_at": "Thu Jun 26 15:47:07 +0000 2025",
+            "name": "Polymarket Money",
+            "screen_name": "PolymarketMoney",
+            "avatar": "https://pbs.twimg.com/profile_images/1992023020618092544/oixU2_L2_normal.jpg",
+            "blue_verified": true
+          },
+          "media": []
+        }
+      },
+      {
+        "type": "tweet",
+        "tweet_id": "2095968459939344561",
+        "screen_name": "res1dualedge",
+        "bookmarks": 1744,
+        "favorites": 798,
+        "created_at": "Fri Sep 04 20:13:16 +0000 2026",
+        "text": "Sam Altman (CEO of OpenAI):\n\n\"You don't need to write prompts anymore. You need loops and graphs.\"\n\nIn 40 minutes he explains how to use LLMs better than almost anyone does\n\nPrompts → Agents → Loops → Graphs\n\nmost people are still perfecting the message and waiting to see what comes back\n\nhe builds the shape once and stops writing messages altogether\n\nsame model, same tokens, completely different week\n\nwatch it today\n\nthe full graph engineering guide is below, save it while it is still early ↓",
+        "lang": "en",
+        "display_text_range": [
+          0,
+          277
+        ],
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "quotes": 2,
+        "sensitive": false,
+        "replies": 12,
+        "conversation_id": "2095968459939344561",
+        "retweets": 103,
+        "views": "270106",
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "timestamps": [],
+          "urls": [],
+          "user_mentions": []
+        },
+        "user_info": {
+          "screen_name": "res1dualedge",
+          "name": "Residual",
+          "created_at": "Mon Jul 20 05:23:56 +0000 2026",
+          "description": null,
+          "rest_id": "2079070117711781888",
+          "followers_count": 171,
+          "favorites_count": 314,
+          "avatar": "https://pbs.twimg.com/profile_images/2089766385064738816/2jvEE2-x_normal.jpg",
+          "url": null,
+          "cover_image": null,
+          "verified_type": null,
+          "verified": true,
+          "friends_count": null,
+          "location": ""
+        },
+        "media": {
+          "video": [
+            {
+              "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2095953404593950723/img/sbxqIbZ-Bg03j2QW.jpg",
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/2095953404593950723/pl/sXEc8-qC8mQL8BSk.m3u8?tag=29&v=bcd"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2095953404593950723/vid/avc1/480x270/n1ydZh1BKt5sS94T.mp4?tag=29"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2095953404593950723/vid/avc1/640x360/NlqvzCTZKPykpmjH.mp4?tag=29"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2095953404593950723/vid/avc1/1282x720/eOdtTv5NFSsGFWiY.mp4?tag=29"
+                },
+                {
+                  "bitrate": 10368000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2095953404593950723/vid/avc1/1924x1080/WHP6jhGSXI6GI0HN.mp4?tag=29"
+                }
+              ],
+              "aspect_ratio": [
+                385,
+                216
+              ],
+              "duration": 2406319,
+              "original_info": {
+                "focus_rects": [],
+                "height": 1080,
+                "width": 1925
+              },
+              "id": "2095953404593950723"
+            }
+          ]
+        },
+        "quoted": {
+          "tweet_id": "2091515787366306154",
+          "bookmarks": 3731,
+          "created_at": "Sun Aug 23 13:19:56 +0000 2026",
+          "favorites": 982,
+          "text": "https://t.co/5w8ILIIelz",
+          "lang": "zxx",
+          "views": "3281016",
+          "quotes": 21,
+          "sensitive": false,
+          "replies": 29,
+          "retweets": 133,
+          "conversation_id": "2091515787366306154",
+          "author": {
+            "rest_id": "1179477544439091201",
+            "created_at": "Wed Oct 02 19:25:47 +0000 2019",
+            "name": "Hanako",
+            "screen_name": "hanakoxbt",
+            "avatar": "https://pbs.twimg.com/profile_images/1942867829016911872/zDosF-7X_normal.jpg",
+            "blue_verified": true
+          },
+          "media": []
+        }
+      },
+      {
+        "type": "tweet",
+        "tweet_id": "2095592572286533644",
+        "screen_name": "goofyninjaaa",
+        "bookmarks": 2822,
+        "favorites": 7214,
+        "created_at": "Thu Sep 03 19:19:38 +0000 2026",
+        "text": "GPT-6 Astra modeló una casa completa en Blender y la convirtió en un recorrido en Unreal Engine 5. Sola.\n\nAlberca, jardín, sala, cocina. Así vas a ver tu casa antes de que exista.\n\nEso hoy lo cobra un estudio de visualización con arquitectos y artistas 3D.\n\nOpenAI dice que Astra ya maneja Blender, FreeCAD y KiCad como lo haría una persona: abre el programa, modela y exporta.\n\nEn BenchCAD, el examen de diseño CAD, sacó 95.9%.\n\nEl modelo anterior: 83.3%.\n\nY con Sites, dentro de ChatGPT, arma y publica sitios, apps y juegos desde un prompt.\n\nLos números y el video son de OpenAI.\n\n¿Le encargas tu casa a un arquitecto o se la pides a ChatGPT?",
+        "lang": "es",
+        "display_text_range": [
+          0,
+          279
+        ],
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "quotes": 83,
+        "sensitive": false,
+        "replies": 73,
+        "conversation_id": "2095592572286533644",
+        "retweets": 500,
+        "views": "666680",
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "timestamps": [],
+          "urls": [],
+          "user_mentions": []
+        },
+        "user_info": {
+          "screen_name": "goofyninjaaa",
+          "name": "Goofy",
+          "created_at": "Wed Jan 08 17:10:28 +0000 2025",
+          "description": null,
+          "rest_id": "1877040069879672832",
+          "followers_count": 2909,
+          "favorites_count": 4637,
+          "avatar": "https://pbs.twimg.com/profile_images/2087966361792262144/V5zwSq7u_normal.jpg",
+          "url": null,
+          "cover_image": null,
+          "verified_type": null,
+          "verified": true,
+          "friends_count": null,
+          "location": ""
+        },
+        "media": {
+          "video": [
+            {
+              "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2095592518834360322/img/ACkCNMifl5Z4v8cT.jpg",
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/2095592518834360322/pl/YR_4Q4Z-FXPPq3jx.m3u8?tag=29"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2095592518834360322/vid/avc1/480x270/DBuDSW2r_VyfTJYj.mp4?tag=29"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2095592518834360322/vid/avc1/640x360/RglARlvsY9UyRTc_.mp4?tag=29"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2095592518834360322/vid/avc1/1280x720/eOLAwTGWnq94epwW.mp4?tag=29"
+                },
+                {
+                  "bitrate": 10368000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2095592518834360322/vid/avc1/1600x900/9OHADRpIx4vDF3kL.mp4?tag=29"
+                }
+              ],
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration": 20000,
+              "original_info": {
+                "focus_rects": [],
+                "height": 900,
+                "width": 1600
+              },
+              "id": "2095592518834360322"
+            }
+          ]
+        }
+      },
+      {
+        "type": "tweet",
+        "tweet_id": "2096604330954457254",
+        "screen_name": "shmidtqq",
+        "bookmarks": 194,
+        "favorites": 267,
+        "created_at": "Sun Sep 06 14:20:00 +0000 2026",
+        "text": "Delete Unreal Engine immediately. The $200 billion gaming industry was permanently destroyed today.\n\nOpenAI just officially dropped GPT-6 Astra, and it is generating two completely different interactive 3D AAA games live on screen:\n\n1. Top screen: A hyper-speed sci-fi racer hitting 1,300 km/h with dynamic neon physics and real-time obstacle rendering.\n2. Bottom screen: A fully playable FPS shooter with line-of-sight AI bots, weapon recoil, and complex urban geometry.\n3. 0 developers involved. 0 lines of C++ code written. 50,000+ 3D assets generated on the fly at 120 FPS.\n4. What used to cost Sony and Ubisoft $300,000,000 and 5 years of labor now takes a single text prompt and 2 seconds.\n5. In 12 months, 90% of current game studios will either adapt to AI prompt engines or go bankrupt.\n\nIf you are still ignoring AI in 2026, your skills are officially obsolete.\n\nSave this before it gets scrubbed from the internet.",
+        "lang": "en",
+        "display_text_range": [
+          0,
+          274
+        ],
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "quotes": 5,
+        "sensitive": false,
+        "replies": 59,
+        "conversation_id": "2096604330954457254",
+        "retweets": 20,
+        "views": "62185",
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "timestamps": [],
+          "urls": [],
+          "user_mentions": []
+        },
+        "user_info": {
+          "screen_name": "shmidtqq",
+          "name": "shmidt",
+          "created_at": "Sat Oct 09 19:21:30 +0000 2021",
+          "description": null,
+          "rest_id": "1446918442989277185",
+          "followers_count": 11345,
+          "favorites_count": 75230,
+          "avatar": "https://pbs.twimg.com/profile_images/2068398835886440449/CBfDKDgF_normal.jpg",
+          "url": null,
+          "cover_image": null,
+          "verified_type": null,
+          "verified": true,
+          "friends_count": null,
+          "location": "info  ➜"
+        },
+        "media": {
+          "video": [
+            {
+              "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2096604168383586305/img/3WpyH6Twn8xmHz4s.jpg",
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/2096604168383586305/pl/S-MTbdzR-NgG1dsO.m3u8?tag=29&v=cfc"
+                },
+                {
+                  "bitrate": 632000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2096604168383586305/vid/avc1/320x568/RtCYgAnNFtnbAla6.mp4?tag=29"
+                },
+                {
+                  "bitrate": 950000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2096604168383586305/vid/avc1/480x852/sJUgJC3Usc-KHSV0.mp4?tag=29"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2096604168383586305/vid/avc1/720x1280/fYUx9B6ViqpwC3X-.mp4?tag=29"
+                }
+              ],
+              "aspect_ratio": [
+                9,
+                16
+              ],
+              "duration": 30950,
+              "original_info": {
+                "focus_rects": [],
+                "height": 1280,
+                "width": 720
+              },
+              "id": "2096604168383586305"
+            }
+          ]
+        },
+        "quoted": {
+          "tweet_id": "2096290771288961169",
+          "bookmarks": 67,
+          "created_at": "Sat Sep 05 17:34:01 +0000 2026",
+          "favorites": 114,
+          "text": "NEW GPT-6 ASTRA GENERATED THIS ENTIRE 3D GAME IN 5 MINS WITH ZERO HUMAN CODE.\n\nLook at what ChatGPT just created from a single prompt:\n\n1. A simple text prompt built a full 4K world with real-time rainwater physics and 360-degree free camera controls.\n2. Over 14,000 interactive https://t.co/JTmbQBv9W3",
+          "lang": "en",
+          "views": "84801",
+          "quotes": 3,
+          "sensitive": false,
+          "replies": 23,
+          "retweets": 9,
+          "conversation_id": "2096290771288961169",
+          "author": {
+            "rest_id": "1446918442989277185",
+            "created_at": "Sat Oct 09 19:21:30 +0000 2021",
+            "name": "shmidt",
+            "screen_name": "shmidtqq",
+            "avatar": "https://pbs.twimg.com/profile_images/2068398835886440449/CBfDKDgF_normal.jpg",
+            "blue_verified": true
+          },
+          "media": {
+            "video": [
+              {
+                "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2096289432005394433/img/ByDTJCOlPUO9rM-j.jpg",
+                "variants": [
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/amplify_video/2096289432005394433/pl/-CAiOF-ZjrU08xnO.m3u8?tag=29&v=cfc"
+                  },
+                  {
+                    "bitrate": 256000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2096289432005394433/vid/avc1/460x270/e8Ig1JtbcQqW3V2g.mp4?tag=29"
+                  },
+                  {
+                    "bitrate": 832000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2096289432005394433/vid/avc1/614x360/nl-9JlAMRWlXGlHC.mp4?tag=29"
+                  },
+                  {
+                    "bitrate": 2176000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2096289432005394433/vid/avc1/1080x632/6dvarSymC30Wp0Qp.mp4?tag=29"
+                  }
+                ],
+                "aspect_ratio": [
+                  135,
+                  79
+                ],
+                "duration": 18566,
+                "original_info": {
+                  "focus_rects": [],
+                  "height": 632,
+                  "width": 1080
+                },
+                "id": "2096289432005394433"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "type": "tweet",
+        "tweet_id": "2096253402099454443",
+        "screen_name": "marcusyul",
+        "bookmarks": 98,
+        "favorites": 163,
+        "created_at": "Sat Sep 05 15:05:32 +0000 2026",
+        "text": "GPT-6 ASTRA MODELÓ UNA CASA ENTERA EN BLENDER Y LA CONVIRTIÓ EN UN RECORRIDO EN REAL.\n\nAlberca, jardín, sala, cocina. Así vas a ver tu casa antes de que exista.\n\n→ Abre el programa, modela y exporta\n→ Blender, FreeCAD y KiCad\n→ 95.9% en BenchCAD (antes: 83.3%)\n→ Con Sites publica webs, apps y juegos desde un prompt\n\nEso hoy lo cobra un estudio de visualización con arquitectos y artistas 3D.\n\nLos números y el vídeo son de OpenAI.\n\n¿Le encargas tu casa a un arquitecto o se la pides a ChatGPT?",
+        "lang": "es",
+        "display_text_range": [
+          0,
+          272
+        ],
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "quotes": 2,
+        "sensitive": false,
+        "replies": 22,
+        "conversation_id": "2096253402099454443",
+        "retweets": 30,
+        "views": "20217",
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "timestamps": [],
+          "urls": [],
+          "user_mentions": []
+        },
+        "user_info": {
+          "screen_name": "marcusyul",
+          "name": "marcus",
+          "created_at": "Mon Sep 21 14:41:34 +0000 2020",
+          "description": null,
+          "rest_id": "1308053727539068935",
+          "followers_count": 547163,
+          "favorites_count": 34869,
+          "avatar": "https://pbs.twimg.com/profile_images/2055048793670787072/KU39HxsL_normal.jpg",
+          "url": null,
+          "cover_image": null,
+          "verified_type": null,
+          "verified": true,
+          "friends_count": null,
+          "location": ""
+        },
+        "media": {
+          "video": [
+            {
+              "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2096253095218941952/img/nqlyqObRnM5E1wDV.jpg",
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/2096253095218941952/pl/gQIRo-JIEPo6-swn.m3u8?tag=29"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2096253095218941952/vid/avc1/480x270/SwS0eDY4G0NzPad2.mp4?tag=29"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2096253095218941952/vid/avc1/640x360/PuSHL2GfuVcrTyNL.mp4?tag=29"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2096253095218941952/vid/avc1/1280x720/-xsrC1aozwSkOq75.mp4?tag=29"
+                },
+                {
+                  "bitrate": 10368000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2096253095218941952/vid/avc1/1600x900/74mrtOpxPxIpQCjs.mp4?tag=29"
+                }
+              ],
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration": 20000,
+              "original_info": {
+                "focus_rects": [],
+                "height": 900,
+                "width": 1600
+              },
+              "id": "2096253095218941952"
+            }
+          ]
+        }
+      },
+      {
+        "type": "tweet",
+        "tweet_id": "2096541972156846373",
+        "screen_name": "zodchiii",
+        "bookmarks": 1363,
+        "favorites": 954,
+        "created_at": "Sun Sep 06 10:12:12 +0000 2026",
+        "text": "Sam Altman (CEO of OpenAI):\n\n\"We're going to see 10-person billion-dollar companies pretty soon.\"\n\n\"Astra does in one afternoon what your team plans for a quarter. And it shipped three days ago.\"\n\nMost people will read this, feel inspired for 3 minutes, and go back to what they were doing.\n\nThe ones who act will build a money making machine this weekend.\n\nWatch it, then save the exact Astra-6 setup guide below 👇",
+        "lang": "en",
+        "display_text_range": [
+          0,
+          278
+        ],
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "quotes": 8,
+        "sensitive": false,
+        "replies": 38,
+        "conversation_id": "2096541972156846373",
+        "retweets": 83,
+        "views": "397509",
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "timestamps": [],
+          "urls": [],
+          "user_mentions": []
+        },
+        "user_info": {
+          "screen_name": "zodchiii",
+          "name": "darkzodchi",
+          "created_at": "Sun Feb 09 22:40:28 +0000 2020",
+          "description": null,
+          "rest_id": "1226636978256564226",
+          "followers_count": 26231,
+          "favorites_count": 9930,
+          "avatar": "https://pbs.twimg.com/profile_images/1999509933302124544/ABxY9N7S_normal.jpg",
+          "url": null,
+          "cover_image": null,
+          "verified_type": null,
+          "verified": true,
+          "friends_count": null,
+          "location": ""
+        },
+        "media": {
+          "video": [
+            {
+              "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2096541946215038977/img/xdTmFFzYGfz4oL_F.jpg",
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/2096541946215038977/pl/Ro0W7bTz9aWPahpa.m3u8?tag=29&v=cfc"
+                },
+                {
+                  "bitrate": 432000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2096541946215038977/vid/avc1/320x320/jmm9NSr7p9G5RklI.mp4?tag=29"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2096541946215038977/vid/avc1/540x540/pXgDJV-bOdi6sAFi.mp4?tag=29"
+                },
+                {
+                  "bitrate": 1280000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2096541946215038977/vid/avc1/720x720/1p1LMNwsqgMMPCAZ.mp4?tag=29"
+                }
+              ],
+              "aspect_ratio": [
+                1,
+                1
+              ],
+              "duration": 22058,
+              "original_info": {
+                "focus_rects": [],
+                "height": 720,
+                "width": 720
+              },
+              "id": "2096541946215038977"
+            }
+          ]
+        },
+        "quoted": {
+          "tweet_id": "2095806517500932190",
+          "bookmarks": 1642,
+          "created_at": "Fri Sep 04 09:29:46 +0000 2026",
+          "favorites": 395,
+          "text": "https://t.co/6gEZ4NSnbP",
+          "lang": "zxx",
+          "views": "1586263",
+          "quotes": 16,
+          "sensitive": false,
+          "replies": 10,
+          "retweets": 49,
+          "conversation_id": "2095806517500932190",
+          "author": {
+            "rest_id": "1226636978256564226",
+            "created_at": "Sun Feb 09 22:40:28 +0000 2020",
+            "name": "darkzodchi",
+            "screen_name": "zodchiii",
+            "avatar": "https://pbs.twimg.com/profile_images/1999509933302124544/ABxY9N7S_normal.jpg",
+            "blue_verified": true
+          },
+          "media": []
+        }
+      },
+      {
+        "type": "tweet",
+        "tweet_id": "2096955112296005891",
+        "screen_name": "MAXdeg0",
+        "bookmarks": 13,
+        "favorites": 35,
+        "created_at": "Mon Sep 07 13:33:52 +0000 2026",
+        "text": "WHY ARE AI DEVELOPERS STILL PAYING FOR 5+ DIFFERENT APIs? \n\nGPT -> Claude -> Gemini -> DeepSeek -> Grok.\n\nDifferent providers. Different keys. Different integrations. And a growing API bill.\n\nDIT ai changes that.\n\n→ One API gives you access to 50+ leading AI models with a single key.\n\n→ Lower costs requests are routed across 160+ providers to find competitive real time pricing, with typical savings of 30–70% depending on the model and route.\n\n→ Keep your stack — DIT ai is OpenAI compatible. \nChange your base URL + API key instead of rebuilding your entire integration.\n\n→ Automatic failover — if an upstream provider fails before the response begins, DIT ai automatically reroutes to another qualified provider. \n\nFor AI agents, SaaS products, startups, and anyone pushing serious API volume, this could make managing AI infrastructure a lot simpler.\n\nSame models. One key. Lower bill. \n\nLINK BELOW TO TRY IT OUT",
+        "lang": "en",
+        "display_text_range": [
+          0,
+          291
+        ],
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "quotes": 3,
+        "sensitive": false,
+        "replies": 14,
+        "conversation_id": "2096955112296005891",
+        "retweets": 5,
+        "views": "957",
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "timestamps": [],
+          "urls": [],
+          "user_mentions": []
+        },
+        "user_info": {
+          "screen_name": "MAXdeg0",
+          "name": "MAX",
+          "created_at": "Mon Oct 09 10:36:10 +0000 2023",
+          "description": null,
+          "rest_id": "1711329644237012992",
+          "followers_count": 9882,
+          "favorites_count": 120773,
+          "avatar": "https://pbs.twimg.com/profile_images/2078712065410080768/n75TAdiw_normal.jpg",
+          "url": null,
+          "cover_image": null,
+          "verified_type": null,
+          "verified": true,
+          "friends_count": null,
+          "location": ""
+        },
+        "media": {
+          "video": [
+            {
+              "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2096954034213228544/img/W4JxaKSPpCutSqf6.jpg",
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/2096954034213228544/pl/hLK9jdhQZOTslWaI.m3u8?tag=29"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2096954034213228544/vid/avc1/572x270/u_auY9PO1Jds_K2A.mp4?tag=29"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2096954034213228544/vid/avc1/762x360/Se9rWtjufep1c0rC.mp4?tag=29"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2096954034213228544/vid/avc1/1256x592/vO4VjtI0n5spkQsk.mp4?tag=29"
+                }
+              ],
+              "aspect_ratio": [
+                157,
+                74
+              ],
+              "duration": 32085,
+              "original_info": {
+                "focus_rects": [],
+                "height": 592,
+                "width": 1256
+              },
+              "id": "2096954034213228544"
+            }
+          ]
+        }
+      },
+      {
+        "type": "tweet",
+        "tweet_id": "2096513253430194402",
+        "screen_name": "AamirAnsar94694",
+        "bookmarks": 302,
+        "favorites": 391,
+        "created_at": "Sun Sep 06 08:18:05 +0000 2026",
+        "text": "ChatGPT is no longer just a chatbot.\n\nIt’s becoming an entire AI ecosystem that connects models, reasoning, research, tools, memory, projects, and automation.\n\nHere’s how the ecosystem fits together:\n\n1. MODELS\n\nDifferent models can serve different needs.\n\n→ GPT-5.6 Sol for frontier reasoning\n→ GPT-5.6 Terra for balanced everyday intelligence\n→ GPT-5.6 Luna for fast and capable AI\n\nThe idea is simple: use the right model for the right task.\n\n2. CHAT & REASONING\n\nThis is where ChatGPT understands and works with your input.\n\n→ Reasoning for harder problems\n→ Voice for natural conversations\n→ Files & images for understanding documents and visuals\n→ Multimodal input for working across different formats\n\n3. RESEARCH & CREATION\n\nChatGPT can move beyond answering questions and help create things.\n\n→ Deep Research for complex research\n→ ChatGPT Images for visuals\n→ Documents for polished content\n→ Spreadsheets for analysis\n→ Presentations for slide creation\n→ Sites for building websites\n\n4. WORK & AGENTS\n\nThis is where ChatGPT starts behaving more like an AI coworker.\n\n→ ChatGPT Work for longer-running tasks\n→ Scheduled Tasks for recurring work\n→ Monitoring for watching things and detecting changes\n→ Codex for software development\n→ Connected tools for working across external systems\n\n5. MEMORY & CONTEXT\n\nAI becomes much more useful when it understands the context around your work.\n\n→ Memory remembers useful details\n→ Projects keep related chats and files together\n→ Project Context maintains context within a project\n→ Personal Context helps personalize interactions\n→ Files provide additional source material\n→ Instructions define how ChatGPT should respond\n\n6. APPS & AUTOMATION\n\nThe ecosystem can also connect with other capabilities.\n\n→ Connections\n→ External tools\n→ Skills\n→ Custom GPTs\n→ Plugins\n→ Automation\n→ Reusable workflows\n\nThis is the bigger shift:\n\nChatGPT is moving from:\n\n“Ask a question → Get an answer”\n\nto:\n\n“Give it a goal → Research → Reason → Use tools → Create → Execute → Monitor → Deliver”\n\nThat’s why the future of AI isn’t only about having a smarter model.\n\nIt’s about building an ecosystem around that model that can actually help you get work done.\n\nSave this visual for later.\n\nFollow @AamirAnsar94694 for more AI, tools, productivity and tech insights.\n\n#ChatGPT #OpenAI #AI #AIAgents #ArtificialIntelligence #LLM #AITools #Productivity #Tech",
+        "lang": "en",
+        "display_text_range": [
+          0,
+          274
+        ],
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "quotes": 1,
+        "sensitive": false,
+        "replies": 33,
+        "conversation_id": "2096513253430194402",
+        "retweets": 82,
+        "views": "19675",
+        "entities": {
+          "hashtags": [
+            {
+              "indices": [
+                2305,
+                2313
+              ],
+              "text": "ChatGPT"
+            },
+            {
+              "indices": [
+                2314,
+                2321
+              ],
+              "text": "OpenAI"
+            },
+            {
+              "indices": [
+                2322,
+                2325
+              ],
+              "text": "AI"
+            },
+            {
+              "indices": [
+                2326,
+                2335
+              ],
+              "text": "AIAgents"
+            },
+            {
+              "indices": [
+                2336,
+                2359
+              ],
+              "text": "ArtificialIntelligence"
+            },
+            {
+              "indices": [
+                2360,
+                2364
+              ],
+              "text": "LLM"
+            },
+            {
+              "indices": [
+                2365,
+                2373
+              ],
+              "text": "AITools"
+            },
+            {
+              "indices": [
+                2374,
+                2387
+              ],
+              "text": "Productivity"
+            },
+            {
+              "indices": [
+                2388,
+                2393
+              ],
+              "text": "Tech"
+            }
+          ],
+          "symbols": [],
+          "timestamps": [],
+          "urls": [],
+          "user_mentions": [
+            {
+              "id_str": "1788483941067870208",
+              "indices": [
+                2235,
+                2251
+              ],
+              "name": "Amir Ansari",
+              "screen_name": "AamirAnsar94694"
+            }
+          ]
+        },
+        "user_info": {
+          "screen_name": "AamirAnsar94694",
+          "name": "Amir Ansari",
+          "created_at": "Thu May 09 08:20:04 +0000 2024",
+          "description": null,
+          "rest_id": "1788483941067870208",
+          "followers_count": 3103,
+          "favorites_count": 49681,
+          "avatar": "https://pbs.twimg.com/profile_images/1997337069618946048/_FU0l6wo_normal.jpg",
+          "url": null,
+          "cover_image": null,
+          "verified_type": null,
+          "verified": true,
+          "friends_count": null,
+          "location": "India"
+        },
+        "media": {
+          "video": [
+            {
+              "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2096513216503529473/img/XJgMMssLp3Wijy41.jpg",
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/2096513216503529473/pl/Nmj-WS-lxSRsc0Xz.m3u8?tag=29"
+                },
+                {
+                  "bitrate": 632000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2096513216503529473/vid/avc1/320x386/ZaD_iguDrjU9acGj.mp4?tag=29"
+                },
+                {
+                  "bitrate": 950000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2096513216503529473/vid/avc1/480x580/N_Uyp-TE40oSd-Lc.mp4?tag=29"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2096513216503529473/vid/avc1/720x870/mKfD3vk5Z9dYWpAJ.mp4?tag=29"
+                },
+                {
+                  "bitrate": 10368000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2096513216503529473/vid/avc1/800x968/CDZUU6bzg_niC7xk.mp4?tag=29"
+                }
+              ],
+              "aspect_ratio": [
+                100,
+                121
+              ],
+              "duration": 6000,
+              "original_info": {
+                "focus_rects": [],
+                "height": 968,
+                "width": 800
+              },
+              "id": "2096513216503529473"
+            }
+          ]
+        }
+      },
+      {
+        "type": "tweet",
+        "tweet_id": "2096296744317227459",
+        "screen_name": "kyr0stack",
+        "bookmarks": 1536,
+        "favorites": 618,
+        "created_at": "Sat Sep 05 17:57:45 +0000 2026",
+        "text": "Sam Altman (CEO of OpenAI):\n\n\"You don't need to write prompts anymore. You need loops and graphs.\"\n\nIn 39 minutes he explains how to use LLMs better than almost anyone does\n\nPrompts → Agents → Loops → Graphs\n\nskip a layer and it comes back as a failure you blame on the model\n\nby the time you find it the week is already gone\n\nthat is the whole difference between using AI and having AI work for you\n\nwatch it today, then save the full graph engineering guide below ↓",
+        "lang": "en",
+        "display_text_range": [
+          0,
+          275
+        ],
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "quotes": 2,
+        "sensitive": false,
+        "replies": 17,
+        "conversation_id": "2096296744317227459",
+        "retweets": 85,
+        "views": "229013",
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "timestamps": [],
+          "urls": [],
+          "user_mentions": []
+        },
+        "user_info": {
+          "screen_name": "kyr0stack",
+          "name": "Kyrox",
+          "created_at": "Mon Jul 20 06:00:02 +0000 2026",
+          "description": null,
+          "rest_id": "2079081918709063680",
+          "followers_count": 407,
+          "favorites_count": 243,
+          "avatar": "https://pbs.twimg.com/profile_images/2086924096168697856/rODde1Nw_normal.jpg",
+          "url": null,
+          "cover_image": null,
+          "verified_type": null,
+          "verified": true,
+          "friends_count": null,
+          "location": ""
+        },
+        "media": {
+          "video": [
+            {
+              "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2096269498924007424/img/FySo76dwLPDLgz3j.jpg",
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/2096269498924007424/pl/0mPetF7Zpja3Ibca.m3u8?tag=29&v=812"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2096269498924007424/vid/avc1/482x270/bg_g9MbIyE3siuzQ.mp4?tag=29"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2096269498924007424/vid/avc1/642x360/KOg6A31__c5rPtnO.mp4?tag=29"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2096269498924007424/vid/avc1/1284x720/VaQ_w2Nem18FFVss.mp4?tag=29"
+                },
+                {
+                  "bitrate": 10368000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2096269498924007424/vid/avc1/1928x1080/Z3B4ljoyn6TVczn2.mp4?tag=29"
+                }
+              ],
+              "aspect_ratio": [
+                241,
+                135
+              ],
+              "duration": 2390529,
+              "original_info": {
+                "focus_rects": [],
+                "height": 1080,
+                "width": 1928
+              },
+              "id": "2096269498924007424"
+            }
+          ]
+        },
+        "quoted": {
+          "tweet_id": "2091515787366306154",
+          "bookmarks": 3731,
+          "created_at": "Sun Aug 23 13:19:56 +0000 2026",
+          "favorites": 982,
+          "text": "https://t.co/5w8ILIIelz",
+          "lang": "zxx",
+          "views": "3281016",
+          "quotes": 21,
+          "sensitive": false,
+          "replies": 29,
+          "retweets": 133,
+          "conversation_id": "2091515787366306154",
+          "author": {
+            "rest_id": "1179477544439091201",
+            "created_at": "Wed Oct 02 19:25:47 +0000 2019",
+            "name": "Hanako",
+            "screen_name": "hanakoxbt",
+            "avatar": "https://pbs.twimg.com/profile_images/1942867829016911872/zDosF-7X_normal.jpg",
+            "blue_verified": true
+          },
+          "media": []
+        }
+      },
+      {
+        "type": "tweet",
+        "tweet_id": "2096980452309336444",
+        "screen_name": "xiathis",
+        "bookmarks": 8,
+        "favorites": 27,
+        "created_at": "Mon Sep 07 15:14:34 +0000 2026",
+        "text": "El CEO de OPENAI dándose cuenta de que GPT-6 Astra salió hace 5 días y una persona ya lo uso para crear un sitio web 3D de $35,000 que desarma la anatomía humana en 2.234 piezas https://t.co/bJnrYZcTEy",
+        "lang": "es",
+        "display_text_range": [
+          0,
+          177
+        ],
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "quotes": 0,
+        "sensitive": false,
+        "replies": 4,
+        "conversation_id": "2096980452309336444",
+        "retweets": 5,
+        "views": "1573",
+        "entities": {
+          "media": [
+            {
+              "additional_media_info": {
+                "monetizable": false
+              },
+              "allow_download_status": {
+                "allow_download": true
+              },
+              "display_url": "pic.x.com/bJnrYZcTEy",
+              "expanded_url": "https://x.com/xiathis/status/2096980452309336444/video/1",
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "id_str": "2096980404255506432",
+              "indices": [
+                178,
+                201
+              ],
+              "media_key": "13_2096980404255506432",
+              "media_results": {
+                "result": {
+                  "media_key": "13_2096980404255506432"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2096980404255506432/img/7B_iE4oHE5KKTii4.jpg",
+              "original_info": {
+                "focus_rects": [],
+                "height": 804,
+                "width": 1280
+              },
+              "sizes": {
+                "large": {
+                  "h": 804,
+                  "resize": "fit",
+                  "w": 1280
+                },
+                "medium": {
+                  "h": 754,
+                  "resize": "fit",
+                  "w": 1200
+                },
+                "small": {
+                  "h": 427,
+                  "resize": "fit",
+                  "w": 680
+                },
+                "thumb": {
+                  "h": 150,
+                  "resize": "crop",
+                  "w": 150
+                }
+              },
+              "type": "video",
+              "url": "https://t.co/bJnrYZcTEy",
+              "video_info": {
+                "aspect_ratio": [
+                  320,
+                  201
+                ],
+                "duration_millis": 29166,
+                "variants": [
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/amplify_video/2096980404255506432/pl/M7ysTKY_3pE8yQCA.m3u8?tag=29"
+                  },
+                  {
+                    "bitrate": 256000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2096980404255506432/vid/avc1/428x270/X226eVNuJE4FMUbD.mp4?tag=29"
+                  },
+                  {
+                    "bitrate": 832000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2096980404255506432/vid/avc1/572x360/ZoeW5zStV6g2BnLE.mp4?tag=29"
+                  },
+                  {
+                    "bitrate": 2176000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2096980404255506432/vid/avc1/1146x720/AGG9QN8O4KIblEcf.mp4?tag=29"
+                  },
+                  {
+                    "bitrate": 10368000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2096980404255506432/vid/avc1/1280x804/pcLaudfAl9QAgUOy.mp4?tag=29"
+                  }
+                ]
+              }
+            }
+          ],
+          "hashtags": [],
+          "symbols": [],
+          "timestamps": [],
+          "urls": [],
+          "user_mentions": []
+        },
+        "user_info": {
+          "screen_name": "xiathis",
+          "name": "xIA",
+          "created_at": "Thu May 21 04:59:29 +0000 2020",
+          "description": null,
+          "rest_id": "1263333519327203329",
+          "followers_count": 111069,
+          "favorites_count": 32303,
+          "avatar": "https://pbs.twimg.com/profile_images/2041136431855513600/OOdLC0zL_normal.jpg",
+          "url": null,
+          "cover_image": null,
+          "verified_type": null,
+          "verified": true,
+          "friends_count": null,
+          "location": " ੈ✩‧₊˚ ˚ ༘✩‧₊˚ ˚ "
+        },
+        "media": {
+          "video": [
+            {
+              "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2096980404255506432/img/7B_iE4oHE5KKTii4.jpg",
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/2096980404255506432/pl/M7ysTKY_3pE8yQCA.m3u8?tag=29"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2096980404255506432/vid/avc1/428x270/X226eVNuJE4FMUbD.mp4?tag=29"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2096980404255506432/vid/avc1/572x360/ZoeW5zStV6g2BnLE.mp4?tag=29"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2096980404255506432/vid/avc1/1146x720/AGG9QN8O4KIblEcf.mp4?tag=29"
+                },
+                {
+                  "bitrate": 10368000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2096980404255506432/vid/avc1/1280x804/pcLaudfAl9QAgUOy.mp4?tag=29"
+                }
+              ],
+              "aspect_ratio": [
+                320,
+                201
+              ],
+              "duration": 29166,
+              "original_info": {
+                "focus_rects": [],
+                "height": 804,
+                "width": 1280
+              },
+              "id": "2096980404255506432"
+            }
+          ]
+        },
+        "quoted": {
+          "tweet_id": "2096835230942265469",
+          "bookmarks": 2822,
+          "created_at": "Mon Sep 07 05:37:31 +0000 2026",
+          "favorites": 4076,
+          "text": "GPT-6 is crazy 💀\n\nA person has just created a website in 3D that disassembles the human body in 2.234 interactive pieces modeled with GPT-6 Astra https://t.co/z2CZHhdQaX",
+          "lang": "en",
+          "views": "756024",
+          "quotes": 38,
+          "sensitive": false,
+          "replies": 65,
+          "retweets": 358,
+          "conversation_id": "2096835230942265469",
+          "author": {
+            "rest_id": "1494465562109521923",
+            "created_at": "Fri Feb 18 00:15:59 +0000 2022",
+            "name": "me",
+            "screen_name": "twetsfyp",
+            "avatar": "https://pbs.twimg.com/profile_images/2063015723929378816/j3djglYe_normal.jpg",
+            "blue_verified": true
+          },
+          "media": {
+            "video": [
+              {
+                "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2096835081293754375/img/yqy99iQPSWeyu374.jpg",
+                "variants": [
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/amplify_video/2096835081293754375/pl/S6m1CtG0HG0OQazM.m3u8?tag=29"
+                  },
+                  {
+                    "bitrate": 256000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2096835081293754375/vid/avc1/494x270/uVV7FibnjzSWEAn3.mp4?tag=29"
+                  },
+                  {
+                    "bitrate": 832000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2096835081293754375/vid/avc1/658x360/RjesJ5zn_L6BUy-J.mp4?tag=29"
+                  },
+                  {
+                    "bitrate": 2176000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2096835081293754375/vid/avc1/1318x720/iH1LOUFY6R90_b1v.mp4?tag=29"
+                  },
+                  {
+                    "bitrate": 10368000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2096835081293754375/vid/avc1/1978x1080/BLGeLc2Erbfm2yW3.mp4?tag=29"
+                  },
+                  {
+                    "bitrate": 25128000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2096835081293754375/vid/avc1/3840x2096/Ya1io0KokqiTWzjE.mp4?tag=29"
+                  }
+                ],
+                "aspect_ratio": [
+                  240,
+                  131
+                ],
+                "duration": 38566,
+                "original_info": {
+                  "focus_rects": [],
+                  "height": 2096,
+                  "width": 3840
+                },
+                "id": "2096835081293754375"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "type": "tweet",
+        "tweet_id": "2095613463888339201",
+        "screen_name": "kyr0stack",
+        "bookmarks": 3540,
+        "favorites": 1079,
+        "created_at": "Thu Sep 03 20:42:39 +0000 2026",
+        "text": "Andrej Karpathy spent 8 years at OpenAI and Tesla\n\nLast week he compressed everything he knows into one free 2-hour lecture\n\nAgents → Loops → Harness → Graphs\n\nPeople spend $15k on bootcamps that teach less than this\n\nYou probably don't have 2 hours right now\n\nDon't let it vanish from your feed\n\nWatch it, then read the graph engineering guide below",
+        "lang": "en",
+        "display_text_range": [
+          0,
+          273
+        ],
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "quotes": 6,
+        "sensitive": false,
+        "replies": 16,
+        "conversation_id": "2095613463888339201",
+        "retweets": 199,
+        "views": "288593",
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "timestamps": [],
+          "urls": [],
+          "user_mentions": []
+        },
+        "user_info": {
+          "screen_name": "kyr0stack",
+          "name": "Kyrox",
+          "created_at": "Mon Jul 20 06:00:02 +0000 2026",
+          "description": null,
+          "rest_id": "2079081918709063680",
+          "followers_count": 407,
+          "favorites_count": 243,
+          "avatar": "https://pbs.twimg.com/profile_images/2086924096168697856/rODde1Nw_normal.jpg",
+          "url": null,
+          "cover_image": null,
+          "verified_type": null,
+          "verified": true,
+          "friends_count": null,
+          "location": ""
+        },
+        "media": {
+          "video": [
+            {
+              "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2095602496467349504/img/3oVi3WFIzwMT9YP_.jpg",
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/2095602496467349504/pl/7KuI3oWGWmKMzE6a.m3u8?tag=29&v=cbe"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2095602496467349504/vid/avc1/482x270/qXiCBlHeWwBrzvTl.mp4?tag=29"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2095602496467349504/vid/avc1/644x360/Ehrj4ytkOH4pfIqn.mp4?tag=29"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2095602496467349504/vid/avc1/1288x720/qyGBFxk-96wMYk1O.mp4?tag=29"
+                },
+                {
+                  "bitrate": 10368000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2095602496467349504/vid/avc1/1932x1080/MiWUV5Jo93TVXCsX.mp4?tag=29"
+                }
+              ],
+              "aspect_ratio": [
+                161,
+                90
+              ],
+              "duration": 7747955,
+              "original_info": {
+                "focus_rects": [],
+                "height": 1080,
+                "width": 1932
+              },
+              "id": "2095602496467349504"
+            }
+          ]
+        },
+        "quoted": {
+          "tweet_id": "2091515787366306154",
+          "bookmarks": 3731,
+          "created_at": "Sun Aug 23 13:19:56 +0000 2026",
+          "favorites": 982,
+          "text": "https://t.co/5w8ILIIelz",
+          "lang": "zxx",
+          "views": "3281016",
+          "quotes": 21,
+          "sensitive": false,
+          "replies": 29,
+          "retweets": 133,
+          "conversation_id": "2091515787366306154",
+          "author": {
+            "rest_id": "1179477544439091201",
+            "created_at": "Wed Oct 02 19:25:47 +0000 2019",
+            "name": "Hanako",
+            "screen_name": "hanakoxbt",
+            "avatar": "https://pbs.twimg.com/profile_images/1942867829016911872/zDosF-7X_normal.jpg",
+            "blue_verified": true
+          },
+          "media": []
+        }
+      },
+      {
+        "type": "tweet",
+        "tweet_id": "2096691211277058172",
+        "screen_name": "Argona0x",
+        "bookmarks": 110,
+        "favorites": 79,
+        "created_at": "Sun Sep 06 20:05:14 +0000 2026",
+        "text": "they shipped the one they weren't scared of\n\nsam altman went on bloomberg while the launch post was passing 127 million views and said the model OpenAI paused over cyber risk isn't GPT-6 Astra. it's the next one. Astra \"finished training a long time ago\"\n\nthe old one, to them, beat Portal start to finish, found 2 security holes nobody knew existed and built a playable 3D game from one prompt in 45 minutes\n\nand it costs $0 on top of a plan you already have:\n\n→ open Astra once a day, not all day. Plus gives you 5 hours and they're gone in 13 minutes on High\n→ give it one job: the decision. which client, which offer, what to build. it reads the real data, reviews, listings, complaints, and writes the brief in 2 minutes\n→ hand the brief to a cheap model for everything else: the site, the emails, the follow-ups. Astra thinks, something else types\n→ delete half your instructions. it gets better with less, the long rulebooks were written for older models\n→ tell it \"the smallest version that closes the deal\". alone it builds a cathedral for a one-page fix and eats your 5 hours doing it\n→ month one: your first invoice. it doesn't get slower after that\n\nyour $20 plan and a Fortune 500 are running the same brain right now. that has never been true before\n\nthe expensive part of Astra isn't the $20. it's the 13 minutes you let it think about the wrong thing\n\nthe ones already invoicing on it don't post about the model at all, and now you know why\n\nevery week you wait, someone with the same $20 plan calls the business you drive past every day\n\nfull playbook below\n\nbookmark this before the next model ships to enterprise first",
+        "lang": "en",
+        "display_text_range": [
+          0,
+          277
+        ],
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "quotes": 0,
+        "sensitive": false,
+        "replies": 7,
+        "conversation_id": "2096691211277058172",
+        "retweets": 8,
+        "views": "18174",
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "timestamps": [],
+          "urls": [],
+          "user_mentions": []
+        },
+        "user_info": {
+          "screen_name": "Argona0x",
+          "name": "Argona",
+          "created_at": "Fri Sep 12 20:27:59 +0000 2025",
+          "description": null,
+          "rest_id": "1966599631900438528",
+          "followers_count": 30029,
+          "favorites_count": 13818,
+          "avatar": "https://pbs.twimg.com/profile_images/2074194587824889856/HEijowP__normal.jpg",
+          "url": null,
+          "cover_image": null,
+          "verified_type": null,
+          "verified": true,
+          "friends_count": null,
+          "location": "collabs / DM open"
+        },
+        "media": {
+          "video": [
+            {
+              "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2096689743190704132/img/fXxLESsh4ZvqsSYJ.jpg",
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/2096689743190704132/pl/Pc2HJmMy8xYj9S6N.m3u8?tag=29&v=cfc"
+                },
+                {
+                  "bitrate": 632000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2096689743190704132/vid/avc1/320x568/X0IApxKX0-wS7BeS.mp4?tag=29"
+                },
+                {
+                  "bitrate": 950000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2096689743190704132/vid/avc1/480x852/RFa4guhnqbt9djTm.mp4?tag=29"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2096689743190704132/vid/avc1/720x1280/jbL3uyEKgG-plpoi.mp4?tag=29"
+                },
+                {
+                  "bitrate": 10368000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2096689743190704132/vid/avc1/1080x1920/HZYV6PbT4eHCd00x.mp4?tag=29"
+                }
+              ],
+              "aspect_ratio": [
+                9,
+                16
+              ],
+              "duration": 30000,
+              "original_info": {
+                "focus_rects": [],
+                "height": 1920,
+                "width": 1080
+              },
+              "id": "2096689743190704132"
+            }
+          ]
+        },
+        "quoted": {
+          "tweet_id": "2095611559334797790",
+          "bookmarks": 76,
+          "created_at": "Thu Sep 03 20:35:04 +0000 2026",
+          "favorites": 42,
+          "text": "https://t.co/JPKjd7NHCP",
+          "lang": "zxx",
+          "views": "33772",
+          "quotes": 2,
+          "sensitive": false,
+          "replies": 8,
+          "retweets": 0,
+          "conversation_id": "2095611559334797790",
+          "author": {
+            "rest_id": "1966599631900438528",
+            "created_at": "Fri Sep 12 20:27:59 +0000 2025",
+            "name": "Argona",
+            "screen_name": "Argona0x",
+            "avatar": "https://pbs.twimg.com/profile_images/2074194587824889856/HEijowP__normal.jpg",
+            "blue_verified": true
+          },
+          "media": []
+        }
+      }
+    ],
+    "next_cursor": "DAACCgACHRoDGPhAJxAKAAMdGgMY-D_Y8AgABAAAAAILAAUAAADwRW1QQzZ3QUFBZlEvZ0dKTjB2R3AvQUFBQUJRZEdmaWNjTllCZkIwV1lEV2JHM0N4SFJVTk9WYWE4VlFkRjRySVJOWVJ3eDBZMm9tdUZvQ0xIUm5XOVFzWEFYSWRGZXVUcnBzQXV4MFlvb2ZkRmdDbUhSaHAwTk1iRVNVZEYyTmMzMWVSNngwWThZeEQya0I4SFJoUHNqbWE4T0lkR2VHUWdsZkJBeDBWQ2xkeEZnQU1IUk9ESjI5V2tDSWRGZXZ6SXBZeDlCMFZIVmVsbHlFQkhSZkowYUNXY2NVZEdlZWJ3Tll3SWgwWXUzWmFHdEd2CAAGAAAAAAgABwAAAAAMAAgKAAEdE4Mnb1aQIgAAAA",
+    "prev_cursor": "DAACCgACHRoDGPhAJxAKAAMdGgMY-D_Y8AgABAAAAAELAAUAAADwRW1QQzZ3QUFBZlEvZ0dKTjB2R3AvQUFBQUJRZEdmaWNjTllCZkIwV1lEV2JHM0N4SFJVTk9WYWE4VlFkRjRySVJOWVJ3eDBZMm9tdUZvQ0xIUm5XOVFzWEFYSWRGZXVUcnBzQXV4MFlvb2ZkRmdDbUhSaHAwTk1iRVNVZEYyTmMzMWVSNngwWThZeEQya0I4SFJoUHNqbWE4T0lkR2VHUWdsZkJBeDBWQ2xkeEZnQU1IUk9ESjI5V2tDSWRGZXZ6SXBZeDlCMFZIVmVsbHlFQkhSZkowYUNXY2NVZEdlZWJ3Tll3SWgwWXUzWmFHdEd2CAAGAAAAAAgABwAAAAAMAAgKAAEdE4Mnb1aQIgAAAA"
+  },
+  "recordTime": null
+}
