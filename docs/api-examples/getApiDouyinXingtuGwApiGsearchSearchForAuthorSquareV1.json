@@ -1,6 +1,6 @@
 {
-  "_fetchedAt": "2026-09-08T00:56:35.668554+08:00",
-  "_sourceCheckedAt": "2026-09-08T00:00:05",
+  "_fetchedAt": "2026-09-08T01:00:21.185073+08:00",
+  "_sourceCheckedAt": "2026-09-08T01:00:05",
   "code": 0,
   "message": null,
   "data": {
@@ -230,7 +230,7 @@
           "expected_natural_play_num": "8697118",
           "expected_play_num": "10411044",
           "fans_increment_rate_within_15d": "0.001855738744939069",
-          "fans_increment_within_30d": "27488926.12",
+          "fans_increment_within_30d": "157214",
           "follower": "57982902",
           "game_item_count_90d": "2",
           "game_type": "{\"\\u52a8\\u4f5c\": 1.0}",
@@ -363,6 +363,16 @@
               {
                 "end_time": "2145916800",
                 "platform_source": 1,
+                "price": 600000,
+                "price_extra_info": {},
+                "start_time": "1777564800",
+                "task_category": 1,
+                "video_type": 94,
+                "video_type_status": 1
+              },
+              {
+                "end_time": "2145916800",
+                "platform_source": 1,
                 "price": 628000,
                 "price_extra_info": {},
                 "start_time": "1787646373",
@@ -378,26 +388,6 @@
                 "start_time": "1787646373",
                 "task_category": 1,
                 "video_type": 2,
-                "video_type_status": 1
-              },
-              {
-                "end_time": "2145916800",
-                "platform_source": 1,
-                "price": 600000,
-                "price_extra_info": {},
-                "start_time": "1777564800",
-                "task_category": 1,
-                "video_type": 94,
-                "video_type_status": 1
-              },
-              {
-                "end_time": "2145916800",
-                "platform_source": 1,
-                "price": 600000,
-                "price_extra_info": {},
-                "start_time": "1788497329",
-                "task_category": 1,
-                "video_type": 150,
                 "video_type_status": 1
               },
               {
@@ -428,6 +418,16 @@
                 "start_time": "1730421694",
                 "task_category": 1,
                 "video_type": 73,
+                "video_type_status": 1
+              },
+              {
+                "end_time": "2145916800",
+                "platform_source": 1,
+                "price": 600000,
+                "price_extra_info": {},
+                "start_time": "1788497329",
+                "task_category": 1,
+                "video_type": 150,
                 "video_type_status": 1
               }
             ],
@@ -595,16 +595,6 @@
               {
                 "end_time": "2145916800",
                 "platform_source": 1,
-                "price": 188900,
-                "price_extra_info": {},
-                "start_time": "1735660800",
-                "task_category": 1,
-                "video_type": 2,
-                "video_type_status": 1
-              },
-              {
-                "end_time": "2145916800",
-                "platform_source": 1,
                 "price": 420000,
                 "price_extra_info": {},
                 "start_time": "1735660800",
@@ -615,11 +605,11 @@
               {
                 "end_time": "2145916800",
                 "platform_source": 1,
-                "price": 37780,
+                "price": 188900,
                 "price_extra_info": {},
-                "start_time": "1733288390",
+                "start_time": "1735660800",
                 "task_category": 1,
-                "video_type": 151,
+                "video_type": 2,
                 "video_type_status": 1
               },
               {
@@ -630,6 +620,16 @@
                 "start_time": "1758023260",
                 "task_category": 1,
                 "video_type": 150,
+                "video_type_status": 1
+              },
+              {
+                "end_time": "2145916800",
+                "platform_source": 1,
+                "price": 37780,
+                "price_extra_info": {},
+                "start_time": "1733288390",
+                "task_category": 1,
+                "video_type": 151,
                 "video_type_status": 1
               },
               {
@@ -784,21 +784,11 @@
               {
                 "end_time": "2145916800",
                 "platform_source": 1,
-                "price": 70000,
+                "price": 30000,
                 "price_extra_info": {},
-                "start_time": "1783441150",
+                "start_time": "1669824000",
                 "task_category": 1,
-                "video_type": 2,
-                "video_type_status": 1
-              },
-              {
-                "end_time": "2145916800",
-                "platform_source": 1,
-                "price": 72300,
-                "price_extra_info": {},
-                "start_time": "1783441150",
-                "task_category": 1,
-                "video_type": 71,
+                "video_type": 90,
                 "video_type_status": 1
               },
               {
@@ -814,11 +804,21 @@
               {
                 "end_time": "2145916800",
                 "platform_source": 1,
-                "price": 30000,
+                "price": 70000,
                 "price_extra_info": {},
-                "start_time": "1669824000",
+                "start_time": "1783441150",
                 "task_category": 1,
-                "video_type": 90,
+                "video_type": 2,
+                "video_type_status": 1
+              },
+              {
+                "end_time": "2145916800",
+                "platform_source": 1,
+                "price": 72300,
+                "price_extra_info": {},
+                "start_time": "1783441150",
+                "task_category": 1,
+                "video_type": 71,
                 "video_type_status": 1
               }
             ],
@@ -967,6 +967,16 @@
               {
                 "end_time": "2145916800",
                 "platform_source": 1,
+                "price": 8600,
+                "price_extra_info": {},
+                "start_time": "1666361627",
+                "task_category": 1,
+                "video_type": 91,
+                "video_type_status": 1
+              },
+              {
+                "end_time": "2145916800",
+                "platform_source": 1,
                 "price": 1800000,
                 "price_extra_info": {},
                 "start_time": "1782835200",
@@ -982,16 +992,6 @@
                 "start_time": "1782835200",
                 "task_category": 1,
                 "video_type": 2,
-                "video_type_status": 1
-              },
-              {
-                "end_time": "2145916800",
-                "platform_source": 1,
-                "price": 8600,
-                "price_extra_info": {},
-                "start_time": "1666361627",
-                "task_category": 1,
-                "video_type": 91,
                 "video_type_status": 1
               }
             ],
@@ -1029,7 +1029,7 @@
           "expected_natural_play_num": "2084472",
           "expected_play_num": "2645761",
           "fans_increment_rate_within_15d": "-0.004093695548772575",
-          "fans_increment_within_30d": "19349768.23",
+          "fans_increment_within_30d": "-145439",
           "follower": "15799386",
           "game_type": "",
           "gender": "2",
@@ -1156,6 +1156,26 @@
               {
                 "end_time": "2145916800",
                 "platform_source": 1,
+                "price": 140000,
+                "price_extra_info": {},
+                "start_time": "1788192000",
+                "task_category": 1,
+                "video_type": 151,
+                "video_type_status": 1
+              },
+              {
+                "end_time": "2145916800",
+                "platform_source": 1,
+                "price": 900000,
+                "price_extra_info": {},
+                "start_time": "1787651116",
+                "task_category": 1,
+                "video_type": 150,
+                "video_type_status": 1
+              },
+              {
+                "end_time": "2145916800",
+                "platform_source": 1,
                 "price": 500000,
                 "price_extra_info": {},
                 "start_time": "1722441600",
@@ -1190,7 +1210,7 @@
                 "price_extra_info": {},
                 "start_time": "1788192000",
                 "task_category": 1,
-                "video_type": 2,
+                "video_type": 71,
                 "video_type_status": 1
               },
               {
@@ -1200,27 +1220,7 @@
                 "price_extra_info": {},
                 "start_time": "1788192000",
                 "task_category": 1,
-                "video_type": 71,
-                "video_type_status": 1
-              },
-              {
-                "end_time": "2145916800",
-                "platform_source": 1,
-                "price": 140000,
-                "price_extra_info": {},
-                "start_time": "1788192000",
-                "task_category": 1,
-                "video_type": 151,
-                "video_type_status": 1
-              },
-              {
-                "end_time": "2145916800",
-                "platform_source": 1,
-                "price": 900000,
-                "price_extra_info": {},
-                "start_time": "1787651116",
-                "task_category": 1,
-                "video_type": 150,
+                "video_type": 2,
                 "video_type_status": 1
               }
             ],
@@ -1256,7 +1256,7 @@
           "expected_natural_play_num": "845321",
           "expected_play_num": "2870047",
           "fans_increment_rate_within_15d": "0.0013086083641599517",
-          "fans_increment_within_30d": "-12761",
+          "fans_increment_within_30d": "6238983.13",
           "follower": "14344333",
           "game_type": "",
           "gender": "2",
@@ -1382,16 +1382,6 @@
               {
                 "end_time": "2145916800",
                 "platform_source": 1,
-                "price": 600000,
-                "price_extra_info": {},
-                "start_time": "1787909225",
-                "task_category": 1,
-                "video_type": 150,
-                "video_type_status": 1
-              },
-              {
-                "end_time": "2145916800",
-                "platform_source": 1,
                 "price": 450000,
                 "price_extra_info": {},
                 "start_time": "1725120000",
@@ -1417,6 +1407,16 @@
                 "start_time": "1772531565",
                 "task_category": 1,
                 "video_type": 2,
+                "video_type_status": 1
+              },
+              {
+                "end_time": "2145916800",
+                "platform_source": 1,
+                "price": 600000,
+                "price_extra_info": {},
+                "start_time": "1787909225",
+                "task_category": 1,
+                "video_type": 150,
                 "video_type_status": 1
               }
             ],
@@ -1447,7 +1447,7 @@
           "expected_natural_play_num": "822468",
           "expected_play_num": "417779",
           "fans_increment_rate_within_15d": "-0.0015154237286733496",
-          "fans_increment_within_30d": "-45103",
+          "fans_increment_within_30d": "68",
           "follower": "13277875",
           "game_type": "",
           "gender": "1",
@@ -1765,16 +1765,6 @@
               {
                 "end_time": "2145916800",
                 "platform_source": 1,
-                "price": 283000,
-                "price_extra_info": {},
-                "start_time": "1775203447",
-                "task_category": 1,
-                "video_type": 150,
-                "video_type_status": 1
-              },
-              {
-                "end_time": "2145916800",
-                "platform_source": 1,
                 "price": 149350,
                 "price_extra_info": {},
                 "start_time": "1693302362",
@@ -1795,6 +1785,16 @@
               {
                 "end_time": "2145916800",
                 "platform_source": 1,
+                "price": 206500,
+                "price_extra_info": {},
+                "start_time": "1775203447",
+                "task_category": 1,
+                "video_type": 71,
+                "video_type_status": 1
+              },
+              {
+                "end_time": "2145916800",
+                "platform_source": 1,
                 "price": 141500,
                 "price_extra_info": {},
                 "start_time": "1775203447",
@@ -1805,11 +1805,11 @@
               {
                 "end_time": "2145916800",
                 "platform_source": 1,
-                "price": 206500,
+                "price": 283000,
                 "price_extra_info": {},
                 "start_time": "1775203447",
                 "task_category": 1,
-                "video_type": 71,
+                "video_type": 150,
                 "video_type_status": 1
               }
             ],
@@ -1977,11 +1977,11 @@
               {
                 "end_time": "2145916800",
                 "platform_source": 1,
-                "price": 70000,
+                "price": 188000,
                 "price_extra_info": {},
-                "start_time": "1701360000",
+                "start_time": "1762489004",
                 "task_category": 1,
-                "video_type": 91,
+                "video_type": 150,
                 "video_type_status": 1
               },
               {
@@ -1997,11 +1997,11 @@
               {
                 "end_time": "2145916800",
                 "platform_source": 1,
-                "price": 158000,
+                "price": 70000,
                 "price_extra_info": {},
-                "start_time": "1762488976",
+                "start_time": "1701360000",
                 "task_category": 1,
-                "video_type": 71,
+                "video_type": 91,
                 "video_type_status": 1
               },
               {
@@ -2017,11 +2017,11 @@
               {
                 "end_time": "2145916800",
                 "platform_source": 1,
-                "price": 188000,
+                "price": 158000,
                 "price_extra_info": {},
-                "start_time": "1762489004",
+                "start_time": "1762488976",
                 "task_category": 1,
-                "video_type": 150,
+                "video_type": 71,
                 "video_type_status": 1
               }
             ],
@@ -2233,7 +2233,7 @@
           "expected_natural_play_num": "1066322",
           "expected_play_num": "996894",
           "fans_increment_rate_within_15d": "0.0023033699730512862",
-          "fans_increment_within_30d": "36743.25",
+          "fans_increment_within_30d": "120721",
           "follower": "10937327",
           "game_type": "{\"\\u5c04\\u51fb\": 1.0}",
           "gender": "1",
@@ -2360,21 +2360,21 @@
               {
                 "end_time": "2145916800",
                 "platform_source": 1,
-                "price": 100000,
-                "price_extra_info": {},
-                "start_time": "1664553600",
-                "task_category": 1,
-                "video_type": 90,
-                "video_type_status": 1
-              },
-              {
-                "end_time": "2145916800",
-                "platform_source": 1,
                 "price": 40000,
                 "price_extra_info": {},
                 "start_time": "1664553600",
                 "task_category": 1,
                 "video_type": 91,
+                "video_type_status": 1
+              },
+              {
+                "end_time": "2145916800",
+                "platform_source": 1,
+                "price": 100000,
+                "price_extra_info": {},
+                "start_time": "1664553600",
+                "task_category": 1,
+                "video_type": 90,
                 "video_type_status": 1
               },
               {
@@ -2536,21 +2536,21 @@
               {
                 "end_time": "2145916800",
                 "platform_source": 1,
-                "price": 80000,
+                "price": 90000,
                 "price_extra_info": {},
-                "start_time": "1635696000",
+                "start_time": "1679016988",
                 "task_category": 1,
-                "video_type": 91,
+                "video_type": 73,
                 "video_type_status": 1
               },
               {
                 "end_time": "2145916800",
                 "platform_source": 1,
-                "price": 200000,
+                "price": 80000,
                 "price_extra_info": {},
-                "start_time": "1727712000",
+                "start_time": "1635696000",
                 "task_category": 1,
-                "video_type": 71,
+                "video_type": 91,
                 "video_type_status": 1
               },
               {
@@ -2568,19 +2568,19 @@
                 "platform_source": 1,
                 "price": 200000,
                 "price_extra_info": {},
-                "start_time": "1784271060",
+                "start_time": "1727712000",
                 "task_category": 1,
-                "video_type": 150,
+                "video_type": 71,
                 "video_type_status": 1
               },
               {
                 "end_time": "2145916800",
                 "platform_source": 1,
-                "price": 90000,
+                "price": 200000,
                 "price_extra_info": {},
-                "start_time": "1679016988",
+                "start_time": "1784271060",
                 "task_category": 1,
-                "video_type": 73,
+                "video_type": 150,
                 "video_type_status": 1
               }
             ],
@@ -2615,7 +2615,7 @@
           "expected_natural_play_num": "355294",
           "expected_play_num": "349747",
           "fans_increment_rate_within_15d": "-0.0016988549349292905",
-          "fans_increment_within_30d": "466.8",
+          "fans_increment_within_30d": "-35645",
           "follower": "9969877",
           "game_type": "",
           "gender": "2",
@@ -2742,36 +2742,6 @@
               {
                 "end_time": "2145916800",
                 "platform_source": 1,
-                "price": 168000,
-                "price_extra_info": {},
-                "start_time": "1751299200",
-                "task_category": 1,
-                "video_type": 91,
-                "video_type_status": 1
-              },
-              {
-                "end_time": "2145916800",
-                "platform_source": 1,
-                "price": 168000,
-                "price_extra_info": {},
-                "start_time": "1751299200",
-                "task_category": 1,
-                "video_type": 90,
-                "video_type_status": 1
-              },
-              {
-                "end_time": "2145916800",
-                "platform_source": 1,
-                "price": 168000,
-                "price_extra_info": {},
-                "start_time": "1788192000",
-                "task_category": 1,
-                "video_type": 71,
-                "video_type_status": 1
-              },
-              {
-                "end_time": "2145916800",
-                "platform_source": 1,
                 "price": 108000,
                 "price_extra_info": {},
                 "start_time": "1788192000",
@@ -2796,7 +2766,37 @@
                 "price_extra_info": {},
                 "start_time": "1788192000",
                 "task_category": 1,
+                "video_type": 71,
+                "video_type_status": 1
+              },
+              {
+                "end_time": "2145916800",
+                "platform_source": 1,
+                "price": 168000,
+                "price_extra_info": {},
+                "start_time": "1788192000",
+                "task_category": 1,
                 "video_type": 150,
+                "video_type_status": 1
+              },
+              {
+                "end_time": "2145916800",
+                "platform_source": 1,
+                "price": 168000,
+                "price_extra_info": {},
+                "start_time": "1751299200",
+                "task_category": 1,
+                "video_type": 91,
+                "video_type_status": 1
+              },
+              {
+                "end_time": "2145916800",
+                "platform_source": 1,
+                "price": 168000,
+                "price_extra_info": {},
+                "start_time": "1751299200",
+                "task_category": 1,
+                "video_type": 90,
                 "video_type_status": 1
               }
             ],
@@ -2945,13 +2945,6 @@
             "platform_source": 1,
             "price_infos": [
               {
-                "platform_source": 1,
-                "price": 0,
-                "task_category": 1,
-                "video_type": 150,
-                "video_type_status": 1
-              },
-              {
                 "end_time": "2145916800",
                 "platform_source": 1,
                 "price": 1200000,
@@ -2969,6 +2962,13 @@
                 "start_time": "1782827757",
                 "task_category": 1,
                 "video_type": 2,
+                "video_type_status": 1
+              },
+              {
+                "platform_source": 1,
+                "price": 0,
+                "task_category": 1,
+                "video_type": 150,
                 "video_type_status": 1
               }
             ],
@@ -3122,26 +3122,6 @@
               {
                 "end_time": "2145916800",
                 "platform_source": 1,
-                "price": 90000,
-                "price_extra_info": {},
-                "start_time": "1763721521",
-                "task_category": 1,
-                "video_type": 73,
-                "video_type_status": 1
-              },
-              {
-                "end_time": "2145916800",
-                "platform_source": 1,
-                "price": 360000,
-                "price_extra_info": {},
-                "start_time": "1786799076",
-                "task_category": 1,
-                "video_type": 150,
-                "video_type_status": 1
-              },
-              {
-                "end_time": "2145916800",
-                "platform_source": 1,
                 "price": 180000,
                 "price_extra_info": {},
                 "start_time": "1786799076",
@@ -3164,6 +3144,26 @@
                 "start_time": "1786799076",
                 "task_category": 1,
                 "video_type": 71,
+                "video_type_status": 1
+              },
+              {
+                "end_time": "2145916800",
+                "platform_source": 1,
+                "price": 90000,
+                "price_extra_info": {},
+                "start_time": "1763721521",
+                "task_category": 1,
+                "video_type": 73,
+                "video_type_status": 1
+              },
+              {
+                "end_time": "2145916800",
+                "platform_source": 1,
+                "price": 360000,
+                "price_extra_info": {},
+                "start_time": "1786799076",
+                "task_category": 1,
+                "video_type": 150,
                 "video_type_status": 1
               }
             ],
@@ -3324,26 +3324,6 @@
               {
                 "end_time": "2145916800",
                 "platform_source": 1,
-                "price": 600000,
-                "price_extra_info": {},
-                "start_time": "1711900800",
-                "task_category": 1,
-                "video_type": 2,
-                "video_type_status": 1
-              },
-              {
-                "end_time": "2145916800",
-                "platform_source": 1,
-                "price": 800000,
-                "price_extra_info": {},
-                "start_time": "1711900800",
-                "task_category": 1,
-                "video_type": 71,
-                "video_type_status": 1
-              },
-              {
-                "end_time": "2145916800",
-                "platform_source": 1,
                 "price": 1000000,
                 "price_extra_info": {},
                 "start_time": "1743436800",
@@ -3359,6 +3339,26 @@
                 "start_time": "1743436800",
                 "task_category": 1,
                 "video_type": 90,
+                "video_type_status": 1
+              },
+              {
+                "end_time": "2145916800",
+                "platform_source": 1,
+                "price": 800000,
+                "price_extra_info": {},
+                "start_time": "1711900800",
+                "task_category": 1,
+                "video_type": 71,
+                "video_type_status": 1
+              },
+              {
+                "end_time": "2145916800",
+                "platform_source": 1,
+                "price": 600000,
+                "price_extra_info": {},
+                "start_time": "1711900800",
+                "task_category": 1,
+                "video_type": 2,
                 "video_type_status": 1
               }
             ],
@@ -3837,11 +3837,11 @@
               {
                 "end_time": "2145916800",
                 "platform_source": 1,
-                "price": 105000,
+                "price": 50000,
                 "price_extra_info": {},
-                "start_time": "1698768000",
+                "start_time": "1782827598",
                 "task_category": 1,
-                "video_type": 91,
+                "video_type": 2,
                 "video_type_status": 1
               },
               {
@@ -3857,11 +3857,11 @@
               {
                 "end_time": "2145916800",
                 "platform_source": 1,
-                "price": 50000,
+                "price": 105000,
                 "price_extra_info": {},
-                "start_time": "1782827598",
+                "start_time": "1698768000",
                 "task_category": 1,
-                "video_type": 2,
+                "video_type": 91,
                 "video_type_status": 1
               }
             ],
@@ -3881,7 +3881,7 @@
       "is_intent_consistent": true,
       "search_author_count": 0,
       "search_item_count": 0,
-      "search_session_id": "7682818465941864511",
+      "search_session_id": "7682835754900275263",
       "speaker_live_base_dis": []
     },
     "pagination": {

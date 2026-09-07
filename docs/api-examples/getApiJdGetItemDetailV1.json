@@ -1,6 +1,6 @@
 {
-  "_fetchedAt": "2026-09-08T00:56:44.581048+08:00",
-  "_sourceCheckedAt": "2026-09-08T00:00:09",
+  "_fetchedAt": "2026-09-08T01:00:30.062392+08:00",
+  "_sourceCheckedAt": "2026-09-08T01:00:08",
   "code": 0,
   "message": null,
   "data": {
@@ -90,14 +90,14 @@
         "venderBizid": "",
         "msbybt": "1",
         "venderAttribute": ",HYS001,",
-        "isdangergoods": "0",
-        "canUseJQ": true,
-        "jzfp": false,
-        "canUseDQ": true,
-        "isJDMarket": "0",
-        "isYouImports": "1",
         "giftsGoods": "0",
-        "isLqkt": "0"
+        "isLqkt": "0",
+        "canUseDQ": true,
+        "canUseJQ": true,
+        "isJDMarket": "0",
+        "jzfp": false,
+        "isYouImports": "1",
+        "isdangergoods": "0"
       },
       "productArea": "法国",
       "saleDate": "2024-12-26 22:54:45",
@@ -124,9 +124,9 @@
       "skuType": 1,
       "maxCartCat": "999",
       "flbusimodel": "1",
+      "jdexpress": false,
       "pop": false,
       "daojia": false,
-      "jdexpress": false,
       "mainImages": [
         "https://img30.360buyimg.com/sku/jfs/t1/509644/31/12432/180409/6a9e7411Fd911bcc0/00833e83e8e0c6a1.jpg",
         "https://img30.360buyimg.com/sku/jfs/t1/502232/32/9310/95007/6a86dd03Fa830c2d6/00833e83e8c9cd2d.jpg",
@@ -164,7 +164,7 @@
         "fontFamily": "JDZH-Regular-Price",
         "dailyDesc": "日常价",
         "rangeDesc": "已补贴",
-        "subsidized": "??",
+        "subsidized": "??",
         "subsidizedDesc": "补贴价",
         "promoDesc": "超级补贴价"
       },
@@ -461,9 +461,9 @@
             "name": "7天价保",
             "shortDesc": "7天内买贵退差价",
             "iHelpLink": "https://ihelp.jd.com/l/help/scene/getSceneDetail?id=325798",
-            "mimgUrl2": "//m.360buyimg.com/lme/jfs/t1/222228/21/20461/3101/63048db5Ef37ece2e/83f0be5658b2f25b.png",
             "mimgUrl": "//m.360buyimg.com/babel/jfs/t1/222474/40/8926/4033/61de8162E9b3a5a0c/b11a4cc5342015b0.png",
-            "ihelpLink": "https://ihelp.jd.com/l/help/scene/getSceneDetail?id=325798"
+            "ihelpLink": "https://ihelp.jd.com/l/help/scene/getSceneDetail?id=325798",
+            "mimgUrl2": "//m.360buyimg.com/lme/jfs/t1/222228/21/20461/3101/63048db5Ef37ece2e/83f0be5658b2f25b.png"
           },
           {
             "code": "s24",
@@ -471,8 +471,8 @@
             "logoUrl": "//m.360buyimg.com/babel/jfs/t1/165294/34/4317/1381/60113548E6eeea0be/3da037b6d436cda6.png",
             "name": "破损包退换",
             "shortDesc": "商品破损包退包换",
-            "mimgUrl2": "//m.360buyimg.com/lme/jfs/t1/171083/32/29633/1927/63036085Ea2a870b4/6ca0d9411282993c.png",
-            "mimgUrl": "//m.360buyimg.com/babel/jfs/t1/219430/22/10828/5229/61de8162E4e3e011e/15400959dff92730.png"
+            "mimgUrl": "//m.360buyimg.com/babel/jfs/t1/219430/22/10828/5229/61de8162E4e3e011e/15400959dff92730.png",
+            "mimgUrl2": "//m.360buyimg.com/lme/jfs/t1/171083/32/29633/1927/63036085Ea2a870b4/6ca0d9411282993c.png"
           }
         ]
       },
@@ -557,7 +557,7 @@
       "listFontEncryptBusinessInfo": [
         {
           "fontFamily": "JDZH-Regular-Price",
-          "url": "https://spider-font-oss.360buyimg.com/spiderFontFormal_1788710404063_627071b3-b38c-4301-99c7-c7663a945cef.otf"
+          "url": "https://spider-font-oss.360buyimg.com/spiderFontFormal_1788796805809_1ae71244-fdc3-4680-ac19-86dbaf9602a4.otf"
         }
       ],
       "avpJd": false
@@ -622,8 +622,8 @@
           "searchWord": "",
           "channel": "PRODUCT_DETAIL_M"
         },
-        "textBold": false,
-        "paramBelongs2UIExp": false
+        "paramBelongs2UIExp": false,
+        "textBold": false
       }
     ],
     "plusLimitBuy": {

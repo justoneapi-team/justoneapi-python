@@ -1,6 +1,6 @@
 {
-  "_fetchedAt": "2026-09-08T00:56:31.936692+08:00",
-  "_sourceCheckedAt": "2026-09-08T00:00:04",
+  "_fetchedAt": "2026-09-08T01:00:17.452723+08:00",
+  "_sourceCheckedAt": "2026-09-08T01:00:04",
   "code": 0,
   "message": null,
   "data": {
@@ -10,23 +10,109 @@
     },
     "distributions": [
       {
-        "description": "男性居多,占比76%",
+        "description": "苹果手机占比25%, 消费能力较好",
         "distribution_list": [
           {
-            "distribution_key": "female",
-            "distribution_value": "1748499"
+            "distribution_key": "荣耀",
+            "distribution_value": "747001"
           },
           {
-            "distribution_key": "male",
-            "distribution_value": "5672385"
+            "distribution_key": "小米",
+            "distribution_value": "485463"
+          },
+          {
+            "distribution_key": "其他",
+            "distribution_value": "1196314"
+          },
+          {
+            "distribution_key": "iPhone",
+            "distribution_value": "1875648"
+          },
+          {
+            "distribution_key": "oppo",
+            "distribution_value": "812432"
+          },
+          {
+            "distribution_key": "红米",
+            "distribution_value": "581044"
+          },
+          {
+            "distribution_key": "vivo",
+            "distribution_value": "956304"
+          },
+          {
+            "distribution_key": "华为",
+            "distribution_value": "773934"
           }
         ],
         "image": [
-          "男性居多"
+          "苹果手机较多"
         ],
-        "origin_type": 0,
-        "type": 1,
-        "type_display": "性别分布"
+        "origin_type": 3,
+        "type": 8,
+        "type_display": "设备品牌分布"
+      },
+      {
+        "description": "一线居多,占比27%",
+        "distribution_list": [
+          {
+            "distribution_key": "五线",
+            "distribution_value": "823156"
+          },
+          {
+            "distribution_key": "四线",
+            "distribution_value": "1273809"
+          },
+          {
+            "distribution_key": "二线",
+            "distribution_value": "1454131"
+          },
+          {
+            "distribution_key": "三线",
+            "distribution_value": "1783182"
+          },
+          {
+            "distribution_key": "一线",
+            "distribution_value": "2035768"
+          }
+        ],
+        "image": [
+          "一线居多"
+        ],
+        "origin_type": 5,
+        "type": 32,
+        "type_display": "城市等级分布"
+      },
+      {
+        "description": "18到23岁居多,占比28%",
+        "distribution_list": [
+          {
+            "distribution_key": "41-50",
+            "distribution_value": "731594"
+          },
+          {
+            "distribution_key": "24-30",
+            "distribution_value": "793442"
+          },
+          {
+            "distribution_key": "50+",
+            "distribution_value": "1077143"
+          },
+          {
+            "distribution_key": "31-40",
+            "distribution_value": "1313460"
+          },
+          {
+            "distribution_key": "18-23",
+            "distribution_value": "1538336"
+          }
+        ],
+        "image": [
+          "18到23岁居多"
+        ],
+        "origin_type": 1,
+        "type": 2,
+        "type_display": "年龄分布"
       },
       {
         "description": "分布最多的3个省份广东(11%),江苏(7%),河南(7%)",
@@ -176,6 +262,57 @@
         "type_display": "省份分布"
       },
       {
+        "description": "分布最多的1个城市广州(11%)",
+        "distribution_list": [
+          {
+            "distribution_key": "重庆",
+            "distribution_value": "154473"
+          },
+          {
+            "distribution_key": "东莞",
+            "distribution_value": "108329"
+          },
+          {
+            "distribution_key": "广州",
+            "distribution_value": "157160"
+          },
+          {
+            "distribution_key": "成都",
+            "distribution_value": "137498"
+          },
+          {
+            "distribution_key": "北京",
+            "distribution_value": "135855"
+          },
+          {
+            "distribution_key": "深圳",
+            "distribution_value": "130554"
+          },
+          {
+            "distribution_key": "苏州",
+            "distribution_value": "119495"
+          },
+          {
+            "distribution_key": "郑州",
+            "distribution_value": "115684"
+          },
+          {
+            "distribution_key": "武汉",
+            "distribution_value": "115592"
+          },
+          {
+            "distribution_key": "上海",
+            "distribution_value": "142463"
+          }
+        ],
+        "image": [
+          "广州居多"
+        ],
+        "origin_type": 8,
+        "type": 256,
+        "type_display": "城市分布"
+      },
+      {
         "description": "分布最多的3个兴趣随拍(49%),二次元(16%),游戏(11%)",
         "distribution_list": [
           {
@@ -262,163 +399,26 @@
         "type_display": "八大人群分布"
       },
       {
-        "description": "分布最多的1个城市广州(11%)",
+        "description": "男性居多,占比76%",
         "distribution_list": [
           {
-            "distribution_key": "重庆",
-            "distribution_value": "154473"
+            "distribution_key": "female",
+            "distribution_value": "1748499"
           },
           {
-            "distribution_key": "东莞",
-            "distribution_value": "108329"
-          },
-          {
-            "distribution_key": "广州",
-            "distribution_value": "157160"
-          },
-          {
-            "distribution_key": "成都",
-            "distribution_value": "137498"
-          },
-          {
-            "distribution_key": "北京",
-            "distribution_value": "135855"
-          },
-          {
-            "distribution_key": "深圳",
-            "distribution_value": "130554"
-          },
-          {
-            "distribution_key": "苏州",
-            "distribution_value": "119495"
-          },
-          {
-            "distribution_key": "郑州",
-            "distribution_value": "115684"
-          },
-          {
-            "distribution_key": "武汉",
-            "distribution_value": "115592"
-          },
-          {
-            "distribution_key": "上海",
-            "distribution_value": "142463"
+            "distribution_key": "male",
+            "distribution_value": "5672385"
           }
         ],
         "image": [
-          "广州居多"
+          "男性居多"
         ],
-        "origin_type": 8,
-        "type": 256,
-        "type_display": "城市分布"
-      },
-      {
-        "description": "苹果手机占比25%, 消费能力较好",
-        "distribution_list": [
-          {
-            "distribution_key": "荣耀",
-            "distribution_value": "747001"
-          },
-          {
-            "distribution_key": "小米",
-            "distribution_value": "485463"
-          },
-          {
-            "distribution_key": "其他",
-            "distribution_value": "1196314"
-          },
-          {
-            "distribution_key": "iPhone",
-            "distribution_value": "1875648"
-          },
-          {
-            "distribution_key": "oppo",
-            "distribution_value": "812432"
-          },
-          {
-            "distribution_key": "红米",
-            "distribution_value": "581044"
-          },
-          {
-            "distribution_key": "vivo",
-            "distribution_value": "956304"
-          },
-          {
-            "distribution_key": "华为",
-            "distribution_value": "773934"
-          }
-        ],
-        "image": [
-          "苹果手机较多"
-        ],
-        "origin_type": 3,
-        "type": 8,
-        "type_display": "设备品牌分布"
-      },
-      {
-        "description": "一线居多,占比27%",
-        "distribution_list": [
-          {
-            "distribution_key": "五线",
-            "distribution_value": "823156"
-          },
-          {
-            "distribution_key": "四线",
-            "distribution_value": "1273809"
-          },
-          {
-            "distribution_key": "二线",
-            "distribution_value": "1454131"
-          },
-          {
-            "distribution_key": "三线",
-            "distribution_value": "1783182"
-          },
-          {
-            "distribution_key": "一线",
-            "distribution_value": "2035768"
-          }
-        ],
-        "image": [
-          "一线居多"
-        ],
-        "origin_type": 5,
-        "type": 32,
-        "type_display": "城市等级分布"
-      },
-      {
-        "description": "18到23岁居多,占比28%",
-        "distribution_list": [
-          {
-            "distribution_key": "41-50",
-            "distribution_value": "731594"
-          },
-          {
-            "distribution_key": "24-30",
-            "distribution_value": "793442"
-          },
-          {
-            "distribution_key": "50+",
-            "distribution_value": "1077143"
-          },
-          {
-            "distribution_key": "31-40",
-            "distribution_value": "1313460"
-          },
-          {
-            "distribution_key": "18-23",
-            "distribution_value": "1538336"
-          }
-        ],
-        "image": [
-          "18到23岁居多"
-        ],
-        "origin_type": 1,
-        "type": 2,
-        "type_display": "年龄分布"
+        "origin_type": 0,
+        "type": 1,
+        "type_display": "性别分布"
       }
     ],
-    "last_update_time": "1788796804"
+    "last_update_time": "1788800404"
   },
   "recordTime": null
 }
