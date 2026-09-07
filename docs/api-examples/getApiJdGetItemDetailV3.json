@@ -1,6 +1,6 @@
 {
-  "_fetchedAt": "2026-09-08T02:00:29.727951+08:00",
-  "_sourceCheckedAt": "2026-09-08T01:00:09",
+  "_fetchedAt": "2026-09-08T02:05:28.741831+08:00",
+  "_sourceCheckedAt": "2026-09-08T02:00:10",
   "code": 0,
   "message": null,
   "data": {
@@ -48,7 +48,7 @@
           "limitDay": null,
           "limitDescription": null
         },
-        "link": "https://jingfen.jd.com/detail/Wl4yE2Nq7XUfIvHGpgeFfIvHGpgeF4_3QWdDL9vzw2PJtQ4eQ.html",
+        "link": "https://jingfen.jd.com/detail/8YQrR1g2md0IBQRnAtziIBQRnAtziQ_391fhqJxSo1De4y0Ey.html",
         "lowerDateyh": "2026-06-16 00:00:00",
         "lowerPriceyh": "7044.8",
         "multiSkuMerged": false,
@@ -63,7 +63,7 @@
           "changePriceCount": 36,
           "jointDate": "2026-06-15",
           "recordDay": 86,
-          "runtime": "31"
+          "runtime": "36"
         },
         "title": "联想来酷斗战者 战7000 2026年补贴15% 电竞游戏笔记本电脑y 大学生本p图设计 联想全国联保 旗舰 酷睿i7-13645HX 16G 512G 满血RTX5060丨国补 16英寸2.5K专业电竞屏",
         "trendMaxBuyNumber": 1,
@@ -79,18 +79,18 @@
         "actionBtnType": 0,
         "allPromotions": [
           {
-            "content": "满520减60",
+            "content": "2件8折",
             "limitPlatform": false,
             "type": "满减"
           }
         ],
         "buyNumber": 1,
         "commission": "0",
-        "currentTime": "1788800416836",
+        "currentTime": "1788804046347",
         "discountAllTypeCount": null,
         "discountBtn": null,
         "exchangeExtraPrice": null,
-        "extraPrice": "6323.4",
+        "extraPrice": "8777.2",
         "extraPriceDesc": null,
         "extraPriceType": null,
         "extraUnitPrice": null,
@@ -110,27 +110,42 @@
         "isSdk": false,
         "isShowSameRecommendation": false,
         "jintieExtraPrice": null,
-        "multiPlan": null,
-        "originPagePrice": null,
-        "originPrice": "6383.4",
-        "promotionTags": [
-          "满520减60"
-        ],
-        "promotionTagsV2": null,
-        "runtime": "25",
-        "sameRecommendation": null,
-        "singlePlan": {
-          "buyNumber": 1,
-          "desc": "购买1件，当前价格6383.4，可叠加满减：满520减60",
-          "extraPrice": "6323.4",
+        "multiPlan": {
+          "buyNumber": 2,
+          "desc": "购买2件,当前价格8777.2,满减：2件8折",
+          "extraPrice": "7021.76",
           "formula": [
+            {
+              "bottom": "",
+              "middle": "(",
+              "priceTips": null,
+              "tip": "",
+              "tips": [],
+              "top": ""
+            },
             {
               "bottom": "页面价",
               "middle": "",
               "priceTips": null,
               "tip": "",
               "tips": [],
-              "top": "¥6383.4"
+              "top": "¥8777.2"
+            },
+            {
+              "bottom": "",
+              "middle": "x",
+              "priceTips": null,
+              "tip": "",
+              "tips": [],
+              "top": ""
+            },
+            {
+              "bottom": "",
+              "middle": "",
+              "priceTips": null,
+              "tip": "",
+              "tips": [],
+              "top": "2"
             },
             {
               "bottom": "",
@@ -145,18 +160,58 @@
               "middle": "",
               "priceTips": [
                 {
-                  "subPrice": "60.00",
-                  "tip": "满520减60"
+                  "subPrice": "3510.88",
+                  "tip": "2件8折"
                 }
               ],
-              "tip": "满520减60",
+              "tip": "2件8折",
               "tips": [
-                "满520减60"
+                "2件8折"
               ],
-              "top": "¥60"
+              "top": "¥3510.88"
+            },
+            {
+              "bottom": "",
+              "middle": ")",
+              "priceTips": null,
+              "tip": "",
+              "tips": [],
+              "top": ""
+            },
+            {
+              "bottom": "",
+              "middle": "/",
+              "priceTips": null,
+              "tip": "",
+              "tips": [],
+              "top": ""
+            },
+            {
+              "bottom": "",
+              "middle": "",
+              "priceTips": null,
+              "tip": "",
+              "tips": [],
+              "top": "2"
             }
           ],
-          "originPrice": "6383.4",
+          "originPrice": "8777.2",
+          "tip": "买2件单价更低"
+        },
+        "originPagePrice": null,
+        "originPrice": "8777.2",
+        "promotionTags": [
+          "2件8折"
+        ],
+        "promotionTagsV2": null,
+        "runtime": "21",
+        "sameRecommendation": null,
+        "singlePlan": {
+          "buyNumber": 1,
+          "desc": "",
+          "extraPrice": "8777.2",
+          "formula": [],
+          "originPrice": "8777.2",
           "tip": "买1件单价"
         },
         "spbh": "1|3QWdDL9vzw2PJtQ4eQ!!11011000110101",
