@@ -1,33 +1,11 @@
 {
-  "_fetchedAt": "2026-09-08T05:56:02.325566+08:00",
-  "_sourceCheckedAt": "2026-09-08T05:00:38",
+  "_fetchedAt": "2026-09-08T06:00:59.855203+08:00",
+  "_sourceCheckedAt": "2026-09-08T06:00:47",
   "code": 0,
   "message": null,
   "data": {
-    "result": {
-      "success": true,
-      "message": "success"
-    },
     "items": [
       {
-        "is_intervened": false,
-        "search_type": "notes",
-        "text": "美食推荐",
-        "link": "",
-        "type": "top_note",
-        "icon": "http://picasso-static.xiaohongshu.com/fe-platform/ada4a11451816f9500d7a3bfd561edfd23a48a21.png",
-        "icon_night": "http://picasso-static.xiaohongshu.com/fe-platform/20107487de37f8896d23383e41f43df5058f9f62.png",
-        "highlight_flags": [
-          true,
-          true,
-          false,
-          false
-        ]
-      },
-      {
-        "text": "美食家常菜做法大全",
-        "link": "",
-        "type": "top_note",
         "icon": "http://picasso-static.xiaohongshu.com/fe-platform/ada4a11451816f9500d7a3bfd561edfd23a48a21.png",
         "icon_night": "http://picasso-static.xiaohongshu.com/fe-platform/20107487de37f8896d23383e41f43df5058f9f62.png",
         "highlight_flags": [
@@ -42,12 +20,12 @@
           false
         ],
         "is_intervened": false,
-        "search_type": "notes"
+        "search_type": "notes",
+        "text": "美食家常菜做法大全",
+        "link": "",
+        "type": "top_note"
       },
       {
-        "is_intervened": false,
-        "search_type": "notes",
-        "text": "美食做法",
         "link": "",
         "type": "top_note",
         "icon": "http://picasso-static.xiaohongshu.com/fe-platform/ada4a11451816f9500d7a3bfd561edfd23a48a21.png",
@@ -57,19 +35,35 @@
           true,
           false,
           false
-        ]
+        ],
+        "is_intervened": false,
+        "search_type": "notes",
+        "text": "美食推荐"
       },
       {
+        "link": "",
+        "type": "top_note",
+        "icon": "http://picasso-static.xiaohongshu.com/fe-platform/ada4a11451816f9500d7a3bfd561edfd23a48a21.png",
+        "icon_night": "http://picasso-static.xiaohongshu.com/fe-platform/20107487de37f8896d23383e41f43df5058f9f62.png",
+        "highlight_flags": [
+          true,
+          true,
+          false,
+          false
+        ],
+        "is_intervened": false,
+        "search_type": "notes",
+        "text": "美食做法"
+      },
+      {
+        "type": "query_goods",
         "icon": "http://picasso-static.xiaohongshu.com/fe-platform/d7fc3daa411fabb5be4abd716818ca1ed9d3dbcc.png",
         "icon_night": "http://picasso-static.xiaohongshu.com/fe-platform/91c95dd77e74b00c33f2035265a249cf35ca89a1.png",
         "search_type": "goods",
         "text": "美食",
-        "desc": "10万+件商品",
-        "type": "query_goods"
+        "desc": "10万+件商品"
       },
       {
-        "link": "",
-        "type": "top_note",
         "icon": "http://picasso-static.xiaohongshu.com/fe-platform/ada4a11451816f9500d7a3bfd561edfd23a48a21.png",
         "icon_night": "http://picasso-static.xiaohongshu.com/fe-platform/20107487de37f8896d23383e41f43df5058f9f62.png",
         "highlight_flags": [
@@ -82,13 +76,11 @@
         ],
         "is_intervened": false,
         "search_type": "notes",
-        "text": "美食吃货视频"
-      },
-      {
-        "search_type": "notes",
         "text": "美食图片真实",
         "link": "",
-        "type": "top_note",
+        "type": "top_note"
+      },
+      {
         "icon": "http://picasso-static.xiaohongshu.com/fe-platform/ada4a11451816f9500d7a3bfd561edfd23a48a21.png",
         "icon_night": "http://picasso-static.xiaohongshu.com/fe-platform/20107487de37f8896d23383e41f43df5058f9f62.png",
         "highlight_flags": [
@@ -99,9 +91,15 @@
           false,
           false
         ],
-        "is_intervened": false
+        "is_intervened": false,
+        "search_type": "notes",
+        "text": "美食吃货视频",
+        "link": "",
+        "type": "top_note"
       },
       {
+        "type": "top_note",
+        "icon": "http://picasso-static.xiaohongshu.com/fe-platform/ada4a11451816f9500d7a3bfd561edfd23a48a21.png",
         "icon_night": "http://picasso-static.xiaohongshu.com/fe-platform/20107487de37f8896d23383e41f43df5058f9f62.png",
         "highlight_flags": [
           true,
@@ -112,11 +110,12 @@
         "is_intervened": false,
         "search_type": "notes",
         "text": "美食图片",
-        "link": "",
-        "type": "top_note",
-        "icon": "http://picasso-static.xiaohongshu.com/fe-platform/ada4a11451816f9500d7a3bfd561edfd23a48a21.png"
+        "link": ""
       },
       {
+        "is_intervened": false,
+        "search_type": "notes",
+        "text": "美食朋友圈的文案",
         "link": "",
         "type": "top_note",
         "icon": "http://picasso-static.xiaohongshu.com/fe-platform/ada4a11451816f9500d7a3bfd561edfd23a48a21.png",
@@ -130,10 +129,7 @@
           false,
           false,
           false
-        ],
-        "is_intervened": false,
-        "search_type": "notes",
-        "text": "美食朋友圈的文案"
+        ]
       },
       {
         "highlight_flags": [
@@ -151,6 +147,55 @@
         "icon_night": "http://picasso-static.xiaohongshu.com/fe-platform/20107487de37f8896d23383e41f43df5058f9f62.png"
       },
       {
+        "text": "美式壁纸",
+        "link": "",
+        "type": "top_note",
+        "icon": "http://picasso-static.xiaohongshu.com/fe-platform/ada4a11451816f9500d7a3bfd561edfd23a48a21.png",
+        "icon_night": "http://picasso-static.xiaohongshu.com/fe-platform/20107487de37f8896d23383e41f43df5058f9f62.png",
+        "highlight_flags": [
+          true,
+          false,
+          false,
+          false
+        ],
+        "is_intervened": false,
+        "search_type": "notes"
+      },
+      {
+        "text": "美食滤镜调色",
+        "link": "",
+        "type": "top_note",
+        "icon": "http://picasso-static.xiaohongshu.com/fe-platform/ada4a11451816f9500d7a3bfd561edfd23a48a21.png",
+        "icon_night": "http://picasso-static.xiaohongshu.com/fe-platform/20107487de37f8896d23383e41f43df5058f9f62.png",
+        "highlight_flags": [
+          true,
+          true,
+          false,
+          false,
+          false,
+          false
+        ],
+        "is_intervened": false,
+        "search_type": "notes"
+      },
+      {
+        "text": "美食拼豆图纸",
+        "link": "",
+        "type": "top_note",
+        "icon": "http://picasso-static.xiaohongshu.com/fe-platform/ada4a11451816f9500d7a3bfd561edfd23a48a21.png",
+        "icon_night": "http://picasso-static.xiaohongshu.com/fe-platform/20107487de37f8896d23383e41f43df5058f9f62.png",
+        "highlight_flags": [
+          true,
+          true,
+          false,
+          false,
+          false,
+          false
+        ],
+        "is_intervened": false,
+        "search_type": "notes"
+      },
+      {
         "text": "美食视频",
         "link": "",
         "type": "top_note",
@@ -166,71 +211,6 @@
         "search_type": "notes"
       },
       {
-        "icon_night": "http://picasso-static.xiaohongshu.com/fe-platform/20107487de37f8896d23383e41f43df5058f9f62.png",
-        "highlight_flags": [
-          true,
-          true,
-          false,
-          false
-        ],
-        "is_intervened": false,
-        "search_type": "notes",
-        "text": "美食p图",
-        "link": "",
-        "type": "top_note",
-        "icon": "http://picasso-static.xiaohongshu.com/fe-platform/ada4a11451816f9500d7a3bfd561edfd23a48a21.png"
-      },
-      {
-        "is_intervened": false,
-        "search_type": "notes",
-        "text": "美食拼豆图纸",
-        "link": "",
-        "type": "top_note",
-        "icon": "http://picasso-static.xiaohongshu.com/fe-platform/ada4a11451816f9500d7a3bfd561edfd23a48a21.png",
-        "icon_night": "http://picasso-static.xiaohongshu.com/fe-platform/20107487de37f8896d23383e41f43df5058f9f62.png",
-        "highlight_flags": [
-          true,
-          true,
-          false,
-          false,
-          false,
-          false
-        ]
-      },
-      {
-        "is_intervened": false,
-        "search_type": "notes",
-        "text": "美式壁纸",
-        "link": "",
-        "type": "top_note",
-        "icon": "http://picasso-static.xiaohongshu.com/fe-platform/ada4a11451816f9500d7a3bfd561edfd23a48a21.png",
-        "icon_night": "http://picasso-static.xiaohongshu.com/fe-platform/20107487de37f8896d23383e41f43df5058f9f62.png",
-        "highlight_flags": [
-          true,
-          false,
-          false,
-          false
-        ]
-      },
-      {
-        "is_intervened": false,
-        "search_type": "notes",
-        "text": "美食滤镜调色",
-        "link": "",
-        "type": "top_note",
-        "icon": "http://picasso-static.xiaohongshu.com/fe-platform/ada4a11451816f9500d7a3bfd561edfd23a48a21.png",
-        "icon_night": "http://picasso-static.xiaohongshu.com/fe-platform/20107487de37f8896d23383e41f43df5058f9f62.png",
-        "highlight_flags": [
-          true,
-          true,
-          false,
-          false,
-          false,
-          false
-        ]
-      },
-      {
-        "type": "top_note",
         "icon": "http://picasso-static.xiaohongshu.com/fe-platform/ada4a11451816f9500d7a3bfd561edfd23a48a21.png",
         "icon_night": "http://picasso-static.xiaohongshu.com/fe-platform/20107487de37f8896d23383e41f43df5058f9f62.png",
         "highlight_flags": [
@@ -244,12 +224,27 @@
         "is_intervened": false,
         "search_type": "notes",
         "text": "美食文案高级",
-        "link": ""
+        "link": "",
+        "type": "top_note"
       },
       {
         "is_intervened": false,
         "search_type": "notes",
-        "text": "美食头像",
+        "text": "美食奇遇记",
+        "link": "",
+        "type": "top_note",
+        "icon": "http://picasso-static.xiaohongshu.com/fe-platform/ada4a11451816f9500d7a3bfd561edfd23a48a21.png",
+        "icon_night": "http://picasso-static.xiaohongshu.com/fe-platform/20107487de37f8896d23383e41f43df5058f9f62.png",
+        "highlight_flags": [
+          true,
+          true,
+          false,
+          false,
+          false
+        ]
+      },
+      {
+        "text": "美食p图",
         "link": "",
         "type": "top_note",
         "icon": "http://picasso-static.xiaohongshu.com/fe-platform/ada4a11451816f9500d7a3bfd561edfd23a48a21.png",
@@ -259,11 +254,17 @@
           true,
           false,
           false
-        ]
+        ],
+        "is_intervened": false,
+        "search_type": "notes"
       }
     ],
-    "word_request_id": "52d0c8e88a4084c72377aaa9ad11bd7f",
-    "search_cpl_id": "5cfe2b90fa0f30db10f64b4c6a9f25f7"
+    "word_request_id": "60b28fe9506f5d048258423d84742507",
+    "search_cpl_id": "d3ce2b40b808b0f85eca27e16a9f340f",
+    "result": {
+      "success": true,
+      "message": "success"
+    }
   },
   "recordTime": null
 }

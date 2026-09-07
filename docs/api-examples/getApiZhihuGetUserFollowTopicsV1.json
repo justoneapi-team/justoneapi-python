@@ -1,6 +1,6 @@
 {
-  "_fetchedAt": "2026-09-08T05:56:06.505030+08:00",
-  "_sourceCheckedAt": "2026-09-08T05:00:42",
+  "_fetchedAt": "2026-09-08T06:01:04.073460+08:00",
+  "_sourceCheckedAt": "2026-09-08T06:00:52",
   "code": 0,
   "message": null,
   "data": {
@@ -8,8 +8,8 @@
       "totals": 6,
       "is_start": true,
       "is_end": true,
-      "previous": "https://www.zhihu.com/api/v5.1/topics/ming-he-43-93/following_topics_contributions?offset=-20&limit=20&include=data[*].topic.introduction&user_url_token=ming-he-43-93",
-      "next": "https://www.zhihu.com/api/v5.1/topics/ming-he-43-93/following_topics_contributions?offset=20&limit=20&include=data[*].topic.introduction&user_url_token=ming-he-43-93"
+      "previous": "https://www.zhihu.com/api/v5.1/topics/ming-he-43-93/following_topics_contributions?offset=-20&limit=20&user_url_token=ming-he-43-93&include=data[*].topic.introduction",
+      "next": "https://www.zhihu.com/api/v5.1/topics/ming-he-43-93/following_topics_contributions?offset=20&limit=20&user_url_token=ming-he-43-93&include=data[*].topic.introduction"
     },
     "data": [
       {
@@ -25,7 +25,7 @@
           "category": "n_wiki",
           "is_vote": false,
           "followers_count": 390611,
-          "total_pv": 1193313671,
+          "total_pv": 1193314042,
           "is_super_topic_vote": false,
           "questions_count": 54687,
           "is_following": true,
@@ -47,12 +47,12 @@
           "category": "n_wiki",
           "is_vote": false,
           "followers_count": 14019460,
-          "total_pv": 51448245409,
+          "total_pv": 51448337488,
           "is_super_topic_vote": false,
-          "questions_count": 524177,
+          "questions_count": 524178,
           "is_following": true,
           "meta_avatar_url": "https://picx.zhimg.com/v2-15c9885c2487fb2333d49b0005fa6ae6_qhd.jpg?source=57bbeac9",
-          "discuss_count": 24834724
+          "discuss_count": 24834744
         },
         "contributions_count": 0
       },
@@ -62,14 +62,14 @@
           "type": "topic",
           "url": "https://www.zhihu.com/api/v5.1/topics/19578317",
           "name": "数据恢复",
-          "avatar_url": "https://picx.zhimg.com/v2-40e779d5c5e6bcebda41e92d50594618.jpg?source=57bbeac9",
+          "avatar_url": "https://pic1.zhimg.com/v2-40e779d5c5e6bcebda41e92d50594618.jpg?source=57bbeac9",
           "excerpt": "当存储介质出现损伤或由于人员误操作、操作系统本身故障所造成的数据看不见、无法读取、丢失。工程师通过特殊的手段读取却在正常状态下不可见、不可读、无法读的数据。数据恢复（Data recovery）是指通过技术手段，将保存在台式机硬盘、笔记本硬盘、服务器硬盘、存储磁带库、移动硬盘、U盘、数码存储卡、Mp3等等设备上丢失的电子数据进行抢救和恢复的技术。",
           "is_black": false,
           "introduction": "当存储介质出现损伤或由于人员误操作、操作系统本身故障所造成的数据看不见、无法读取、丢失。工程师通过特殊的手段读取却在正常状态下不可见、不可读、无法读的数据。数据恢复（Data recovery）是指通过技术手段，将保存在台式机硬盘、笔记本硬盘、服务器硬盘、存储磁带库、移动硬盘、U盘、数码存储卡、Mp3等等设备上丢失的电子数据进行抢救和恢复的技术。",
           "category": "n_wiki",
           "is_vote": false,
           "followers_count": 2583,
-          "total_pv": 228754061,
+          "total_pv": 228754261,
           "is_super_topic_vote": false,
           "questions_count": 7816,
           "is_following": true,
@@ -91,12 +91,12 @@
           "category": "n_wiki",
           "is_vote": false,
           "followers_count": 20870542,
-          "total_pv": 54933078479,
+          "total_pv": 54933115377,
           "is_super_topic_vote": false,
           "questions_count": 353399,
           "is_following": true,
           "meta_avatar_url": "https://pic4.zhimg.com/v2-c1ea3804dc369dbfad3de0c405c0a3d2_qhd.jpg",
-          "discuss_count": 26438039
+          "discuss_count": 26438041
         },
         "contributions_count": 0
       },
@@ -106,19 +106,19 @@
           "type": "topic",
           "url": "https://www.zhihu.com/api/v5.1/topics/19550564",
           "name": "阅读",
-          "avatar_url": "https://picx.zhimg.com/3f30afdfc.jpg?source=57bbeac9",
+          "avatar_url": "https://pica.zhimg.com/3f30afdfc.jpg?source=57bbeac9",
           "excerpt": "阅读是运用语言文字来获取信息，认识世界，发展思维，并获得审美体验的活动。它是从视觉材料中获取信息的过程。视觉材料主要是文字和图片，也包括符号、公式、图表等。阅读是一种主动的过程，是由阅读者根据不同的目的加以调节控制的,陶冶人们的情操，提升自我修养。阅读是一种理解，领悟，吸收，鉴赏，评价和探究文章的思维过程。阅读可以改变命运，但并不是一定改变命运。",
           "is_black": false,
           "introduction": "阅读是运用语言文字来获取信息，认识世界，发展思维，并获得审美体验的活动。它是从视觉材料中获取信息的过程。视觉材料主要是文字和图片，也包括符号、公式、图表等。阅读是一种主动的过程，是由阅读者根据不同的目的加以调节控制的,陶冶人们的情操，提升自我修养。阅读是一种理解，领悟，吸收，鉴赏，评价和探究文章的思维过程。阅读可以改变命运，但并不是一定改变命运。",
           "category": "n_wiki",
           "is_vote": false,
           "followers_count": 26859696,
-          "total_pv": 14193611789,
+          "total_pv": 14193616772,
           "is_super_topic_vote": false,
           "questions_count": 241276,
           "is_following": true,
-          "meta_avatar_url": "https://pica.zhimg.com/v2-d5723c9e63d50dbec8740de55933b96a_qhd.jpg?source=57bbeac9",
-          "discuss_count": 10122743
+          "meta_avatar_url": "https://picx.zhimg.com/v2-d5723c9e63d50dbec8740de55933b96a_qhd.jpg?source=57bbeac9",
+          "discuss_count": 10122746
         },
         "contributions_count": 0
       },
@@ -128,14 +128,14 @@
           "type": "topic",
           "url": "https://www.zhihu.com/api/v5.1/topics/19559424",
           "name": "数据分析",
-          "avatar_url": "https://pica.zhimg.com/v2-78f4b42d0750ff5cecc0f6ec9453bc5f.jpg?source=57bbeac9",
+          "avatar_url": "https://picx.zhimg.com/v2-78f4b42d0750ff5cecc0f6ec9453bc5f.jpg?source=57bbeac9",
           "excerpt": "数据分析是指用适当的统计分析方法对收集来的大量数据进行分析，提取有用信息和形成结论而对数据加以详细研究和概括总结的过程。这一过程也是质量管理体系的支持过程。在实用中，数据分析可帮助人们作出判断，以便采取适当行动。数据分析的数学基础在20世纪早期就已确立，但直到计算机的出现才使得实际操作成为可能，并使得数据分析得以推广。数据分析是数学与计算机科学相结合的产物。",
           "is_black": false,
           "introduction": "数据分析是指用适当的统计分析方法对收集来的大量数据进行分析，提取有用信息和形成结论而对数据加以详细研究和概括总结的过程。这一过程也是质量管理体系的支持过程。在实用中，数据分析可帮助人们作出判断，以便采取适当行动。数据分析的数学基础在20世纪早期就已确立，但直到计算机的出现才使得实际操作成为可能，并使得数据分析得以推广。数据分析是数学与计算机科学相结合的产物。",
           "category": "n_wiki",
           "is_vote": false,
           "followers_count": 3647861,
-          "total_pv": 3131981013,
+          "total_pv": 3131981428,
           "is_super_topic_vote": false,
           "questions_count": 43645,
           "is_following": true,
