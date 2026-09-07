@@ -1,7 +1,9 @@
 import crypto from "node:crypto";
 import fs from "node:fs";
 import path from "node:path";
+import { loadExampleManifest, renderExampleAnnotation, updateExampleLinksOnly } from "./readme-example-links.mjs";
 
+const REPOSITORY = "justoneapi/justoneapi-python";
 const README_FILE = process.env.README_FILE || "README.md";
 const OPENAPI_FILE = process.env.OPENAPI_FILE || "";
 const OPENAPI_URL =
@@ -285,6 +287,10 @@ class Translator {
       return;
     }
 
+    if (process.env.TRANSLATION_NETWORK?.toLowerCase() === "off") {
+      throw new Error(`Translation cache is missing ${missing.length} README string(s); TRANSLATION_NETWORK=off prohibits translation requests.`);
+    }
+
     const apiKey = process.env.DEEPSEEK_API_KEY?.trim();
     if (!apiKey) {
       throw new Error(
@@ -430,14 +436,15 @@ function escapeMarkdownLinkText(text) {
   return String(text).replace(/([\\[\]])/g, "\\$1");
 }
 
-function renderApiList(groups, language, translator) {
+function renderApiList(groups, language, translator, examples) {
   return groups
     .map((group) => {
       const tagName = translator.translate(group.tagName);
       const lines = [`### ${tagName}`, ""];
       for (const operation of group.operations) {
         const displayTitle = buildDisplayTitle(operation, language, translator);
-        lines.push(`- [${escapeMarkdownLinkText(displayTitle)}](${operation.docsUrl})`);
+        const exampleAnnotation = renderExampleAnnotation(`${operation.method} ${operation.pathKey}`, examples, REPOSITORY);
+        lines.push(`- [${escapeMarkdownLinkText(displayTitle)}](${operation.docsUrl})${exampleAnnotation}`);
       }
       return lines.join("\n");
     })
@@ -507,6 +514,16 @@ function replaceApiListSection(readme, section, language) {
 async function main() {
   const readmePath = path.resolve(README_FILE);
   const readme = fs.readFileSync(readmePath, "utf8");
+  const args = process.argv.slice(2);
+  if (args.some((arg) => arg !== "--examples-links-only")) {
+    throw new Error(`Unknown argument(s): ${args.join(" ")}`);
+  }
+  if (args.includes("--examples-links-only")) {
+    const updatedReadme = updateExampleLinksOnly(readme, { repoRoot: process.cwd(), repository: REPOSITORY });
+    if (updatedReadme !== readme) fs.writeFileSync(readmePath, updatedReadme);
+    console.log(`${README_FILE} example links are up to date.`);
+    return;
+  }
   const language = normalizeReadmeLanguage(process.env.README_LANG) || inferReadmeLanguage(readme);
   const api = await loadOpenApi();
   const groups = collectApiGroups(api);
@@ -519,7 +536,9 @@ async function main() {
   await translator.ensureTranslations(textsToTranslate);
 
   const linkedGroups = addDocsUrls(groups, language);
-  const apiList = renderApiList(linkedGroups, language, translator);
+  // Read after asynchronous translation so this render uses the latest manifest in the checkout.
+  const examples = loadExampleManifest(process.cwd());
+  const apiList = renderApiList(linkedGroups, language, translator, examples);
   const section = buildReadmeSection(apiList, language);
   const updatedReadme = replaceApiListSection(readme, section, language);
 
