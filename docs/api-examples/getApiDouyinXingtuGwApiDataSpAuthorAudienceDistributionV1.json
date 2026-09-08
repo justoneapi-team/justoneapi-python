@@ -1,6 +1,6 @@
 {
-  "_fetchedAt": "2026-09-08T10:55:15.162669+08:00",
-  "_sourceCheckedAt": "2026-09-08T10:00:04",
+  "_fetchedAt": "2026-09-08T11:00:17.090835+08:00",
+  "_sourceCheckedAt": "2026-09-08T11:00:04",
   "code": 0,
   "message": null,
   "data": {
@@ -9,162 +9,6 @@
       "status_message": ""
     },
     "distributions": [
-      {
-        "description": "分布最多的3个兴趣随拍(49%),二次元(16%),游戏(11%)",
-        "distribution_list": [
-          {
-            "distribution_key": "随拍",
-            "distribution_value": "3070504"
-          },
-          {
-            "distribution_key": "二次元",
-            "distribution_value": "1039506"
-          },
-          {
-            "distribution_key": "游戏",
-            "distribution_value": "710087"
-          },
-          {
-            "distribution_key": "剧情",
-            "distribution_value": "417881"
-          },
-          {
-            "distribution_key": "体育",
-            "distribution_value": "287500"
-          },
-          {
-            "distribution_key": "亲子",
-            "distribution_value": "234143"
-          },
-          {
-            "distribution_key": "颜值",
-            "distribution_value": "209925"
-          },
-          {
-            "distribution_key": "社会时政",
-            "distribution_value": "193987"
-          }
-        ],
-        "image": [
-          "随拍,二次元,游戏居多"
-        ],
-        "origin_type": 6,
-        "type": 64,
-        "type_display": "兴趣分布"
-      },
-      {
-        "description": "Z世代居多,占比32%",
-        "distribution_list": [
-          {
-            "distribution_key": "都市蓝领",
-            "distribution_value": "858101"
-          },
-          {
-            "distribution_key": "都市银发",
-            "distribution_value": "820680"
-          },
-          {
-            "distribution_key": "精致妈妈",
-            "distribution_value": "144658"
-          },
-          {
-            "distribution_key": "资深中产",
-            "distribution_value": "282033"
-          },
-          {
-            "distribution_key": "新锐白领",
-            "distribution_value": "604347"
-          },
-          {
-            "distribution_key": "Z世代",
-            "distribution_value": "2400551"
-          },
-          {
-            "distribution_key": "小镇青年",
-            "distribution_value": "1539899"
-          },
-          {
-            "distribution_key": "小镇中老年",
-            "distribution_value": "679416"
-          }
-        ],
-        "image": [
-          "Z世代居多"
-        ],
-        "origin_type": 10,
-        "type": 1024,
-        "type_display": "八大人群分布"
-      },
-      {
-        "description": "男性居多,占比76%",
-        "distribution_list": [
-          {
-            "distribution_key": "female",
-            "distribution_value": "1748499"
-          },
-          {
-            "distribution_key": "male",
-            "distribution_value": "5672385"
-          }
-        ],
-        "image": [
-          "男性居多"
-        ],
-        "origin_type": 0,
-        "type": 1,
-        "type_display": "性别分布"
-      },
-      {
-        "description": "分布最多的1个城市广州(11%)",
-        "distribution_list": [
-          {
-            "distribution_key": "重庆",
-            "distribution_value": "154473"
-          },
-          {
-            "distribution_key": "东莞",
-            "distribution_value": "108329"
-          },
-          {
-            "distribution_key": "广州",
-            "distribution_value": "157160"
-          },
-          {
-            "distribution_key": "成都",
-            "distribution_value": "137498"
-          },
-          {
-            "distribution_key": "北京",
-            "distribution_value": "135855"
-          },
-          {
-            "distribution_key": "深圳",
-            "distribution_value": "130554"
-          },
-          {
-            "distribution_key": "苏州",
-            "distribution_value": "119495"
-          },
-          {
-            "distribution_key": "郑州",
-            "distribution_value": "115684"
-          },
-          {
-            "distribution_key": "武汉",
-            "distribution_value": "115592"
-          },
-          {
-            "distribution_key": "上海",
-            "distribution_value": "142463"
-          }
-        ],
-        "image": [
-          "广州居多"
-        ],
-        "origin_type": 8,
-        "type": 256,
-        "type_display": "城市分布"
-      },
       {
         "description": "分布最多的3个省份广东(11%),江苏(7%),河南(7%)",
         "distribution_list": [
@@ -313,35 +157,160 @@
         "type_display": "省份分布"
       },
       {
-        "description": "18到23岁居多,占比28%",
+        "description": "分布最多的1个城市广州(11%)",
         "distribution_list": [
           {
-            "distribution_key": "41-50",
-            "distribution_value": "731594"
+            "distribution_key": "重庆",
+            "distribution_value": "154473"
           },
           {
-            "distribution_key": "24-30",
-            "distribution_value": "793442"
+            "distribution_key": "东莞",
+            "distribution_value": "108329"
           },
           {
-            "distribution_key": "50+",
-            "distribution_value": "1077143"
+            "distribution_key": "广州",
+            "distribution_value": "157160"
           },
           {
-            "distribution_key": "31-40",
-            "distribution_value": "1313460"
+            "distribution_key": "成都",
+            "distribution_value": "137498"
           },
           {
-            "distribution_key": "18-23",
-            "distribution_value": "1538336"
+            "distribution_key": "北京",
+            "distribution_value": "135855"
+          },
+          {
+            "distribution_key": "深圳",
+            "distribution_value": "130554"
+          },
+          {
+            "distribution_key": "苏州",
+            "distribution_value": "119495"
+          },
+          {
+            "distribution_key": "郑州",
+            "distribution_value": "115684"
+          },
+          {
+            "distribution_key": "武汉",
+            "distribution_value": "115592"
+          },
+          {
+            "distribution_key": "上海",
+            "distribution_value": "142463"
           }
         ],
         "image": [
-          "18到23岁居多"
+          "广州居多"
         ],
-        "origin_type": 1,
-        "type": 2,
-        "type_display": "年龄分布"
+        "origin_type": 8,
+        "type": 256,
+        "type_display": "城市分布"
+      },
+      {
+        "description": "男性居多,占比76%",
+        "distribution_list": [
+          {
+            "distribution_key": "female",
+            "distribution_value": "1748499"
+          },
+          {
+            "distribution_key": "male",
+            "distribution_value": "5672385"
+          }
+        ],
+        "image": [
+          "男性居多"
+        ],
+        "origin_type": 0,
+        "type": 1,
+        "type_display": "性别分布"
+      },
+      {
+        "description": "分布最多的3个兴趣随拍(49%),二次元(16%),游戏(11%)",
+        "distribution_list": [
+          {
+            "distribution_key": "随拍",
+            "distribution_value": "3070504"
+          },
+          {
+            "distribution_key": "二次元",
+            "distribution_value": "1039506"
+          },
+          {
+            "distribution_key": "游戏",
+            "distribution_value": "710087"
+          },
+          {
+            "distribution_key": "剧情",
+            "distribution_value": "417881"
+          },
+          {
+            "distribution_key": "体育",
+            "distribution_value": "287500"
+          },
+          {
+            "distribution_key": "亲子",
+            "distribution_value": "234143"
+          },
+          {
+            "distribution_key": "颜值",
+            "distribution_value": "209925"
+          },
+          {
+            "distribution_key": "社会时政",
+            "distribution_value": "193987"
+          }
+        ],
+        "image": [
+          "随拍,二次元,游戏居多"
+        ],
+        "origin_type": 6,
+        "type": 64,
+        "type_display": "兴趣分布"
+      },
+      {
+        "description": "Z世代居多,占比32%",
+        "distribution_list": [
+          {
+            "distribution_key": "都市蓝领",
+            "distribution_value": "858101"
+          },
+          {
+            "distribution_key": "都市银发",
+            "distribution_value": "820680"
+          },
+          {
+            "distribution_key": "精致妈妈",
+            "distribution_value": "144658"
+          },
+          {
+            "distribution_key": "资深中产",
+            "distribution_value": "282033"
+          },
+          {
+            "distribution_key": "新锐白领",
+            "distribution_value": "604347"
+          },
+          {
+            "distribution_key": "Z世代",
+            "distribution_value": "2400551"
+          },
+          {
+            "distribution_key": "小镇青年",
+            "distribution_value": "1539899"
+          },
+          {
+            "distribution_key": "小镇中老年",
+            "distribution_value": "679416"
+          }
+        ],
+        "image": [
+          "Z世代居多"
+        ],
+        "origin_type": 10,
+        "type": 1024,
+        "type_display": "八大人群分布"
       },
       {
         "description": "苹果手机占比25%, 消费能力较好",
@@ -387,6 +356,37 @@
         "type_display": "设备品牌分布"
       },
       {
+        "description": "18到23岁居多,占比28%",
+        "distribution_list": [
+          {
+            "distribution_key": "41-50",
+            "distribution_value": "731594"
+          },
+          {
+            "distribution_key": "24-30",
+            "distribution_value": "793442"
+          },
+          {
+            "distribution_key": "50+",
+            "distribution_value": "1077143"
+          },
+          {
+            "distribution_key": "31-40",
+            "distribution_value": "1313460"
+          },
+          {
+            "distribution_key": "18-23",
+            "distribution_value": "1538336"
+          }
+        ],
+        "image": [
+          "18到23岁居多"
+        ],
+        "origin_type": 1,
+        "type": 2,
+        "type_display": "年龄分布"
+      },
+      {
         "description": "一线居多,占比27%",
         "distribution_list": [
           {
@@ -418,7 +418,7 @@
         "type_display": "城市等级分布"
       }
     ],
-    "last_update_time": "1788832804"
+    "last_update_time": "1788836404"
   },
   "recordTime": null
 }
