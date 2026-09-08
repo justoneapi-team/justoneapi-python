@@ -1,12 +1,12 @@
 {
-  "_fetchedAt": "2026-09-08T17:00:44.872013+08:00",
-  "_sourceCheckedAt": "2026-09-08T17:00:20",
+  "_fetchedAt": "2026-09-08T18:00:46.317314+08:00",
+  "_sourceCheckedAt": "2026-09-08T18:00:20",
   "code": 0,
   "message": null,
   "data": {
     "code": "SUCCESS",
     "extraMap": {
-      "MtopCostMillis": 101
+      "MtopCostMillis": 79
     },
     "model": {
       "brandList": [
@@ -191,11 +191,11 @@
           "count": 8
         }
       ],
-      "costMillis": 100,
+      "costMillis": 78,
       "extraMap": {
         "WorldsearchIP": "33.102.181.148",
         "WorldsearchName": "worldsearch033102181148.center.na620",
-        "EndpointHost": "33.54.222.247",
+        "EndpointHost": "33.6.79.192",
         "sp_status": "OK",
         "Endpoint": "taobao_item",
         "afterSearchCostMillis": 0
@@ -209,7 +209,7 @@
           "discntType": "优惠价",
           "extraMap": {},
           "fahuoDsr": "487",
-          "frontStock": 92697,
+          "frontStock": 92034,
           "fuwuDsr": "486",
           "hasTongkuan": false,
           "hasXiangsi": false,
@@ -274,7 +274,7 @@
           "discntType": "优惠价",
           "extraMap": {},
           "fahuoDsr": "491",
-          "frontStock": 13408,
+          "frontStock": 24169,
           "fuwuDsr": "491",
           "hasTongkuan": false,
           "hasXiangsi": false,
@@ -340,8 +340,8 @@
           "discntRate": 8657,
           "discntType": "天天团购",
           "extraMap": {},
-          "fahuoDsr": "487",
-          "frontStock": 441756,
+          "fahuoDsr": "486",
+          "frontStock": 441575,
           "fuwuDsr": "487",
           "hasTongkuan": false,
           "hasXiangsi": false,
@@ -353,7 +353,7 @@
           "itemSubName": "",
           "itemSubNameEn": "",
           "itemType": "b",
-          "miaoshuDsr": "484",
+          "miaoshuDsr": "483",
           "options": 17716740096,
           "orderPayUV": "1000+",
           "picUrl": "i4/1087296789/O1CN01aQGTPH201PwgqNnci_!!1087296789.webp",
@@ -391,7 +391,7 @@
           "discntType": "优惠价",
           "extraMap": {},
           "fahuoDsr": "488",
-          "frontStock": 385842,
+          "frontStock": 383378,
           "fuwuDsr": "487",
           "hasTongkuan": false,
           "hasXiangsi": false,
@@ -454,7 +454,7 @@
           "discntType": "优惠价",
           "extraMap": {},
           "fahuoDsr": "479",
-          "frontStock": 242720,
+          "frontStock": 238418,
           "fuwuDsr": "479",
           "hasTongkuan": false,
           "hasXiangsi": false,
@@ -518,7 +518,7 @@
           "discntType": "优惠价",
           "extraMap": {},
           "fahuoDsr": "484",
-          "frontStock": 7597,
+          "frontStock": 5870,
           "fuwuDsr": "486",
           "hasTongkuan": false,
           "hasXiangsi": false,
@@ -584,7 +584,7 @@
           "discntType": "优惠价",
           "extraMap": {},
           "fahuoDsr": "491",
-          "frontStock": 5662,
+          "frontStock": 3203,
           "fuwuDsr": "491",
           "hasTongkuan": false,
           "hasXiangsi": false,
@@ -639,7 +639,7 @@
           "discntType": "特价秒杀",
           "extraMap": {},
           "fahuoDsr": "491",
-          "frontStock": 2644,
+          "frontStock": 2526,
           "fuwuDsr": "491",
           "hasTongkuan": false,
           "hasXiangsi": false,
@@ -689,7 +689,7 @@
           "discntType": "优惠价",
           "extraMap": {},
           "fahuoDsr": "487",
-          "frontStock": 213743,
+          "frontStock": 211157,
           "fuwuDsr": "486",
           "hasTongkuan": false,
           "hasXiangsi": false,
@@ -756,7 +756,7 @@
           "discntType": "热卖促销",
           "extraMap": {},
           "fahuoDsr": "478",
-          "frontStock": 312751,
+          "frontStock": 315731,
           "fuwuDsr": "476",
           "hasTongkuan": false,
           "hasXiangsi": false,
@@ -805,8 +805,8 @@
         "prevNo": 1,
         "showBegin": 1,
         "showEnd": 3,
-        "totalItems": 182820,
-        "totalPages": 18282
+        "totalItems": 182770,
+        "totalPages": 18277
       },
       "propertyList": [
         {
@@ -815,79 +815,79 @@
           "pname": "省份",
           "valueList": [
             {
-              "count": 1396,
+              "count": 1390,
               "flag": "qp_commend",
               "vid": 52863,
               "vname": "福建省"
             },
             {
-              "count": 800,
+              "count": 795,
               "flag": "qp_commend",
               "vid": 52852,
               "vname": "安徽省"
             },
             {
-              "count": 1325,
+              "count": 1312,
               "flag": "qp_commend",
               "vid": 52860,
               "vname": "浙江省"
             },
             {
-              "count": 954,
+              "count": 957,
               "flag": "qp_commend",
               "vid": 52849,
               "vname": "河南省"
             },
             {
-              "count": 1766,
+              "count": 1759,
               "flag": "qp_commend",
               "vid": 52862,
               "vname": "广东省"
             },
             {
-              "count": 850,
+              "count": 846,
               "flag": "qp_commend",
               "vid": 29423,
               "vname": "上海"
             },
             {
-              "count": 704,
+              "count": 703,
               "flag": "qp_commend",
               "vid": 29400,
               "vname": "北京"
             },
             {
-              "count": 1422,
+              "count": 1408,
               "flag": "qp_commend",
               "vid": 52855,
               "vname": "江苏省"
             },
             {
-              "count": 642,
+              "count": 643,
               "flag": "qp_commend",
               "vid": 52858,
               "vname": "云南省"
             },
             {
-              "count": 915,
+              "count": 899,
               "flag": "qp_commend",
               "vid": 52856,
               "vname": "四川省"
             },
             {
-              "count": 1152,
+              "count": 1148,
               "flag": "qp_commend",
               "vid": 52850,
               "vname": "山东省"
             },
             {
-              "count": 382,
+              "count": 383,
               "flag": "qp_commend",
               "vid": 52853,
               "vname": "湖北省"
             },
             {
-              "count": 395,
+              "count": 394,
               "flag": "qp_commend",
               "vid": 3296643,
               "vname": "广西壮族自治区"
@@ -899,19 +899,19 @@
               "vname": "吉林省"
             },
             {
-              "count": 196,
+              "count": 195,
               "flag": "qp_commend",
               "vid": 52851,
               "vname": "山西省"
             },
             {
-              "count": 95,
+              "count": 94,
               "flag": "qp_commend",
               "vid": 29428,
               "vname": "天津"
             },
             {
-              "count": 731,
+              "count": 724,
               "flag": "qp_commend",
               "vid": 52854,
               "vname": "湖南省"
@@ -923,13 +923,13 @@
               "vname": "河北省"
             },
             {
-              "count": 510,
+              "count": 508,
               "flag": "qp_commend",
               "vid": 3296646,
               "vname": "新疆维吾尔自治区"
             },
             {
-              "count": 1213,
+              "count": 1209,
               "flag": "qp_commend",
               "vid": 52848,
               "vname": "陕西省"
@@ -1002,7 +1002,7 @@
               "vname": "酥饼"
             },
             {
-              "count": 122,
+              "count": 121,
               "flag": "qp_commend",
               "vid": 13202464,
               "vname": "桂花糕"
@@ -1178,7 +1178,7 @@
           "pname": "口味",
           "valueList": [
             {
-              "count": 307,
+              "count": 308,
               "flag": "qp_commend",
               "vid": 94572,
               "vname": "原味"
@@ -1329,7 +1329,7 @@
               "vname": "莲蓉"
             },
             {
-              "count": 0,
+              "count": 1,
               "flag": "qp_commend",
               "vid": 119553,
               "vname": "五仁"

@@ -1,6 +1,6 @@
 {
-  "_fetchedAt": "2026-09-08T17:01:05.941939+08:00",
-  "_sourceCheckedAt": "2026-09-08T17:00:37",
+  "_fetchedAt": "2026-09-08T18:01:07.465896+08:00",
+  "_sourceCheckedAt": "2026-09-08T18:00:35",
   "code": 0,
   "message": null,
   "data": {
@@ -3689,7 +3689,7 @@
         "isEnd": 0,
         "isModule": true,
         "globalControlParam": {
-          "closeRetentionPop": true
+          "closeRetentionPop": false
         },
         "highlightWord": "deep,seek",
         "filter": {
@@ -3793,9 +3793,9 @@
             "trackInfo": {
               "searchtab": "0",
               "source_from": "home",
-              "eid": "21046d7717888580375652872ee94a",
+              "eid": "0b0b94ed17888616359932927ebdfb",
               "search_from": "1",
-              "engine": "expid~req.ugc105.sort1004.rank105.qa0$eid~21046d7717888580375652872ee94a$bts~soku_engine_master#105$r_p_n~31",
+              "engine": "expid~req.ugc105.sort1004.rank105.qa0$eid~0b0b94ed17888616359932927ebdfb$bts~soku_engine_master#105$r_p_n~31",
               "aaid": "9fbffd5aabe0f1eeaa005d2258486410",
               "k": "deepseek"
             },
@@ -3813,7 +3813,7 @@
     "ret": [
       "SUCCESS::调用成功"
     ],
-    "traceId": "21046d7717888580375652872ee94a",
+    "traceId": "0b0b94ed17888616359932927ebdfb",
     "v": "2.0"
   },
   "recordTime": null
