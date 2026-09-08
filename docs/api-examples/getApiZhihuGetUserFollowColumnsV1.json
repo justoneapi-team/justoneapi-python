@@ -1,6 +1,6 @@
 {
-  "_fetchedAt": "2026-09-08T11:40:57.327415+08:00",
-  "_sourceCheckedAt": "2026-09-08T11:00:37",
+  "_fetchedAt": "2026-09-08T12:01:05.687504+08:00",
+  "_sourceCheckedAt": "2026-09-08T12:00:37",
   "code": 0,
   "message": null,
   "data": {
@@ -27,6 +27,7 @@
         "comment_permission": "all",
         "author": {
           "avatar_url_template": "https://picx.zhimg.com/v2-012510f8582d2a6ded80846b4665fc96.jpg?source=d16d100b",
+          "gender": -1,
           "badge_v2": {
             "icon": "",
             "detail_badges": [],
@@ -36,12 +37,11 @@
           },
           "name": "Topbook",
           "url": "http://www.zhihu.com/api/v4/people/f718e17014c2dd5cb070c2b9def43dd9",
-          "gender": -1,
-          "user_type": "organization",
           "url_token": "topbook",
+          "user_type": "organization",
           "is_advertiser": false,
           "type": "people",
-          "avatar_url": "https://picx.zhimg.com/v2-012510f8582d2a6ded80846b4665fc96_l.jpg?source=d16d100b",
+          "avatar_url": "https://pic1.zhimg.com/v2-012510f8582d2a6ded80846b4665fc96_l.jpg?source=d16d100b",
           "is_org": true,
           "headline": "topbook.cc 开启全新的高效生活方式！",
           "badge": [],
@@ -67,6 +67,7 @@
         "comment_permission": "all",
         "author": {
           "avatar_url_template": "https://picx.zhimg.com/v2-e3867e3189c8d8537c846cb4771d7a4e.jpg?source=d16d100b",
+          "gender": -1,
           "badge_v2": {
             "icon": "",
             "detail_badges": [],
@@ -76,12 +77,11 @@
           },
           "name": "一周进步",
           "url": "http://www.zhihu.com/api/v4/people/a15634aa6cfbbad390be1c19388a7db3",
-          "gender": -1,
-          "user_type": "organization",
           "url_token": "yi-zhou-jin-bu",
+          "user_type": "organization",
           "is_advertiser": false,
           "type": "people",
-          "avatar_url": "https://picx.zhimg.com/v2-e3867e3189c8d8537c846cb4771d7a4e_l.jpg?source=d16d100b",
+          "avatar_url": "https://pic1.zhimg.com/v2-e3867e3189c8d8537c846cb4771d7a4e_l.jpg?source=d16d100b",
           "is_org": true,
           "headline": "掌握一个核心技能，路越走越宽。",
           "badge": [],
@@ -106,6 +106,7 @@
         "comment_permission": "all",
         "author": {
           "avatar_url_template": "https://pic1.zhimg.com/v2-1c1a2df52252ad2b43436b12c401cdf8.jpg?source=d16d100b",
+          "gender": 1,
           "badge_v2": {
             "icon": "",
             "detail_badges": [],
@@ -115,18 +116,17 @@
           },
           "name": "刘坚持",
           "url": "http://www.zhihu.com/api/v4/people/c96f0ec3fe31fa77bd6496ed07f45756",
-          "gender": 1,
-          "user_type": "people",
           "url_token": "li-yun-jing-56",
+          "user_type": "people",
           "is_advertiser": false,
           "type": "people",
-          "avatar_url": "https://pic1.zhimg.com/v2-1c1a2df52252ad2b43436b12c401cdf8_l.jpg?source=d16d100b",
+          "avatar_url": "https://picx.zhimg.com/v2-1c1a2df52252ad2b43436b12c401cdf8_l.jpg?source=d16d100b",
           "is_org": false,
           "headline": "十年饮冰，难凉热血",
           "badge": [],
           "id": "c96f0ec3fe31fa77bd6496ed07f45756"
         },
-        "image_url": "https://picx.zhimg.com/v2-6d90bd044326c9bda0b144a9d9d29e9e_l.jpg?source=d16d100b",
+        "image_url": "https://pic1.zhimg.com/v2-6d90bd044326c9bda0b144a9d9d29e9e_l.jpg?source=d16d100b",
         "followers": 26968,
         "articles_count": 197,
         "type": "column"
@@ -146,6 +146,7 @@
         "comment_permission": "all",
         "author": {
           "avatar_url_template": "https://picx.zhimg.com/v2-461435e91115861646afc85534f2af25.jpg?source=d16d100b",
+          "gender": 1,
           "badge_v2": {
             "icon": "",
             "detail_badges": [],
@@ -155,9 +156,8 @@
           },
           "name": "见长",
           "url": "http://www.zhihu.com/api/v4/people/363d9fb8dce8d598b1adbe7c32d7316b",
-          "gender": 1,
-          "user_type": "people",
           "url_token": "li-en-liang-91",
+          "user_type": "people",
           "is_advertiser": false,
           "type": "people",
           "avatar_url": "https://picx.zhimg.com/v2-461435e91115861646afc85534f2af25_l.jpg?source=d16d100b",
@@ -166,7 +166,7 @@
           "badge": [],
           "id": "363d9fb8dce8d598b1adbe7c32d7316b"
         },
-        "image_url": "https://pica.zhimg.com/v2-536e680ec56064eb07185286352a5747_l.jpg?source=d16d100b",
+        "image_url": "https://pic1.zhimg.com/v2-536e680ec56064eb07185286352a5747_l.jpg?source=d16d100b",
         "followers": 11254,
         "articles_count": 152,
         "type": "column"
@@ -186,6 +186,7 @@
         "comment_permission": "all",
         "author": {
           "avatar_url_template": "https://picx.zhimg.com/v2-f68b34569412ad8a24adb6375e93577b.jpg?source=d16d100b",
+          "gender": -1,
           "badge_v2": {
             "icon": "",
             "detail_badges": [],
@@ -195,9 +196,8 @@
           },
           "name": "马小帅",
           "url": "http://www.zhihu.com/api/v4/people/9de0235f584b557eaa2b23e61a217b4a",
-          "gender": -1,
-          "user_type": "people",
           "url_token": "ma-qin",
+          "user_type": "people",
           "is_advertiser": false,
           "type": "people",
           "avatar_url": "https://picx.zhimg.com/v2-f68b34569412ad8a24adb6375e93577b_l.jpg?source=d16d100b",
@@ -206,7 +206,7 @@
           "badge": [],
           "id": "9de0235f584b557eaa2b23e61a217b4a"
         },
-        "image_url": "https://pica.zhimg.com/v2-0a6bbe3ee23ce7c6a5f271a385517734_l.png?source=d16d100b",
+        "image_url": "https://picx.zhimg.com/v2-0a6bbe3ee23ce7c6a5f271a385517734_l.png?source=d16d100b",
         "followers": 14897,
         "articles_count": 319,
         "type": "column"

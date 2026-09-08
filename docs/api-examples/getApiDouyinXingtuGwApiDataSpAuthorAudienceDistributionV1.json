@@ -1,6 +1,6 @@
 {
-  "_fetchedAt": "2026-09-08T11:40:07.966012+08:00",
-  "_sourceCheckedAt": "2026-09-08T11:00:04",
+  "_fetchedAt": "2026-09-08T12:00:16.243521+08:00",
+  "_sourceCheckedAt": "2026-09-08T12:00:03",
   "code": 0,
   "message": null,
   "data": {
@@ -157,6 +157,25 @@
         "type_display": "省份分布"
       },
       {
+        "description": "男性居多,占比76%",
+        "distribution_list": [
+          {
+            "distribution_key": "female",
+            "distribution_value": "1748499"
+          },
+          {
+            "distribution_key": "male",
+            "distribution_value": "5672385"
+          }
+        ],
+        "image": [
+          "男性居多"
+        ],
+        "origin_type": 0,
+        "type": 1,
+        "type_display": "性别分布"
+      },
+      {
         "description": "分布最多的1个城市广州(11%)",
         "distribution_list": [
           {
@@ -206,25 +225,6 @@
         "origin_type": 8,
         "type": 256,
         "type_display": "城市分布"
-      },
-      {
-        "description": "男性居多,占比76%",
-        "distribution_list": [
-          {
-            "distribution_key": "female",
-            "distribution_value": "1748499"
-          },
-          {
-            "distribution_key": "male",
-            "distribution_value": "5672385"
-          }
-        ],
-        "image": [
-          "男性居多"
-        ],
-        "origin_type": 0,
-        "type": 1,
-        "type_display": "性别分布"
       },
       {
         "description": "分布最多的3个兴趣随拍(49%),二次元(16%),游戏(11%)",
@@ -313,6 +313,37 @@
         "type_display": "八大人群分布"
       },
       {
+        "description": "一线居多,占比27%",
+        "distribution_list": [
+          {
+            "distribution_key": "五线",
+            "distribution_value": "823156"
+          },
+          {
+            "distribution_key": "四线",
+            "distribution_value": "1273809"
+          },
+          {
+            "distribution_key": "二线",
+            "distribution_value": "1454131"
+          },
+          {
+            "distribution_key": "三线",
+            "distribution_value": "1783182"
+          },
+          {
+            "distribution_key": "一线",
+            "distribution_value": "2035768"
+          }
+        ],
+        "image": [
+          "一线居多"
+        ],
+        "origin_type": 5,
+        "type": 32,
+        "type_display": "城市等级分布"
+      },
+      {
         "description": "苹果手机占比25%, 消费能力较好",
         "distribution_list": [
           {
@@ -385,40 +416,9 @@
         "origin_type": 1,
         "type": 2,
         "type_display": "年龄分布"
-      },
-      {
-        "description": "一线居多,占比27%",
-        "distribution_list": [
-          {
-            "distribution_key": "五线",
-            "distribution_value": "823156"
-          },
-          {
-            "distribution_key": "四线",
-            "distribution_value": "1273809"
-          },
-          {
-            "distribution_key": "二线",
-            "distribution_value": "1454131"
-          },
-          {
-            "distribution_key": "三线",
-            "distribution_value": "1783182"
-          },
-          {
-            "distribution_key": "一线",
-            "distribution_value": "2035768"
-          }
-        ],
-        "image": [
-          "一线居多"
-        ],
-        "origin_type": 5,
-        "type": 32,
-        "type_display": "城市等级分布"
       }
     ],
-    "last_update_time": "1788836404"
+    "last_update_time": "1788840003"
   },
   "recordTime": null
 }

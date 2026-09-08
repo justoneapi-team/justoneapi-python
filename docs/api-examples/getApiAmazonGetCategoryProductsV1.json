@@ -1,10 +1,10 @@
 {
-  "_fetchedAt": "2026-09-08T11:39:59.315442+08:00",
-  "_sourceCheckedAt": "2026-09-08T11:00:00",
+  "_fetchedAt": "2026-09-08T12:00:07.618850+08:00",
+  "_sourceCheckedAt": "2026-09-08T12:00:00",
   "code": 0,
   "message": null,
   "data": {
-    "total_products": 81933,
+    "total_products": 83197,
     "country": "US",
     "domain": "www.amazon.com",
     "products": [
@@ -127,7 +127,7 @@
         "is_prime": true,
         "climate_pledge_friendly": true,
         "sales_volume": "80K+ bought in past month",
-        "delivery": "Join Prime to get FREE delivery Wed, Sep 9Or Non-members get FREE delivery Sat, Sep 12",
+        "delivery": "Join Prime to get FREE delivery Thu, Sep 10Or Non-members get FREE delivery Sat, Sep 12",
         "has_variations": false
       },
       {
@@ -293,13 +293,12 @@
         "product_num_offers": 1,
         "product_minimum_offer_price": "$85.99",
         "is_best_seller": false,
-        "is_amazon_choice": true,
-        "is_prime": false,
+        "is_amazon_choice": false,
+        "is_prime": true,
         "climate_pledge_friendly": false,
         "sales_volume": "70K+ bought in past month",
-        "delivery": "FREE delivery Sep 12 - 14Or fastest delivery Sat, Sep 12",
-        "has_variations": true,
-        "product_badge": "Amazon's"
+        "delivery": "Join Prime to get FREE delivery Thu, Sep 10Or Non-members get FREE delivery Sat, Sep 12",
+        "has_variations": true
       },
       {
         "asin": "B00TFYYWQA",
@@ -318,7 +317,7 @@
         "is_prime": false,
         "climate_pledge_friendly": false,
         "sales_volume": "60K+ bought in past month",
-        "delivery": "FREE delivery Sep 13 - 17Or fastest delivery Sep 13 - 16",
+        "delivery": "FREE delivery Sep 13 - 18Or fastest delivery Sep 13 - 16",
         "has_variations": false
       },
       {
@@ -332,7 +331,7 @@
         "product_url": "https://www.amazon.com/dp/B079KL4C91",
         "product_photo": "https://m.media-amazon.com/images/I/61cefAp7H5L._AC_UL960_QL65_.jpg",
         "product_num_offers": 2,
-        "product_minimum_offer_price": "$9.84",
+        "product_minimum_offer_price": "$12.78",
         "is_best_seller": false,
         "is_amazon_choice": false,
         "is_prime": true,
@@ -379,7 +378,7 @@
         "is_prime": true,
         "climate_pledge_friendly": false,
         "sales_volume": "100K+ bought in past month",
-        "delivery": "Join Prime to get FREE delivery Tomorrow 4 AM - 8 AM on eligible ordersOr Non-members get FREE delivery Sat, Sep 12 on $35 of items shipped by Amazon",
+        "delivery": "Join Prime to get FREE delivery Tomorrow, Sep 8Or Non-members get FREE delivery Sat, Sep 12 on $35 of items shipped by Amazon",
         "has_variations": false
       },
       {
@@ -458,10 +457,10 @@
         "product_minimum_offer_price": "$64.86",
         "is_best_seller": false,
         "is_amazon_choice": false,
-        "is_prime": true,
+        "is_prime": false,
         "climate_pledge_friendly": false,
         "sales_volume": "10K+ bought in past month",
-        "delivery": "Join Prime to get FREE delivery Thu, Sep 10Or Non-members get FREE delivery Sat, Sep 12",
+        "delivery": "FREE delivery Sat, Sep 12",
         "has_variations": false
       },
       {
