@@ -1,12 +1,12 @@
 {
-  "_fetchedAt": "2026-09-08T13:00:43.309383+08:00",
-  "_sourceCheckedAt": "2026-09-08T13:00:18",
+  "_fetchedAt": "2026-09-08T14:00:41.500329+08:00",
+  "_sourceCheckedAt": "2026-09-08T14:00:17",
   "code": 0,
   "message": null,
   "data": {
     "code": "SUCCESS",
     "extraMap": {
-      "MtopCostMillis": 78
+      "MtopCostMillis": 86
     },
     "model": {
       "brandList": [
@@ -191,11 +191,11 @@
           "count": 8
         }
       ],
-      "costMillis": 78,
+      "costMillis": 86,
       "extraMap": {
         "WorldsearchIP": "33.102.31.131",
         "WorldsearchName": "worldsearch033102031131.center.na610",
-        "EndpointHost": "33.78.47.85",
+        "EndpointHost": "33.55.30.37",
         "sp_status": "OK",
         "Endpoint": "taobao_item",
         "afterSearchCostMillis": 0
@@ -805,8 +805,8 @@
         "prevNo": 1,
         "showBegin": 1,
         "showEnd": 3,
-        "totalItems": 182868,
-        "totalPages": 18287
+        "totalItems": 182890,
+        "totalPages": 18289
       },
       "propertyList": [
         {
@@ -815,37 +815,37 @@
           "pname": "省份",
           "valueList": [
             {
-              "count": 1311,
+              "count": 1310,
               "flag": "qp_commend",
               "vid": 52863,
               "vname": "福建省"
             },
             {
-              "count": 737,
+              "count": 733,
               "flag": "qp_commend",
               "vid": 52852,
               "vname": "安徽省"
             },
             {
-              "count": 1225,
+              "count": 1216,
               "flag": "qp_commend",
               "vid": 52860,
               "vname": "浙江省"
             },
             {
-              "count": 940,
+              "count": 941,
               "flag": "qp_commend",
               "vid": 52849,
               "vname": "河南省"
             },
             {
-              "count": 1720,
+              "count": 1715,
               "flag": "qp_commend",
               "vid": 52862,
               "vname": "广东省"
             },
             {
-              "count": 849,
+              "count": 848,
               "flag": "qp_commend",
               "vid": 29423,
               "vname": "上海"
@@ -857,43 +857,43 @@
               "vname": "北京"
             },
             {
-              "count": 1329,
+              "count": 1316,
               "flag": "qp_commend",
               "vid": 52855,
               "vname": "江苏省"
             },
             {
-              "count": 622,
+              "count": 615,
               "flag": "qp_commend",
               "vid": 52858,
               "vname": "云南省"
             },
             {
-              "count": 791,
+              "count": 775,
               "flag": "qp_commend",
               "vid": 52856,
               "vname": "四川省"
             },
             {
-              "count": 1102,
+              "count": 1096,
               "flag": "qp_commend",
               "vid": 52850,
               "vname": "山东省"
             },
             {
-              "count": 360,
+              "count": 357,
               "flag": "qp_commend",
               "vid": 52853,
               "vname": "湖北省"
             },
             {
-              "count": 383,
+              "count": 380,
               "flag": "qp_commend",
               "vid": 3296643,
               "vname": "广西壮族自治区"
             },
             {
-              "count": 467,
+              "count": 458,
               "flag": "qp_commend",
               "vid": 52843,
               "vname": "吉林省"
@@ -905,31 +905,31 @@
               "vname": "山西省"
             },
             {
-              "count": 93,
+              "count": 94,
               "flag": "qp_commend",
               "vid": 29428,
               "vname": "天津"
             },
             {
-              "count": 649,
+              "count": 639,
               "flag": "qp_commend",
               "vid": 52854,
               "vname": "湖南省"
             },
             {
-              "count": 315,
+              "count": 314,
               "flag": "qp_commend",
               "vid": 52845,
               "vname": "河北省"
             },
             {
-              "count": 498,
+              "count": 493,
               "flag": "qp_commend",
               "vid": 3296646,
               "vname": "新疆维吾尔自治区"
             },
             {
-              "count": 1207,
+              "count": 1204,
               "flag": "qp_commend",
               "vid": 52848,
               "vname": "陕西省"
@@ -972,7 +972,7 @@
               "vname": "绿豆糕"
             },
             {
-              "count": 111,
+              "count": 110,
               "flag": "qp_commend",
               "vid": 14192939,
               "vname": "桃酥"
@@ -1129,7 +1129,7 @@
               "vname": "成都军屯锅盔"
             },
             {
-              "count": 17,
+              "count": 18,
               "flag": "qp_commend",
               "vid": 232550173,
               "vname": "天津糕点"
@@ -1178,7 +1178,7 @@
           "pname": "口味",
           "valueList": [
             {
-              "count": 294,
+              "count": 292,
               "flag": "qp_commend",
               "vid": 94572,
               "vname": "原味"
@@ -1262,7 +1262,7 @@
               "vname": "芒果味"
             },
             {
-              "count": 38,
+              "count": 37,
               "flag": "qp_commend",
               "vid": 4285523,
               "vname": "咸味"
@@ -1420,7 +1420,7 @@
           "pname": "套餐份量",
           "valueList": [
             {
-              "count": 41,
+              "count": 40,
               "flag": "qp_commend",
               "vid": 6070043,
               "vname": "3人份"
@@ -1432,7 +1432,7 @@
               "vname": "1人份"
             },
             {
-              "count": 38,
+              "count": 37,
               "flag": "qp_commend",
               "vid": 13397025,
               "vname": "2人份"

@@ -1,6 +1,6 @@
 {
-  "_fetchedAt": "2026-09-08T13:00:17.648663+08:00",
-  "_sourceCheckedAt": "2026-09-08T13:00:04",
+  "_fetchedAt": "2026-09-08T14:00:15.685813+08:00",
+  "_sourceCheckedAt": "2026-09-08T14:00:04",
   "code": 0,
   "message": null,
   "data": {
@@ -9,6 +9,49 @@
       "status_message": ""
     },
     "distributions": [
+      {
+        "description": "苹果手机占比25%, 消费能力较好",
+        "distribution_list": [
+          {
+            "distribution_key": "荣耀",
+            "distribution_value": "747001"
+          },
+          {
+            "distribution_key": "小米",
+            "distribution_value": "485463"
+          },
+          {
+            "distribution_key": "其他",
+            "distribution_value": "1196314"
+          },
+          {
+            "distribution_key": "iPhone",
+            "distribution_value": "1875648"
+          },
+          {
+            "distribution_key": "oppo",
+            "distribution_value": "812432"
+          },
+          {
+            "distribution_key": "红米",
+            "distribution_value": "581044"
+          },
+          {
+            "distribution_key": "vivo",
+            "distribution_value": "956304"
+          },
+          {
+            "distribution_key": "华为",
+            "distribution_value": "773934"
+          }
+        ],
+        "image": [
+          "苹果手机较多"
+        ],
+        "origin_type": 3,
+        "type": 8,
+        "type_display": "设备品牌分布"
+      },
       {
         "description": "一线居多,占比27%",
         "distribution_list": [
@@ -72,47 +115,109 @@
         "type_display": "年龄分布"
       },
       {
-        "description": "苹果手机占比25%, 消费能力较好",
+        "description": "分布最多的3个兴趣随拍(49%),二次元(16%),游戏(11%)",
         "distribution_list": [
           {
-            "distribution_key": "荣耀",
-            "distribution_value": "747001"
+            "distribution_key": "随拍",
+            "distribution_value": "3070504"
           },
           {
-            "distribution_key": "小米",
-            "distribution_value": "485463"
+            "distribution_key": "二次元",
+            "distribution_value": "1039506"
           },
           {
-            "distribution_key": "其他",
-            "distribution_value": "1196314"
+            "distribution_key": "游戏",
+            "distribution_value": "710087"
           },
           {
-            "distribution_key": "iPhone",
-            "distribution_value": "1875648"
+            "distribution_key": "剧情",
+            "distribution_value": "417881"
           },
           {
-            "distribution_key": "oppo",
-            "distribution_value": "812432"
+            "distribution_key": "体育",
+            "distribution_value": "287500"
           },
           {
-            "distribution_key": "红米",
-            "distribution_value": "581044"
+            "distribution_key": "亲子",
+            "distribution_value": "234143"
           },
           {
-            "distribution_key": "vivo",
-            "distribution_value": "956304"
+            "distribution_key": "颜值",
+            "distribution_value": "209925"
           },
           {
-            "distribution_key": "华为",
-            "distribution_value": "773934"
+            "distribution_key": "社会时政",
+            "distribution_value": "193987"
           }
         ],
         "image": [
-          "苹果手机较多"
+          "随拍,二次元,游戏居多"
         ],
-        "origin_type": 3,
-        "type": 8,
-        "type_display": "设备品牌分布"
+        "origin_type": 6,
+        "type": 64,
+        "type_display": "兴趣分布"
+      },
+      {
+        "description": "Z世代居多,占比32%",
+        "distribution_list": [
+          {
+            "distribution_key": "都市蓝领",
+            "distribution_value": "858101"
+          },
+          {
+            "distribution_key": "都市银发",
+            "distribution_value": "820680"
+          },
+          {
+            "distribution_key": "精致妈妈",
+            "distribution_value": "144658"
+          },
+          {
+            "distribution_key": "资深中产",
+            "distribution_value": "282033"
+          },
+          {
+            "distribution_key": "新锐白领",
+            "distribution_value": "604347"
+          },
+          {
+            "distribution_key": "Z世代",
+            "distribution_value": "2400551"
+          },
+          {
+            "distribution_key": "小镇青年",
+            "distribution_value": "1539899"
+          },
+          {
+            "distribution_key": "小镇中老年",
+            "distribution_value": "679416"
+          }
+        ],
+        "image": [
+          "Z世代居多"
+        ],
+        "origin_type": 10,
+        "type": 1024,
+        "type_display": "八大人群分布"
+      },
+      {
+        "description": "男性居多,占比76%",
+        "distribution_list": [
+          {
+            "distribution_key": "female",
+            "distribution_value": "1748499"
+          },
+          {
+            "distribution_key": "male",
+            "distribution_value": "5672385"
+          }
+        ],
+        "image": [
+          "男性居多"
+        ],
+        "origin_type": 0,
+        "type": 1,
+        "type_display": "性别分布"
       },
       {
         "description": "分布最多的1个城市广州(11%)",
@@ -164,49 +269,6 @@
         "origin_type": 8,
         "type": 256,
         "type_display": "城市分布"
-      },
-      {
-        "description": "Z世代居多,占比32%",
-        "distribution_list": [
-          {
-            "distribution_key": "都市蓝领",
-            "distribution_value": "858101"
-          },
-          {
-            "distribution_key": "都市银发",
-            "distribution_value": "820680"
-          },
-          {
-            "distribution_key": "精致妈妈",
-            "distribution_value": "144658"
-          },
-          {
-            "distribution_key": "资深中产",
-            "distribution_value": "282033"
-          },
-          {
-            "distribution_key": "新锐白领",
-            "distribution_value": "604347"
-          },
-          {
-            "distribution_key": "Z世代",
-            "distribution_value": "2400551"
-          },
-          {
-            "distribution_key": "小镇青年",
-            "distribution_value": "1539899"
-          },
-          {
-            "distribution_key": "小镇中老年",
-            "distribution_value": "679416"
-          }
-        ],
-        "image": [
-          "Z世代居多"
-        ],
-        "origin_type": 10,
-        "type": 1024,
-        "type_display": "八大人群分布"
       },
       {
         "description": "分布最多的3个省份广东(11%),江苏(7%),河南(7%)",
@@ -354,71 +416,9 @@
         "origin_type": 2,
         "type": 4,
         "type_display": "省份分布"
-      },
-      {
-        "description": "男性居多,占比76%",
-        "distribution_list": [
-          {
-            "distribution_key": "female",
-            "distribution_value": "1748499"
-          },
-          {
-            "distribution_key": "male",
-            "distribution_value": "5672385"
-          }
-        ],
-        "image": [
-          "男性居多"
-        ],
-        "origin_type": 0,
-        "type": 1,
-        "type_display": "性别分布"
-      },
-      {
-        "description": "分布最多的3个兴趣随拍(49%),二次元(16%),游戏(11%)",
-        "distribution_list": [
-          {
-            "distribution_key": "随拍",
-            "distribution_value": "3070504"
-          },
-          {
-            "distribution_key": "二次元",
-            "distribution_value": "1039506"
-          },
-          {
-            "distribution_key": "游戏",
-            "distribution_value": "710087"
-          },
-          {
-            "distribution_key": "剧情",
-            "distribution_value": "417881"
-          },
-          {
-            "distribution_key": "体育",
-            "distribution_value": "287500"
-          },
-          {
-            "distribution_key": "亲子",
-            "distribution_value": "234143"
-          },
-          {
-            "distribution_key": "颜值",
-            "distribution_value": "209925"
-          },
-          {
-            "distribution_key": "社会时政",
-            "distribution_value": "193987"
-          }
-        ],
-        "image": [
-          "随拍,二次元,游戏居多"
-        ],
-        "origin_type": 6,
-        "type": 64,
-        "type_display": "兴趣分布"
       }
     ],
-    "last_update_time": "1788843604"
+    "last_update_time": "1788847204"
   },
   "recordTime": null
 }
