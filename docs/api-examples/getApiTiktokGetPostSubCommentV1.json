@@ -1,6 +1,6 @@
 {
-  "_fetchedAt": "2026-09-08T16:00:44.709608+08:00",
-  "_sourceCheckedAt": "2026-09-08T16:00:18",
+  "_fetchedAt": "2026-09-08T17:00:46.288103+08:00",
+  "_sourceCheckedAt": "2026-09-08T17:00:21",
   "code": 0,
   "message": null,
   "data": {
@@ -56,9 +56,9 @@
             "height": 720,
             "uri": "tos-maliva-avt-0068/7b02284c40400994703b71034aaa3bdd",
             "url_list": [
-              "https://p19-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/7b02284c40400994703b71034aaa3bdd~tplv-tiktokx-cropcenter-q:100:100:q70.webp?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=4510766b&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788940800&x-signature=oxC6B17%2FWGBmbf1IngdOvDErJ%2B4%3D",
-              "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/7b02284c40400994703b71034aaa3bdd~tplv-tiktokx-cropcenter-q:100:100:q70.webp?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=ad144610&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788940800&x-signature=8CkfjXmGSbBDWcn%2FpVJzdI8%2FNzU%3D",
-              "https://p19-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/7b02284c40400994703b71034aaa3bdd~tplv-tiktokx-cropcenter-q:100:100:q70.jpeg?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=449ac9a7&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788940800&x-signature=5E5Ps0dSmgh9Ct0bxzfdtwlTdgc%3D"
+              "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/7b02284c40400994703b71034aaa3bdd~tplv-tiktokx-cropcenter-q:100:100:q70.webp?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=6cec330b&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788944400&x-signature=DQHgI5v%2B15Me8FZ1Bv%2FiHdzYUaw%3D",
+              "https://p19-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/7b02284c40400994703b71034aaa3bdd~tplv-tiktokx-cropcenter-q:100:100:q70.webp?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=87b36997&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788944400&x-signature=RQlmT3AyCUeCEd%2FIbHfHsXpkpwg%3D",
+              "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/7b02284c40400994703b71034aaa3bdd~tplv-tiktokx-cropcenter-q:100:100:q70.jpeg?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=425664bc&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788944400&x-signature=ZNZkr%2FYvbMaLBGGvQ27AdVFMROk%3D"
             ],
             "url_prefix": null,
             "width": 720
@@ -145,7 +145,7 @@
           "type_label": null,
           "uid": "6925718539328766981",
           "unique_id": "gr0_0vy",
-          "unique_id_modify_time": 1788854418,
+          "unique_id_modify_time": 1788858021,
           "user_canceled": false,
           "user_mode": 1,
           "user_period": 0,
@@ -184,6 +184,7 @@
         "is_high_purchase_intent": false,
         "label_list": null,
         "no_show": false,
+        "qrec_virtual_enable": "",
         "reply_comment": null,
         "reply_id": "7304877760886588191",
         "reply_to_nickname": "Sara 🏎️",
@@ -204,7 +205,22 @@
         "status": 1,
         "stick_position": 0,
         "text": "Yeah but ppl could really stop saying little Taylor Swift bracelets they are called Kandi bracelets Kandi worms and edm culture started it so we would",
-        "text_extra": [],
+        "text_extra": [
+          {
+            "end": 99,
+            "search_keyword": "Kandi bracelets",
+            "search_keyword_id": "1990629458487604437",
+            "search_penetrate_info": "{\"lvl1_category_id\":\"\",\"is_ramandan_promotion\":\"\",\"sug_user_id\":\"\",\"word_type_version_map\":\"\",\"words_type_to_voucher_ids\":\"\",\"poi_card_id_list\":\"\",\"recall_reason\":\"weiss_batch_comment_pure_ner_recall_1_ab\",\"visualize_sug_product_id\":\"\",\"is_time_sensitive\":\"0\",\"lvl3_cate_list\":\"\",\"ecom_trigger_info_map\":\"\",\"direct_to_tako\":\"\",\"word_type_list\":\"\",\"hot_level\":\"0\",\"ecom_intent\":\"2\",\"ecom_trigger_info\":\"\",\"words_type_to_dmp_list\":\"\",\"video_id\":\"\",\"generate_time\":\"1742917139\"}",
+            "search_word_record": {
+              "qrec_json_info": "{\"is_four_vertical\":0}",
+              "textnet_id": "1011##315",
+              "words_lang": "en"
+            },
+            "start": 84,
+            "type": 6,
+            "word_position": 0
+          }
+        ],
         "text_to_image_item_ids": null,
         "thread_has_more": true,
         "thread_id": 2,
@@ -224,9 +240,9 @@
             "height": 720,
             "uri": "tos-alisg-avt-0068/ac91754690c7fb11a5a1d5f152bb7ca2",
             "url_list": [
-              "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/ac91754690c7fb11a5a1d5f152bb7ca2~tplv-tiktokx-cropcenter-q:100:100:q70.webp?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=b484e1dd&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788940800&x-signature=IRsA7%2BxDObnSmh6%2FIE3fh%2BHCiVo%3D",
-              "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/ac91754690c7fb11a5a1d5f152bb7ca2~tplv-tiktokx-cropcenter-q:100:100:q70.webp?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=ae1991c8&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788940800&x-signature=MnAGEFDidKg3%2FK%2FKcU4Bd8c6E4c%3D",
-              "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/ac91754690c7fb11a5a1d5f152bb7ca2~tplv-tiktokx-cropcenter-q:100:100:q70.jpeg?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=c93fa164&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788940800&x-signature=wZWwadrvKu%2Fiz%2BcAJYFpDCSvuyI%3D"
+              "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/ac91754690c7fb11a5a1d5f152bb7ca2~tplv-tiktokx-cropcenter-q:100:100:q70.webp?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=0b7c88cd&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788944400&x-signature=eRAmeb7Fm8vlJ2cltRLwxhX3e28%3D",
+              "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/ac91754690c7fb11a5a1d5f152bb7ca2~tplv-tiktokx-cropcenter-q:100:100:q70.webp?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=e33727aa&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788944400&x-signature=oWYfgxtvkNL0A%2BqvLeROT0Wn%2BBM%3D",
+              "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/ac91754690c7fb11a5a1d5f152bb7ca2~tplv-tiktokx-cropcenter-q:100:100:q70.jpeg?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=e02fd65b&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788944400&x-signature=WlViSR2XQ2Ig16ckkY5TMQrKSl8%3D"
             ],
             "url_prefix": null,
             "width": 720
@@ -322,7 +338,7 @@
           "type_label": null,
           "uid": "7245114112840647685",
           "unique_id": "bxby.kali3",
-          "unique_id_modify_time": 1788854418,
+          "unique_id_modify_time": 1788858021,
           "user_canceled": false,
           "user_mode": 1,
           "user_period": 0,
@@ -404,9 +420,9 @@
             "height": 720,
             "uri": "tos-alisg-avt-0068/ac91754690c7fb11a5a1d5f152bb7ca2",
             "url_list": [
-              "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/ac91754690c7fb11a5a1d5f152bb7ca2~tplv-tiktokx-cropcenter-q:100:100:q70.webp?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=b484e1dd&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788940800&x-signature=IRsA7%2BxDObnSmh6%2FIE3fh%2BHCiVo%3D",
-              "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/ac91754690c7fb11a5a1d5f152bb7ca2~tplv-tiktokx-cropcenter-q:100:100:q70.webp?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=ae1991c8&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788940800&x-signature=MnAGEFDidKg3%2FK%2FKcU4Bd8c6E4c%3D",
-              "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/ac91754690c7fb11a5a1d5f152bb7ca2~tplv-tiktokx-cropcenter-q:100:100:q70.jpeg?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=c93fa164&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788940800&x-signature=wZWwadrvKu%2Fiz%2BcAJYFpDCSvuyI%3D"
+              "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/ac91754690c7fb11a5a1d5f152bb7ca2~tplv-tiktokx-cropcenter-q:100:100:q70.webp?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=0b7c88cd&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788944400&x-signature=eRAmeb7Fm8vlJ2cltRLwxhX3e28%3D",
+              "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/ac91754690c7fb11a5a1d5f152bb7ca2~tplv-tiktokx-cropcenter-q:100:100:q70.webp?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=e33727aa&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788944400&x-signature=oWYfgxtvkNL0A%2BqvLeROT0Wn%2BBM%3D",
+              "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/ac91754690c7fb11a5a1d5f152bb7ca2~tplv-tiktokx-cropcenter-q:100:100:q70.jpeg?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=e02fd65b&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788944400&x-signature=WlViSR2XQ2Ig16ckkY5TMQrKSl8%3D"
             ],
             "url_prefix": null,
             "width": 720
@@ -502,7 +518,7 @@
           "type_label": null,
           "uid": "7245114112840647685",
           "unique_id": "bxby.kali3",
-          "unique_id_modify_time": 1788854418,
+          "unique_id_modify_time": 1788858021,
           "user_canceled": false,
           "user_mode": 1,
           "user_period": 0,
@@ -584,9 +600,9 @@
             "height": 720,
             "uri": "tos-useast5-avt-0068-tx/b55437f8ff0828b58379cc837e1fed68",
             "url_list": [
-              "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b55437f8ff0828b58379cc837e1fed68~tplv-tiktokx-cropcenter-q:100:100:q70.webp?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=cb8d83f2&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788940800&x-signature=ThPepmvny7PaPs00UhbXAAOgq6I%3D",
-              "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b55437f8ff0828b58379cc837e1fed68~tplv-tiktokx-cropcenter-q:100:100:q70.webp?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=d986a2e4&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788940800&x-signature=xZsuNp0dNg0NrhdF8IcgA6dsMss%3D",
-              "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b55437f8ff0828b58379cc837e1fed68~tplv-tiktokx-cropcenter-q:100:100:q70.jpeg?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=de08bbda&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788940800&x-signature=J3fSyACJ57NpwQLUVzVtBifvzkQ%3D"
+              "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b55437f8ff0828b58379cc837e1fed68~tplv-tiktokx-cropcenter-q:100:100:q70.webp?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=7e705216&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788944400&x-signature=rQs8dAI%2F91dwBqyWYx9IIAxP0XQ%3D",
+              "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b55437f8ff0828b58379cc837e1fed68~tplv-tiktokx-cropcenter-q:100:100:q70.webp?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=abad4a5b&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788944400&x-signature=S1ni%2FNk3sOV4imTxVeg%2BP0fR7ao%3D",
+              "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b55437f8ff0828b58379cc837e1fed68~tplv-tiktokx-cropcenter-q:100:100:q70.jpeg?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=75e2d851&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788944400&x-signature=UFeHP9dnZ06%2FnfVRYxA%2BetkY3Hg%3D"
             ],
             "url_prefix": null,
             "width": 720
@@ -682,7 +698,7 @@
           "type_label": null,
           "uid": "6916754545574396933",
           "unique_id": "skmadeleine",
-          "unique_id_modify_time": 1788854418,
+          "unique_id_modify_time": 1788858021,
           "user_canceled": false,
           "user_mode": 1,
           "user_period": 0,
@@ -764,9 +780,9 @@
             "height": 720,
             "uri": "tos-alisg-avt-0068/ac91754690c7fb11a5a1d5f152bb7ca2",
             "url_list": [
-              "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/ac91754690c7fb11a5a1d5f152bb7ca2~tplv-tiktokx-cropcenter-q:100:100:q70.webp?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=b484e1dd&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788940800&x-signature=IRsA7%2BxDObnSmh6%2FIE3fh%2BHCiVo%3D",
-              "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/ac91754690c7fb11a5a1d5f152bb7ca2~tplv-tiktokx-cropcenter-q:100:100:q70.webp?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=ae1991c8&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788940800&x-signature=MnAGEFDidKg3%2FK%2FKcU4Bd8c6E4c%3D",
-              "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/ac91754690c7fb11a5a1d5f152bb7ca2~tplv-tiktokx-cropcenter-q:100:100:q70.jpeg?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=c93fa164&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788940800&x-signature=wZWwadrvKu%2Fiz%2BcAJYFpDCSvuyI%3D"
+              "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/ac91754690c7fb11a5a1d5f152bb7ca2~tplv-tiktokx-cropcenter-q:100:100:q70.webp?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=0b7c88cd&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788944400&x-signature=eRAmeb7Fm8vlJ2cltRLwxhX3e28%3D",
+              "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/ac91754690c7fb11a5a1d5f152bb7ca2~tplv-tiktokx-cropcenter-q:100:100:q70.webp?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=e33727aa&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788944400&x-signature=oWYfgxtvkNL0A%2BqvLeROT0Wn%2BBM%3D",
+              "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/ac91754690c7fb11a5a1d5f152bb7ca2~tplv-tiktokx-cropcenter-q:100:100:q70.jpeg?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=e02fd65b&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788944400&x-signature=WlViSR2XQ2Ig16ckkY5TMQrKSl8%3D"
             ],
             "url_prefix": null,
             "width": 720
@@ -862,7 +878,7 @@
           "type_label": null,
           "uid": "7245114112840647685",
           "unique_id": "bxby.kali3",
-          "unique_id_modify_time": 1788854418,
+          "unique_id_modify_time": 1788858021,
           "user_canceled": false,
           "user_mode": 1,
           "user_period": 0,
@@ -941,9 +957,9 @@
             "height": 720,
             "uri": "tos-maliva-avt-0068/162a757b98eef7a6640d465aa7dc4576",
             "url_list": [
-              "https://p19-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/162a757b98eef7a6640d465aa7dc4576~tplv-tiktokx-cropcenter-q:100:100:q70.webp?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=f9a43937&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788940800&x-signature=QFRHc1FDhts6GV%2Fsq8MlQE4HaQA%3D",
-              "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/162a757b98eef7a6640d465aa7dc4576~tplv-tiktokx-cropcenter-q:100:100:q70.webp?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=631ea1fd&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788940800&x-signature=QMaR7WuLD%2BT5YkIDQPyfi1ABRuE%3D",
-              "https://p19-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/162a757b98eef7a6640d465aa7dc4576~tplv-tiktokx-cropcenter-q:100:100:q70.jpeg?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=b7d84664&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788940800&x-signature=OjFtriFASJQS0fz4TkSDTW%2Bu1w0%3D"
+              "https://p19-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/162a757b98eef7a6640d465aa7dc4576~tplv-tiktokx-cropcenter-q:100:100:q70.webp?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=50cfa04d&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788944400&x-signature=wVJyDFzgxWdEPWqpGyiuBRZslCA%3D",
+              "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/162a757b98eef7a6640d465aa7dc4576~tplv-tiktokx-cropcenter-q:100:100:q70.webp?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=68df0738&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788944400&x-signature=8iUUjFo4T8HF0OgKEYzs3xbwuEI%3D",
+              "https://p19-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/162a757b98eef7a6640d465aa7dc4576~tplv-tiktokx-cropcenter-q:100:100:q70.jpeg?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=7a6d127f&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788944400&x-signature=HAvM7piZmstU%2F63R3HHpsxoobJc%3D"
             ],
             "url_prefix": null,
             "width": 720
@@ -1039,7 +1055,7 @@
           "type_label": null,
           "uid": "7002945634388345862",
           "unique_id": "mella_.mn",
-          "unique_id_modify_time": 1788854418,
+          "unique_id_modify_time": 1788858021,
           "user_canceled": false,
           "user_mode": 1,
           "user_period": 0,
@@ -1121,9 +1137,9 @@
             "height": 720,
             "uri": "tos-useast5-avt-0068-tx/b55437f8ff0828b58379cc837e1fed68",
             "url_list": [
-              "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b55437f8ff0828b58379cc837e1fed68~tplv-tiktokx-cropcenter-q:100:100:q70.webp?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=cb8d83f2&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788940800&x-signature=ThPepmvny7PaPs00UhbXAAOgq6I%3D",
-              "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b55437f8ff0828b58379cc837e1fed68~tplv-tiktokx-cropcenter-q:100:100:q70.webp?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=d986a2e4&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788940800&x-signature=xZsuNp0dNg0NrhdF8IcgA6dsMss%3D",
-              "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b55437f8ff0828b58379cc837e1fed68~tplv-tiktokx-cropcenter-q:100:100:q70.jpeg?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=de08bbda&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788940800&x-signature=J3fSyACJ57NpwQLUVzVtBifvzkQ%3D"
+              "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b55437f8ff0828b58379cc837e1fed68~tplv-tiktokx-cropcenter-q:100:100:q70.webp?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=7e705216&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788944400&x-signature=rQs8dAI%2F91dwBqyWYx9IIAxP0XQ%3D",
+              "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b55437f8ff0828b58379cc837e1fed68~tplv-tiktokx-cropcenter-q:100:100:q70.webp?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=abad4a5b&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788944400&x-signature=S1ni%2FNk3sOV4imTxVeg%2BP0fR7ao%3D",
+              "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b55437f8ff0828b58379cc837e1fed68~tplv-tiktokx-cropcenter-q:100:100:q70.jpeg?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=75e2d851&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788944400&x-signature=UFeHP9dnZ06%2FnfVRYxA%2BetkY3Hg%3D"
             ],
             "url_prefix": null,
             "width": 720
@@ -1219,7 +1235,7 @@
           "type_label": null,
           "uid": "6916754545574396933",
           "unique_id": "skmadeleine",
-          "unique_id_modify_time": 1788854418,
+          "unique_id_modify_time": 1788858021,
           "user_canceled": false,
           "user_mode": 1,
           "user_period": 0,
@@ -1298,9 +1314,9 @@
             "height": 720,
             "uri": "tos-alisg-avt-0068/816ad2949732f22db2cf32921cb571aa",
             "url_list": [
-              "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/816ad2949732f22db2cf32921cb571aa~tplv-tiktokx-cropcenter-q:100:100:q70.webp?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=29f1caeb&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788940800&x-signature=p9qBY0TyEBV4BzfwET2wYCTBrf0%3D",
-              "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/816ad2949732f22db2cf32921cb571aa~tplv-tiktokx-cropcenter-q:100:100:q70.webp?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=90a4e4be&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788940800&x-signature=leQdVjLNGmOB2BrjqXdBjCyarCk%3D",
-              "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/816ad2949732f22db2cf32921cb571aa~tplv-tiktokx-cropcenter-q:100:100:q70.jpeg?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=f084fba9&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788940800&x-signature=9woX7MadY%2FRckt1KC356QElwhIY%3D"
+              "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/816ad2949732f22db2cf32921cb571aa~tplv-tiktokx-cropcenter-q:100:100:q70.webp?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=56d78cf8&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788944400&x-signature=Iug5RQMCZOJGFnwu5syMDO5vSFg%3D",
+              "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/816ad2949732f22db2cf32921cb571aa~tplv-tiktokx-cropcenter-q:100:100:q70.webp?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=43a19ec6&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788944400&x-signature=ii9nGUSGSD242DogwU1h7It5hZU%3D",
+              "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/816ad2949732f22db2cf32921cb571aa~tplv-tiktokx-cropcenter-q:100:100:q70.jpeg?dr=10723&idc=useast8&ps=87d6e48a&refresh_token=08f825f5&s=COMMENT_LIST&sc=avatar&shcp=ff37627b&shp=30310797&t=223449c4&x-expires=1788944400&x-signature=i5zGV3WRQ391BbyDCi4E%2FapSBmI%3D"
             ],
             "url_prefix": null,
             "width": 720
@@ -1396,7 +1412,7 @@
           "type_label": null,
           "uid": "314324817099304961",
           "unique_id": "madiannhowell",
-          "unique_id_modify_time": 1788854418,
+          "unique_id_modify_time": 1788858021,
           "user_canceled": false,
           "user_mode": 1,
           "user_period": 0,
@@ -1427,12 +1443,12 @@
     "cursor": 8,
     "extra": {
       "fatal_item_ids": [],
-      "logid": "20260908080018E918A998D0F2670C7073",
-      "now": 1788854418000
+      "logid": "202609080900211B312B1C1A0FFB00B128",
+      "now": 1788858021000
     },
     "has_more": 0,
     "log_pb": {
-      "impr_id": "20260908080018E918A998D0F2670C7073"
+      "impr_id": "202609080900211B312B1C1A0FFB00B128"
     },
     "status_code": 0,
     "status_msg": "",
