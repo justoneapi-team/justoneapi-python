@@ -1,130 +1,147 @@
 {
-  "_fetchedAt": "2026-09-08T09:55:59.370267+08:00",
-  "_sourceCheckedAt": "2026-09-08T09:00:44",
+  "_fetchedAt": "2026-09-08T10:01:00.861319+08:00",
+  "_sourceCheckedAt": "2026-09-08T10:00:42",
   "code": 0,
   "message": null,
   "data": {
+    "cursor": "{\"cursor\":\"65bf662f0000000008017f77\",\"index\":2}",
     "comments": [
       {
-        "id": "65bf6392000000000800b405",
+        "friend_liked_msg": "",
+        "show_tags_v2": [],
+        "share_strategy": 0,
+        "show_type": "common",
         "at_users": [],
+        "liked": false,
+        "score": 0,
+        "time": 1707041682,
+        "user": {
+          "current_user": "false",
+          "nickname": "榴莲在摩天轮",
+          "images": "https://sns-avatar-qc-ae.rednotecdn.com/avatar/1040g2jo3205fu7edis605nre2evg8uucrsh38go?imageView2/2/w/120/format/jpg",
+          "red_id": "371915976",
+          "additional_tags": {},
+          "ai_agent": false,
+          "userid": "aed4b890dd64525f862ca70b97b7c",
+          "level": {
+            "image": ""
+          }
+        },
         "target_comment": {
-          "id": "65bf56d3000000000803f4ec",
-          "status": 0,
           "user": {
-            "nickname": "豪",
             "additional_tags": {},
+            "ai_agent": false,
             "userid": "a5c7ddac47f1c1d8927d630bf68c0",
-            "images": "https://sns-avatar-qc-ae.rednotecdn.com/avatar/1040g2jo30rmoae6j2g5g5o6poeg08lrqd2p83no?imageView2/2/w/120/format/jpg",
+            "nickname": "豪",
             "red_id": "9530496503",
             "level": {
               "image": ""
             },
+            "current_user": "false",
+            "images": "https://sns-avatar-qc-ae.rednotecdn.com/avatar/1040g2jo30rmoae6j2g5g5o6poeg08lrqd2p83no?imageView2/2/w/120/format/jpg"
+          },
+          "id": "65bf56d3000000000803f4ec",
+          "status": 0
+        },
+        "biz_label": {
+          "group_invite": "unknown",
+          "rich_text": "unknown",
+          "product_review": false
+        },
+        "like_count": 161,
+        "status": 3,
+        "show_tags": [],
+        "translation_strategy": 10,
+        "note_id": "65bf5360000000002c03f684",
+        "hidden": false,
+        "downvoted": false,
+        "collected": false,
+        "id": "65bf6392000000000800b405",
+        "content": "估计又系个假号[笑哭R]",
+        "comment_type": 0
+      },
+      {
+        "show_tags_v2": [],
+        "share_strategy": 0,
+        "id": "65bf659700000000080142ec",
+        "liked": false,
+        "score": 0,
+        "status": 0,
+        "user": {
+          "ai_agent": false,
+          "current_user": "false",
+          "userid": "a4e2a77823960e971e924ae056d0f",
+          "nickname": "喜欢唱跳rap写信",
+          "red_id": "1635985618",
+          "level": {
+            "image": ""
+          },
+          "additional_tags": {},
+          "images": "https://sns-avatar-qc-ae.rednotecdn.com/avatar/1040g2jo316u8dgg50o005odpdq9417mfgt60vuo?imageView2/2/w/120/format/jpg"
+        },
+        "friend_liked_msg": "",
+        "biz_label": {
+          "rich_text": "unknown",
+          "product_review": false,
+          "group_invite": "unknown"
+        },
+        "downvoted": false,
+        "content": "别胡说吧…去年媒体当面采访还问她为什么开小红书，她也说之前答应了粉丝要开的…本人都官宣的号怎么到你这里就变假号了[石化R]",
+        "hidden": false,
+        "translation_strategy": 10,
+        "target_comment": {
+          "id": "65bf6392000000000800b405",
+          "status": 3,
+          "user": {
+            "userid": "aed4b890dd64525f862ca70b97b7c",
+            "red_id": "371915976",
             "ai_agent": false,
+            "nickname": "榴莲在摩天轮",
+            "images": "https://sns-avatar-qc-ae.rednotecdn.com/avatar/1040g2jo3205fu7edis605nre2evg8uucrsh38go?imageView2/2/w/120/format/jpg",
+            "level": {
+              "image": ""
+            },
+            "additional_tags": {},
             "current_user": "false"
           }
         },
         "note_id": "65bf5360000000002c03f684",
-        "like_count": 161,
+        "at_users": [],
+        "like_count": 44,
+        "comment_type": 0,
+        "collected": false,
+        "time": 1707042199,
+        "show_tags": [],
+        "show_type": "common"
+      },
+      {
+        "translation_strategy": 10,
+        "collected": false,
         "liked": false,
+        "hidden": false,
+        "status": 3,
+        "comment_type": 0,
+        "biz_label": {
+          "product_review": false,
+          "group_invite": "unknown",
+          "rich_text": "unknown"
+        },
+        "downvoted": false,
+        "note_id": "65bf5360000000002c03f684",
+        "content": "你自己搜下有几个咯[微笑R]",
+        "time": 1707042268,
         "user": {
           "nickname": "榴莲在摩天轮",
           "images": "https://sns-avatar-qc-ae.rednotecdn.com/avatar/1040g2jo3205fu7edis605nre2evg8uucrsh38go?imageView2/2/w/120/format/jpg",
           "level": {
             "image": ""
           },
-          "additional_tags": {},
           "ai_agent": false,
-          "current_user": "false",
           "userid": "aed4b890dd64525f862ca70b97b7c",
-          "red_id": "371915976"
+          "red_id": "371915976",
+          "additional_tags": {},
+          "current_user": "false"
         },
-        "show_tags": [],
-        "friend_liked_msg": "",
-        "biz_label": {
-          "product_review": false,
-          "group_invite": "unknown",
-          "rich_text": "unknown"
-        },
-        "collected": false,
-        "content": "估计又系个假号[笑哭R]",
-        "score": 0,
-        "status": 3,
-        "translation_strategy": 10,
-        "hidden": false,
-        "time": 1707041682,
-        "show_type": "common",
-        "comment_type": 0,
-        "show_tags_v2": [],
-        "downvoted": false,
-        "share_strategy": 0
-      },
-      {
-        "collected": false,
-        "note_id": "65bf5360000000002c03f684",
-        "time": 1707042199,
-        "show_tags_v2": [],
-        "at_users": [],
-        "hidden": false,
-        "user": {
-          "current_user": "false",
-          "userid": "a4e2a77823960e971e924ae056d0f",
-          "red_id": "1635985618",
-          "level": {
-            "image": ""
-          },
-          "ai_agent": false,
-          "nickname": "喜欢唱跳rap写信",
-          "images": "https://sns-avatar-qc-ae.rednotecdn.com/avatar/1040g2jo316u8dgg50o005odpdq9417mfgt60vuo?imageView2/2/w/120/format/jpg",
-          "additional_tags": {}
-        },
-        "friend_liked_msg": "",
-        "downvoted": false,
-        "id": "65bf659700000000080142ec",
-        "content": "别胡说吧…去年媒体当面采访还问她为什么开小红书，她也说之前答应了粉丝要开的…本人都官宣的号怎么到你这里就变假号了[石化R]",
-        "like_count": 44,
-        "liked": false,
-        "score": 0,
-        "status": 0,
-        "biz_label": {
-          "product_review": false,
-          "group_invite": "unknown",
-          "rich_text": "unknown"
-        },
-        "share_strategy": 0,
-        "target_comment": {
-          "id": "65bf6392000000000800b405",
-          "status": 3,
-          "user": {
-            "userid": "aed4b890dd64525f862ca70b97b7c",
-            "images": "https://sns-avatar-qc-ae.rednotecdn.com/avatar/1040g2jo3205fu7edis605nre2evg8uucrsh38go?imageView2/2/w/120/format/jpg",
-            "red_id": "371915976",
-            "level": {
-              "image": ""
-            },
-            "ai_agent": false,
-            "nickname": "榴莲在摩天轮",
-            "additional_tags": {},
-            "current_user": "false"
-          }
-        },
-        "show_tags": [],
-        "show_type": "common",
-        "comment_type": 0,
-        "translation_strategy": 10
-      },
-      {
-        "id": "65bf65dc000000000803286b",
-        "liked": false,
-        "score": 0,
-        "biz_label": {
-          "group_invite": "unknown",
-          "rich_text": "unknown",
-          "product_review": false
-        },
-        "downvoted": false,
-        "content": "你自己搜下有几个咯[微笑R]",
-        "like_count": 2,
         "target_comment": {
           "id": "65bf659700000000080142ec",
           "status": 0,
@@ -134,82 +151,41 @@
             "level": {
               "image": ""
             },
-            "additional_tags": {},
+            "ai_agent": false,
             "userid": "a4e2a77823960e971e924ae056d0f",
             "nickname": "喜欢唱跳rap写信",
-            "ai_agent": false,
+            "additional_tags": {},
             "current_user": "false"
           }
         },
-        "show_tags": [],
-        "show_tags_v2": [],
-        "translation_strategy": 10,
-        "share_strategy": 0,
-        "status": 3,
-        "time": 1707042268,
-        "user": {
-          "ai_agent": false,
-          "current_user": "false",
-          "userid": "aed4b890dd64525f862ca70b97b7c",
-          "nickname": "榴莲在摩天轮",
-          "images": "https://sns-avatar-qc-ae.rednotecdn.com/avatar/1040g2jo3205fu7edis605nre2evg8uucrsh38go?imageView2/2/w/120/format/jpg",
-          "red_id": "371915976",
-          "level": {
-            "image": ""
-          },
-          "additional_tags": {}
-        },
         "show_type": "common",
-        "comment_type": 0,
-        "note_id": "65bf5360000000002c03f684",
-        "at_users": [],
-        "hidden": false,
+        "id": "65bf65dc000000000803286b",
+        "like_count": 2,
+        "score": 0,
         "friend_liked_msg": "",
-        "collected": false
+        "show_tags_v2": [],
+        "share_strategy": 0,
+        "at_users": [],
+        "show_tags": []
       },
       {
-        "score": 0,
-        "time": 1707042303,
-        "show_tags_v2": [],
-        "translation_strategy": 10,
-        "downvoted": false,
-        "note_id": "65bf5360000000002c03f684",
-        "user": {
-          "userid": "a4e2a77823960e971e924ae056d0f",
-          "additional_tags": {},
-          "ai_agent": false,
-          "nickname": "喜欢唱跳rap写信",
-          "images": "https://sns-avatar-qc-ae.rednotecdn.com/avatar/1040g2jo316u8dgg50o005odpdq9417mfgt60vuo?imageView2/2/w/120/format/jpg",
-          "red_id": "1635985618",
-          "level": {
-            "image": ""
-          },
-          "current_user": "false"
-        },
-        "show_type": "common",
-        "friend_liked_msg": "",
-        "collected": false,
-        "share_strategy": 0,
-        "id": "65bf65ff000000000803cfe8",
-        "content": "她打tag也写了美斯啊…而且正文写梅西没问题吧？迁就内地广东以外的网友",
         "target_comment": {
+          "id": "65bf56d3000000000803f4ec",
           "status": 0,
           "user": {
+            "userid": "a5c7ddac47f1c1d8927d630bf68c0",
             "red_id": "9530496503",
-            "additional_tags": {},
-            "ai_agent": false,
-            "images": "https://sns-avatar-qc-ae.rednotecdn.com/avatar/1040g2jo30rmoae6j2g5g5o6poeg08lrqd2p83no?imageView2/2/w/120/format/jpg",
             "level": {
               "image": ""
             },
+            "ai_agent": false,
             "current_user": "false",
-            "userid": "a5c7ddac47f1c1d8927d630bf68c0",
-            "nickname": "豪"
-          },
-          "id": "65bf56d3000000000803f4ec"
+            "nickname": "豪",
+            "images": "https://sns-avatar-qc-ae.rednotecdn.com/avatar/1040g2jo30rmoae6j2g5g5o6poeg08lrqd2p83no?imageView2/2/w/120/format/jpg",
+            "additional_tags": {}
+          }
         },
         "show_tags": [],
-        "comment_type": 0,
         "biz_label": {
           "rich_text": "unknown",
           "product_review": false,
@@ -217,67 +193,91 @@
         },
         "like_count": 40,
         "hidden": false,
+        "downvoted": false,
+        "collected": false,
+        "share_strategy": 0,
+        "id": "65bf65ff000000000803cfe8",
+        "content": "她打tag也写了美斯啊…而且正文写梅西没问题吧？迁就内地广东以外的网友",
+        "at_users": [],
+        "liked": false,
         "status": 0,
-        "at_users": [],
-        "liked": false
-      },
-      {
-        "id": "65bf662f0000000008017f77",
-        "at_users": [],
+        "time": 1707042303,
+        "comment_type": 0,
+        "note_id": "65bf5360000000002c03f684",
+        "score": 0,
         "user": {
-          "nickname": "喜欢唱跳rap写信",
-          "red_id": "1635985618",
-          "additional_tags": {},
-          "current_user": "false",
-          "userid": "a4e2a77823960e971e924ae056d0f",
+          "ai_agent": false,
           "images": "https://sns-avatar-qc-ae.rednotecdn.com/avatar/1040g2jo316u8dgg50o005odpdq9417mfgt60vuo?imageView2/2/w/120/format/jpg",
           "level": {
             "image": ""
           },
-          "ai_agent": false
+          "additional_tags": {},
+          "current_user": "false",
+          "userid": "a4e2a77823960e971e924ae056d0f",
+          "nickname": "喜欢唱跳rap写信",
+          "red_id": "1635985618"
         },
         "friend_liked_msg": "",
+        "show_tags_v2": [],
+        "translation_strategy": 10,
+        "show_type": "common"
+      },
+      {
+        "note_id": "65bf5360000000002c03f684",
+        "hidden": false,
+        "show_tags": [],
+        "show_tags_v2": [],
+        "translation_strategy": 10,
+        "collected": false,
+        "id": "65bf662f0000000008017f77",
+        "content": "拜托她就这一个小红书号…你看到有好几个吗？",
+        "like_count": 7,
+        "score": 0,
+        "user": {
+          "userid": "a4e2a77823960e971e924ae056d0f",
+          "nickname": "喜欢唱跳rap写信",
+          "images": "https://sns-avatar-qc-ae.rednotecdn.com/avatar/1040g2jo316u8dgg50o005odpdq9417mfgt60vuo?imageView2/2/w/120/format/jpg",
+          "red_id": "1635985618",
+          "additional_tags": {},
+          "level": {
+            "image": ""
+          },
+          "ai_agent": false,
+          "current_user": "false"
+        },
         "target_comment": {
           "id": "65bf65dc000000000803286b",
           "status": 3,
           "user": {
-            "images": "https://sns-avatar-qc-ae.rednotecdn.com/avatar/1040g2jo3205fu7edis605nre2evg8uucrsh38go?imageView2/2/w/120/format/jpg",
-            "additional_tags": {},
             "nickname": "榴莲在摩天轮",
-            "red_id": "371915976",
+            "images": "https://sns-avatar-qc-ae.rednotecdn.com/avatar/1040g2jo3205fu7edis605nre2evg8uucrsh38go?imageView2/2/w/120/format/jpg",
             "level": {
               "image": ""
             },
+            "additional_tags": {},
+            "userid": "aed4b890dd64525f862ca70b97b7c",
+            "red_id": "371915976",
             "ai_agent": false,
-            "current_user": "false",
-            "userid": "aed4b890dd64525f862ca70b97b7c"
+            "current_user": "false"
           }
         },
-        "content": "拜托她就这一个小红书号…你看到有好几个吗？",
-        "hidden": false,
-        "time": 1707042351,
-        "show_tags_v2": [],
-        "collected": false,
-        "show_tags": [],
+        "friend_liked_msg": "",
+        "biz_label": {
+          "product_review": false,
+          "group_invite": "unknown",
+          "rich_text": "unknown"
+        },
+        "liked": false,
         "show_type": "common",
         "comment_type": 0,
-        "biz_label": {
-          "rich_text": "unknown",
-          "product_review": false,
-          "group_invite": "unknown"
-        },
-        "note_id": "65bf5360000000002c03f684",
-        "like_count": 7,
-        "liked": false,
-        "score": 0,
+        "share_strategy": 0,
+        "at_users": [],
         "status": 0,
-        "translation_strategy": 10,
-        "downvoted": false,
-        "share_strategy": 0
+        "time": 1707042351,
+        "downvoted": false
       }
     ],
-    "has_more": true,
-    "cursor": "{\"cursor\":\"65bf662f0000000008017f77\",\"index\":2}"
+    "has_more": true
   },
   "recordTime": null
 }

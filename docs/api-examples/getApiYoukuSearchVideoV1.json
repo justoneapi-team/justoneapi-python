@@ -1,6 +1,6 @@
 {
-  "_fetchedAt": "2026-09-08T09:56:01.850015+08:00",
-  "_sourceCheckedAt": "2026-09-08T09:00:48",
+  "_fetchedAt": "2026-09-08T10:01:03.326043+08:00",
+  "_sourceCheckedAt": "2026-09-08T10:00:48",
   "code": 0,
   "message": null,
   "data": {
@@ -1629,6 +1629,109 @@
                   "data": {
                     "sourceId": 14,
                     "jumpType": 0,
+                    "publishTime": "2周前",
+                    "logCate": "ugc",
+                    "docId": 1639713014,
+                    "downloadLimit": 0,
+                    "publicType": 0,
+                    "screenShotDTO": {
+                      "iconCorner": {
+                        "tagType": 0
+                      },
+                      "action": {
+                        "report": {
+                          "spm": "a2h0c.8166622.PhoneSokuUgc_10.screenshot",
+                          "arg1": "screenshot_of_PhoneSokuUgc",
+                          "scm": "20140669.search.rugc.video_XNjU1ODg1MjA1Ng=="
+                        }
+                      },
+                      "rightBottomText": "12:03",
+                      "thumbUrl": "https://vthumb.ykimg.com/054101016A845C58B7C2511564D82BAB",
+                      "newImgInfo": {
+                        "isCut": true,
+                        "log": "",
+                        "scale": "16:9",
+                        "thumbUrl": "https://vthumb.ykimg.com/054101016A845C58B7C2511564D82BAB"
+                      }
+                    },
+                    "videoId": "XNjU1ODg1MjA1Ng==",
+                    "sourceImg": "https://static.youku.com/user/avatar/1350/14.png?x-oss-process=image/resize,m_fill,limit_0,h_80,w_80",
+                    "userName": "JavaPub",
+                    "userId": "UNDc2ODExNzY1Mg==",
+                    "bulletScreenCount": "0",
+                    "titleDTO": {
+                      "displayName": "DeepSeek Harness 实测：",
+                      "action": {
+                        "report": {
+                          "spm": "a2h0c.8166622.PhoneSokuUgc_10.title",
+                          "arg1": "title_of_PhoneSokuUgc",
+                          "scm": "20140669.search.rugc.video_XNjU1ODg1MjA1Ng=="
+                        }
+                      }
+                    },
+                    "itemLog": "doc_source~2$eng_source~6$sp_id~3458764515460253942",
+                    "cateId": -21,
+                    "action": {
+                      "report": {
+                        "trackInfo": {
+                          "object_url": "youku://play?source=search&vid=XNjU1ODg1MjA1Ng==&politicsSensitive=false&searchKey=deepseek&playMode=pugv",
+                          "object_type": 101,
+                          "group_id": "XNjU1ODg1MjA1Ng==",
+                          "group_num": 10,
+                          "object_title": "DeepSeek Harness 实测：",
+                          "group_type": 99,
+                          "item_log": "doc_source~2$eng_source~6$sp_id~3458764515460253942"
+                        }
+                      },
+                      "type": "JUMP_TO_NATIVE",
+                      "value": "youku://play?source=search&vid=XNjU1ODg1MjA1Ng==&politicsSensitive=false&searchKey=deepseek&playMode=pugv"
+                    }
+                  },
+                  "level": 3,
+                  "more": false,
+                  "style": [
+                    {
+                      "type": 0
+                    }
+                  ],
+                  "id": 0,
+                  "type": 8005
+                }
+              ],
+              "level": 2,
+              "more": false,
+              "style": [
+                {
+                  "type": 0
+                }
+              ],
+              "id": 0,
+              "type": 8005
+            }
+          ],
+          "data": {
+            "schema": "2_kuflix",
+            "schemeName": "2_kuflix",
+            "docSource": 2
+          },
+          "level": 1,
+          "more": false,
+          "style": [
+            {
+              "type": 0
+            }
+          ],
+          "id": 0,
+          "type": 0
+        },
+        {
+          "nodes": [
+            {
+              "nodes": [
+                {
+                  "data": {
+                    "sourceId": 14,
+                    "jumpType": 0,
                     "publishTime": "1年前",
                     "logCate": "ugc",
                     "docId": 1613404439,
@@ -1640,7 +1743,7 @@
                       },
                       "action": {
                         "report": {
-                          "spm": "a2h0c.8166622.PhoneSokuUgc_10.screenshot",
+                          "spm": "a2h0c.8166622.PhoneSokuUgc_11.screenshot",
                           "arg1": "screenshot_of_PhoneSokuUgc",
                           "scm": "20140669.search.rugc.video_XNjQ1MzYxNzc1Ng=="
                         }
@@ -1663,7 +1766,7 @@
                       "displayName": "《DeepSeek崛起对我们",
                       "action": {
                         "report": {
-                          "spm": "a2h0c.8166622.PhoneSokuUgc_10.title",
+                          "spm": "a2h0c.8166622.PhoneSokuUgc_11.title",
                           "arg1": "title_of_PhoneSokuUgc",
                           "scm": "20140669.search.rugc.video_XNjQ1MzYxNzc1Ng=="
                         }
@@ -1677,7 +1780,7 @@
                           "object_url": "youku://play?source=search&vid=XNjQ1MzYxNzc1Ng==&politicsSensitive=false&searchKey=deepseek&playMode=pugv",
                           "object_type": 101,
                           "group_id": "XNjQ1MzYxNzc1Ng==",
-                          "group_num": 10,
+                          "group_num": 11,
                           "object_title": "《DeepSeek崛起对我们",
                           "group_type": 99,
                           "item_log": "doc_source~2$eng_source~6$sp_id~3458764515433945367"
@@ -1732,9 +1835,9 @@
                   "data": {
                     "sourceId": 14,
                     "jumpType": 0,
-                    "publishTime": "2周前",
+                    "publishTime": "1年前",
                     "logCate": "ugc",
-                    "docId": 1639713014,
+                    "docId": 1613898084,
                     "downloadLimit": 0,
                     "publicType": 0,
                     "screenShotDTO": {
@@ -1743,51 +1846,51 @@
                       },
                       "action": {
                         "report": {
-                          "spm": "a2h0c.8166622.PhoneSokuUgc_11.screenshot",
+                          "spm": "a2h0c.8166622.PhoneSokuUgc_12.screenshot",
                           "arg1": "screenshot_of_PhoneSokuUgc",
-                          "scm": "20140669.search.rugc.video_XNjU1ODg1MjA1Ng=="
+                          "scm": "20140669.search.rugc.video_XNjQ1NTU5MjMzNg=="
                         }
                       },
-                      "rightBottomText": "12:03",
-                      "thumbUrl": "https://vthumb.ykimg.com/054101016A845C58B7C2511564D82BAB",
+                      "rightBottomText": "04:45",
+                      "thumbUrl": "https://vthumb.ykimg.com/0541010167AB36922BC2B213B4480E50",
                       "newImgInfo": {
                         "isCut": true,
                         "log": "",
                         "scale": "16:9",
-                        "thumbUrl": "https://vthumb.ykimg.com/054101016A845C58B7C2511564D82BAB"
+                        "thumbUrl": "https://vthumb.ykimg.com/0541010167AB36922BC2B213B4480E50"
                       }
                     },
-                    "videoId": "XNjU1ODg1MjA1Ng==",
-                    "sourceImg": "https://static.youku.com/user/avatar/1350/14.png?x-oss-process=image/resize,m_fill,limit_0,h_80,w_80",
-                    "userName": "JavaPub",
-                    "userId": "UNDc2ODExNzY1Mg==",
+                    "videoId": "XNjQ1NTU5MjMzNg==",
+                    "sourceImg": "https://ykimg.alicdn.com/develop/image/2023-03-17/0ddbd456e84f8e9ba38ed2a58a449951.png",
+                    "userName": "北向财经",
+                    "userId": "UMTIxNTM5NTU0OTY=",
                     "bulletScreenCount": "0",
                     "titleDTO": {
-                      "displayName": "DeepSeek Harness 实测：",
+                      "displayName": "一口气弄懂DeepSeek",
                       "action": {
                         "report": {
-                          "spm": "a2h0c.8166622.PhoneSokuUgc_11.title",
+                          "spm": "a2h0c.8166622.PhoneSokuUgc_12.title",
                           "arg1": "title_of_PhoneSokuUgc",
-                          "scm": "20140669.search.rugc.video_XNjU1ODg1MjA1Ng=="
+                          "scm": "20140669.search.rugc.video_XNjQ1NTU5MjMzNg=="
                         }
                       }
                     },
-                    "itemLog": "doc_source~2$eng_source~6$sp_id~3458764515460253942",
+                    "itemLog": "doc_source~2$eng_source~6$sp_id~3458764515434439012",
                     "cateId": -21,
                     "action": {
                       "report": {
                         "trackInfo": {
-                          "object_url": "youku://play?source=search&vid=XNjU1ODg1MjA1Ng==&politicsSensitive=false&searchKey=deepseek&playMode=pugv",
+                          "object_url": "youku://play?source=search&vid=XNjQ1NTU5MjMzNg==&politicsSensitive=false&searchKey=deepseek&playMode=pugv",
                           "object_type": 101,
-                          "group_id": "XNjU1ODg1MjA1Ng==",
-                          "group_num": 11,
-                          "object_title": "DeepSeek Harness 实测：",
+                          "group_id": "XNjQ1NTU5MjMzNg==",
+                          "group_num": 12,
+                          "object_title": "一口气弄懂DeepSeek",
                           "group_type": 99,
-                          "item_log": "doc_source~2$eng_source~6$sp_id~3458764515460253942"
+                          "item_log": "doc_source~2$eng_source~6$sp_id~3458764515434439012"
                         }
                       },
                       "type": "JUMP_TO_NATIVE",
-                      "value": "youku://play?source=search&vid=XNjU1ODg1MjA1Ng==&politicsSensitive=false&searchKey=deepseek&playMode=pugv"
+                      "value": "youku://play?source=search&vid=XNjQ1NTU5MjMzNg==&politicsSensitive=false&searchKey=deepseek&playMode=pugv"
                     }
                   },
                   "level": 3,
@@ -1846,7 +1949,7 @@
                       },
                       "action": {
                         "report": {
-                          "spm": "a2h0c.8166622.PhoneSokuUgc_12.screenshot",
+                          "spm": "a2h0c.8166622.PhoneSokuUgc_13.screenshot",
                           "arg1": "screenshot_of_PhoneSokuUgc",
                           "scm": "20140669.search.rugc.video_XNjQ2NzA0MDk4NA=="
                         }
@@ -1869,7 +1972,7 @@
                       "displayName": "DeepSeek从入门到精通清华大学教程免费领",
                       "action": {
                         "report": {
-                          "spm": "a2h0c.8166622.PhoneSokuUgc_12.title",
+                          "spm": "a2h0c.8166622.PhoneSokuUgc_13.title",
                           "arg1": "title_of_PhoneSokuUgc",
                           "scm": "20140669.search.rugc.video_XNjQ2NzA0MDk4NA=="
                         }
@@ -1883,7 +1986,7 @@
                           "object_url": "youku://play?source=search&vid=XNjQ2NzA0MDk4NA==&politicsSensitive=false&searchKey=deepseek&playMode=pugv",
                           "object_type": 101,
                           "group_id": "XNjQ2NzA0MDk4NA==",
-                          "group_num": 12,
+                          "group_num": 13,
                           "object_title": "DeepSeek从入门到精通清华大学教程免费领",
                           "group_type": 99,
                           "item_log": "doc_source~2$eng_source~6$sp_id~3458764515437301174"
@@ -1949,7 +2052,7 @@
                       },
                       "action": {
                         "report": {
-                          "spm": "a2h0c.8166622.PhoneSokuUgc_13.screenshot",
+                          "spm": "a2h0c.8166622.PhoneSokuUgc_14.screenshot",
                           "arg1": "screenshot_of_PhoneSokuUgc",
                           "scm": "20140669.search.rugc.video_XNjQ2MzMzNTIxMg=="
                         }
@@ -1972,7 +2075,7 @@
                       "displayName": "DeepSeek与人工智能背后的，财富大爆发！ 掘金计划2025 deepse",
                       "action": {
                         "report": {
-                          "spm": "a2h0c.8166622.PhoneSokuUgc_13.title",
+                          "spm": "a2h0c.8166622.PhoneSokuUgc_14.title",
                           "arg1": "title_of_PhoneSokuUgc",
                           "scm": "20140669.search.rugc.video_XNjQ2MzMzNTIxMg=="
                         }
@@ -1986,7 +2089,7 @@
                           "object_url": "youku://play?source=search&vid=XNjQ2MzMzNTIxMg==&politicsSensitive=false&searchKey=deepseek&playMode=pugv",
                           "object_type": 101,
                           "group_id": "XNjQ2MzMzNTIxMg==",
-                          "group_num": 13,
+                          "group_num": 14,
                           "object_title": "DeepSeek与人工智能背后的，财富大爆发！ 掘金计划2025 deepse",
                           "group_type": 99,
                           "item_log": "doc_source~2$eng_source~6$sp_id~3458764515436374731"
@@ -2052,7 +2155,7 @@
                       },
                       "action": {
                         "report": {
-                          "spm": "a2h0c.8166622.PhoneSokuUgc_14.screenshot",
+                          "spm": "a2h0c.8166622.PhoneSokuUgc_15.screenshot",
                           "arg1": "screenshot_of_PhoneSokuUgc",
                           "scm": "20140669.search.rugc.video_XNjQ1NjM1MDQzMg=="
                         }
@@ -2075,7 +2178,7 @@
                       "displayName": "中外AI的首次对决，居然是DeepSeek的抽象级完胜？！",
                       "action": {
                         "report": {
-                          "spm": "a2h0c.8166622.PhoneSokuUgc_14.title",
+                          "spm": "a2h0c.8166622.PhoneSokuUgc_15.title",
                           "arg1": "title_of_PhoneSokuUgc",
                           "scm": "20140669.search.rugc.video_XNjQ1NjM1MDQzMg=="
                         }
@@ -2089,7 +2192,7 @@
                           "object_url": "youku://play?source=search&vid=XNjQ1NjM1MDQzMg==&politicsSensitive=false&searchKey=deepseek&playMode=pugv",
                           "object_type": 101,
                           "group_id": "XNjQ1NjM1MDQzMg==",
-                          "group_num": 14,
+                          "group_num": 15,
                           "object_title": "中外AI的首次对决，居然是DeepSeek的抽象级完胜？！",
                           "group_type": 99,
                           "item_log": "doc_source~2$eng_source~6$sp_id~3458764515434628536"
@@ -2155,7 +2258,7 @@
                       },
                       "action": {
                         "report": {
-                          "spm": "a2h0c.8166622.PhoneSokuUgc_15.screenshot",
+                          "spm": "a2h0c.8166622.PhoneSokuUgc_16.screenshot",
                           "arg1": "screenshot_of_PhoneSokuUgc",
                           "scm": "20140669.search.rugc.video_XNjQ2MTE1NTY5Ng=="
                         }
@@ -2178,7 +2281,7 @@
                       "displayName": "Deep seek+剪映做视频详细教程《实用》",
                       "action": {
                         "report": {
-                          "spm": "a2h0c.8166622.PhoneSokuUgc_15.title",
+                          "spm": "a2h0c.8166622.PhoneSokuUgc_16.title",
                           "arg1": "title_of_PhoneSokuUgc",
                           "scm": "20140669.search.rugc.video_XNjQ2MTE1NTY5Ng=="
                         }
@@ -2192,7 +2295,7 @@
                           "object_url": "youku://play?source=search&vid=XNjQ2MTE1NTY5Ng==&politicsSensitive=false&searchKey=deepseek&playMode=pugv",
                           "object_type": 101,
                           "group_id": "XNjQ2MTE1NTY5Ng==",
-                          "group_num": 15,
+                          "group_num": 16,
                           "object_title": "Deep seek+剪映做视频详细教程《实用》",
                           "group_type": 99,
                           "item_log": "doc_source~2$eng_source~6$sp_id~3458764515435829852"
@@ -2258,7 +2361,7 @@
                       },
                       "action": {
                         "report": {
-                          "spm": "a2h0c.8166622.PhoneSokuUgc_16.screenshot",
+                          "spm": "a2h0c.8166622.PhoneSokuUgc_17.screenshot",
                           "arg1": "screenshot_of_PhoneSokuUgc",
                           "scm": "20140669.search.rugc.video_XNjQ2MDY2MzgzNg=="
                         }
@@ -2281,7 +2384,7 @@
                       "displayName": "140秒介绍DeepSeek创始人：开挂的AI天才",
                       "action": {
                         "report": {
-                          "spm": "a2h0c.8166622.PhoneSokuUgc_16.title",
+                          "spm": "a2h0c.8166622.PhoneSokuUgc_17.title",
                           "arg1": "title_of_PhoneSokuUgc",
                           "scm": "20140669.search.rugc.video_XNjQ2MDY2MzgzNg=="
                         }
@@ -2295,7 +2398,7 @@
                           "object_url": "youku://play?source=search&vid=XNjQ2MDY2MzgzNg==&politicsSensitive=false&searchKey=deepseek&playMode=pugv",
                           "object_type": 101,
                           "group_id": "XNjQ2MDY2MzgzNg==",
-                          "group_num": 16,
+                          "group_num": 17,
                           "object_title": "140秒介绍DeepSeek创始人：开挂的AI天才",
                           "group_type": 99,
                           "item_log": "doc_source~2$eng_source~6$sp_id~3458764515435706887"
@@ -2303,109 +2406,6 @@
                       },
                       "type": "JUMP_TO_NATIVE",
                       "value": "youku://play?source=search&vid=XNjQ2MDY2MzgzNg==&politicsSensitive=false&searchKey=deepseek&playMode=pugv"
-                    }
-                  },
-                  "level": 3,
-                  "more": false,
-                  "style": [
-                    {
-                      "type": 0
-                    }
-                  ],
-                  "id": 0,
-                  "type": 8005
-                }
-              ],
-              "level": 2,
-              "more": false,
-              "style": [
-                {
-                  "type": 0
-                }
-              ],
-              "id": 0,
-              "type": 8005
-            }
-          ],
-          "data": {
-            "schema": "2_kuflix",
-            "schemeName": "2_kuflix",
-            "docSource": 2
-          },
-          "level": 1,
-          "more": false,
-          "style": [
-            {
-              "type": 0
-            }
-          ],
-          "id": 0,
-          "type": 0
-        },
-        {
-          "nodes": [
-            {
-              "nodes": [
-                {
-                  "data": {
-                    "sourceId": 14,
-                    "jumpType": 0,
-                    "publishTime": "1年前",
-                    "logCate": "ugc",
-                    "docId": 1614371687,
-                    "downloadLimit": 0,
-                    "publicType": 0,
-                    "screenShotDTO": {
-                      "iconCorner": {
-                        "tagType": 0
-                      },
-                      "action": {
-                        "report": {
-                          "spm": "a2h0c.8166622.PhoneSokuUgc_17.screenshot",
-                          "arg1": "screenshot_of_PhoneSokuUgc",
-                          "scm": "20140669.search.rugc.video_XNjQ1NzQ4Njc0OA=="
-                        }
-                      },
-                      "rightBottomText": "32:46",
-                      "thumbUrl": "https://vthumb.ykimg.com/0541060167B7B8D03951064CD5051E04",
-                      "newImgInfo": {
-                        "isCut": true,
-                        "log": "",
-                        "scale": "16:9",
-                        "thumbUrl": "https://vthumb.ykimg.com/0541060167B7B8D03951064CD5051E04"
-                      }
-                    },
-                    "videoId": "XNjQ1NzQ4Njc0OA==",
-                    "sourceImg": "https://m.ykimg.com/051000005BAF3411ADA80C1EFE04051B",
-                    "userName": "Clarkequ",
-                    "userId": "UMjYyMjE4MzI=",
-                    "bulletScreenCount": "0",
-                    "titleDTO": {
-                      "displayName": "《用友BIP发布时刻》发布全新一代用友BIP智能体构建平台！用友BIP+DeepSeek催生超级智能体：10分钟构建一个企业级智能助理",
-                      "action": {
-                        "report": {
-                          "spm": "a2h0c.8166622.PhoneSokuUgc_17.title",
-                          "arg1": "title_of_PhoneSokuUgc",
-                          "scm": "20140669.search.rugc.video_XNjQ1NzQ4Njc0OA=="
-                        }
-                      }
-                    },
-                    "itemLog": "doc_source~2$eng_source~6$sp_id~3458764515434912615",
-                    "cateId": -21,
-                    "action": {
-                      "report": {
-                        "trackInfo": {
-                          "object_url": "youku://play?source=search&vid=XNjQ1NzQ4Njc0OA==&politicsSensitive=false&searchKey=deepseek&playMode=pugv",
-                          "object_type": 101,
-                          "group_id": "XNjQ1NzQ4Njc0OA==",
-                          "group_num": 17,
-                          "object_title": "《用友BIP发布时刻》发布全新一代用友BIP智能体构建平台！用友BIP+DeepSeek催生超级智能体：10分钟构建一个企业级智能助理",
-                          "group_type": 99,
-                          "item_log": "doc_source~2$eng_source~6$sp_id~3458764515434912615"
-                        }
-                      },
-                      "type": "JUMP_TO_NATIVE",
-                      "value": "youku://play?source=search&vid=XNjQ1NzQ4Njc0OA==&politicsSensitive=false&searchKey=deepseek&playMode=pugv"
                     }
                   },
                   "level": 3,
@@ -3793,9 +3793,9 @@
             "trackInfo": {
               "searchtab": "0",
               "source_from": "home",
-              "eid": "213fcdf017888292485945920ec607",
+              "eid": "0b50e19917888328483124525eb717",
               "search_from": "1",
-              "engine": "expid~req.ugc105.sort1004.rank105.qa0$eid~213fcdf017888292485945920ec607$bts~soku_engine_master#105$r_p_n~31",
+              "engine": "expid~req.ugc105.sort1004.rank105.qa0$eid~0b50e19917888328483124525eb717$bts~soku_engine_master#105$r_p_n~31",
               "aaid": "9fbffd5aabe0f1eeaa005d2258486410",
               "k": "deepseek"
             },
@@ -3813,7 +3813,7 @@
     "ret": [
       "SUCCESS::调用成功"
     ],
-    "traceId": "213fcdf017888292485945920ec607",
+    "traceId": "0b50e19917888328483124525eb717",
     "v": "2.0"
   },
   "recordTime": null
