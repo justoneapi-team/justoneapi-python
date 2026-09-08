@@ -1,6 +1,6 @@
 {
-  "_fetchedAt": "2026-09-08T12:00:16.548312+08:00",
-  "_sourceCheckedAt": "2026-09-08T12:00:04",
+  "_fetchedAt": "2026-09-08T13:00:17.814721+08:00",
+  "_sourceCheckedAt": "2026-09-08T13:00:04",
   "code": 0,
   "message": null,
   "data": {
@@ -8,9 +8,17 @@
       "status_code": 0,
       "status_message": ""
     },
-    "expect_cpe": {},
-    "expect_cpm": {},
-    "expect_vv": {},
+    "expect_cpe": {
+      "cpe_21_60": "230",
+      "cpe_60": "230"
+    },
+    "expect_cpm": {
+      "cpm_21_60": "11721",
+      "cpm_60": "11721"
+    },
+    "expect_vv": {
+      "value": 5622950
+    },
     "hot_item": {
       "value": 1200
     }

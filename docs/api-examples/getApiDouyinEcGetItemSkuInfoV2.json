@@ -1,6 +1,6 @@
 {
-  "_fetchedAt": "2026-09-08T12:00:12.938000+08:00",
-  "_sourceCheckedAt": "2026-09-08T11:00:01",
+  "_fetchedAt": "2026-09-08T13:00:14.301377+08:00",
+  "_sourceCheckedAt": "2026-09-08T13:00:01",
   "code": 0,
   "message": null,
   "data": {
@@ -10,7 +10,7 @@
     "mainImg": "https://p9-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_2b76c19d9cc489f0b6d5d7817fd2ed99_sx_478666_www800-800",
     "salePrice": 990,
     "originalPrice": 990,
-    "sellNum": 19569027,
+    "sellNum": 19571990,
     "shopId": 2303170,
     "category": {
       "firstCid": 1000004647,
@@ -50,7 +50,7 @@
         "id": 1767848415471667,
         "shopId": 2303170,
         "productId": "3620553568169403454",
-        "price": 990,
+        "price": 2190,
         "type": 0,
         "salePropertyValues": [
           {
@@ -91,17 +91,17 @@
       },
       "shop_info": {
         "basic_info": {
-          "shop_logo": "https://p3-item.ecombdimg.com/img/tos-cn-i-6vegkygxbk/e1d471cf96234b2183a9e7307b5d9cef~tplv-5mmsx3fupr-resize:74:74.png",
+          "shop_logo": "https://p26-item.ecombdimg.com/img/tos-cn-i-6vegkygxbk/e1d471cf96234b2183a9e7307b5d9cef~tplv-5mmsx3fupr-resize:74:74.png",
           "shop_name": "老管家家居生活旗舰店",
           "shop_link_button": {
             "text": "进店逛逛",
             "background": "#FE2C55FF",
-            "link": "sslocal://goods/store?entrance_location=product_detail_live&pass_through_api=%7B%22product_author_info_map%22%3A%22%7B%5C%223620553568169403454%5C%22%3A%5B%5C%22MS4wLjABAAAA2I9NdgAKZrz9e0tLm1csyDMNqLESPDm34TdYYqXe8-I%5C%22%5D%7D%22%2C%22pre_product_id_new%22%3A%223620553568169403454%22%7D&sec_shop_id=uHLbQgx&url_maker=shop_sdk"
+            "link": "sslocal://goods/store?entrance_location=product_detail_live&pass_through_api=%7B%22pre_product_id_new%22%3A%223620553568169403454%22%2C%22product_author_info_map%22%3A%22%7B%5C%223620553568169403454%5C%22%3A%5B%5C%22MS4wLjABAAAA2I9NdgAKZrz9e0tLm1csyDMNqLESPDm34TdYYqXe8-I%5C%22%5D%7D%22%7D&sec_shop_id=uHLbQgx&url_maker=shop_sdk"
           },
           "brand_icon": "",
           "new_brand_icon": "",
           "grade_info": {
-            "score": 4.5,
+            "score": 4.7,
             "is_new_style": true
           },
           "shop_extra_info": null,
@@ -122,7 +122,7 @@
             "type": "image",
             "content_list": [
               {
-                "url": "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_2b76c19d9cc489f0b6d5d7817fd2ed99_sx_478666_www800-800~tplv-5mmsx3fupr-resize_q:1080:1080:q90.webp",
+                "url": "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_2b76c19d9cc489f0b6d5d7817fd2ed99_sx_478666_www800-800~tplv-5mmsx3fupr-resize_q:1080:1080:q90.webp",
                 "height": 0,
                 "width": 0,
                 "combination_info": {
@@ -130,7 +130,7 @@
                 }
               },
               {
-                "url": "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_84e07ca0e96aeb4dba1a247a1dae87b3_sx_329245_www800-800~tplv-5mmsx3fupr-resize_q:1080:1080:q90.webp",
+                "url": "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_84e07ca0e96aeb4dba1a247a1dae87b3_sx_329245_www800-800~tplv-5mmsx3fupr-resize_q:1080:1080:q90.webp",
                 "height": 0,
                 "width": 0,
                 "combination_info": {
@@ -146,7 +146,7 @@
                 }
               },
               {
-                "url": "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_3f2a5cac76ed2ad7373a400e44a895e5_sx_392109_www800-800~tplv-5mmsx3fupr-resize_q:1080:1080:q90.webp",
+                "url": "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_3f2a5cac76ed2ad7373a400e44a895e5_sx_392109_www800-800~tplv-5mmsx3fupr-resize_q:1080:1080:q90.webp",
                 "height": 0,
                 "width": 0,
                 "combination_info": {
@@ -266,7 +266,7 @@
                 },
                 {
                   "type": "text",
-                  "text": "最快2小时发货，预计今天下午发货",
+                  "text": "最快1小时发货，预计今天下午发货",
                   "border_radius": ""
                 }
               ]
@@ -288,7 +288,7 @@
       "comment_data": {
         "good_comment": {
           "title_bar": {
-            "sum": 1405171,
+            "sum": 1405444,
             "link": "sslocal://ec_goods_comment/?comment_entrance=product_flow_page&product_id=3620553568169403454&show_header=1"
           },
           "tag_list": [
@@ -362,42 +362,42 @@
             {
               "type": 1,
               "image_info": {
-                "thumbnail": "https://p3-ecom-commentpic-sign.byteimg.com/douyin-user-image-file/8fce9a4e1959a46ada993d1ee6df73bb~tplv-fceoirpogb-re_cp:360:0:q100.heic?lk3s=e100c300&x-expires=1789441205&x-signature=zA4eOqTyf1pqj7J5hPsqsrqmfcU%3D"
+                "thumbnail": "https://p3-ecom-commentpic-sign.byteimg.com/tos-cn-i-8y5sebgt5i/bfaaef9a31d14f25af14c712db6f96a6~tplv-fceoirpogb-re_cp:360:0:q100.heic?lk3s=e100c300&x-expires=1789448402&x-signature=%2Fl0bIiPxLyNp5QLFyn7dnwZnrvI%3D"
               },
               "video_info": {},
-              "preview_url": "sslocal://ec_comment_detail?product_id=3620553568169403454&comment_id=5620837114695467325&comment_cursor=0&comment_entrance=product_detail"
+              "preview_url": "sslocal://ec_comment_detail?product_id=3620553568169403454&comment_id=4200169789170630922&comment_cursor=0&comment_entrance=product_detail"
+            },
+            {
+              "type": 1,
+              "image_info": {
+                "thumbnail": "https://p3-ecom-commentpic-sign.byteimg.com/tos-cn-i-8y5sebgt5i/778d12b56e88458da2115cd49a784888~tplv-fceoirpogb-re_cp:360:0:q100.heic?lk3s=e100c300&x-expires=1789448402&x-signature=GY6qGc7nZ287VN2IxZNsXIq4mf0%3D"
+              },
+              "video_info": {},
+              "preview_url": "sslocal://ec_comment_detail?product_id=3620553568169403454&comment_id=2645090909913792814&comment_cursor=1&comment_entrance=product_detail"
             },
             {
               "type": 2,
               "image_info": {},
               "video_info": {
-                "poster_url": "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-2253/oUNjGNPm71QpYIIHdAEkixGcQBRkaCUtgBU4i~tplv-noop.image?cquery=100D&dy_q=1788836405&l=202609081100058AB7FFFE6935D14A1CC8&x-expires=1788847220&x-signature=aqeNQIqYadZhwSZ8KWCOxQidvPw%3D"
+                "poster_url": "https://p11-sign.douyinpic.com/tos-cn-p-2253/okL2GMMiah9fDQbsCQBgMIcZEB60C4BRtyHAiA~tplv-noop.image?cquery=100D&dy_q=1788843602&l=20260908130002C6787DE474B2D836B865&x-expires=1788854419&x-signature=33N9J99j2SmTAJYt42D0H1QRVWk%3D"
               },
-              "preview_url": "sslocal://ec_comment_detail?product_id=3620553568169403454&comment_id=1411534384108060971&comment_cursor=1&comment_entrance=product_detail"
+              "preview_url": "sslocal://ec_comment_detail?product_id=3620553568169403454&comment_id=1083143796067205403&comment_cursor=2&comment_entrance=product_detail"
+            },
+            {
+              "type": 2,
+              "image_info": {},
+              "video_info": {
+                "poster_url": "https://p11-sign.douyinpic.com/tos-cn-p-2253/oYvBFXD1FmZ1p8TSerKGECkZF1xIQECfARfmdE~tplv-noop.image?cquery=100D&dy_q=1788843602&l=20260908130002C6787DE474B2D836B865&x-expires=1788854406&x-signature=k3aSpX6Ip7fI6Z94NUHgMmZWPZA%3D"
+              },
+              "preview_url": "sslocal://ec_comment_detail?product_id=3620553568169403454&comment_id=1101101019305476362&comment_cursor=3&comment_entrance=product_detail"
             },
             {
               "type": 1,
               "image_info": {
-                "thumbnail": "https://p3-ecom-commentpic-sign.byteimg.com/tos-cn-i-8y5sebgt5i/496290730ef445beaa719c86bce66620~tplv-fceoirpogb-re_cp:360:0:q100.heic?lk3s=e100c300&x-expires=1789441205&x-signature=J78PmP1QTt0pKeEx%2Fkr8ubRHY6o%3D"
+                "thumbnail": "https://p9-ecom-commentpic-sign.byteimg.com/douyin-user-image-file/e2c81306acc4391cd3ce542a6f029b7c~tplv-fceoirpogb-re_cp:360:0:q100.heic?lk3s=e100c300&x-expires=1789448402&x-signature=ZHP8ip%2B4y6nAHFKgq6Wt7MUvMmY%3D"
               },
               "video_info": {},
-              "preview_url": "sslocal://ec_comment_detail?product_id=3620553568169403454&comment_id=290974532418666790&comment_cursor=2&comment_entrance=product_detail"
-            },
-            {
-              "type": 1,
-              "image_info": {
-                "thumbnail": "https://p3-ecom-commentpic-sign.byteimg.com/douyin-user-image-file/9d2ffe6afabcd4e9fd0cf61d2f076719~tplv-fceoirpogb-re_cp:360:0:q100.heic?lk3s=e100c300&x-expires=1789441205&x-signature=cdo5gWWFxSQ5n%2Bds3WfVka%2BCG2I%3D"
-              },
-              "video_info": {},
-              "preview_url": "sslocal://ec_comment_detail?product_id=3620553568169403454&comment_id=2108768964137140492&comment_cursor=3&comment_entrance=product_detail"
-            },
-            {
-              "type": 1,
-              "image_info": {
-                "thumbnail": "https://p3-ecom-commentpic-sign.byteimg.com/douyin-user-image-file/9e6aa88c58dac50c454f9ff18c6252b2~tplv-fceoirpogb-re_cp:360:0:q100.heic?lk3s=e100c300&x-expires=1789441205&x-signature=elCT%2FkzHU70zFPHaNM0zj6yrPkg%3D"
-              },
-              "video_info": {},
-              "preview_url": "sslocal://ec_comment_detail?product_id=3620553568169403454&comment_id=7958430859001168155&comment_cursor=4&comment_entrance=product_detail"
+              "preview_url": "sslocal://ec_comment_detail?product_id=3620553568169403454&comment_id=1779720422066946355&comment_cursor=4&comment_entrance=product_detail"
             }
           ]
         },
@@ -472,8 +472,8 @@
         {
           "uri": "ecom-shop-material/jpeg_m_67a35bbf8262bfe53efbd35167bf9329_sx_384433_www790-1206",
           "url_list": [
-            "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_67a35bbf8262bfe53efbd35167bf9329_sx_384433_www790-1206~tplv-5mmsx3fupr-resize:790:1206.jpeg",
-            "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_67a35bbf8262bfe53efbd35167bf9329_sx_384433_www790-1206~tplv-5mmsx3fupr-resize:790:1206.jpeg"
+            "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_67a35bbf8262bfe53efbd35167bf9329_sx_384433_www790-1206~tplv-5mmsx3fupr-resize:790:1206.jpeg",
+            "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_67a35bbf8262bfe53efbd35167bf9329_sx_384433_www790-1206~tplv-5mmsx3fupr-resize:790:1206.jpeg"
           ],
           "width": 790,
           "height": 1206
@@ -481,8 +481,8 @@
         {
           "uri": "ecom-shop-material/jpeg_m_071cf61f062be960f061179c17d5c6f5_sx_392923_www790-1329",
           "url_list": [
-            "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_071cf61f062be960f061179c17d5c6f5_sx_392923_www790-1329~tplv-5mmsx3fupr-resize:790:1329.jpeg",
-            "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_071cf61f062be960f061179c17d5c6f5_sx_392923_www790-1329~tplv-5mmsx3fupr-resize:790:1329.jpeg"
+            "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_071cf61f062be960f061179c17d5c6f5_sx_392923_www790-1329~tplv-5mmsx3fupr-resize:790:1329.jpeg",
+            "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_071cf61f062be960f061179c17d5c6f5_sx_392923_www790-1329~tplv-5mmsx3fupr-resize:790:1329.jpeg"
           ],
           "width": 790,
           "height": 1329
@@ -517,8 +517,8 @@
         {
           "uri": "ecom-shop-material/jpeg_m_309914784525cf347c52f584d9eb8805_sx_247895_www790-1168",
           "url_list": [
-            "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_309914784525cf347c52f584d9eb8805_sx_247895_www790-1168~tplv-5mmsx3fupr-resize:790:1168.jpeg",
-            "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_309914784525cf347c52f584d9eb8805_sx_247895_www790-1168~tplv-5mmsx3fupr-resize:790:1168.jpeg"
+            "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_309914784525cf347c52f584d9eb8805_sx_247895_www790-1168~tplv-5mmsx3fupr-resize:790:1168.jpeg",
+            "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_309914784525cf347c52f584d9eb8805_sx_247895_www790-1168~tplv-5mmsx3fupr-resize:790:1168.jpeg"
           ],
           "width": 790,
           "height": 1168
@@ -526,8 +526,8 @@
         {
           "uri": "ecom-shop-material/jpeg_m_9d6d0074b83cbd50f387550eee62003c_sx_398769_www790-1512",
           "url_list": [
-            "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_9d6d0074b83cbd50f387550eee62003c_sx_398769_www790-1512~tplv-5mmsx3fupr-resize:790:1512.jpeg",
-            "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_9d6d0074b83cbd50f387550eee62003c_sx_398769_www790-1512~tplv-5mmsx3fupr-resize:790:1512.jpeg"
+            "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_9d6d0074b83cbd50f387550eee62003c_sx_398769_www790-1512~tplv-5mmsx3fupr-resize:790:1512.jpeg",
+            "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_9d6d0074b83cbd50f387550eee62003c_sx_398769_www790-1512~tplv-5mmsx3fupr-resize:790:1512.jpeg"
           ],
           "width": 790,
           "height": 1512
@@ -571,8 +571,8 @@
         {
           "uri": "ecom-shop-material/jpeg_m_ab282dda7aa75b08c3552f15276ebc50_sx_275428_www790-734",
           "url_list": [
-            "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_ab282dda7aa75b08c3552f15276ebc50_sx_275428_www790-734~tplv-5mmsx3fupr-resize:790:734.jpeg",
-            "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_ab282dda7aa75b08c3552f15276ebc50_sx_275428_www790-734~tplv-5mmsx3fupr-resize:790:734.jpeg"
+            "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_ab282dda7aa75b08c3552f15276ebc50_sx_275428_www790-734~tplv-5mmsx3fupr-resize:790:734.jpeg",
+            "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_ab282dda7aa75b08c3552f15276ebc50_sx_275428_www790-734~tplv-5mmsx3fupr-resize:790:734.jpeg"
           ],
           "width": 790,
           "height": 734
@@ -580,8 +580,8 @@
         {
           "uri": "ecom-shop-material/jpeg_m_fbb0f2b81ad81b30e355b0d706527a7e_sx_378311_www790-1244",
           "url_list": [
-            "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_fbb0f2b81ad81b30e355b0d706527a7e_sx_378311_www790-1244~tplv-5mmsx3fupr-resize:790:1244.jpeg",
-            "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_fbb0f2b81ad81b30e355b0d706527a7e_sx_378311_www790-1244~tplv-5mmsx3fupr-resize:790:1244.jpeg"
+            "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_fbb0f2b81ad81b30e355b0d706527a7e_sx_378311_www790-1244~tplv-5mmsx3fupr-resize:790:1244.jpeg",
+            "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_fbb0f2b81ad81b30e355b0d706527a7e_sx_378311_www790-1244~tplv-5mmsx3fupr-resize:790:1244.jpeg"
           ],
           "width": 790,
           "height": 1244
@@ -589,8 +589,8 @@
         {
           "uri": "ecom-shop-material/jpeg_m_a42530088da58afb0d5275d8986898c2_sx_269862_www790-907",
           "url_list": [
-            "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_a42530088da58afb0d5275d8986898c2_sx_269862_www790-907~tplv-5mmsx3fupr-resize:790:907.jpeg",
-            "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_a42530088da58afb0d5275d8986898c2_sx_269862_www790-907~tplv-5mmsx3fupr-resize:790:907.jpeg"
+            "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_a42530088da58afb0d5275d8986898c2_sx_269862_www790-907~tplv-5mmsx3fupr-resize:790:907.jpeg",
+            "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_a42530088da58afb0d5275d8986898c2_sx_269862_www790-907~tplv-5mmsx3fupr-resize:790:907.jpeg"
           ],
           "width": 790,
           "height": 907
@@ -607,8 +607,8 @@
         {
           "uri": "ecom-shop-material/uHLbQgx_m_452587b1812528e4ca752bb50a08a492_sx_245772_www790-550",
           "url_list": [
-            "https://p3-item.ecombdimg.com/img/ecom-shop-material/uHLbQgx_m_452587b1812528e4ca752bb50a08a492_sx_245772_www790-550~tplv-5mmsx3fupr-resize:790:550.jpeg",
-            "https://p26-item.ecombdimg.com/img/ecom-shop-material/uHLbQgx_m_452587b1812528e4ca752bb50a08a492_sx_245772_www790-550~tplv-5mmsx3fupr-resize:790:550.jpeg"
+            "https://p26-item.ecombdimg.com/img/ecom-shop-material/uHLbQgx_m_452587b1812528e4ca752bb50a08a492_sx_245772_www790-550~tplv-5mmsx3fupr-resize:790:550.jpeg",
+            "https://p3-item.ecombdimg.com/img/ecom-shop-material/uHLbQgx_m_452587b1812528e4ca752bb50a08a492_sx_245772_www790-550~tplv-5mmsx3fupr-resize:790:550.jpeg"
           ],
           "width": 790,
           "height": 550
@@ -834,8 +834,8 @@
           "image": {
             "uri": "ecom-shop-material/jpeg_m_67a35bbf8262bfe53efbd35167bf9329_sx_384433_www790-1206",
             "url_list": [
-              "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_67a35bbf8262bfe53efbd35167bf9329_sx_384433_www790-1206~tplv-5mmsx3fupr-resize:790:1206.jpeg",
-              "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_67a35bbf8262bfe53efbd35167bf9329_sx_384433_www790-1206~tplv-5mmsx3fupr-resize:790:1206.jpeg"
+              "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_67a35bbf8262bfe53efbd35167bf9329_sx_384433_www790-1206~tplv-5mmsx3fupr-resize:790:1206.jpeg",
+              "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_67a35bbf8262bfe53efbd35167bf9329_sx_384433_www790-1206~tplv-5mmsx3fupr-resize:790:1206.jpeg"
             ],
             "width": 790,
             "height": 1206
@@ -846,8 +846,8 @@
           "image": {
             "uri": "ecom-shop-material/jpeg_m_071cf61f062be960f061179c17d5c6f5_sx_392923_www790-1329",
             "url_list": [
-              "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_071cf61f062be960f061179c17d5c6f5_sx_392923_www790-1329~tplv-5mmsx3fupr-resize:790:1329.jpeg",
-              "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_071cf61f062be960f061179c17d5c6f5_sx_392923_www790-1329~tplv-5mmsx3fupr-resize:790:1329.jpeg"
+              "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_071cf61f062be960f061179c17d5c6f5_sx_392923_www790-1329~tplv-5mmsx3fupr-resize:790:1329.jpeg",
+              "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_071cf61f062be960f061179c17d5c6f5_sx_392923_www790-1329~tplv-5mmsx3fupr-resize:790:1329.jpeg"
             ],
             "width": 790,
             "height": 1329
@@ -894,8 +894,8 @@
           "image": {
             "uri": "ecom-shop-material/jpeg_m_309914784525cf347c52f584d9eb8805_sx_247895_www790-1168",
             "url_list": [
-              "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_309914784525cf347c52f584d9eb8805_sx_247895_www790-1168~tplv-5mmsx3fupr-resize:790:1168.jpeg",
-              "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_309914784525cf347c52f584d9eb8805_sx_247895_www790-1168~tplv-5mmsx3fupr-resize:790:1168.jpeg"
+              "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_309914784525cf347c52f584d9eb8805_sx_247895_www790-1168~tplv-5mmsx3fupr-resize:790:1168.jpeg",
+              "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_309914784525cf347c52f584d9eb8805_sx_247895_www790-1168~tplv-5mmsx3fupr-resize:790:1168.jpeg"
             ],
             "width": 790,
             "height": 1168
@@ -906,8 +906,8 @@
           "image": {
             "uri": "ecom-shop-material/jpeg_m_9d6d0074b83cbd50f387550eee62003c_sx_398769_www790-1512",
             "url_list": [
-              "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_9d6d0074b83cbd50f387550eee62003c_sx_398769_www790-1512~tplv-5mmsx3fupr-resize:790:1512.jpeg",
-              "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_9d6d0074b83cbd50f387550eee62003c_sx_398769_www790-1512~tplv-5mmsx3fupr-resize:790:1512.jpeg"
+              "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_9d6d0074b83cbd50f387550eee62003c_sx_398769_www790-1512~tplv-5mmsx3fupr-resize:790:1512.jpeg",
+              "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_9d6d0074b83cbd50f387550eee62003c_sx_398769_www790-1512~tplv-5mmsx3fupr-resize:790:1512.jpeg"
             ],
             "width": 790,
             "height": 1512
@@ -966,8 +966,8 @@
           "image": {
             "uri": "ecom-shop-material/jpeg_m_ab282dda7aa75b08c3552f15276ebc50_sx_275428_www790-734",
             "url_list": [
-              "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_ab282dda7aa75b08c3552f15276ebc50_sx_275428_www790-734~tplv-5mmsx3fupr-resize:790:734.jpeg",
-              "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_ab282dda7aa75b08c3552f15276ebc50_sx_275428_www790-734~tplv-5mmsx3fupr-resize:790:734.jpeg"
+              "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_ab282dda7aa75b08c3552f15276ebc50_sx_275428_www790-734~tplv-5mmsx3fupr-resize:790:734.jpeg",
+              "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_ab282dda7aa75b08c3552f15276ebc50_sx_275428_www790-734~tplv-5mmsx3fupr-resize:790:734.jpeg"
             ],
             "width": 790,
             "height": 734
@@ -978,8 +978,8 @@
           "image": {
             "uri": "ecom-shop-material/jpeg_m_fbb0f2b81ad81b30e355b0d706527a7e_sx_378311_www790-1244",
             "url_list": [
-              "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_fbb0f2b81ad81b30e355b0d706527a7e_sx_378311_www790-1244~tplv-5mmsx3fupr-resize:790:1244.jpeg",
-              "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_fbb0f2b81ad81b30e355b0d706527a7e_sx_378311_www790-1244~tplv-5mmsx3fupr-resize:790:1244.jpeg"
+              "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_fbb0f2b81ad81b30e355b0d706527a7e_sx_378311_www790-1244~tplv-5mmsx3fupr-resize:790:1244.jpeg",
+              "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_fbb0f2b81ad81b30e355b0d706527a7e_sx_378311_www790-1244~tplv-5mmsx3fupr-resize:790:1244.jpeg"
             ],
             "width": 790,
             "height": 1244
@@ -990,8 +990,8 @@
           "image": {
             "uri": "ecom-shop-material/jpeg_m_a42530088da58afb0d5275d8986898c2_sx_269862_www790-907",
             "url_list": [
-              "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_a42530088da58afb0d5275d8986898c2_sx_269862_www790-907~tplv-5mmsx3fupr-resize:790:907.jpeg",
-              "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_a42530088da58afb0d5275d8986898c2_sx_269862_www790-907~tplv-5mmsx3fupr-resize:790:907.jpeg"
+              "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_a42530088da58afb0d5275d8986898c2_sx_269862_www790-907~tplv-5mmsx3fupr-resize:790:907.jpeg",
+              "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_a42530088da58afb0d5275d8986898c2_sx_269862_www790-907~tplv-5mmsx3fupr-resize:790:907.jpeg"
             ],
             "width": 790,
             "height": 907
@@ -1014,8 +1014,8 @@
           "image": {
             "uri": "ecom-shop-material/uHLbQgx_m_452587b1812528e4ca752bb50a08a492_sx_245772_www790-550",
             "url_list": [
-              "https://p3-item.ecombdimg.com/img/ecom-shop-material/uHLbQgx_m_452587b1812528e4ca752bb50a08a492_sx_245772_www790-550~tplv-5mmsx3fupr-resize:790:550.jpeg",
-              "https://p26-item.ecombdimg.com/img/ecom-shop-material/uHLbQgx_m_452587b1812528e4ca752bb50a08a492_sx_245772_www790-550~tplv-5mmsx3fupr-resize:790:550.jpeg"
+              "https://p26-item.ecombdimg.com/img/ecom-shop-material/uHLbQgx_m_452587b1812528e4ca752bb50a08a492_sx_245772_www790-550~tplv-5mmsx3fupr-resize:790:550.jpeg",
+              "https://p3-item.ecombdimg.com/img/ecom-shop-material/uHLbQgx_m_452587b1812528e4ca752bb50a08a492_sx_245772_www790-550~tplv-5mmsx3fupr-resize:790:550.jpeg"
             ],
             "width": 790,
             "height": 550

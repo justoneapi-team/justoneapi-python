@@ -1,6 +1,6 @@
 {
-  "_fetchedAt": "2026-09-08T12:00:18.704769+08:00",
-  "_sourceCheckedAt": "2026-09-08T12:00:04",
+  "_fetchedAt": "2026-09-08T13:00:20.105351+08:00",
+  "_sourceCheckedAt": "2026-09-08T13:00:05",
   "code": 0,
   "message": null,
   "data": {
@@ -8,8 +8,14 @@
       "status_code": 0,
       "status_message": ""
     },
-    "expect_cpe": {},
-    "expect_cpm": {},
+    "expect_cpe": {
+      "cpe_21_60": "230",
+      "cpe_60": "230"
+    },
+    "expect_cpm": {
+      "cpm_21_60": "11721",
+      "cpm_60": "11721"
+    },
     "interact_rate": {
       "label": "剧情搞笑"
     },
