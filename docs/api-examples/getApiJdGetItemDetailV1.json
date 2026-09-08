@@ -1,6 +1,6 @@
 {
-  "_fetchedAt": "2026-09-08T08:55:31.727598+08:00",
-  "_sourceCheckedAt": "2026-09-08T08:00:09",
+  "_fetchedAt": "2026-09-08T09:00:29.692965+08:00",
+  "_sourceCheckedAt": "2026-09-08T09:00:08",
   "code": 0,
   "message": null,
   "data": {
@@ -90,12 +90,12 @@
         "venderBizid": "",
         "msbybt": "1",
         "venderAttribute": ",HYS001,",
-        "canUseDQ": true,
-        "canUseJQ": true,
-        "isJDMarket": "0",
-        "jzfp": false,
-        "isYouImports": "1",
         "isdangergoods": "0",
+        "canUseJQ": true,
+        "jzfp": false,
+        "canUseDQ": true,
+        "isJDMarket": "0",
+        "isYouImports": "1",
         "giftsGoods": "0",
         "isLqkt": "0"
       },
@@ -275,7 +275,7 @@
       },
       "dcashDesc": "所选地址此商品无门槛包邮，免基础运费和续重运费。",
       "StockState": 33,
-      "rn": 44,
+      "rn": 42,
       "code": 1,
       "fxgCode": "0",
       "popFxgCode": "0",
@@ -461,9 +461,9 @@
             "name": "7天价保",
             "shortDesc": "7天内买贵退差价",
             "iHelpLink": "https://ihelp.jd.com/l/help/scene/getSceneDetail?id=325798",
+            "mimgUrl2": "//m.360buyimg.com/lme/jfs/t1/222228/21/20461/3101/63048db5Ef37ece2e/83f0be5658b2f25b.png",
             "mimgUrl": "//m.360buyimg.com/babel/jfs/t1/222474/40/8926/4033/61de8162E9b3a5a0c/b11a4cc5342015b0.png",
-            "ihelpLink": "https://ihelp.jd.com/l/help/scene/getSceneDetail?id=325798",
-            "mimgUrl2": "//m.360buyimg.com/lme/jfs/t1/222228/21/20461/3101/63048db5Ef37ece2e/83f0be5658b2f25b.png"
+            "ihelpLink": "https://ihelp.jd.com/l/help/scene/getSceneDetail?id=325798"
           },
           {
             "code": "s24",
@@ -471,8 +471,8 @@
             "logoUrl": "//m.360buyimg.com/babel/jfs/t1/165294/34/4317/1381/60113548E6eeea0be/3da037b6d436cda6.png",
             "name": "破损包退换",
             "shortDesc": "商品破损包退包换",
-            "mimgUrl": "//m.360buyimg.com/babel/jfs/t1/219430/22/10828/5229/61de8162E4e3e011e/15400959dff92730.png",
-            "mimgUrl2": "//m.360buyimg.com/lme/jfs/t1/171083/32/29633/1927/63036085Ea2a870b4/6ca0d9411282993c.png"
+            "mimgUrl2": "//m.360buyimg.com/lme/jfs/t1/171083/32/29633/1927/63036085Ea2a870b4/6ca0d9411282993c.png",
+            "mimgUrl": "//m.360buyimg.com/babel/jfs/t1/219430/22/10828/5229/61de8162E4e3e011e/15400959dff92730.png"
           }
         ]
       },
@@ -622,8 +622,8 @@
           "searchWord": "",
           "channel": "PRODUCT_DETAIL_M"
         },
-        "paramBelongs2UIExp": false,
-        "textBold": false
+        "textBold": false,
+        "paramBelongs2UIExp": false
       }
     ],
     "plusLimitBuy": {
