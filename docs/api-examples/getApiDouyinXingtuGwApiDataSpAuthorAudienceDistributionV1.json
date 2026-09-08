@@ -1,6 +1,6 @@
 {
-  "_fetchedAt": "2026-09-08T18:00:20.874993+08:00",
-  "_sourceCheckedAt": "2026-09-08T18:00:04",
+  "_fetchedAt": "2026-09-08T19:00:20.453858+08:00",
+  "_sourceCheckedAt": "2026-09-08T19:00:04",
   "code": 0,
   "message": null,
   "data": {
@@ -10,55 +10,66 @@
     },
     "distributions": [
       {
-        "description": "分布最多的1个城市广州(12%)",
+        "description": "Z世代居多,占比33%",
         "distribution_list": [
           {
-            "distribution_key": "广州",
-            "distribution_value": "261886"
+            "distribution_key": "都市银发",
+            "distribution_value": "828806"
           },
           {
-            "distribution_key": "重庆",
-            "distribution_value": "229779"
+            "distribution_key": "资深中产",
+            "distribution_value": "323798"
           },
           {
-            "distribution_key": "上海",
-            "distribution_value": "225595"
+            "distribution_key": "小镇中老年",
+            "distribution_value": "701966"
           },
           {
-            "distribution_key": "深圳",
-            "distribution_value": "224841"
+            "distribution_key": "精致妈妈",
+            "distribution_value": "185829"
           },
           {
-            "distribution_key": "成都",
-            "distribution_value": "212459"
+            "distribution_key": "都市蓝领",
+            "distribution_value": "1418643"
           },
           {
-            "distribution_key": "北京",
-            "distribution_value": "205692"
+            "distribution_key": "Z世代",
+            "distribution_value": "3557768"
           },
           {
-            "distribution_key": "武汉",
-            "distribution_value": "198993"
+            "distribution_key": "小镇青年",
+            "distribution_value": "2316065"
           },
           {
-            "distribution_key": "苏州",
-            "distribution_value": "188037"
-          },
-          {
-            "distribution_key": "东莞",
-            "distribution_value": "181226"
-          },
-          {
-            "distribution_key": "郑州",
-            "distribution_value": "173866"
+            "distribution_key": "新锐白领",
+            "distribution_value": "1232962"
           }
         ],
         "image": [
-          "广州居多"
+          "Z世代居多"
         ],
-        "origin_type": 8,
-        "type": 256,
-        "type_display": "城市分布"
+        "origin_type": 10,
+        "type": 1024,
+        "type_display": "八大人群分布"
+      },
+      {
+        "description": "男性居多,占比80%",
+        "distribution_list": [
+          {
+            "distribution_key": "female",
+            "distribution_value": "2062360"
+          },
+          {
+            "distribution_key": "male",
+            "distribution_value": "8640368"
+          }
+        ],
+        "image": [
+          "男性居多"
+        ],
+        "origin_type": 0,
+        "type": 1,
+        "type_display": "性别分布"
       },
       {
         "description": "分布最多的3个省份广东(12%),江苏(7%),浙江(6%)",
@@ -251,66 +262,55 @@
         "type_display": "兴趣分布"
       },
       {
-        "description": "Z世代居多,占比33%",
+        "description": "分布最多的1个城市广州(12%)",
         "distribution_list": [
           {
-            "distribution_key": "都市银发",
-            "distribution_value": "828806"
+            "distribution_key": "广州",
+            "distribution_value": "261886"
           },
           {
-            "distribution_key": "资深中产",
-            "distribution_value": "323798"
+            "distribution_key": "重庆",
+            "distribution_value": "229779"
           },
           {
-            "distribution_key": "小镇中老年",
-            "distribution_value": "701966"
+            "distribution_key": "上海",
+            "distribution_value": "225595"
           },
           {
-            "distribution_key": "精致妈妈",
-            "distribution_value": "185829"
+            "distribution_key": "深圳",
+            "distribution_value": "224841"
           },
           {
-            "distribution_key": "都市蓝领",
-            "distribution_value": "1418643"
+            "distribution_key": "成都",
+            "distribution_value": "212459"
           },
           {
-            "distribution_key": "Z世代",
-            "distribution_value": "3557768"
+            "distribution_key": "北京",
+            "distribution_value": "205692"
           },
           {
-            "distribution_key": "小镇青年",
-            "distribution_value": "2316065"
+            "distribution_key": "武汉",
+            "distribution_value": "198993"
           },
           {
-            "distribution_key": "新锐白领",
-            "distribution_value": "1232962"
+            "distribution_key": "苏州",
+            "distribution_value": "188037"
+          },
+          {
+            "distribution_key": "东莞",
+            "distribution_value": "181226"
+          },
+          {
+            "distribution_key": "郑州",
+            "distribution_value": "173866"
           }
         ],
         "image": [
-          "Z世代居多"
+          "广州居多"
         ],
-        "origin_type": 10,
-        "type": 1024,
-        "type_display": "八大人群分布"
-      },
-      {
-        "description": "男性居多,占比80%",
-        "distribution_list": [
-          {
-            "distribution_key": "female",
-            "distribution_value": "2062360"
-          },
-          {
-            "distribution_key": "male",
-            "distribution_value": "8640368"
-          }
-        ],
-        "image": [
-          "男性居多"
-        ],
-        "origin_type": 0,
-        "type": 1,
-        "type_display": "性别分布"
+        "origin_type": 8,
+        "type": 256,
+        "type_display": "城市分布"
       },
       {
         "description": "18到23岁居多,占比34%",
@@ -418,7 +418,7 @@
         "type_display": "城市等级分布"
       }
     ],
-    "last_update_time": "1788861604"
+    "last_update_time": "1788865204"
   },
   "recordTime": null
 }

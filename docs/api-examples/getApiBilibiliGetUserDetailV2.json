@@ -1,6 +1,6 @@
 {
-  "_fetchedAt": "2026-09-08T18:00:13.726992+08:00",
-  "_sourceCheckedAt": "2026-09-08T18:00:00",
+  "_fetchedAt": "2026-09-08T19:00:12.188967+08:00",
+  "_sourceCheckedAt": "2026-09-08T19:00:00",
   "code": 0,
   "message": null,
   "data": {
@@ -58,9 +58,9 @@
         }
       },
       "abtest": {
-        "h5_resolution": "0"
+        "h5_resolution": "1"
       },
-      "ua": "Mozilla/5.0 (Linux; U; Android 4.4.2; zh-cn; OPPO_A59S Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+      "ua": "Mozilla/5.0 (Linux; Android 10; VCE-AL00 Build/HUAWEIVCE-AL00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.89 Mobile Safari/537.36 T7/11.20 SP-engine/2.16.0 baiduboxapp/11.20.0.14 (Baidu; P1 10) NABar/1.0",
       "browser": {
         "mobile": true,
         "ios": false,
@@ -73,10 +73,10 @@
         "wechat": false,
         "weibo": false,
         "uc": false,
-        "qq": true,
-        "baidu": false,
+        "qq": false,
+        "baidu": true,
         "mqq": false,
-        "mbaidu": false,
+        "mbaidu": true,
         "iqiyi": false,
         "QQLive": false,
         "Safari": false,
@@ -105,7 +105,7 @@
         "wl": [],
         "defUpdated": false,
         "connectivities": {},
-        "x": 98,
+        "x": 75,
         "suffixConfigs": {},
         "hasSuffixesConfig": false,
         "defFallbackThreshold": 5
