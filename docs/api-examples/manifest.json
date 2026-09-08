@@ -896,6 +896,10 @@
       "file": "docs/api-examples/getApiXiaohongshuAskDots.json",
       "operationId": "getApiXiaohongshuAskDots"
     },
+    "GET /api/xiaohongshu/get-creator-hot-inspiration-feed/v1": {
+      "file": "docs/api-examples/getApiXiaohongshuGetCreatorHotInspirationFeedV1.json",
+      "operationId": "getApiXiaohongshuGetCreatorHotInspirationFeedV1"
+    },
     "GET /api/xiaohongshu/get-note-comment/v2": {
       "file": "docs/api-examples/getApiXiaohongshuGetNoteCommentV2.json",
       "operationId": "getApiXiaohongshuGetNoteCommentV2"
