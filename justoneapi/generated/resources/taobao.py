@@ -249,18 +249,18 @@ class TaobaoResource(BaseResource):
         *,
         user_id: str,
         shop_id: str,
-        sort: str | None = "coefp",
+        sort: str | None = "sales-des",
         page: int | None = 1,
     ) -> ApiResponse[Any]:
         """
         Shop Product List
 
-        Retrieves products from a Taobao or Tmall shop using both seller or user ID and shop ID, with page-based pagination and configurable sorting. Use it to browse a known shop catalog.
+        Retrieves products from a Taobao or Tmall shop using both seller or user ID and shop ID, with page-based pagination and sorting by sales, new arrivals, credit, or price. Use it to browse a known shop catalog.
 
         Args:
             user_id: Shop identifier. Also known as Seller ID or User ID (they refer to the same value).
             shop_id: Unique shop identifier on Taobao/Tmall (shop ID).
-            sort: Sort order for the result set.  Available Values: - `coefp`: Comprehensive sorting - `hotsell`: Hot selling / Sales volume - `oldstarts`: New arrivals / Old starts - `bid`: Price: Low to High - `_bid`: Price: High to Low
+            sort: Sort order for the result set.  Available Values: - `sales-des`: Sales, highest first - `new-des`: New arrivals, newest first - `credit-des`: Credit, highest first - `price-asc`: Price, lowest first - `price-des`: Price, highest first
             page: Page number for pagination.
         """
         return self._get(

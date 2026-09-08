@@ -18671,7 +18671,7 @@
     },
     "/api/taobao/get-shop-item-list/v2": {
       "get": {
-        "description": "Retrieves products from a Taobao or Tmall shop using both seller or user ID and shop ID, with page-based pagination and configurable sorting. Use it to browse a known shop catalog.",
+        "description": "Retrieves products from a Taobao or Tmall shop using both seller or user ID and shop ID, with page-based pagination and sorting by sales, new arrivals, credit, or price. Use it to browse a known shop catalog.",
         "operationId": "getApiTaobaoGetShopItemListV2",
         "parameters": [
           {
@@ -18695,19 +18695,19 @@
             "x-sdk-python-name": "shop_id"
           },
           {
-            "description": "Sort order for the result set.\n\nAvailable Values:\n- `coefp`: Comprehensive sorting\n- `hotsell`: Hot selling / Sales volume\n- `oldstarts`: New arrivals / Old starts\n- `bid`: Price: Low to High\n- `_bid`: Price: High to Low",
+            "description": "Sort order for the result set.\n\nAvailable Values:\n- `sales-des`: Sales, highest first\n- `new-des`: New arrivals, newest first\n- `credit-des`: Credit, highest first\n- `price-asc`: Price, lowest first\n- `price-des`: Price, highest first",
             "in": "query",
             "name": "sort",
             "required": false,
             "schema": {
-              "default": "coefp",
-              "description": "Sort types for product list (V5.0)",
+              "default": "sales-des",
+              "description": "Sort order for shop product list V2",
               "enum": [
-                "coefp",
-                "hotsell",
-                "oldstarts",
-                "bid",
-                "_bid"
+                "sales-des",
+                "new-des",
+                "credit-des",
+                "price-asc",
+                "price-des"
               ],
               "type": "string"
             },
@@ -34268,5 +34268,5 @@
       "x-platform-id": "1688"
     }
   ],
-  "x-openapi-release-id": "96112a281e0298f1"
+  "x-openapi-release-id": "b4c38ef9655dc7d1"
 }
