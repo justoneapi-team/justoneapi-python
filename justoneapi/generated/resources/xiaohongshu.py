@@ -74,6 +74,26 @@ class XiaohongshuResource(BaseResource):
             {},
         )
 
+    def get_creator_hot_inspiration_feed_v1(
+        self,
+        *,
+        cursor: str | None = "",
+    ) -> ApiResponse[Any]:
+        """
+        Hot Inspiration Feed
+
+        Retrieves the Xiaohongshu (RedNote) creator center hot inspiration feed with cursor pagination. Use it to discover inspiration for content planning and explore further pages of creative ideas.
+
+        Args:
+            cursor: Leave empty for the first request. For the next page, pass the cursor value returned by the previous response.
+        """
+        return self._get(
+            "/api/xiaohongshu/get-creator-hot-inspiration-feed/v1",
+            {
+                "cursor": cursor,
+            },
+        )
+
     def search_note_v1(
         self,
         *,

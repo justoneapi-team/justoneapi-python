@@ -28916,6 +28916,75 @@
         ]
       }
     },
+    "/api/xiaohongshu/get-creator-hot-inspiration-feed/v1": {
+      "get": {
+        "description": "Retrieves the Xiaohongshu (RedNote) creator center hot inspiration feed with cursor pagination. Use it to discover inspiration for content planning and explore further pages of creative ideas.",
+        "operationId": "getApiXiaohongshuGetCreatorHotInspirationFeedV1",
+        "parameters": [
+          {
+            "description": "Leave empty for the first request. For the next page, pass the cursor value returned by the previous response.",
+            "in": "query",
+            "name": "cursor",
+            "required": false,
+            "schema": {
+              "default": "",
+              "type": "string"
+            },
+            "x-sdk-python-name": "cursor"
+          }
+        ],
+        "responses": {
+          "200": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Result"
+                }
+              }
+            },
+            "description": "OK"
+          },
+          "400": {
+            "$ref": "#/components/responses/ResultBadRequestResponse"
+          },
+          "401": {
+            "$ref": "#/components/responses/ResultUnauthorizedResponse"
+          },
+          "403": {
+            "$ref": "#/components/responses/ResultForbiddenResponse"
+          },
+          "429": {
+            "$ref": "#/components/responses/ResultTooManyRequestsResponse"
+          },
+          "500": {
+            "$ref": "#/components/responses/ResultInternalServerErrorResponse"
+          },
+          "503": {
+            "$ref": "#/components/responses/ResultServiceUnavailableResponse"
+          }
+        },
+        "security": [
+          {
+            "tokenAuth": []
+          }
+        ],
+        "summary": "Hot Inspiration Feed",
+        "tags": [
+          "Xiaohongshu (RedNote)"
+        ],
+        "x-api-version": "v1",
+        "x-endpoint-family": "xiaohongshu_get_creator_hot_inspiration_feed",
+        "x-highlights": [],
+        "x-order": "12001020",
+        "x-sdk-class-name": "XiaohongshuResource",
+        "x-sdk-method-name": "get_creator_hot_inspiration_feed_v1",
+        "x-sdk-resource": "xiaohongshu",
+        "x-search-aliases": [
+          "小红书创作者热点灵感",
+          "小红书创作灵感"
+        ]
+      }
+    },
     "/api/xiaohongshu/get-note-comment/v2": {
       "get": {
         "description": "Retrieves comments for a Xiaohongshu (RedNote) note with cursor pagination and normal, latest, or like-count sorting. Use it to support feedback review, discussion analysis, and comment moderation workflows.",
@@ -34268,5 +34337,5 @@
       "x-platform-id": "1688"
     }
   ],
-  "x-openapi-release-id": "b4c38ef9655dc7d1"
+  "x-openapi-release-id": "7eab8c272e73abe7"
 }
