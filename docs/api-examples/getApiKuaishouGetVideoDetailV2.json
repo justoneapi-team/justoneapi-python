@@ -1,6 +1,6 @@
 {
-  "_fetchedAt": "2026-09-08T07:55:30.647790+08:00",
-  "_sourceCheckedAt": "2026-09-08T07:00:11",
+  "_fetchedAt": "2026-09-08T08:00:30.412119+08:00",
+  "_sourceCheckedAt": "2026-09-08T08:00:11",
   "code": 0,
   "message": null,
   "data": {
@@ -12,8 +12,8 @@
         "photoReward": {
           "favorGuideStrategy": 0,
           "canFreeFavorAuthor": false,
-          "rewardCount": 100,
-          "descNotClickText": "100 赞赏"
+          "descNotClickText": "100 赞赏",
+          "rewardCount": 100
         },
         "supportType": 0,
         "danmakuInfo": {
@@ -23,7 +23,7 @@
           "photoDanmakuGuide": false,
           "paster": false
         },
-        "inputPromptGuide": "内容太无聊了",
+        "inputPromptGuide": "换点不一样的",
         "enableFullScreenPlay": false,
         "showProgressEnterDetail": true,
         "ptp": "",
@@ -53,7 +53,7 @@
         "duration": 89116,
         "plcFeatureEntryAbFlag": 0,
         "noNeedToRequestPLCApi": true,
-        "plcResponseTime": 1788822011388,
+        "plcResponseTime": 1788825611556,
         "plcHighPriorityThanBottomEntry": false,
         "liked": 0,
         "streamManifest": {
@@ -71,9 +71,9 @@
               "representation": [
                 {
                   "id": 1,
-                  "url": "http://k0u2ay30y79y97zw2408x8752x0x101xx17z.djvod.ndcimgs.com/ksc1/_4X0jhEDlPPvk9aipNdrPpfwNkv6aIoREDo3KO2zmEhDO72121DIPvkgKb_zoA9sjxy4rOxqH5_R0ko46PD02GInlx_dvDCpxcCOXyeeBIssQAwulpaxgOsCDgPW9aEd.mp4?tag=1-1788822011-sp-0-5csjjdjjmw-cb0de53e4d49954f&provider=self&clientCacheKey=3xg9avuebhtfcku_0e9ca006&di=b7399829&bp=14971&x-ks-ptid=178912366162&kwai-not-alloc=self-cdn&kcdntag=p:Guangdong;i:ChinaTelecom;ft:UNKNOWN;h:COLD;pn:kuaishouVideoProjection&ocid=300000639&tt=sl200hd15&ss=vpm",
+                  "url": "http://k0u77y0y61y11zw240exabxb202x9xx11z.djvod.ndcimgs.com/ksc1/_4X0jhEDlPPvk9aipNdrPpfwNkv6aIoREDo3KO2zmEhDO72121DIPvkgKb_zoA9sjxy4rOxqH5_R0ko46PD02GInlx_dvDCpxcCOXyeeBIssQAwulpaxgOsCDgPW9aEd.mp4?tag=1-1788825611-sp-0-riupsk2ica-f32110c648729e36&provider=self&clientCacheKey=3xg9avuebhtfcku_0e9ca006&di=717dad14&bp=14971&x-ks-ptid=178912366162&kwai-not-alloc=self-cdn&kcdntag=p:Guizhou;i:ChinaTelecom;ft:UNKNOWN;h:COLD;pn:kuaishouVideoProjection&ocid=100000043&tt=sl200hd15&ss=vpm",
                   "backupUrl": [
-                    "http://v1.kwaicdn.com/ksc1/_4X0jhEDlPPvk9aipNdrPpfwNkv6aIoREDo3KO2zmEhDO72121DIPvkgKb_zoA9sjxy4rOxqH5_R0ko46PD02GInlx_dvDCpxcCOXyeeBIssQAwulpaxgOsCDgPW9aEd.mp4?pkey=AAXqDj9tY14mLN7SajLnEQE1-QhTrYceVATxariwOpQNS3PxRU4e9Z4p34flB9CEQplkO4tXoNWmrSFBTr5U8XSCJh0zyDMu_N4tMxPflOTSCdm_L6_vOVg1YlsjJZhnum0&tag=1-1788822011-sp-1-lwtmaijwrx-435788bfa5e67a9d&clientCacheKey=3xg9avuebhtfcku_0e9ca006&di=b7399829&bp=14971&kwai-not-alloc=0&type=cold&tt=sl200hd15&ss=vpm"
+                    "http://v1.kwaicdn.com/ksc1/_4X0jhEDlPPvk9aipNdrPpfwNkv6aIoREDo3KO2zmEhDO72121DIPvkgKb_zoA9sjxy4rOxqH5_R0ko46PD02GInlx_dvDCpxcCOXyeeBIssQAwulpaxgOsCDgPW9aEd.mp4?pkey=AAW8MeAvh8DOvA1syTmnonLhTay1YGsfWYHV6OuLGG9tksvlXGittqQo9u0e9yGGLq_FBR7Jh8AkvT6ZNIONY4OYSkiQEhdpE4FcmctBQeJ4v2pfjXVIuJjYhVNyYSyAz9o&tag=1-1788825611-sp-1-xjd9u8j7vd-a3189ac7e45695f8&clientCacheKey=3xg9avuebhtfcku_0e9ca006&di=717dad14&bp=14971&kwai-not-alloc=0&type=cold&tt=sl200hd15&ss=vpm"
                   ],
                   "maxBitrate": 3800,
                   "avgBitrate": 623,
@@ -157,37 +157,44 @@
         },
         "main_mv_urls": [
           {
-            "cdn": "v23-3.kwaicdn.com",
-            "url": "http://v23-3.kwaicdn.com/upic/2025/11/02/19/BMjAyNTExMDIxOTAxMzVfMzIzNzkxMjUyMV8xNzg5MTIzNjYxNjJfMl8z_b_Bb746847c3d9d15d75f5855a10b89c00f.mp4?pkey=AAWcN4L7QFxyNHszzaYSEyFEqILAKjsN1E_OFLDYzKJrBPiJboRZnR--UT5GeX1viUpjq6aimLgU17xGMLWl7ClJoginLugYwTd-R92XFdTRDDLUzm4cP4CH5j5iLc8cW90&tag=1-1788822011-sp-0-izg124gptm-e3e452e9024368c6&type=hot&clientCacheKey=3xg9avuebhtfcku_b.mp4&tt=b&di=b7399829&bp=14971"
+            "cdn": "v1.kwaicdn.com",
+            "url": "http://v1.kwaicdn.com/ksc1/XxBNS-fXXjcDQq-X4CTq15Hec0jJtsS_bT6pKm0mvo0miJxJtEJYPvug1i61q3-YNopuoh-PUgZzZz3TETd54CuK2DTPzMbJBt0YR5mQSRdKflP3ecchJW2Gw3vZHXIYrhye1NF9KAwuzMHkZCuvaE3kNGHmYvcDo2umTRQBXOA8uKv2KYoxRMvirMn6nq5z.mp4?pkey=AAWDw8UWv6Q3FO7NB_ge6BPqH2wCOIEgGG5KiNV77o88YpJXnVNV-YLS2SyD3ng4JyIceEDkqZ1M1YO9Vv5nGWiFquWiDst4W3_OdxrsAjzxp-dkIjs3RNXjkma6_0rI2gw&tag=1-1788825611-sp-0-nkpidweuuj-dc48c2ba9f488ccc&type=hot&clientCacheKey=3xg9avuebhtfcku_b.mp4&tt=b&di=717dad14&bp=14971"
           },
           {
-            "cdn": "v5-ot.kwaicdn.com",
-            "url": "http://v5-ot.kwaicdn.com/upic/2025/11/02/19/BMjAyNTExMDIxOTAxMzVfMzIzNzkxMjUyMV8xNzg5MTIzNjYxNjJfMl8z_b_Bb746847c3d9d15d75f5855a10b89c00f.mp4?pkey=AAX4SsLjXOz5tLlxe0jIY6ANEuTh6LN5-sJf48u-qNyUUQTw6yX0linhE3IAbTeTRVNI9I1LF8pjmWlrAHrBVtIV4VSEe2w56hfeWW-o4t-DnfUUJuuQkur2p6V73pZl7vM&tag=1-1788822011-sp-1-yqeluxap0f-ba0d5693aee5e615&type=hot&clientCacheKey=3xg9avuebhtfcku_b.mp4&tt=b&di=b7399829&bp=14971"
+            "cdn": "v23-3.kwaicdn.com",
+            "url": "http://v23-3.kwaicdn.com/upic/2025/11/02/19/BMjAyNTExMDIxOTAxMzVfMzIzNzkxMjUyMV8xNzg5MTIzNjYxNjJfMl8z_b_Bb746847c3d9d15d75f5855a10b89c00f.mp4?pkey=AAUfZiBvD3KIlFQ6IzzOmm83PRLbXFBSO_cgal8Hao-k7m-4Qu8HCL-mQbODE1DoY3gzV9gUo3LO_D6ZBHk8JqilzUtQX95JUt_Vw5SN8r2LPxethSfAEtbCOHG8pFY8kQQ&tag=1-1788825611-sp-1-gkie9w9cvo-0543cd10a08c8041&type=hot&clientCacheKey=3xg9avuebhtfcku_b.mp4&tt=b&di=717dad14&bp=14971"
           }
         ],
         "cover_thumbnail_urls": [
           {
-            "cdn": "zj66.a.kwimgs.com",
-            "url": "http://zj66.a.kwimgs.com/upic/2025/11/02/19/BMjAyNTExMDIxOTAxMzVfMzIzNzkxMjUyMV8xNzg5MTIzNjYxNjJfMl8z_low_B94b4fc72eff0e93affe1ba7839171dec.webp?tag=1-1788822011-sp-0-cuh0p80dcw-b39b58254b31ee15&type=hot&clientCacheKey=3xg9avuebhtfcku_low.webp&di=b7399829&bp=14971"
+            "cdn": "tx2.a.yximgs.com",
+            "url": "http://tx2.a.yximgs.com/upic/2025/11/02/19/BMjAyNTExMDIxOTAxMzVfMzIzNzkxMjUyMV8xNzg5MTIzNjYxNjJfMl8z_low_B94b4fc72eff0e93affe1ba7839171dec.webp?tag=1-1788825611-sp-0-kwq5mldqpn-7194f9a407a8bd44&type=hot&clientCacheKey=3xg9avuebhtfcku_low.webp&di=717dad14&bp=14971"
           },
           {
-            "cdn": "ali2.a.kwimgs.com",
-            "url": "http://ali2.a.kwimgs.com/upic/2025/11/02/19/BMjAyNTExMDIxOTAxMzVfMzIzNzkxMjUyMV8xNzg5MTIzNjYxNjJfMl8z_low_B94b4fc72eff0e93affe1ba7839171dec.webp?tag=1-1788822011-sp-1-t9uyfxe4d0-6b1a3e9b6146f0cf&type=hot&clientCacheKey=3xg9avuebhtfcku_low.webp&di=b7399829&bp=14971"
+            "cdn": "ty2.a.kwimgs.com",
+            "url": "http://ty2.a.kwimgs.com/upic/2025/11/02/19/BMjAyNTExMDIxOTAxMzVfMzIzNzkxMjUyMV8xNzg5MTIzNjYxNjJfMl8z_low_B94b4fc72eff0e93affe1ba7839171dec.webp?tag=1-1788825611-sp-1-5ifhvsursy-7dd315378a14e44e&type=hot&clientCacheKey=3xg9avuebhtfcku_low.webp&di=717dad14&bp=14971"
           }
         ],
         "ff_cover_thumbnail_urls": [
           {
-            "cdn": "zj66.a.kwimgs.com",
-            "url": "http://zj66.a.kwimgs.com/upic/2025/11/02/19/BMjAyNTExMDIxOTAxMzVfMzIzNzkxMjUyMV8xNzg5MTIzNjYxNjJfMl8z_ff_B6e5a5331277f49ab226f0c989202eed1.kpg?tag=1-1788822011-sp-0-ge2vuntytv-59430330116d2fe6&type=hot&clientCacheKey=3xg9avuebhtfcku_ff.kpg&di=b7399829&bp=14971"
+            "cdn": "tx2.a.yximgs.com",
+            "url": "http://tx2.a.yximgs.com/upic/2025/11/02/19/BMjAyNTExMDIxOTAxMzVfMzIzNzkxMjUyMV8xNzg5MTIzNjYxNjJfMl8z_ff_B6e5a5331277f49ab226f0c989202eed1.kpg?tag=1-1788825611-sp-0-ccwucjmsjm-ba4464d14bee6f82&type=hot&clientCacheKey=3xg9avuebhtfcku_ff.kpg&di=717dad14&bp=14971"
           },
           {
-            "cdn": "ali2.a.kwimgs.com",
-            "url": "http://ali2.a.kwimgs.com/upic/2025/11/02/19/BMjAyNTExMDIxOTAxMzVfMzIzNzkxMjUyMV8xNzg5MTIzNjYxNjJfMl8z_ff_B6e5a5331277f49ab226f0c989202eed1.kpg?tag=1-1788822011-sp-1-cfuegfrzvl-b5d4890d5a51dad7&type=hot&clientCacheKey=3xg9avuebhtfcku_ff.kpg&di=b7399829&bp=14971"
+            "cdn": "ty2.a.kwimgs.com",
+            "url": "http://ty2.a.kwimgs.com/upic/2025/11/02/19/BMjAyNTExMDIxOTAxMzVfMzIzNzkxMjUyMV8xNzg5MTIzNjYxNjJfMl8z_ff_B6e5a5331277f49ab226f0c989202eed1.kpg?tag=1-1788825611-sp-1-ka2rdm97mc-82bc330447d544fa&type=hot&clientCacheKey=3xg9avuebhtfcku_ff.kpg&di=717dad14&bp=14971"
           }
         ],
         "us_c": 0,
         "comment_count": 764,
         "slideCommentEntryDisabled": false,
+        "frameStyle": 0,
+        "photoTextLocationInfo": {
+          "leftRatio": 0.00694,
+          "topRatio": 0.01574,
+          "widthRatio": 0.63333,
+          "heightRatio": 0.89166
+        },
         "verified": false,
         "kwaiId": "Boluocut",
         "following": 0,
@@ -205,20 +212,20 @@
         "user_sex": "M",
         "us_l": true,
         "location": {},
-        "timestamp": 1762081348963,
         "time": "2025-11-02 19:02:28",
+        "timestamp": 1762081348963,
         "originalPhotoId": "3xg9avuebhtfcku",
-        "caption": "独属国人的浪漫 #神仙剪刀手  #诗句 #电影美学 #混剪",
         "like_count": 114909,
+        "caption": "独属国人的浪漫 #神仙剪刀手  #诗句 #电影美学 #混剪",
         "forward_count": 0,
-        "view_count": 1111432,
+        "view_count": 1111433,
         "share_count": 7056,
-        "photo_id": 5251478817858568382,
         "photo_status": 0,
+        "photo_id": 5251478817858568382,
         "shareGuide": {
-          "photoShareGuide": false,
           "minPlayDurationInSeconds": 15,
           "textDisplayDurationInSeconds": 4,
+          "photoShareGuide": false,
           "playTimes": 2
         },
         "us_d": 0,
@@ -234,13 +241,14 @@
           "user": {
             "following": false,
             "kwaiId": "Boluocut",
-            "user_id": 3237912521,
-            "user_name": "苏暮尘",
             "profilePagePrefetchInfo": {
               "profilePageType": 1
             },
+            "user_id": 3237912521,
+            "user_name": "苏暮尘",
             "headurl": "http://p2.a.yximgs.com/uhead/AB/2025/11/01/23/BMjAyNTExMDEyMzA2NDJfMzIzNzkxMjUyMV8yX2hkNjQxXzIwNg==_s.jpg",
             "user_sex": "M",
+            "eid": "3xj6kcxepn3n3eg",
             "headurls": [
               {
                 "cdn": "p2.a.yximgs.com",
@@ -251,11 +259,20 @@
                 "url": "http://p4.a.yximgs.com/uhead/AB/2025/11/01/23/BMjAyNTExMDEyMzA2NDJfMzIzNzkxMjUyMV8yX2hkNjQxXzIwNg==_s.jpg"
               }
             ],
-            "eid": "3xj6kcxepn3n3eg",
             "visitorBeFollowed": false
           },
           "photoId": 5251478817858568382,
           "artist": "苏暮尘",
+          "avatarUrls": [
+            {
+              "cdn": "hw.a.yximgs.com",
+              "url": "http://hw.a.yximgs.com/bs2/ost/MTc4OTEyMzY2MTYyXzMyMzc5MTI1MjE.jpg"
+            },
+            {
+              "cdn": "ali2.a.yximgs.com",
+              "url": "http://ali2.a.yximgs.com/bs2/ost/MTc4OTEyMzY2MTYyXzMyMzc5MTI1MjE.jpg"
+            }
+          ],
           "imageUrls": [
             {
               "cdn": "hw.a.yximgs.com",
@@ -266,24 +283,14 @@
               "url": "http://ali2.a.yximgs.com/bs2/ost/MTc4OTEyMzY2MTYyXzMyMzc5MTI1MjE.jpg"
             }
           ],
-          "avatarUrls": [
+          "audioUrls": [
             {
               "cdn": "ty2.a.kwimgs.com",
-              "url": "http://ty2.a.kwimgs.com/bs2/ost/MTc4OTEyMzY2MTYyXzMyMzc5MTI1MjE.jpg"
+              "url": "http://ty2.a.kwimgs.com/bs2/ost/MTc4OTEyMzY2MTYyXzMyMzc5MTI1MjE.m4a"
             },
-            {
-              "cdn": "hw.a.yximgs.com",
-              "url": "http://hw.a.yximgs.com/bs2/ost/MTc4OTEyMzY2MTYyXzMyMzc5MTI1MjE.jpg"
-            }
-          ],
-          "audioUrls": [
             {
               "cdn": "hw.a.yximgs.com",
               "url": "http://hw.a.yximgs.com/bs2/ost/MTc4OTEyMzY2MTYyXzMyMzc5MTI1MjE.m4a"
-            },
-            {
-              "cdn": "ali2.a.yximgs.com",
-              "url": "http://ali2.a.yximgs.com/bs2/ost/MTc4OTEyMzY2MTYyXzMyMzc5MTI1MjE.m4a"
             }
           ],
           "id": "5xsbyu3yuxeme3e",
@@ -296,22 +303,18 @@
           "hasCopyright": true,
           "disableEnhancedEntry": true
         },
-        "tag_hash_type": 1,
         "tags": [],
         "sameFrame": {
           "allow": true,
           "availableDepth": 7
         },
         "adminTags": [],
-        "frameStyle": 0,
-        "photoTextLocationInfo": {
-          "leftRatio": 0.00694,
-          "topRatio": 0.01574,
-          "widthRatio": 0.63333,
-          "heightRatio": 0.89166
+        "tag_hash_type": 1,
+        "profilePagePrefetchInfo": {
+          "profilePageType": 1
         },
-        "user_id": 3237912521,
         "exp_tag": "",
+        "user_id": 3237912521,
         "ext_params": {
           "mtype": 3,
           "color": "653D20",
@@ -322,20 +325,17 @@
           "video": 89116
         },
         "serverExpTag": "",
-        "profilePagePrefetchInfo": {
-          "profilePageType": 1
-        },
         "followShoot": {
           "isLipsSyncPhoto": false
         },
         "feedLogCtx": {
-          "stidContainer": "CjgxfDIwMDYyNjM5MjYyMzEwMzA2OTB8cGhvdG86NTI1MTQ3ODgxNzg1ODU2ODM4Mnx8eyJyIjowfQ==",
+          "stidContainer": "CjgxfDIwMDYyNjM5NjMwNDU5NTE4NTh8cGhvdG86NTI1MTQ3ODgxNzg1ODU2ODM4Mnx8eyJyIjowfQ==",
           "stExParams": "",
           "logParams": "{}"
         }
       }
     ],
-    "host-name": "public-bjmt-c87-kce-node34.idchb1az4.hb1.kwaidc.com"
+    "host-name": "public-bjmt-c95-kce-node236.idchb1az4.hb1.kwaidc.com"
   },
   "recordTime": null
 }

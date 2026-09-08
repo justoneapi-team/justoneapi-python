@@ -1,6 +1,6 @@
 {
-  "_fetchedAt": "2026-09-08T07:55:29.061068+08:00",
-  "_sourceCheckedAt": "2026-09-08T07:00:09",
+  "_fetchedAt": "2026-09-08T08:00:28.755648+08:00",
+  "_sourceCheckedAt": "2026-09-08T08:00:10",
   "code": 0,
   "message": null,
   "data": {
@@ -63,7 +63,7 @@
           "changePriceCount": 36,
           "jointDate": "2026-06-15",
           "recordDay": 86,
-          "runtime": "42"
+          "runtime": "41"
         },
         "title": "联想来酷斗战者 战7000 2026年补贴15% 电竞游戏笔记本电脑y 大学生本p图设计 联想全国联保 旗舰 酷睿i7-13645HX 16G 512G 满血RTX5060丨国补 16英寸2.5K专业电竞屏",
         "trendMaxBuyNumber": 1,
@@ -84,18 +84,23 @@
             "type": "满减"
           },
           {
-            "content": "1件8折",
+            "content": "满1590减30",
+            "limitPlatform": false,
+            "type": "满减"
+          },
+          {
+            "content": "满810减20",
             "limitPlatform": false,
             "type": "满减"
           }
         ],
         "buyNumber": 1,
         "commission": "0",
-        "currentTime": "1788822014918",
+        "currentTime": "1788825621230",
         "discountAllTypeCount": null,
         "discountBtn": null,
         "exchangeExtraPrice": null,
-        "extraPrice": "15137.84",
+        "extraPrice": "12508.9",
         "extraPriceDesc": null,
         "extraPriceType": null,
         "extraUnitPrice": null,
@@ -117,8 +122,8 @@
         "jintieExtraPrice": null,
         "multiPlan": {
           "buyNumber": 2,
-          "desc": "购买2件,当前价格18922.3,满减：1件8折,可叠加满减：2件7折",
-          "extraPrice": "9461.15",
+          "desc": "购买2件,当前价格12538.9,满减：满1590减30,可叠加满减：2件7折",
+          "extraPrice": "8762.23",
           "formula": [
             {
               "bottom": "",
@@ -134,7 +139,7 @@
               "priceTips": null,
               "tip": "",
               "tips": [],
-              "top": "¥18922.3"
+              "top": "¥12538.9"
             },
             {
               "bottom": "",
@@ -165,20 +170,20 @@
               "middle": "",
               "priceTips": [
                 {
-                  "subPrice": "7568.92",
-                  "tip": "1件8折"
+                  "subPrice": "30.00",
+                  "tip": "满1590减30"
                 },
                 {
-                  "subPrice": "11353.38",
+                  "subPrice": "7523.34",
                   "tip": "2件7折"
                 }
               ],
-              "tip": "1件8折,2件7折",
+              "tip": "满1590减30,2件7折",
               "tips": [
-                "1件8折",
+                "满1590减30",
                 "2件7折"
               ],
-              "top": "¥18922.3"
+              "top": "¥7553.34"
             },
             {
               "bottom": "",
@@ -205,30 +210,31 @@
               "top": "2"
             }
           ],
-          "originPrice": "18922.3",
+          "originPrice": "12538.9",
           "tip": "买2件单价更低"
         },
         "originPagePrice": null,
-        "originPrice": "18922.3",
+        "originPrice": "12538.9",
         "promotionTags": [
           "2件7折",
-          "1件8折"
+          "满1590减30",
+          "满810减20"
         ],
         "promotionTagsV2": null,
-        "runtime": "35",
+        "runtime": "19",
         "sameRecommendation": {
           "curIsOfficial": null,
-          "currentActualPrice": "15137.8",
+          "currentActualPrice": "12508.9",
           "currentCount": null,
-          "currentSinglePrice": "15137.8",
-          "currentSinglePriceStr": "15137.8",
+          "currentSinglePrice": "12508.9",
+          "currentSinglePriceStr": "12508.9",
           "priceDifference": null,
           "priceDifferenceStr": null,
           "recommendProduct": {
             "actualPrice": "9599",
             "count": null,
-            "priceDifference": "5538.8",
-            "priceDifferenceStr": "5538.8",
+            "priceDifference": "2909.9",
+            "priceDifferenceStr": "2909.9",
             "shopName": "联想严选授权专卖店",
             "singlePrice": "9599.0",
             "singlePriceStr": "9599",
@@ -244,8 +250,8 @@
         },
         "singlePlan": {
           "buyNumber": 1,
-          "desc": "购买1件，当前价格18922.3，满减：1件8折",
-          "extraPrice": "15137.84",
+          "desc": "购买1件，当前价格12538.9，满减：满1590减30",
+          "extraPrice": "12508.9",
           "formula": [
             {
               "bottom": "页面价",
@@ -253,7 +259,7 @@
               "priceTips": null,
               "tip": "",
               "tips": [],
-              "top": "¥18922.3"
+              "top": "¥12538.9"
             },
             {
               "bottom": "",
@@ -268,18 +274,18 @@
               "middle": "",
               "priceTips": [
                 {
-                  "subPrice": "3784.46",
-                  "tip": "1件8折"
+                  "subPrice": "30.00",
+                  "tip": "满1590减30"
                 }
               ],
-              "tip": "1件8折",
+              "tip": "满1590减30",
               "tips": [
-                "1件8折"
+                "满1590减30"
               ],
-              "top": "¥3784.46"
+              "top": "¥30"
             }
           ],
-          "originPrice": "18922.3",
+          "originPrice": "12538.9",
           "tip": "买1件单价"
         },
         "spbh": "1|3QWdDL9vzw2PJtQ4eQ!!11011000110101",

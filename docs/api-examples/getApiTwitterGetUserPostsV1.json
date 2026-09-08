@@ -1,22 +1,22 @@
 {
-  "_fetchedAt": "2026-09-08T07:55:45.275773+08:00",
-  "_sourceCheckedAt": "2026-09-08T07:00:29",
+  "_fetchedAt": "2026-09-08T08:00:44.964950+08:00",
+  "_sourceCheckedAt": "2026-09-08T08:00:25",
   "code": 0,
   "message": null,
   "data": {
     "pinned": {
       "tweet_id": "2095364595326263447",
-      "bookmarks": 1441,
+      "bookmarks": 1442,
       "created_at": "Thu Sep 03 04:13:44 +0000 2026",
-      "favorites": 62494,
+      "favorites": 62569,
       "text": "A Storm of Cybercabs",
       "lang": "en",
       "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-      "views": "12407878",
+      "views": "12419484",
       "sensitive": null,
       "quotes": 974,
-      "replies": 7378,
-      "retweets": 5939,
+      "replies": 7403,
+      "retweets": 5960,
       "conversation_id": "2095364595326263447",
       "media": [],
       "author": {
@@ -24,25 +24,556 @@
         "name": "Elon Musk",
         "screen_name": "elonmusk",
         "avatar": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
-        "followers_count": 241600664,
+        "followers_count": 241600458,
         "blue_verified": true
       }
     },
     "timeline": [
       {
-        "tweet_id": "2097095979618976065",
-        "bookmarks": 33,
-        "created_at": "Mon Sep 07 22:53:38 +0000 2026",
-        "favorites": 772,
+        "tweet_id": "2097106348957679944",
+        "bookmarks": 54,
+        "created_at": "Mon Sep 07 23:34:50 +0000 2026",
+        "favorites": 3906,
         "text": "True",
         "lang": "en",
         "sensitive": null,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-        "views": "346960",
-        "quotes": 10,
+        "views": "243085",
+        "quotes": 97,
         "entities": [],
-        "replies": 201,
-        "retweets": 111,
+        "replies": 486,
+        "retweets": 410,
+        "conversation_id": "2097106348957679944",
+        "media": [],
+        "author": {
+          "rest_id": "44196397",
+          "name": "Elon Musk",
+          "screen_name": "elonmusk",
+          "avatar": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
+          "followers_count": 241600458,
+          "blue_verified": true
+        },
+        "quoted": {
+          "tweet_id": "2097037052546302227",
+          "bookmarks": 48,
+          "created_at": "Mon Sep 07 18:59:29 +0000 2026",
+          "favorites": 5342,
+          "text": "They were not worried about Elon buying Twitter to spread misinformation.\n\nThey were worried about Elon buying Twitter to spread accurate information.",
+          "lang": "en",
+          "views": "321220",
+          "sensitive": null,
+          "quotes": 57,
+          "replies": 132,
+          "retweets": 612,
+          "conversation_id": "2097037052546302227",
+          "author": {
+            "rest_id": "1485689970593468416",
+            "name": "The Rabbit Hole",
+            "screen_name": "TheRabbitHole",
+            "avatar": "https://pbs.twimg.com/profile_images/1522017422550528001/6AceRKJQ_normal.png",
+            "followers_count": 1107765,
+            "blue_verified": true
+          },
+          "media": []
+        }
+      },
+      {
+        "tweet_id": "2097103209776988456",
+        "bookmarks": 0,
+        "created_at": "Mon Sep 07 23:22:22 +0000 2026",
+        "favorites": 0,
+        "text": "RT @XFreeze: Grok Build just got another big update, taking another major step toward becoming a full agent workspace\n\nDesktop app tools no…",
+        "lang": "en",
+        "sensitive": null,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "views": "350642",
+        "quotes": 0,
+        "entities": {
+          "user_mentions": [
+            {
+              "id_str": "1818311005698678784",
+              "name": "X Freeze",
+              "screen_name": "XFreeze"
+            }
+          ]
+        },
+        "replies": 0,
+        "retweets": 95,
+        "conversation_id": "2097103209776988456",
+        "media": [],
+        "author": {
+          "rest_id": "44196397",
+          "name": "Elon Musk",
+          "screen_name": "elonmusk",
+          "avatar": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
+          "followers_count": 241600458,
+          "blue_verified": true
+        },
+        "retweeted": {
+          "id": "2096818401985560654"
+        },
+        "retweeted_tweet": {
+          "tweet_id": "2096818401985560654",
+          "bookmarks": 146,
+          "created_at": "Mon Sep 07 04:30:38 +0000 2026",
+          "favorites": 855,
+          "text": "Grok Build just got another big update, taking another major step toward becoming a full agent workspace\n\nDesktop app tools now connect through a dedicated first-party MCP server, a new long-running workspace daemon can expose folders to Computer Hub, finished subagents can be continued instead of restarted, and background agents now return their actual output directly\n\nAdd better diff previews, smarter tool priority, stronger safety around destructive Git commands, and faster session startup\n\nRelease Notes: v1.0.22\n\nFeatures:\n• Built-in agent tools now take precedence over user MCP servers when tool names collide.\n• Desktop app tools are now available through a dedicated first-party MCP server.\n• Remote control pickers can now group servers by device using announced device identity.\n• edit_file diffs now show real file line numbers instead of starting at line 1.\n• Permission prompts for file edits now auto-expand the diff row so you can see the change before approving.\n• Sending a message to a finished subagent now continues that same subagent instead of failing.\n• Background subagent completion messages now show the actual output instead of just a pointer to run the tool.\n• Dashboard now shows a unified header with location picker and an actions row for creating agents or resuming previous sessions.\n• New `grok-workspaced daemon` mode lets a long-lived process expose folders to the Computer Hub (separate from the Desktop-supervised sidecar).\n\nBug Fixes:\n• MCP connectors now correctly show when they need re-authentication even if no tools are listed.\n• Extensions modal shortcuts now work when the tab bar is focused, and invalid actions on headers show helpful messages.\n• Send now button and shortcuts now work correctly when an automatic background turn is running.\n• Resumed sessions now show the exact text you typed for mid-turn follow-ups instead of the wrapped system message.\n• `/skills` command now updates the model with newly installed skills even when written from another NFS client.\n• Auto mode no longer instantly runs destructive `git checkout --` commands; they now go through the model for safety.\n• Fixed a crash that could occur when restoring pasted content after certain skill injections or rewinds.\n• Subagents and workflows now respect the same bash timeout and auto-background settings configured for the parent session.\n• Fixed model backend selection so an explicit chat_completions setting in config.toml is no longer overwritten by same-slug siblings.\n• Slash command advertisements no longer spam repeatedly when your current directory is your home folder.\n• Foreground shell commands no longer produce spurious background-task reminders or incorrect kill results.\n• Queued follow-up buttons now appear in the order [Send now][edit][cancel].\n• `/compact instructions` in the pager are now passed to the compaction backend (bare `/compact` is unchanged).\n• `/goal` (and resume) after pressing Esc now correctly starts the goal planner instead of failing with \"Planning failed\".\n• run_terminal_cmd now correctly tells the model that foreground commands are backgrounded after ~15s instead of the 120s timeout value.\n• Skill announcements no longer repeat the same list of available skills multiple times in a session.\n• Monitor events in multi-session processes now correctly wake idle sessions instead of being buffered until the next prompt.\n\nPerformance:\n• Opening or resuming sessions no longer pauses the interface while reading MCP config files.",
+          "lang": "en",
+          "sensitive": false,
+          "views": "217489",
+          "quotes": 13,
+          "entities": {
+            "media": [
+              {
+                "allow_download_status": {
+                  "allow_download": true
+                },
+                "display_url": "pic.x.com/UaDlIcKf5z",
+                "expanded_url": "https://x.com/XFreeze/status/2096818401985560654/photo/1",
+                "ext_media_availability": {
+                  "status": "Available"
+                },
+                "features": {
+                  "large": {
+                    "faces": []
+                  },
+                  "medium": {
+                    "faces": []
+                  },
+                  "orig": {
+                    "faces": []
+                  },
+                  "small": {
+                    "faces": []
+                  }
+                },
+                "id_str": "2096818355886014464",
+                "indices": [
+                  278,
+                  301
+                ],
+                "media_key": "3_2096818355886014464",
+                "media_results": {
+                  "result": {
+                    "media_key": "3_2096818355886014464"
+                  }
+                },
+                "media_url_https": "https://pbs.twimg.com/media/HRllL20awAAcNia.jpg",
+                "original_info": {
+                  "focus_rects": [
+                    {
+                      "h": 1015,
+                      "w": 1812,
+                      "x": 0,
+                      "y": 4
+                    },
+                    {
+                      "h": 1019,
+                      "w": 1019,
+                      "x": 397,
+                      "y": 0
+                    },
+                    {
+                      "h": 1019,
+                      "w": 894,
+                      "x": 459,
+                      "y": 0
+                    },
+                    {
+                      "h": 1019,
+                      "w": 510,
+                      "x": 651,
+                      "y": 0
+                    },
+                    {
+                      "h": 1019,
+                      "w": 1812,
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "height": 1019,
+                  "width": 1812
+                },
+                "sizes": {
+                  "large": {
+                    "h": 1019,
+                    "resize": "fit",
+                    "w": 1812
+                  },
+                  "medium": {
+                    "h": 675,
+                    "resize": "fit",
+                    "w": 1200
+                  },
+                  "small": {
+                    "h": 382,
+                    "resize": "fit",
+                    "w": 680
+                  },
+                  "thumb": {
+                    "h": 150,
+                    "resize": "crop",
+                    "w": 150
+                  }
+                },
+                "type": "photo",
+                "url": "https://t.co/UaDlIcKf5z"
+              }
+            ]
+          },
+          "replies": 87,
+          "retweets": 94,
+          "conversation_id": "2096818401985560654",
+          "quoted": {
+            "tweet_id": "2096029282506322168",
+            "bookmarks": 44,
+            "created_at": "Sat Sep 05 00:14:57 +0000 2026",
+            "favorites": 938,
+            "text": "Three Grok Build updates in a single day: v1.0.19 → v1.0.20 → v1.0.21\n\nAnd the latest one keeps polishing the experience......permission modes now stay visible through plan mode, sessions open instantly when you start typing or pasting, and crowded terminal layouts behave https://t.co/8lY2eEZEku",
+            "lang": "en",
+            "views": "890300",
+            "sensitive": false,
+            "quotes": 6,
+            "replies": 54,
+            "retweets": 158,
+            "conversation_id": "2096029282506322168",
+            "author": {
+              "rest_id": "1818311005698678784",
+              "name": "X Freeze",
+              "screen_name": "XFreeze",
+              "avatar": "https://pbs.twimg.com/profile_images/1876785200010539008/2_HFJjq9_normal.jpg",
+              "followers_count": 270464,
+              "blue_verified": true
+            },
+            "media": {
+              "photo": [
+                {
+                  "media_url_https": "https://pbs.twimg.com/media/HRaXFxiakAAf5TO.jpg",
+                  "id": "2096028802040369152",
+                  "sizes": {
+                    "h": 675,
+                    "w": 1200
+                  }
+                }
+              ]
+            }
+          },
+          "author": {
+            "rest_id": "1818311005698678784",
+            "name": "X Freeze",
+            "screen_name": "XFreeze",
+            "avatar": "https://pbs.twimg.com/profile_images/1876785200010539008/2_HFJjq9_normal.jpg",
+            "blue_verified": true
+          },
+          "media": {
+            "photo": [
+              {
+                "media_url_https": "https://pbs.twimg.com/media/HRllL20awAAcNia.jpg",
+                "id": "2096818355886014464",
+                "sizes": {
+                  "h": 675,
+                  "w": 1200
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "tweet_id": "2097100835066912944",
+        "bookmarks": 0,
+        "created_at": "Mon Sep 07 23:12:55 +0000 2026",
+        "favorites": 0,
+        "text": "RT @cb_doge: Grok Build feels like a superpower for creating in Blender. \n\nI am working on this rocket launch site from scratch with Grok B…",
+        "lang": "en",
+        "sensitive": null,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "views": "336102",
+        "quotes": 0,
+        "entities": {
+          "user_mentions": [
+            {
+              "id_str": "1389913567671975937",
+              "name": "DogeDesigner",
+              "screen_name": "cb_doge"
+            }
+          ]
+        },
+        "replies": 0,
+        "retweets": 103,
+        "conversation_id": "2097100835066912944",
+        "media": [],
+        "author": {
+          "rest_id": "44196397",
+          "name": "Elon Musk",
+          "screen_name": "elonmusk",
+          "avatar": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
+          "followers_count": 241600458,
+          "blue_verified": true
+        },
+        "retweeted": {
+          "id": "2097098079237452022"
+        },
+        "retweeted_tweet": {
+          "tweet_id": "2097098079237452022",
+          "bookmarks": 69,
+          "created_at": "Mon Sep 07 23:01:58 +0000 2026",
+          "favorites": 739,
+          "text": "Grok Build feels like a superpower for creating in Blender. \n\nI am working on this rocket launch site from scratch with Grok Build. It handles all the hard parts, saves hours of work and turns my ideas into results incredibly fast. The speed and quality are super impressive! 🔥🚀 https://t.co/8f8Nj2a2je",
+          "lang": "en",
+          "sensitive": false,
+          "views": "136336",
+          "quotes": 40,
+          "entities": {
+            "media": [
+              {
+                "additional_media_info": {
+                  "monetizable": false
+                },
+                "display_url": "pic.x.com/8f8Nj2a2je",
+                "expanded_url": "https://x.com/cb_doge/status/2097098079237452022/video/1",
+                "ext_media_availability": {
+                  "status": "Available"
+                },
+                "id_str": "2097098040452788224",
+                "indices": [
+                  279,
+                  302
+                ],
+                "media_key": "13_2097098040452788224",
+                "media_results": {
+                  "result": {
+                    "media_key": "13_2097098040452788224"
+                  }
+                },
+                "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2097098040452788224/img/8Lndpqr2JxuPPsp3.jpg",
+                "original_info": {
+                  "focus_rects": [],
+                  "height": 1390,
+                  "width": 2558
+                },
+                "sizes": {
+                  "large": {
+                    "h": 1113,
+                    "resize": "fit",
+                    "w": 2048
+                  },
+                  "medium": {
+                    "h": 652,
+                    "resize": "fit",
+                    "w": 1200
+                  },
+                  "small": {
+                    "h": 370,
+                    "resize": "fit",
+                    "w": 680
+                  },
+                  "thumb": {
+                    "h": 150,
+                    "resize": "crop",
+                    "w": 150
+                  }
+                },
+                "type": "video",
+                "url": "https://t.co/8f8Nj2a2je",
+                "video_info": {
+                  "aspect_ratio": [
+                    1279,
+                    695
+                  ],
+                  "duration_millis": 20100,
+                  "variants": [
+                    {
+                      "content_type": "application/x-mpegURL",
+                      "url": "https://video.twimg.com/amplify_video/2097098040452788224/pl/6Y1Qo3LLcbV4mIOA.m3u8?tag=29&v=cfc"
+                    },
+                    {
+                      "bitrate": 256000,
+                      "content_type": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2097098040452788224/vid/avc1/496x270/2xMqnG-1wDucS76p.mp4?tag=29"
+                    },
+                    {
+                      "bitrate": 832000,
+                      "content_type": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2097098040452788224/vid/avc1/662x360/1tBERCGzuIuiZ-Vn.mp4?tag=29"
+                    },
+                    {
+                      "bitrate": 2176000,
+                      "content_type": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2097098040452788224/vid/avc1/1324x720/YPhluEy1p2sCZTsv.mp4?tag=29"
+                    },
+                    {
+                      "bitrate": 10368000,
+                      "content_type": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2097098040452788224/vid/avc1/2558x1390/e5OtXc-cyixv4nX-.mp4?tag=29"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "replies": 97,
+          "retweets": 103,
+          "conversation_id": "2097098079237452022",
+          "author": {
+            "rest_id": "1389913567671975937",
+            "name": "DogeDesigner",
+            "screen_name": "cb_doge",
+            "avatar": "https://pbs.twimg.com/profile_images/1498070100393754625/C2V-fbll_normal.jpg",
+            "blue_verified": true
+          },
+          "media": {
+            "video": [
+              {
+                "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2097098040452788224/img/8Lndpqr2JxuPPsp3.jpg",
+                "variants": [
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/amplify_video/2097098040452788224/pl/6Y1Qo3LLcbV4mIOA.m3u8?tag=29&v=cfc"
+                  },
+                  {
+                    "bitrate": 256000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2097098040452788224/vid/avc1/496x270/2xMqnG-1wDucS76p.mp4?tag=29"
+                  },
+                  {
+                    "bitrate": 832000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2097098040452788224/vid/avc1/662x360/1tBERCGzuIuiZ-Vn.mp4?tag=29"
+                  },
+                  {
+                    "bitrate": 2176000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2097098040452788224/vid/avc1/1324x720/YPhluEy1p2sCZTsv.mp4?tag=29"
+                  },
+                  {
+                    "bitrate": 10368000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2097098040452788224/vid/avc1/2558x1390/e5OtXc-cyixv4nX-.mp4?tag=29"
+                  }
+                ],
+                "aspect_ratio": [
+                  1279,
+                  695
+                ],
+                "duration": 20100,
+                "original_info": {
+                  "focus_rects": [],
+                  "height": 1390,
+                  "width": 2558
+                },
+                "id": "2097098040452788224"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "tweet_id": "2097100094638100572",
+        "bookmarks": 100,
+        "created_at": "Mon Sep 07 23:09:59 +0000 2026",
+        "favorites": 4797,
+        "text": "Tesla Superchargers are built in New York State",
+        "lang": "en",
+        "sensitive": null,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "views": "649159",
+        "quotes": 68,
+        "entities": [],
+        "replies": 489,
+        "retweets": 518,
+        "conversation_id": "2097100094638100572",
+        "media": [],
+        "author": {
+          "rest_id": "44196397",
+          "name": "Elon Musk",
+          "screen_name": "elonmusk",
+          "avatar": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
+          "followers_count": 241600458,
+          "blue_verified": true
+        },
+        "quoted": {
+          "tweet_id": "2097025214760845518",
+          "bookmarks": 136,
+          "created_at": "Mon Sep 07 18:12:26 +0000 2026",
+          "favorites": 2379,
+          "text": "Superchargers are made in Buffalo, New York. Thank you to all our incredible employees! https://t.co/TlsdkHUSfl",
+          "lang": "en",
+          "views": "522009",
+          "sensitive": false,
+          "quotes": 40,
+          "replies": 85,
+          "retweets": 264,
+          "conversation_id": "2097025214760845518",
+          "author": {
+            "rest_id": "1346535293449428992",
+            "name": "Tesla Charging",
+            "screen_name": "TeslaCharging",
+            "avatar": "https://pbs.twimg.com/profile_images/1362134815844294661/vKTmG2CO_normal.jpg",
+            "followers_count": 301551,
+            "blue_verified": true
+          },
+          "media": {
+            "video": [
+              {
+                "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2097025126701334528/img/vOoaUNS-X3lez_K5.jpg",
+                "variants": [
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/amplify_video/2097025126701334528/pl/EcJ4jVrWBxBvbLRT.m3u8?tag=29&v=e12"
+                  },
+                  {
+                    "bitrate": 256000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2097025126701334528/vid/avc1/480x270/cDk5xg2IS2Sf00Mr.mp4?tag=29"
+                  },
+                  {
+                    "bitrate": 832000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2097025126701334528/vid/avc1/640x360/wrTiJEDHR8EScYRk.mp4?tag=29"
+                  },
+                  {
+                    "bitrate": 2176000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2097025126701334528/vid/avc1/1280x720/aDuMVPq6H2ReXLkh.mp4?tag=29"
+                  },
+                  {
+                    "bitrate": 10368000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2097025126701334528/vid/avc1/1920x1080/9x8c1Abu9hxnFaJH.mp4?tag=29"
+                  }
+                ],
+                "aspect_ratio": [
+                  16,
+                  9
+                ],
+                "duration": 113088,
+                "original_info": {
+                  "focus_rects": [],
+                  "height": 1080,
+                  "width": 1920
+                },
+                "id": "2097025126701334528"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "tweet_id": "2097095979618976065",
+        "bookmarks": 131,
+        "created_at": "Mon Sep 07 22:53:38 +0000 2026",
+        "favorites": 4029,
+        "text": "True",
+        "lang": "en",
+        "sensitive": null,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "views": "777599",
+        "quotes": 37,
+        "entities": [],
+        "replies": 507,
+        "retweets": 433,
         "conversation_id": "2097095979618976065",
         "media": [],
         "author": {
@@ -50,28 +581,28 @@
           "name": "Elon Musk",
           "screen_name": "elonmusk",
           "avatar": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
-          "followers_count": 241600664,
+          "followers_count": 241600458,
           "blue_verified": true
         },
         "quoted": {
           "tweet_id": "2096877821939355733",
-          "bookmarks": 511,
+          "bookmarks": 571,
           "created_at": "Mon Sep 07 08:26:45 +0000 2026",
-          "favorites": 6468,
+          "favorites": 7440,
           "text": "“No,” Musk said. “No. NO.” There was a long pause.\n\n“No mirrors, no pedals, no steering wheel. This is me taking responsibility for this decision.”...\n\n“Let me be clear,\" he said slowly. “This vehicle must be designed as a clean Robotaxi. We’re going to take that risk. It’s my https://t.co/Sh6J8S5mNl",
           "lang": "en",
-          "views": "385779",
+          "views": "766013",
           "sensitive": false,
-          "quotes": 71,
-          "replies": 140,
-          "retweets": 484,
+          "quotes": 91,
+          "replies": 179,
+          "retweets": 567,
           "conversation_id": "2096877821939355733",
           "author": {
             "rest_id": "1149232233930264577",
             "name": "Alejandro Sahuquillo",
             "screen_name": "alsahuquillo",
             "avatar": "https://pbs.twimg.com/profile_images/1821554036052492288/6n36atOp_normal.jpg",
-            "followers_count": 1111,
+            "followers_count": 1229,
             "blue_verified": true
           },
           "media": {
@@ -90,18 +621,18 @@
       },
       {
         "tweet_id": "2097078858826580400",
-        "bookmarks": 618,
+        "bookmarks": 956,
         "created_at": "Mon Sep 07 21:45:36 +0000 2026",
-        "favorites": 7605,
+        "favorites": 11091,
         "text": "🤔",
         "lang": "art",
         "sensitive": null,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-        "views": "1000937",
-        "quotes": 110,
+        "views": "1434942",
+        "quotes": 161,
         "entities": [],
-        "replies": 1196,
-        "retweets": 1640,
+        "replies": 1496,
+        "retweets": 2577,
         "conversation_id": "2097078858826580400",
         "media": [],
         "author": {
@@ -109,28 +640,28 @@
           "name": "Elon Musk",
           "screen_name": "elonmusk",
           "avatar": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
-          "followers_count": 241600664,
+          "followers_count": 241600458,
           "blue_verified": true
         },
         "quoted": {
           "tweet_id": "2096941238930878676",
-          "bookmarks": 218,
+          "bookmarks": 312,
           "created_at": "Mon Sep 07 12:38:45 +0000 2026",
-          "favorites": 901,
+          "favorites": 1277,
           "text": "Concerning https://t.co/7m4zyQv5cU",
           "lang": "en",
-          "views": "657606",
+          "views": "1101700",
           "sensitive": false,
-          "quotes": 67,
-          "replies": 169,
-          "retweets": 223,
+          "quotes": 92,
+          "replies": 234,
+          "retweets": 331,
           "conversation_id": "2096941238930878676",
           "author": {
             "rest_id": "1874492187070615552",
             "name": "Brivael Le Pogam",
             "screen_name": "brivael",
             "avatar": "https://pbs.twimg.com/profile_images/2057241969403834368/PFPm3cxd_normal.jpg",
-            "followers_count": 162577,
+            "followers_count": 162611,
             "blue_verified": true
           },
           "media": {
@@ -156,7 +687,7 @@
         "lang": "en",
         "sensitive": null,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-        "views": "346258",
+        "views": "379017",
         "quotes": 0,
         "entities": {
           "user_mentions": [
@@ -168,7 +699,7 @@
           ]
         },
         "replies": 0,
-        "retweets": 952,
+        "retweets": 1155,
         "conversation_id": "2097078662398988338",
         "media": [],
         "author": {
@@ -176,7 +707,7 @@
           "name": "Elon Musk",
           "screen_name": "elonmusk",
           "avatar": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
-          "followers_count": 241600664,
+          "followers_count": 241600458,
           "blue_verified": true
         },
         "retweeted": {
@@ -184,37 +715,37 @@
         },
         "retweeted_tweet": {
           "tweet_id": "2096950823443980490",
-          "bookmarks": 197,
+          "bookmarks": 235,
           "created_at": "Mon Sep 07 13:16:50 +0000 2026",
-          "favorites": 8193,
+          "favorites": 9516,
           "text": "Common sense is now considered “Far Right”",
           "lang": "en",
           "sensitive": null,
-          "views": "387981",
-          "quotes": 33,
+          "views": "486605",
+          "quotes": 42,
           "entities": [],
-          "replies": 236,
-          "retweets": 951,
+          "replies": 264,
+          "retweets": 1155,
           "conversation_id": "2096950823443980490",
           "quoted": {
             "tweet_id": "2096752401961160863",
-            "bookmarks": 84,
+            "bookmarks": 94,
             "created_at": "Mon Sep 07 00:08:23 +0000 2026",
-            "favorites": 2354,
+            "favorites": 2511,
             "text": "What the Legacy Media calls the “Right” and “Far Right”.\n\nThe vast majority of normal people... https://t.co/u6ruhHlmU1",
             "lang": "en",
-            "views": "448668",
+            "views": "560778",
             "sensitive": false,
-            "quotes": 25,
-            "replies": 68,
-            "retweets": 408,
+            "quotes": 29,
+            "replies": 72,
+            "retweets": 444,
             "conversation_id": "2096752401961160863",
             "author": {
               "rest_id": "2327400218",
               "name": "C3",
               "screen_name": "C_3C_3",
               "avatar": "https://pbs.twimg.com/profile_images/945294827742224385/2g_sshAu_normal.jpg",
-              "followers_count": 345508,
+              "followers_count": 345514,
               "blue_verified": true
             },
             "media": {
@@ -249,7 +780,7 @@
         "lang": "en",
         "sensitive": null,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-        "views": "437379",
+        "views": "463738",
         "quotes": 0,
         "entities": {
           "user_mentions": [
@@ -261,7 +792,7 @@
           ]
         },
         "replies": 0,
-        "retweets": 524,
+        "retweets": 596,
         "conversation_id": "2097066811686572527",
         "media": [],
         "author": {
@@ -269,7 +800,7 @@
           "name": "Elon Musk",
           "screen_name": "elonmusk",
           "avatar": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
-          "followers_count": 241600664,
+          "followers_count": 241600458,
           "blue_verified": true
         },
         "retweeted": {
@@ -277,14 +808,14 @@
         },
         "retweeted_tweet": {
           "tweet_id": "2097063090240328026",
-          "bookmarks": 93,
+          "bookmarks": 110,
           "created_at": "Mon Sep 07 20:42:56 +0000 2026",
-          "favorites": 3336,
+          "favorites": 3732,
           "text": "Elon Musk is right to call this out.\n\nHe said calling people Nazis for centrist views insults those who suffered and died under the real Nazis. Those abusing it should be condemned.\n\nCalling people Nazis just because they hold views you oppose disrespects history and its victims. https://t.co/q3KPezmofh",
           "lang": "en",
           "sensitive": false,
-          "views": "235024",
-          "quotes": 39,
+          "views": "270085",
+          "quotes": 44,
           "entities": {
             "media": [
               {
@@ -382,8 +913,8 @@
               }
             ]
           },
-          "replies": 325,
-          "retweets": 524,
+          "replies": 368,
+          "retweets": 596,
           "conversation_id": "2097063090240328026",
           "author": {
             "rest_id": "1389913567671975937",
@@ -415,7 +946,7 @@
         "lang": "en",
         "sensitive": null,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-        "views": "365067",
+        "views": "388656",
         "quotes": 0,
         "entities": {
           "user_mentions": [
@@ -427,7 +958,7 @@
           ]
         },
         "replies": 0,
-        "retweets": 195,
+        "retweets": 210,
         "conversation_id": "2097066767541538992",
         "media": [],
         "author": {
@@ -435,7 +966,7 @@
           "name": "Elon Musk",
           "screen_name": "elonmusk",
           "avatar": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
-          "followers_count": 241600664,
+          "followers_count": 241600458,
           "blue_verified": true
         },
         "retweeted": {
@@ -443,14 +974,14 @@
         },
         "retweeted_tweet": {
           "tweet_id": "2097036769577644353",
-          "bookmarks": 33,
+          "bookmarks": 37,
           "created_at": "Mon Sep 07 18:58:21 +0000 2026",
-          "favorites": 1913,
+          "favorites": 2105,
           "text": "Starlink is now delivering fast, reliable connectivity onboard Austrian Airlines so passengers can stream, scroll, and surf effortlessly from 30,000 feet 🛰️✈️ https://t.co/oRKdD5ItF2",
           "lang": "en",
           "sensitive": false,
-          "views": "221740",
-          "quotes": 25,
+          "views": "254421",
+          "quotes": 29,
           "entities": {
             "media": [
               {
@@ -647,8 +1178,8 @@
               }
             ]
           },
-          "replies": 129,
-          "retweets": 195,
+          "replies": 139,
+          "retweets": 210,
           "conversation_id": "2097036769577644353",
           "author": {
             "rest_id": "1330170106501079041",
@@ -688,7 +1219,7 @@
         "lang": "en",
         "sensitive": false,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-        "views": "386260",
+        "views": "409470",
         "quotes": 0,
         "entities": {
           "user_mentions": [
@@ -700,7 +1231,7 @@
           ]
         },
         "replies": 0,
-        "retweets": 242,
+        "retweets": 257,
         "conversation_id": "2097066290242359375",
         "media": {
           "photo": [
@@ -719,7 +1250,7 @@
           "name": "Elon Musk",
           "screen_name": "elonmusk",
           "avatar": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
-          "followers_count": 241600664,
+          "followers_count": 241600458,
           "blue_verified": true
         },
         "retweeted": {
@@ -727,14 +1258,14 @@
         },
         "retweeted_tweet": {
           "tweet_id": "2096904542038495664",
-          "bookmarks": 151,
+          "bookmarks": 161,
           "created_at": "Mon Sep 07 10:12:56 +0000 2026",
-          "favorites": 2297,
+          "favorites": 2477,
           "text": "When Elon Musk visited Palazzo Vecchio in Florence in 2021 🇮🇹 https://t.co/ITNpBFr60M",
           "lang": "en",
           "sensitive": false,
-          "views": "252103",
-          "quotes": 24,
+          "views": "290212",
+          "quotes": 25,
           "entities": {
             "media": [
               {
@@ -884,8 +1415,8 @@
               }
             ]
           },
-          "replies": 178,
-          "retweets": 242,
+          "replies": 182,
+          "retweets": 257,
           "conversation_id": "2096904542038495664",
           "author": {
             "rest_id": "1389913567671975937",
@@ -910,18 +1441,18 @@
       },
       {
         "tweet_id": "2097066172780831194",
-        "bookmarks": 122,
+        "bookmarks": 150,
         "created_at": "Mon Sep 07 20:55:11 +0000 2026",
-        "favorites": 7347,
+        "favorites": 8901,
         "text": "FSD Supervised approved in Slovenia 🇸🇮",
         "lang": "en",
         "sensitive": null,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-        "views": "1093325",
-        "quotes": 57,
+        "views": "1388137",
+        "quotes": 68,
         "entities": [],
-        "replies": 654,
-        "retweets": 784,
+        "replies": 697,
+        "retweets": 942,
         "conversation_id": "2097066172780831194",
         "media": [],
         "author": {
@@ -929,28 +1460,28 @@
           "name": "Elon Musk",
           "screen_name": "elonmusk",
           "avatar": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
-          "followers_count": 241600664,
+          "followers_count": 241600458,
           "blue_verified": true
         },
         "quoted": {
           "tweet_id": "2097007168939593780",
-          "bookmarks": 220,
+          "bookmarks": 234,
           "created_at": "Mon Sep 07 17:00:44 +0000 2026",
-          "favorites": 8570,
+          "favorites": 8807,
           "text": "FSD Supervised now approved in Slovenia 🇸🇮\n\nRollout will begin soon https://t.co/bxSCKjMCY4",
           "lang": "en",
-          "views": "1339125",
+          "views": "1664661",
           "sensitive": false,
-          "quotes": 380,
-          "replies": 382,
-          "retweets": 1034,
+          "quotes": 403,
+          "replies": 388,
+          "retweets": 1067,
           "conversation_id": "2097007168939593780",
           "author": {
             "rest_id": "1620480811303866369",
             "name": "Tesla Europe, Middle East & Africa",
             "screen_name": "teslaeurope",
             "avatar": "https://pbs.twimg.com/profile_images/1620537591048163332/GSPAsKC5_normal.jpg",
-            "followers_count": 177996,
+            "followers_count": 178019,
             "blue_verified": true
           },
           "media": {
@@ -969,18 +1500,18 @@
       },
       {
         "tweet_id": "2097036344165818834",
-        "bookmarks": 469,
+        "bookmarks": 522,
         "created_at": "Mon Sep 07 18:56:40 +0000 2026",
-        "favorites": 18456,
+        "favorites": 20439,
         "text": "The truth shall set you free",
         "lang": "en",
         "sensitive": null,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-        "views": "2020242",
-        "quotes": 180,
+        "views": "2320312",
+        "quotes": 192,
         "entities": [],
-        "replies": 1818,
-        "retweets": 2726,
+        "replies": 1901,
+        "retweets": 3034,
         "conversation_id": "2097036344165818834",
         "media": [],
         "author": {
@@ -988,28 +1519,28 @@
           "name": "Elon Musk",
           "screen_name": "elonmusk",
           "avatar": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
-          "followers_count": 241600664,
+          "followers_count": 241600458,
           "blue_verified": true
         },
         "quoted": {
           "tweet_id": "2097032041984319970",
-          "bookmarks": 195,
+          "bookmarks": 214,
           "created_at": "Mon Sep 07 18:39:34 +0000 2026",
-          "favorites": 5481,
+          "favorites": 6123,
           "text": "Before @ElonMusk bought Twitter, you couldn't notice that foreigners committed most of the group rapes in Germany, despite being just 15% of the population. By lifting censorship, says @Pauline__Voss, Musk unleashed a “vibe shift” that led to @AfD's historic victory. https://t.co/YNbOk7xZ5H",
           "lang": "en",
-          "views": "1709573",
+          "views": "2020248",
           "sensitive": false,
-          "quotes": 51,
-          "replies": 133,
-          "retweets": 793,
+          "quotes": 54,
+          "replies": 145,
+          "retweets": 885,
           "conversation_id": "2097032041984319970",
           "author": {
             "rest_id": "2474749586",
             "name": "Michael Shellenberger",
             "screen_name": "shellenberger",
             "avatar": "https://pbs.twimg.com/profile_images/1854404312174141443/VlpFKk9m_normal.jpg",
-            "followers_count": 1404541,
+            "followers_count": 1404564,
             "blue_verified": true
           },
           "media": {
@@ -1028,18 +1559,18 @@
       },
       {
         "tweet_id": "2097007158156034352",
-        "bookmarks": 620,
+        "bookmarks": 677,
         "created_at": "Mon Sep 07 17:00:41 +0000 2026",
-        "favorites": 27782,
+        "favorites": 29458,
         "text": "That is correct",
         "lang": "en",
         "sensitive": null,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-        "views": "3286327",
-        "quotes": 97,
+        "views": "3623581",
+        "quotes": 103,
         "entities": [],
-        "replies": 1433,
-        "retweets": 2249,
+        "replies": 1471,
+        "retweets": 2366,
         "conversation_id": "2097007158156034352",
         "media": [],
         "author": {
@@ -1047,28 +1578,28 @@
           "name": "Elon Musk",
           "screen_name": "elonmusk",
           "avatar": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
-          "followers_count": 241600664,
+          "followers_count": 241600458,
           "blue_verified": true
         },
         "quoted": {
           "tweet_id": "2096970248415019419",
-          "bookmarks": 247,
+          "bookmarks": 262,
           "created_at": "Mon Sep 07 14:34:01 +0000 2026",
-          "favorites": 4940,
+          "favorites": 5155,
           "text": "The \"far right\" party is headed by a lesbian feminist with a wife from Sri Lanka?",
           "lang": "en",
-          "views": "3265861",
+          "views": "3653067",
           "sensitive": null,
-          "quotes": 84,
-          "replies": 379,
-          "retweets": 469,
+          "quotes": 94,
+          "replies": 394,
+          "retweets": 479,
           "conversation_id": "2096970248415019419",
           "author": {
             "rest_id": "1011008340367953920",
             "name": "Wilfred Reilly",
             "screen_name": "wil_da_beast630",
             "avatar": "https://pbs.twimg.com/profile_images/1669495664634482689/Ea9al1JC_normal.jpg",
-            "followers_count": 181981,
+            "followers_count": 181989,
             "blue_verified": true
           },
           "media": []
@@ -1083,7 +1614,7 @@
         "lang": "en",
         "sensitive": null,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-        "views": "533290",
+        "views": "544654",
         "quotes": 0,
         "entities": {
           "user_mentions": [
@@ -1095,7 +1626,7 @@
           ]
         },
         "replies": 0,
-        "retweets": 1126,
+        "retweets": 1171,
         "conversation_id": "2097006107231162795",
         "media": [],
         "author": {
@@ -1103,7 +1634,7 @@
           "name": "Elon Musk",
           "screen_name": "elonmusk",
           "avatar": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
-          "followers_count": 241600664,
+          "followers_count": 241600458,
           "blue_verified": true
         },
         "retweeted": {
@@ -1111,14 +1642,14 @@
         },
         "retweeted_tweet": {
           "tweet_id": "2096885801640718423",
-          "bookmarks": 446,
+          "bookmarks": 464,
           "created_at": "Mon Sep 07 08:58:28 +0000 2026",
-          "favorites": 8068,
+          "favorites": 8368,
           "text": "“The obsession with truth is why I studied physics, because physics attempts to understand the truth of the universe.”\n\n— Elon Musk https://t.co/5U5Xk0PAZh",
           "lang": "en",
           "sensitive": false,
-          "views": "378313",
-          "quotes": 115,
+          "views": "392857",
+          "quotes": 119,
           "entities": {
             "media": [
               {
@@ -1244,8 +1775,8 @@
               }
             ]
           },
-          "replies": 784,
-          "retweets": 1126,
+          "replies": 807,
+          "retweets": 1171,
           "conversation_id": "2096885801640718423",
           "author": {
             "rest_id": "1389913567671975937",
@@ -1270,18 +1801,18 @@
       },
       {
         "tweet_id": "2097005896802984375",
-        "bookmarks": 207,
+        "bookmarks": 221,
         "created_at": "Mon Sep 07 16:55:40 +0000 2026",
-        "favorites": 11619,
+        "favorites": 12239,
         "text": "Cool 🇦🇹",
         "lang": "en",
         "sensitive": null,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-        "views": "3063513",
-        "quotes": 50,
+        "views": "3385252",
+        "quotes": 54,
         "entities": [],
-        "replies": 839,
-        "retweets": 1029,
+        "replies": 869,
+        "retweets": 1104,
         "conversation_id": "2097005896802984375",
         "media": [],
         "author": {
@@ -1289,28 +1820,28 @@
           "name": "Elon Musk",
           "screen_name": "elonmusk",
           "avatar": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
-          "followers_count": 241600664,
+          "followers_count": 241600458,
           "blue_verified": true
         },
         "quoted": {
           "tweet_id": "2096936861411516634",
-          "bookmarks": 61,
+          "bookmarks": 64,
           "created_at": "Mon Sep 07 12:21:21 +0000 2026",
-          "favorites": 2112,
+          "favorites": 2179,
           "text": "BREAKING: Starlink is now officially live on Austrian Airlines. 🇦🇹\n\nCEO Annette Mann boarded the aircraft to mark Austrian Airlines’ first Starlink-enabled flight from Vienna to Porto today. https://t.co/3B3IBOLQU7",
           "lang": "en",
-          "views": "2712902",
+          "views": "2996730",
           "sensitive": false,
-          "quotes": 46,
-          "replies": 155,
-          "retweets": 226,
+          "quotes": 50,
+          "replies": 158,
+          "retweets": 240,
           "conversation_id": "2096936861411516634",
           "author": {
             "rest_id": "1389913567671975937",
             "name": "DogeDesigner",
             "screen_name": "cb_doge",
             "avatar": "https://pbs.twimg.com/profile_images/1498070100393754625/C2V-fbll_normal.jpg",
-            "followers_count": 1900188,
+            "followers_count": 1900214,
             "blue_verified": true
           },
           "media": {
@@ -1329,18 +1860,18 @@
       },
       {
         "tweet_id": "2096844931520225342",
-        "bookmarks": 1405,
+        "bookmarks": 1420,
         "created_at": "Mon Sep 07 06:16:03 +0000 2026",
-        "favorites": 10163,
+        "favorites": 10255,
         "text": "Illuminating",
         "lang": "en",
         "sensitive": null,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-        "views": "5683550",
-        "quotes": 94,
+        "views": "5809336",
+        "quotes": 95,
         "entities": [],
-        "replies": 1229,
-        "retweets": 1716,
+        "replies": 1233,
+        "retweets": 1745,
         "conversation_id": "2096844931520225342",
         "media": [],
         "author": {
@@ -1348,28 +1879,28 @@
           "name": "Elon Musk",
           "screen_name": "elonmusk",
           "avatar": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
-          "followers_count": 241600664,
+          "followers_count": 241600458,
           "blue_verified": true
         },
         "quoted": {
           "tweet_id": "2096588222373515719",
-          "bookmarks": 2410,
+          "bookmarks": 2430,
           "created_at": "Sun Sep 06 13:15:59 +0000 2026",
-          "favorites": 4543,
+          "favorites": 4561,
           "text": "Now the Third Man – Rudi Dutschke – The Man Who Gave the Long March Its Name.\n\nGramsci invented the strategy. Dutschke named it – and then went out and implemented it, in the streets of West Berlin, in 1968, with a generation of students who had read Gramsci and were ready to https://t.co/XsphjatdcS",
           "lang": "en",
-          "views": "5642732",
+          "views": "5771314",
           "sensitive": false,
-          "quotes": 169,
-          "replies": 243,
-          "retweets": 1352,
+          "quotes": 170,
+          "replies": 245,
+          "retweets": 1357,
           "conversation_id": "2096588222373515719",
           "author": {
             "rest_id": "1222848324040056832",
             "name": "Krzysztof Szczawinski 🇵🇱",
             "screen_name": "Kristof_Poland",
             "avatar": "https://pbs.twimg.com/profile_images/2075970604507807744/LegRtTIm_normal.jpg",
-            "followers_count": 97236,
+            "followers_count": 97266,
             "blue_verified": true
           },
           "media": {
@@ -1395,7 +1926,7 @@
         "lang": "en",
         "sensitive": null,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-        "views": "630986",
+        "views": "635136",
         "quotes": 0,
         "entities": {
           "user_mentions": [
@@ -1412,7 +1943,7 @@
           ]
         },
         "replies": 0,
-        "retweets": 211,
+        "retweets": 213,
         "conversation_id": "2096840303298662600",
         "media": [],
         "author": {
@@ -1420,7 +1951,7 @@
           "name": "Elon Musk",
           "screen_name": "elonmusk",
           "avatar": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
-          "followers_count": 241600664,
+          "followers_count": 241600458,
           "blue_verified": true
         },
         "retweeted": {
@@ -1430,11 +1961,11 @@
           "tweet_id": "2096786161981366338",
           "bookmarks": 179,
           "created_at": "Mon Sep 07 02:22:32 +0000 2026",
-          "favorites": 2866,
+          "favorites": 2887,
           "text": "the Grok @Bot desktop app just got a whole lot faster! there's still more to improve, but we shipped many perf improvements over the past week:\n\n• cold start to usable shell: -247ms (18% faster).\n• cold start LCP: -425ms (23% faster).\n• cold start FCP: -234ms (16% faster). \n• total blocking time to the shell: -101 ms (34% faster).\n• warm restart to shell: -194 ms (18% faster).\n• marketplace bots tab first open: -18ms (41% faster).\n\nother stats that are unchanged:\n• INP p98: 48 ms to 56 ms. \n• composer keystroke to next frame: 8.4 to 8.5 ms.\n• chat switching: 64 to 77 ms short chat first visit, 66 to 68 ms long chat, revisits equal.\n• long chat scroll: zero long tasks.\n\nenjoy the long weekend building with Grok @Bot!",
           "lang": "en",
           "sensitive": null,
-          "views": "526438",
+          "views": "531809",
           "quotes": 30,
           "entities": {
             "user_mentions": [
@@ -1449,8 +1980,8 @@
               }
             ]
           },
-          "replies": 216,
-          "retweets": 211,
+          "replies": 217,
+          "retweets": 213,
           "conversation_id": "2096786161981366338",
           "author": {
             "rest_id": "2832427459",
@@ -1471,7 +2002,7 @@
         "lang": "de",
         "sensitive": null,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-        "views": "677185",
+        "views": "680081",
         "quotes": 0,
         "entities": {
           "user_mentions": [
@@ -1483,7 +2014,7 @@
           ]
         },
         "replies": 0,
-        "retweets": 3418,
+        "retweets": 3425,
         "conversation_id": "2096743636826300768",
         "media": [],
         "author": {
@@ -1491,7 +2022,7 @@
           "name": "Elon Musk",
           "screen_name": "elonmusk",
           "avatar": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
-          "followers_count": 241600664,
+          "followers_count": 241600458,
           "blue_verified": true
         },
         "retweeted": {
@@ -1501,11 +2032,11 @@
           "tweet_id": "2096708532682780701",
           "bookmarks": 283,
           "created_at": "Sun Sep 06 21:14:03 +0000 2026",
-          "favorites": 23023,
+          "favorites": 23056,
           "text": "Sachsen-Anhalt hat gesprochen: Die AfD ist mit 44,2% mehr als doppelt so stark wie die CDU und hat einen Regierungsauftrag erhalten. Gratulation an Ulrich Siegmund und die AfD Sachsen-Anhalt! https://t.co/MgRc4fgm7R",
           "lang": "de",
           "sensitive": false,
-          "views": "985922",
+          "views": "991204",
           "quotes": 211,
           "entities": {
             "media": [
@@ -1607,8 +2138,8 @@
               }
             ]
           },
-          "replies": 1086,
-          "retweets": 3418,
+          "replies": 1088,
+          "retweets": 3425,
           "conversation_id": "2096708532682780701",
           "author": {
             "rest_id": "833398209053605888",
@@ -1640,7 +2171,7 @@
         "lang": "en",
         "sensitive": null,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-        "views": "550765",
+        "views": "553455",
         "quotes": 0,
         "entities": {
           "user_mentions": [
@@ -1652,7 +2183,7 @@
           ]
         },
         "replies": 0,
-        "retweets": 929,
+        "retweets": 935,
         "conversation_id": "2096742916093808849",
         "media": [],
         "author": {
@@ -1660,7 +2191,7 @@
           "name": "Elon Musk",
           "screen_name": "elonmusk",
           "avatar": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
-          "followers_count": 241600664,
+          "followers_count": 241600458,
           "blue_verified": true
         },
         "retweeted": {
@@ -1668,17 +2199,17 @@
         },
         "retweeted_tweet": {
           "tweet_id": "2096687835994816960",
-          "bookmarks": 663,
+          "bookmarks": 667,
           "created_at": "Sun Sep 06 19:51:49 +0000 2026",
-          "favorites": 9404,
+          "favorites": 9453,
           "text": "This is the first time in Earth’s history that the path is visible: cure cancer, slash traffic deaths, give anyone high agency no matter their body — and reach the stars — by scaling compute and energy.\n\nDon’t squander it.",
           "lang": "en",
           "sensitive": null,
-          "views": "625766",
+          "views": "629977",
           "quotes": 84,
           "entities": [],
-          "replies": 317,
-          "retweets": 929,
+          "replies": 318,
+          "retweets": 935,
           "conversation_id": "2096687835994816960",
           "author": {
             "rest_id": "1577705091737432070",
@@ -1692,18 +2223,18 @@
       },
       {
         "tweet_id": "2096740506231259145",
-        "bookmarks": 1419,
+        "bookmarks": 1429,
         "created_at": "Sun Sep 06 23:21:06 +0000 2026",
-        "favorites": 83070,
+        "favorites": 84026,
         "text": "They never do, because the legacy media IS far left! That is why they view normalcy as the far right.",
         "lang": "en",
         "sensitive": null,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-        "views": "6954799",
-        "quotes": 421,
+        "views": "7025596",
+        "quotes": 428,
         "entities": [],
-        "replies": 2899,
-        "retweets": 11339,
+        "replies": 2930,
+        "retweets": 11505,
         "conversation_id": "2096740506231259145",
         "media": [],
         "author": {
@@ -1711,357 +2242,36 @@
           "name": "Elon Musk",
           "screen_name": "elonmusk",
           "avatar": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
-          "followers_count": 241600664,
+          "followers_count": 241600458,
           "blue_verified": true
         },
         "quoted": {
           "tweet_id": "2096676820003246447",
-          "bookmarks": 168,
+          "bookmarks": 170,
           "created_at": "Sun Sep 06 19:08:02 +0000 2026",
-          "favorites": 14030,
+          "favorites": 14128,
           "text": "Does the legacy media *ever* use the term “far left”?",
           "lang": "en",
-          "views": "7431814",
+          "views": "7501637",
           "sensitive": null,
           "quotes": 81,
-          "replies": 617,
-          "retweets": 1399,
+          "replies": 624,
+          "retweets": 1417,
           "conversation_id": "2096676820003246447",
           "author": {
             "rest_id": "1551266822460162051",
             "name": "Mike Lee",
             "screen_name": "BasedMikeLee",
             "avatar": "https://pbs.twimg.com/profile_images/1888964527821139968/A047e0lQ_normal.jpg",
-            "followers_count": 704188,
-            "blue_verified": true
-          },
-          "media": []
-        }
-      },
-      {
-        "tweet_id": "2096740171886501974",
-        "bookmarks": 374,
-        "created_at": "Sun Sep 06 23:19:47 +0000 2026",
-        "favorites": 9384,
-        "text": "The frequently-stated rebuttal is that these are isolated incidents, but even a cursory review of actual statistics proves that these are in fact common!",
-        "lang": "en",
-        "sensitive": null,
-        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-        "views": "1658448",
-        "quotes": 87,
-        "entities": [],
-        "replies": 762,
-        "retweets": 1684,
-        "conversation_id": "2096740171886501974",
-        "media": [],
-        "author": {
-          "rest_id": "44196397",
-          "name": "Elon Musk",
-          "screen_name": "elonmusk",
-          "avatar": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
-          "followers_count": 241600664,
-          "blue_verified": true
-        },
-        "quoted": {
-          "tweet_id": "2096673133650411563",
-          "bookmarks": 3268,
-          "created_at": "Sun Sep 06 18:53:24 +0000 2026",
-          "favorites": 37769,
-          "text": "All it takes to be called \"far-right\" by BBC is to oppose this https://t.co/T3vvCpL97M",
-          "lang": "en",
-          "views": "2171924",
-          "sensitive": false,
-          "quotes": 273,
-          "replies": 747,
-          "retweets": 6043,
-          "conversation_id": "2096673133650411563",
-          "author": {
-            "rest_id": "1552795969959636992",
-            "name": "End Wokeness",
-            "screen_name": "EndWokeness",
-            "avatar": "https://pbs.twimg.com/profile_images/1563691268793946117/OedvhFeS_normal.jpg",
-            "followers_count": 3913299,
-            "blue_verified": true
-          },
-          "media": {
-            "video": [
-              {
-                "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2096670057363550208/img/X4FFDUXdzujXVauh.jpg",
-                "variants": [
-                  {
-                    "content_type": "application/x-mpegURL",
-                    "url": "https://video.twimg.com/amplify_video/2096670057363550208/pl/tDXIIJ5YQKjCOLzz.m3u8?tag=29&v=cfc"
-                  },
-                  {
-                    "bitrate": 632000,
-                    "content_type": "video/mp4",
-                    "url": "https://video.twimg.com/amplify_video/2096670057363550208/vid/avc1/320x388/vTqBDDipGOU7tkOo.mp4?tag=29"
-                  },
-                  {
-                    "bitrate": 950000,
-                    "content_type": "video/mp4",
-                    "url": "https://video.twimg.com/amplify_video/2096670057363550208/vid/avc1/480x584/m4xT2--b2kfe-gdb.mp4?tag=29"
-                  },
-                  {
-                    "bitrate": 2176000,
-                    "content_type": "video/mp4",
-                    "url": "https://video.twimg.com/amplify_video/2096670057363550208/vid/avc1/720x876/ChBtbiGsD_oL1tyk.mp4?tag=29"
-                  },
-                  {
-                    "bitrate": 10368000,
-                    "content_type": "video/mp4",
-                    "url": "https://video.twimg.com/amplify_video/2096670057363550208/vid/avc1/1080x1314/Di-nFmjmHK2xFvvF.mp4?tag=29"
-                  }
-                ],
-                "aspect_ratio": [
-                  60,
-                  73
-                ],
-                "duration": 26133,
-                "original_info": {
-                  "focus_rects": [],
-                  "height": 1314,
-                  "width": 1080
-                },
-                "id": "2096670057363550208"
-              }
-            ]
-          }
-        }
-      },
-      {
-        "tweet_id": "2096739388709351779",
-        "bookmarks": 1016,
-        "created_at": "Sun Sep 06 23:16:40 +0000 2026",
-        "favorites": 16387,
-        "text": "This is a testable hypothesis",
-        "lang": "en",
-        "sensitive": null,
-        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-        "views": "4690891",
-        "quotes": 111,
-        "entities": [],
-        "replies": 1410,
-        "retweets": 1886,
-        "conversation_id": "2096739388709351779",
-        "media": [],
-        "author": {
-          "rest_id": "44196397",
-          "name": "Elon Musk",
-          "screen_name": "elonmusk",
-          "avatar": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
-          "followers_count": 241600664,
-          "blue_verified": true
-        },
-        "quoted": {
-          "tweet_id": "2096678886482554933",
-          "bookmarks": 3446,
-          "created_at": "Sun Sep 06 19:16:15 +0000 2026",
-          "favorites": 18227,
-          "text": "“people wouldn’t commit crimes if they could just afford food” \n\nthey would, actually. \n\nFinland studied this by giving people UBI, and it had precisely zero impact on crime https://t.co/aSAXXuFuzb",
-          "lang": "en",
-          "views": "5022186",
-          "sensitive": false,
-          "quotes": 146,
-          "replies": 378,
-          "retweets": 2838,
-          "conversation_id": "2096678886482554933",
-          "author": {
-            "rest_id": "1317327383628705793",
-            "name": "Arthur MacWaters",
-            "screen_name": "ArthurMacwaters",
-            "avatar": "https://pbs.twimg.com/profile_images/1921033752140279808/TgndOxdb_normal.jpg",
-            "followers_count": 92183,
-            "blue_verified": true
-          },
-          "media": {
-            "photo": [
-              {
-                "media_url_https": "https://pbs.twimg.com/media/HRjmVMxbIAAlWCb.jpg",
-                "id": "2096678878421131264",
-                "sizes": {
-                  "h": 621,
-                  "w": 1200
-                }
-              }
-            ]
-          }
-        }
-      },
-      {
-        "tweet_id": "2096731105323884907",
-        "bookmarks": 0,
-        "created_at": "Sun Sep 06 22:43:45 +0000 2026",
-        "favorites": 0,
-        "text": "RT @DavidMoss: https://t.co/8fBTfqb9zI",
-        "lang": "zxx",
-        "sensitive": false,
-        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-        "views": "634324",
-        "quotes": 0,
-        "entities": {
-          "urls": [
-            {
-              "display_url": "x.com/i/trending/209…",
-              "expanded_url": "https://x.com/i/trending/2096647841427161215",
-              "url": "https://t.co/8fBTfqb9zI"
-            }
-          ],
-          "user_mentions": [
-            {
-              "id_str": "3242789936",
-              "name": "David Moss",
-              "screen_name": "DavidMoss"
-            }
-          ]
-        },
-        "replies": 0,
-        "retweets": 294,
-        "conversation_id": "2096731105323884907",
-        "media": [],
-        "author": {
-          "rest_id": "44196397",
-          "name": "Elon Musk",
-          "screen_name": "elonmusk",
-          "avatar": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
-          "followers_count": 241600664,
-          "blue_verified": true
-        },
-        "retweeted": {
-          "id": "2096695276035621272"
-        },
-        "retweeted_tweet": {
-          "tweet_id": "2096695276035621272",
-          "bookmarks": 71,
-          "created_at": "Sun Sep 06 20:21:23 +0000 2026",
-          "favorites": 2336,
-          "text": "https://t.co/8fBTfqb9zI",
-          "lang": "zxx",
-          "sensitive": false,
-          "views": "471707",
-          "quotes": 17,
-          "entities": {
-            "urls": [
-              {
-                "display_url": "x.com/i/trending/209…",
-                "expanded_url": "https://x.com/i/trending/2096647841427161215",
-                "indices": [
-                  0,
-                  23
-                ],
-                "url": "https://t.co/8fBTfqb9zI"
-              }
-            ]
-          },
-          "replies": 120,
-          "retweets": 294,
-          "conversation_id": "2096695276035621272",
-          "author": {
-            "rest_id": "3242789936",
-            "name": "David Moss",
-            "screen_name": "DavidMoss",
-            "avatar": "https://pbs.twimg.com/profile_images/1952562748203945984/Yu7o-PMk_normal.jpg",
-            "blue_verified": true
-          },
-          "media": []
-        }
-      },
-      {
-        "tweet_id": "2096661657820778600",
-        "bookmarks": 0,
-        "created_at": "Sun Sep 06 18:07:47 +0000 2026",
-        "favorites": 0,
-        "text": "RT @shellenberger: No country did more to make the case for free speech over the last 300 years than Britain. And yet it has made over 62,0…",
-        "lang": "en",
-        "sensitive": null,
-        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-        "views": "726195",
-        "quotes": 0,
-        "entities": {
-          "user_mentions": [
-            {
-              "id_str": "2474749586",
-              "name": "Michael Shellenberger",
-              "screen_name": "shellenberger"
-            }
-          ]
-        },
-        "replies": 0,
-        "retweets": 3966,
-        "conversation_id": "2096661657820778600",
-        "media": [],
-        "author": {
-          "rest_id": "44196397",
-          "name": "Elon Musk",
-          "screen_name": "elonmusk",
-          "avatar": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
-          "followers_count": 241600664,
-          "blue_verified": true
-        },
-        "retweeted": {
-          "id": "2096629817529483393"
-        },
-        "retweeted_tweet": {
-          "tweet_id": "2096629817529483393",
-          "bookmarks": 778,
-          "created_at": "Sun Sep 06 16:01:16 +0000 2026",
-          "favorites": 15286,
-          "text": "No country did more to make the case for free speech over the last 300 years than Britain. And yet it has made over 62,000 arrests over the last five years for \"communications offences,\" which have included doing nothing more than watching a TikTok video. It's terrifying just how totalitarian the UK has become.",
-          "lang": "en",
-          "sensitive": null,
-          "views": "1046812",
-          "quotes": 105,
-          "entities": [],
-          "replies": 432,
-          "retweets": 3966,
-          "conversation_id": "2096629817529483393",
-          "quoted": {
-            "tweet_id": "2096586064513077492",
-            "bookmarks": 204,
-            "created_at": "Sun Sep 06 13:07:25 +0000 2026",
-            "favorites": 2634,
-            "text": "🚨 NEWS: Our groundbreaking new investigation into the scale of Britain’s free speech crisis is front page of the Mail on Sunday today.\n\nTime for @andyburnham to listen - we want a free speech reset.\n\nI’ve written to him today calling for an urgent review into our laws on speech https://t.co/pXs8NNStLb",
-            "lang": "en",
-            "views": "1293844",
-            "sensitive": false,
-            "quotes": 48,
-            "replies": 101,
-            "retweets": 729,
-            "conversation_id": "2096586064513077492",
-            "author": {
-              "rest_id": "390288192",
-              "name": "Silkie Carlo",
-              "screen_name": "silkiecarlo",
-              "avatar": "https://pbs.twimg.com/profile_images/963799947454885888/Ny1W2ERr_normal.jpg",
-              "followers_count": 58093,
-              "blue_verified": false
-            },
-            "media": {
-              "photo": [
-                {
-                  "media_url_https": "https://pbs.twimg.com/media/HRiR52gbwAA4TbR.jpg",
-                  "id": "2096586049611087872",
-                  "sizes": {
-                    "h": 1200,
-                    "w": 949
-                  }
-                }
-              ]
-            }
-          },
-          "author": {
-            "rest_id": "2474749586",
-            "name": "Michael Shellenberger",
-            "screen_name": "shellenberger",
-            "avatar": "https://pbs.twimg.com/profile_images/1854404312174141443/VlpFKk9m_normal.jpg",
+            "followers_count": 704179,
             "blue_verified": true
           },
           "media": []
         }
       }
     ],
-    "next_cursor": "DAAHCgABHRpjQVV__-oLAAIAAAATMjA5NjY2MTY1NzgyMDc3ODYwMAgAAwAAAAIAAA",
-    "prev_cursor": "DAAHCgABHRpjQVWAJxELAAIAAAATMjA5NzA5NTk3OTYxODk3NjA2NQgAAwAAAAEAAA",
+    "next_cursor": "DAAHCgABHRpw-bJ__-oLAAIAAAATMjA5Njc0MDUwNjIzMTI1OTE0NQgAAwAAAAIAAA",
+    "prev_cursor": "DAAHCgABHRpw-bKAJxELAAIAAAATMjA5NzEwNjM0ODk1NzY3OTk0NAgAAwAAAAEAAA",
     "status": "ok",
     "user": {
       "profile": null,
@@ -2089,8 +2299,8 @@
       "protected": null,
       "location": "",
       "friends": 1405,
-      "sub_count": 241600664,
-      "statuses_count": 108233,
+      "sub_count": 241600458,
+      "statuses_count": 108238,
       "media_count": 4714
     }
   },
