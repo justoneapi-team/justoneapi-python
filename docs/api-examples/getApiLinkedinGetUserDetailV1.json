@@ -1,6 +1,6 @@
 {
-  "_fetchedAt": "2026-09-08T15:00:35.505202+08:00",
-  "_sourceCheckedAt": "2026-09-08T15:00:13",
+  "_fetchedAt": "2026-09-08T16:00:34.097385+08:00",
+  "_sourceCheckedAt": "2026-09-08T16:00:11",
   "code": 0,
   "message": null,
   "data": {
@@ -8,8 +8,8 @@
     "name": "Bill Gates",
     "city": "Seattle, Washington, United States",
     "country_code": "US",
-    "position": "Chair, Gates Foundation and Founder, Breakthrough Energy",
-    "about": "Chair of the Gates Foundation. Founder of Breakthrough Energy. Co-founder of Microsoft. Voracious reader. Avid traveler. Active blogger.",
+    "position": null,
+    "about": "Chair of the Gates Foundation. Founder of Breakthrough Energy. Co-founder of Microsoft…",
     "posts": [
       {
         "title": "The turbulent AI era is here. The choices we make now are critical.",
@@ -93,44 +93,13 @@
       }
     ],
     "current_company": {
+      "link": "https://www.linkedin.com/company/gates-foundation?trk=public_profile_topcard-current-company",
       "name": "Gates Foundation",
       "company_id": "gates-foundation",
-      "title": "Co-chair",
       "location": null
     },
-    "experience": [
-      {
-        "title": "Co-chair",
-        "description_html": null,
-        "start_date": "2000",
-        "end_date": "Present",
-        "company": "Gates Foundation",
-        "company_id": "gates-foundation",
-        "url": "https://www.linkedin.com/company/gates-foundation",
-        "company_logo_url": null
-      },
-      {
-        "title": "Founder",
-        "description_html": null,
-        "start_date": "2015",
-        "end_date": "Present",
-        "company": "Breakthrough Energy",
-        "company_id": "breakthrough-energy",
-        "url": "https://www.linkedin.com/company/breakthrough-energy",
-        "company_logo_url": null
-      },
-      {
-        "title": "Co-founder",
-        "description_html": null,
-        "start_date": "1975",
-        "end_date": "Present",
-        "company": "Microsoft",
-        "company_id": "microsoft",
-        "url": "https://www.linkedin.com/company/microsoft",
-        "company_logo_url": null
-      }
-    ],
-    "url": "https://sg.linkedin.com/in/williamhgates",
+    "experience": null,
+    "url": "https://it.linkedin.com/in/williamhgates",
     "people_also_viewed": [
       {
         "profile_link": "https://www.linkedin.com/in/melindagates",
@@ -197,23 +166,16 @@
     "education": [
       {
         "title": "Harvard University",
-        "url": "https://www.linkedin.com/school/harvard-university/?trk=public_profile_school_profile-section-card_image-click",
+        "url": "https://www.linkedin.com/school/harvard-university/",
         "start_year": "1973",
         "end_year": "1975",
-        "description": null,
-        "description_html": null,
-        "institute_logo_url": null
-      },
-      {
-        "title": "Lakeside School",
-        "url": "https://www.linkedin.com/school/lakeside-school/?trk=public_profile_school_profile-section-card_image-click",
         "description": null,
         "description_html": null,
         "institute_logo_url": null
       }
     ],
     "avatar": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_200_200/B56ZRi8g.aGsAY-/0/1736826818802?e=2147483647&v=beta&t=bKWfN6UwwtiCqFWsG7rBELbd48qJOAMLdxhBzzkJV0k",
-    "followers": 40629640,
+    "followers": 40629919,
     "connections": 8,
     "current_company_company_id": "gates-foundation",
     "current_company_name": "Gates Foundation",
@@ -314,7 +276,7 @@
     "first_name": "Bill",
     "last_name": "Gates",
     "influencer": true,
-    "timestamp": "2026-09-08T07:00:31.289Z",
+    "timestamp": "2026-09-08T08:00:27.505Z",
     "input": {
       "url": "https://www.linkedin.com/in/williamhgates/"
     }

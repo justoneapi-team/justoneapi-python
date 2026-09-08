@@ -1,6 +1,6 @@
 {
-  "_fetchedAt": "2026-09-08T15:00:45.335335+08:00",
-  "_sourceCheckedAt": "2026-09-08T15:00:20",
+  "_fetchedAt": "2026-09-08T16:00:43.990439+08:00",
+  "_sourceCheckedAt": "2026-09-08T16:00:17",
   "code": 0,
   "message": null,
   "data": {
@@ -472,11 +472,11 @@
                 "logistic_model": {
                   "pkg_of_service": {
                     "7129736060325594926": {
-                      "delivery_min_days": 2,
-                      "delivery_max_days": 5,
-                      "delivery_min_time": "1789023621",
-                      "delivery_max_time": "1789282821",
-                      "delivery_min_bd_days": 2,
+                      "delivery_min_days": 1,
+                      "delivery_max_days": 4,
+                      "delivery_min_time": "1788940818",
+                      "delivery_max_time": "1789200018",
+                      "delivery_min_bd_days": 1,
                       "delivery_max_bd_days": 4,
                       "cutoff_min_time": 0,
                       "cutoff_max_time": 0,
@@ -536,8 +536,8 @@
                       "cod_max_price": "0",
                       "fulfillment_plan": {
                         "promise_edt": {
-                          "delivery_min_day": 2,
-                          "delivery_max_day": 5
+                          "delivery_min_day": 1,
+                          "delivery_max_day": 4
                         },
                         "fulfillment_snapshot": {}
                       },
@@ -547,7 +547,7 @@
                       },
                       "logistics_identity": "L2L_3PL_US",
                       "extra_info": {
-                        "4": "{\"edt_metrics\":\"{\\\"base_info\\\":{\\\"time_zone\\\":\\\"America/New_York\\\",\\\"fulfill_solution\\\":2},\\\"algo_out\\\":{\\\"alg_3dd\\\":\\\"0\\\",\\\"edt_algo_out\\\":\\\"2_5\\\",\\\"is_stable\\\":\\\"0\\\",\\\"model_3dd_prob\\\":\\\"0.6997\\\",\\\"model_3dd_threshold\\\":\\\"0.97\\\",\\\"use_stable\\\":\\\"0\\\",\\\"xdd_th_src\\\":\\\"2\\\"},\\\"exp_out\\\":{\\\"algo_edt\\\":\\\"2-5\\\",\\\"exp_edt\\\":\\\"2_5\\\",\\\"before_xdd_flatten\\\":\\\"2_5\\\",\\\"seller_xdd_status\\\":1}}\"}"
+                        "4": "{\"edt_metrics\":\"{\\\"base_info\\\":{\\\"time_zone\\\":\\\"America/New_York\\\",\\\"fulfill_solution\\\":2},\\\"algo_out\\\":{\\\"alg_3dd\\\":\\\"0\\\",\\\"edt_algo_out\\\":\\\"1_4\\\",\\\"is_stable\\\":\\\"0\\\",\\\"model_3dd_prob\\\":\\\"0.9463\\\",\\\"model_3dd_threshold\\\":\\\"0.97\\\",\\\"use_stable\\\":\\\"0\\\",\\\"xdd_th_src\\\":\\\"2\\\"},\\\"exp_out\\\":{\\\"algo_edt\\\":\\\"1-4\\\",\\\"exp_edt\\\":\\\"1_4\\\",\\\"before_xdd_flatten\\\":\\\"1_4\\\",\\\"seller_xdd_status\\\":1}}\"}"
                       }
                     }
                   }
@@ -654,11 +654,11 @@
               "shop_info": {
                 "seller_id": "7496280663785376392",
                 "sold_count": 29293,
-                "on_sell_product_count": 38519,
+                "on_sell_product_count": 38517,
                 "review_count": 3830,
                 "global_seller_id": "7496280663785376392",
                 "global_sold_count": "29293",
-                "followers_count": "128072",
+                "followers_count": "128075",
                 "video_count": "4810",
                 "enable_follow": true,
                 "shop_name": "Stadium Goods",
@@ -667,8 +667,8 @@
                   "width": 300,
                   "uri": "tos-useast5-i-omjb5zjo8w-tx/1e2ba5f69acf496084d99dd37f7a377d",
                   "url_list": [
-                    "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/1e2ba5f69acf496084d99dd37f7a377d~tplv-fhlh96nyum-resize-webp:300:300.webp?dr=12185&t=555f072d&ps=933b5bde&shp=905da467&shcp=e1be8f53&idc=useast5&from=2422056039",
-                    "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/1e2ba5f69acf496084d99dd37f7a377d~tplv-fhlh96nyum-resize-webp:300:300.webp?dr=12185&t=555f072d&ps=933b5bde&shp=905da467&shcp=e1be8f53&idc=useast5&from=2422056039"
+                    "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/1e2ba5f69acf496084d99dd37f7a377d~tplv-fhlh96nyum-resize-webp:300:300.webp?dr=12185&t=555f072d&ps=933b5bde&shp=905da467&shcp=e1be8f53&idc=useast5&from=2422056039",
+                    "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/1e2ba5f69acf496084d99dd37f7a377d~tplv-fhlh96nyum-resize-webp:300:300.webp?dr=12185&t=555f072d&ps=933b5bde&shp=905da467&shcp=e1be8f53&idc=useast5&from=2422056039"
                   ]
                 },
                 "shop_rating": "4.6",
@@ -680,7 +680,7 @@
                     "width": 1080,
                     "uri": "tos-useast5-i-reeeghz8mm-tx/8b54d63602a34c328bd300c6ba1b6063",
                     "url_list": [
-                      "https://p16-oec-shop-sign.tiktokcdn-us.com/tos-useast5-i-reeeghz8mm-tx/8b54d63602a34c328bd300c6ba1b6063~tplv-reeeghz8mm-image-webp.webp?lk3s=905da467&x-expires=1789455621&x-signature=yySqqS2yIZsG0QIPhoZl3Fgl4KY%3D"
+                      "https://p16-oec-shop-sign.tiktokcdn-us.com/tos-useast5-i-reeeghz8mm-tx/8b54d63602a34c328bd300c6ba1b6063~tplv-reeeghz8mm-image-webp.webp?lk3s=905da467&x-expires=1789459218&x-signature=rcr7T%2B%2BCtc43s0%2BMez0feUClXMs%3D"
                     ]
                   },
                   "shop_background_type": 0

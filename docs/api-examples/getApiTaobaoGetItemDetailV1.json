@@ -1,6 +1,6 @@
 {
-  "_fetchedAt": "2026-09-08T15:00:42.129031+08:00",
-  "_sourceCheckedAt": "2026-09-08T15:00:17",
+  "_fetchedAt": "2026-09-08T16:00:40.709017+08:00",
+  "_sourceCheckedAt": "2026-09-08T16:00:15",
   "code": 0,
   "message": null,
   "data": {
@@ -879,14 +879,61 @@
     "skuId": 5904414680188,
     "success": true,
     "mainItemInfo": {
-      "afterCouponAmountPrice": "209.0",
+      "afterCouponAmountPrice": "199",
+      "auctionIconUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01QlJ0GY1pi2oZ8oXaJ_!!6000000005393-2-tps-72-36.png",
       "hasSubsidy": "false",
       "itemId": "655423544937",
       "itemName": "珂岸男士氨基酸洗面奶面霜控油清爽精华水乳华熙生物护肤品礼盒",
-      "pic": "//img.alicdn.com/tfscom/i1/2206465362290/O1CN01hl89peNIIEB1chua_!!4611686018427382130-0-item_pic.jpg",
+      "pic": "//img.alicdn.com/bao/uploaded/i1/2206465362290/O1CN01hl89peNIIEB1chua_!!4611686018427382130-0-item_pic.jpg",
+      "pretaobaoAmt": "5.97",
+      "promotionModel": {
+        "promotiontaobaoModel": {
+          "pretaobaoAmt": "4.53",
+          "pretaobaoAmtDisplay": "￥4.53",
+          "pretaobaoRate": "3.00",
+          "pretaobaoRateDisplay": "3.00%"
+        },
+        "promotionPriceModel": {
+          "promotionPrice": "151.05",
+          "promotionPriceDescDisplay": "到手价",
+          "promotionPriceDisplay": "￥151.05",
+          "zkPrice": "209.00",
+          "zkPriceDisplay": "￥209.00"
+        },
+        "promotionTagModel": [
+          {
+            "tagDisplay": "10元",
+            "tagType": "COUPON",
+            "tagTypeDisplay": "店铺券"
+          },
+          {
+            "tagDisplay": "包邮",
+            "tagType": "POST_FREE",
+            "tagTypeDisplay": "POST_FREE"
+          }
+        ],
+        "selectedCoupon": "false"
+      },
       "scm": "taobao.0.0.taobao_markting-page_0",
-      "tk": "0",
-      "zkFinalPrice": "209.0"
+      "tk": "1",
+      "taobaoPromotionModel": {
+        "finalPromotionInfo": {
+          "couponPromotionModel": {
+            "couponPromotionDesc": "满149减10",
+            "couponPromotionPath": "9d0334e574864be48a43c468f5c759cf:2:149:10:10:41196001:shopbonus:2:店铺券:2:1788192000:1790783999:0:2:0:0",
+            "couponType": "0",
+            "promotionAction": "10",
+            "promotionCondition": "149",
+            "promotionFee": "10",
+            "promotionId": "9d0334e574864be48a43c468f5c759cf",
+            "promotionMode": "2",
+            "promotionTitle": "店铺券"
+          },
+          "finalPromotionPath": "9d0334e574864be48a43c468f5c759cf:2:149:10:10:41196001:shopbonus:2:店铺券:2:1788192000:1790783999:0:2:0:0;3186709731280:3:1:40:40:0:commonItemDiscount:4:官方立减:1:1788696000:1789315199:0:3:0:0;655423544937vip95950:1:1:9.5:7.95:0:coupon288vipcard:70:88vip95折:1:1785513600:1817049599:0:1:0:0",
+          "finalPromotionPrice": "151.05"
+        }
+      },
+      "url": "https://detail.tmall.com/?e=m%3D2%26s%3DuQhIDTPaZ%2Btw4vFB6t2Z2ueEDrYVVa64Dne87AjQPk9yINtkUhsv0Ipw9FhRf1HhC7amQLVFrBwUm%2F7ndoAa1X8bwa%2FrvGmia2RI18yzDp%2Bdm859obdri3zXYP%2BgPImnUyNpxLfgKr0jWpzpm6nEC9oKDWXexbvtZUmE%2FEyZZ5fOfSUWnNcW6La4w1Rx%2FiOu8E4l%2BYBt1BeeTNRjOaCuxRM9gH4aKGvkANi7pABQk74Mfz4TLudHKiN%2BOrt5iLdBREIN59j%2BrP7GJe8N%2FwNpGw%3D%3D&pvid=498fb02c-924a-478e-b16e-235741979362&app_pvid=59590_33.62.233.253_1431_1788854415887&ptl=floorId%3A83726%3BoriginalFloorId%3A83726%3Bpvid%3A498fb02c-924a-478e-b16e-235741979362%3Bapp_pvid%3A59590_33.62.233.253_1431_1788854415887&xId=65dReVeeKRiQG0wUnUGZNy8V2ylsRADY5vguGYjbtOIZ2FdocFWKC6TZauENBj0PQpfoEMhBTIsxuz25SsH7eB4ugCXZc4K76gfnPopK5M6o&taobao_lens=lensId%3AAPP%401788854415%40213ee9fd_215f_1a080083226_7b13%40022bGxBZuvohLV9lEz7TVZtE%40eyJmbG9vcklkIjo4MzcyNn0ie%3Bscm%3Ataobao.0.0.taobao_markting-page_0&scm=taobao.0.0.taobao_markting-page_0"
     }
   },
   "recordTime": null

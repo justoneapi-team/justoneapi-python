@@ -1,6 +1,6 @@
 {
-  "_fetchedAt": "2026-09-08T15:00:32.269846+08:00",
-  "_sourceCheckedAt": "2026-09-08T15:00:09",
+  "_fetchedAt": "2026-09-08T16:00:30.912733+08:00",
+  "_sourceCheckedAt": "2026-09-08T16:00:08",
   "code": 0,
   "message": null,
   "data": {
@@ -48,7 +48,7 @@
           "limitDay": null,
           "limitDescription": null
         },
-        "link": "https://jingfen.jd.com/detail/Wl4yE2NzvXUfIvT9joETfIvT9joET4_3QWdDLF7zw2PJtQ4eQ.html",
+        "link": "https://jingfen.jd.com/detail/Wl4yE2NzvXUfIv0B2JOtfIv0B2JOt4_3QWdDLF7zw2PJtQ4eQ.html",
         "lowerDateyh": "2026-06-16 00:00:00",
         "lowerPriceyh": "7044.8",
         "multiSkuMerged": false,
@@ -63,7 +63,7 @@
           "changePriceCount": 36,
           "jointDate": "2026-06-15",
           "recordDay": 86,
-          "runtime": "28"
+          "runtime": "50"
         },
         "title": "联想来酷斗战者 战7000 2026年补贴15% 电竞游戏笔记本电脑y 大学生本p图设计 联想全国联保 旗舰 酷睿i7-13645HX 16G 512G 满血RTX5060丨国补 16英寸2.5K专业电竞屏",
         "trendMaxBuyNumber": 1,
@@ -79,18 +79,28 @@
         "actionBtnType": 0,
         "allPromotions": [
           {
-            "content": "满1370减40",
+            "content": "满1320减70",
+            "limitPlatform": false,
+            "type": "满减"
+          },
+          {
+            "content": "满1030减30",
+            "limitPlatform": false,
+            "type": "满减"
+          },
+          {
+            "content": "满910减90",
             "limitPlatform": false,
             "type": "满减"
           }
         ],
         "buyNumber": 1,
         "commission": "0",
-        "currentTime": "1788850818097",
+        "currentTime": "1788854413243",
         "discountAllTypeCount": null,
         "discountBtn": null,
         "exchangeExtraPrice": null,
-        "extraPrice": "17970.4",
+        "extraPrice": "20016.2",
         "extraPriceDesc": null,
         "extraPriceType": null,
         "extraUnitPrice": null,
@@ -112,32 +122,34 @@
         "jintieExtraPrice": null,
         "multiPlan": null,
         "originPagePrice": null,
-        "originPrice": "18010.4",
+        "originPrice": "20176.2",
         "promotionTags": [
-          "满1370减40"
+          "满1320减70",
+          "满1030减30",
+          "满910减90"
         ],
         "promotionTagsV2": null,
-        "runtime": "28",
+        "runtime": "23",
         "sameRecommendation": {
           "curIsOfficial": null,
-          "currentActualPrice": "17970.4",
+          "currentActualPrice": "20016.2",
           "currentCount": null,
-          "currentSinglePrice": "17970.4",
-          "currentSinglePriceStr": "17970.4",
+          "currentSinglePrice": "20016.2",
+          "currentSinglePriceStr": "20016.2",
           "priceDifference": null,
           "priceDifferenceStr": null,
           "recommendProduct": {
             "actualPrice": "9499",
             "count": null,
-            "priceDifference": "8471.4",
-            "priceDifferenceStr": "8471.4",
+            "priceDifference": "10517.2",
+            "priceDifferenceStr": "10517.2",
             "shopName": "联想恩珊创新专卖店",
             "singlePrice": "9499.0",
             "singlePriceStr": "9499",
             "siteId": "1",
             "siteName": "京东",
             "spbh": "1|3CVJOUCXFrqOU6c612!!1111111100110",
-            "url": "https://jingfen.jd.com/detail/dKnqcqw3fVZXiIX1ctxTXiPQh8M7in_3CVJOULyFrqOU6c612.html"
+            "url": "https://jingfen.jd.com/detail/dKnncqw3fVZXiI5MqNlWXiI5MqNlWn_3CVJOUCXFrqOU6c612.html"
           },
           "showType": 5,
           "unit": null,
@@ -146,8 +158,8 @@
         },
         "singlePlan": {
           "buyNumber": 1,
-          "desc": "购买1件，当前价格18010.4，可叠加满减：满1370减40",
-          "extraPrice": "17970.4",
+          "desc": "购买1件，当前价格20176.2，满减：满910减90，可叠加满减：满1320减70",
+          "extraPrice": "20016.2",
           "formula": [
             {
               "bottom": "页面价",
@@ -155,7 +167,7 @@
               "priceTips": null,
               "tip": "",
               "tips": [],
-              "top": "¥18010.4"
+              "top": "¥20176.2"
             },
             {
               "bottom": "",
@@ -170,18 +182,23 @@
               "middle": "",
               "priceTips": [
                 {
-                  "subPrice": "40.00",
-                  "tip": "满1370减40"
+                  "subPrice": "90.00",
+                  "tip": "满910减90"
+                },
+                {
+                  "subPrice": "70.00",
+                  "tip": "满1320减70"
                 }
               ],
-              "tip": "满1370减40",
+              "tip": "满910减90,满1320减70",
               "tips": [
-                "满1370减40"
+                "满910减90",
+                "满1320减70"
               ],
-              "top": "¥40"
+              "top": "¥160"
             }
           ],
-          "originPrice": "18010.4",
+          "originPrice": "20176.2",
           "tip": "买1件单价"
         },
         "spbh": "1|3QWdDL9vzw2PJtQ4eQ!!11011000110101",
