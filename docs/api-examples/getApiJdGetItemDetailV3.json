@@ -1,6 +1,6 @@
 {
-  "_fetchedAt": "2026-09-08T14:00:28.718063+08:00",
-  "_sourceCheckedAt": "2026-09-08T14:00:09",
+  "_fetchedAt": "2026-09-08T15:00:32.269846+08:00",
+  "_sourceCheckedAt": "2026-09-08T15:00:09",
   "code": 0,
   "message": null,
   "data": {
@@ -63,7 +63,7 @@
           "changePriceCount": 36,
           "jointDate": "2026-06-15",
           "recordDay": 86,
-          "runtime": "71"
+          "runtime": "28"
         },
         "title": "联想来酷斗战者 战7000 2026年补贴15% 电竞游戏笔记本电脑y 大学生本p图设计 联想全国联保 旗舰 酷睿i7-13645HX 16G 512G 满血RTX5060丨国补 16英寸2.5K专业电竞屏",
         "trendMaxBuyNumber": 1,
@@ -79,28 +79,18 @@
         "actionBtnType": 0,
         "allPromotions": [
           {
-            "content": "满1140减20",
-            "limitPlatform": false,
-            "type": "满减"
-          },
-          {
-            "content": "1件6折",
-            "limitPlatform": false,
-            "type": "满减"
-          },
-          {
-            "content": "3件8折",
+            "content": "满1370减40",
             "limitPlatform": false,
             "type": "满减"
           }
         ],
         "buyNumber": 1,
         "commission": "0",
-        "currentTime": "1788847214537",
+        "currentTime": "1788850818097",
         "discountAllTypeCount": null,
         "discountBtn": null,
         "exchangeExtraPrice": null,
-        "extraPrice": "8460.82",
+        "extraPrice": "17970.4",
         "extraPriceDesc": null,
         "extraPriceType": null,
         "extraUnitPrice": null,
@@ -122,19 +112,42 @@
         "jintieExtraPrice": null,
         "multiPlan": null,
         "originPagePrice": null,
-        "originPrice": "14134.7",
+        "originPrice": "18010.4",
         "promotionTags": [
-          "满1140减20",
-          "1件6折",
-          "3件8折"
+          "满1370减40"
         ],
         "promotionTagsV2": null,
-        "runtime": "22",
-        "sameRecommendation": null,
+        "runtime": "28",
+        "sameRecommendation": {
+          "curIsOfficial": null,
+          "currentActualPrice": "17970.4",
+          "currentCount": null,
+          "currentSinglePrice": "17970.4",
+          "currentSinglePriceStr": "17970.4",
+          "priceDifference": null,
+          "priceDifferenceStr": null,
+          "recommendProduct": {
+            "actualPrice": "9499",
+            "count": null,
+            "priceDifference": "8471.4",
+            "priceDifferenceStr": "8471.4",
+            "shopName": "联想恩珊创新专卖店",
+            "singlePrice": "9499.0",
+            "singlePriceStr": "9499",
+            "siteId": "1",
+            "siteName": "京东",
+            "spbh": "1|3CVJOUCXFrqOU6c612!!1111111100110",
+            "url": "https://jingfen.jd.com/detail/dKnqcqw3fVZXiIX1ctxTXiPQh8M7in_3CVJOULyFrqOU6c612.html"
+          },
+          "showType": 5,
+          "unit": null,
+          "virtualSkuId": "27423",
+          "virtualSkuName": "联想 战7000 16英寸 i7-13645HX RTX5060 180Hz（16G 512G）"
+        },
         "singlePlan": {
           "buyNumber": 1,
-          "desc": "购买1件，当前价格14134.7，满减：1件6折，可叠加满减：满1140减20",
-          "extraPrice": "8460.82",
+          "desc": "购买1件，当前价格18010.4，可叠加满减：满1370减40",
+          "extraPrice": "17970.4",
           "formula": [
             {
               "bottom": "页面价",
@@ -142,7 +155,7 @@
               "priceTips": null,
               "tip": "",
               "tips": [],
-              "top": "¥14134.7"
+              "top": "¥18010.4"
             },
             {
               "bottom": "",
@@ -157,23 +170,18 @@
               "middle": "",
               "priceTips": [
                 {
-                  "subPrice": "5653.88",
-                  "tip": "1件6折"
-                },
-                {
-                  "subPrice": "20.00",
-                  "tip": "满1140减20"
+                  "subPrice": "40.00",
+                  "tip": "满1370减40"
                 }
               ],
-              "tip": "1件6折,满1140减20",
+              "tip": "满1370减40",
               "tips": [
-                "1件6折",
-                "满1140减20"
+                "满1370减40"
               ],
-              "top": "¥5673.88"
+              "top": "¥40"
             }
           ],
-          "originPrice": "14134.7",
+          "originPrice": "18010.4",
           "tip": "买1件单价"
         },
         "spbh": "1|3QWdDL9vzw2PJtQ4eQ!!11011000110101",
