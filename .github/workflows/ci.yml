@@ -8,6 +8,9 @@ on:
       - 'docs/api-examples/**'
   pull_request:
 
+permissions:
+  contents: read
+
 jobs:
   test:
     runs-on: ubuntu-latest

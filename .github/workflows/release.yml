@@ -18,6 +18,8 @@ env:
 
 jobs:
   build:
+    # Keep package builds and releases on the primary repository.
+    if: github.repository == 'justoneapi/justoneapi-python'
     runs-on: ubuntu-latest
 
     steps:
@@ -85,6 +87,7 @@ jobs:
           path: dist/*
 
   publish:
+    if: github.repository == 'justoneapi/justoneapi-python'
     needs: build
     runs-on: ubuntu-latest
     permissions:
